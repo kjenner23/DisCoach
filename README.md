@@ -11,6 +11,8 @@ format suitable for LLM training.
 - Includes prompts and FastAPI endpoints for interacting with the agent
 
 ## 📂 Project Structure
+
+```
 tabletennis_agent/
 │
 ├── app/                                   # All project code
@@ -26,11 +28,9 @@ tabletennis_agent/
 │   └── __pycache__/                       # Ignored (Python cache files)
 │
 ├── data/                                   # Raw input files
-│   ├── TableTennisCoaching.com/            # Raw scraped text files
-│   │   ├── Scraped output.txt              # Unprocessed raw dump
-│   │   └── ...                             # Additional raw data
-│   │
-│   └── .DS_Store                           # Ignored (macOS metadata)
+│   └── TableTennisCoaching.com/            # Raw scraped text files
+│       ├── Scraped output.txt              # Unprocessed raw dump
+│       └── ...                             # Additional raw data
 │
 ├── processed/                              # Processed outputs ready for training
 │   ├── JSON outputs/
@@ -46,7 +46,7 @@ tabletennis_agent/
 │   │   │
 │   │   └── raw.json                        # Combined or unstructured JSON
 │   │
-│   └── TableTennisCoaching.com/            # Earlier processed JSON articles
+│   └── TableTennisCoaching.com/            # Earlier processed JSON sets
 │       ├── Before Nov 20 2025/
 │       ├── Nov 20 2025/
 │       └── ...
@@ -55,5 +55,5 @@ tabletennis_agent/
 │
 ├── .gitignore                              # Ignore cache, venv, system files
 ├── README.md                               # Project documentation
-└── .DS_Store                               # Ignored (macOS system file)
-
+└── .DS_Store                               # Ignored (macOS file)
+```
