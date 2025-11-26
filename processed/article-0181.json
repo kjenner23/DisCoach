@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "article_title": "Don't Practice Hesitation",
+    "article_slug": "dont-practice-hesitation",
+    "source_url": "http://www.tabletenniscoaching.com/node/3163",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "dont-practice-hesitation": [
+      {
+        "probleme": "Practicing Hesitation",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "practicing footwork drills like a match"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "do not hesitate to move immediately to where the next ball is going"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Forehand-Forehand Drills",
+            "description": "Start with partner pushing to your backhand, you backhand or forehand loop to their backhand, and then they block to your forehand.",
+            "difficulte": "all levels",
+            "duree": "Not specified by source.",
+            "materiel": "Generic"
+          }
+        ],
+        "metriques_progression": [
+          "React immediately"
+        ],
+        "erreurs_a_eviter": [
+          "Make hesitation a habit"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3163"
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "article_title": "March 18, 2019 - Challenge an Opponent's Strength",
+    "article_slug": "challenge_an_opponent_s_strength",
+    "source_url": "http://www.tabletenniscoaching.com/node/3049",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "challenge_an_opponent_s_strength": [
+      {
+        "probleme": "Opponent's strength",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Opponent's strong forehand or backhand"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Attack the opponent's weaker side",
+            "Play slow and deep to make it difficult for the blocker to quick-block"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Loop attack on forehand or backhand",
+            "description": "Attack the opponent's weaker side with a slow and deep loop.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket"
+          }
+        ],
+        "metriques_progression": [
+          "Number of times you successfully attack the opponent's weaker side"
+        ],
+        "erreurs_a_eviter": [
+          "Getting quick-blocked and rushed into mistakes"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3049"
+      }
+    ]
+  }
+}

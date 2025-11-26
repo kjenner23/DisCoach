@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "article_title": "February 13, 2023 - Play Games When Practicing Serves",
+    "article_slug": "play_games_when_practicing_serves",
+    "source_url": "http://www.tabletenniscoaching.com/node/3447",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "play_games_when_practicing_serves": [
+      {
+        "probleme": "Executing serves under pressure in a game",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "pressure"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "description": "Imagining an opponent and practicing serves under that pressure"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Target practice",
+            "description": "Putting targets on the table to work on accuracy under pressure",
+            "difficulte": "all levels",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "bottle, corners"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          "executing best serves under match pressure"
+        ],
+        "erreurs_a_eviter": [
+          "serving longer under pressure and getting looped"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3447"
+      }
+    ]
+  }
+}

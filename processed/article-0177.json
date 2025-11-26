@@ -1,0 +1,164 @@
+{
+  "meta": {
+    "article_title": "June 1, 2020 - Do You Have a Quadruple Threat Receive?",
+    "article_slug": "quadruple_threat_receive",
+    "source_url": "http://www.tabletenniscoaching.com/node/3174",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "quadruple_threat_receive": [
+      {
+        "probleme": "Unpredictable receive against short serves",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "using same receive for all serves",
+          "predictably pushing back long"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "probleme": "Varying the receive against short serves",
+              "diagnostic": "Not specified by source.",
+              "causes_communes": [
+                "not attacking deep serves",
+                "using same receive for all serves"
+              ],
+              "solutions_progressives": {
+                "debutant": [
+                  {
+                    "probleme": "Attacking deep serves with forehand and backhand",
+                    "diagnostic": "Not specified by source.",
+                    "causes_communes": [
+                      "not varying the speed, spin, depth, and placement of attacks"
+                    ],
+                    "solutions_progressives": {
+                      "debutant": [
+                        {
+                          "nom": "Forehand attack",
+                          "description": "Use forehand to attack deep serves with varied speed and spin.",
+                          "difficulte": "Beginner",
+                          "duree": "Not specified by source.",
+                          "materiel": [
+                            "Table tennis racket"
+                          ]
+                        },
+                        {
+                          "nom": "Backhand attack",
+                          "description": "Use backhand to attack deep serves with varied speed and spin.",
+                          "difficulte": "Beginner",
+                          "duree": "Not specified by source.",
+                          "materiel": [
+                            "Table tennis racket"
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "probleme": "Varying the receive against short serves",
+                    "diagnostic": "Not specified by source.",
+                    "causes_communes": [
+                      "not using all three receives"
+                    ],
+                    "solutions_progressives": {
+                      "debutant": [
+                        {
+                          "nom": "Push long",
+                          "description": "Use forehand or backhand to push the ball deep with varied speed and spin.",
+                          "difficulte": "Beginner",
+                          "duree": "Not specified by source.",
+                          "materiel": [
+                            "Table tennis racket"
+                          ]
+                        },
+                        {
+                          "nom": "Push short",
+                          "description": "Use forehand or backhand to push the ball short with varied speed and spin.",
+                          "difficulte": "Beginner",
+                          "duree": "Not specified by source.",
+                          "materiel": [
+                            "Table tennis racket"
+                          ]
+                        },
+                        {
+                          "nom": "Flip",
+                          "description": "Use forehand or backhand to flip the ball with varied speed and spin.",
+                          "difficulte": "Beginner",
+                          "duree": "Not specified by source.",
+                          "materiel": [
+                            "Table tennis racket"
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "intermediaire": [],
+                "avance": []
+              },
+              "exercices_complementaires": [
+                {
+                  "nom": "Forehand attack drill",
+                  "description": "Practice forehand attacks with varied speed and spin.",
+                  "difficulte": "Beginner",
+                  "duree": "Not specified by source.",
+                  "materiel": [
+                    "Table tennis racket",
+                    "Box of balls"
+                  ]
+                },
+                {
+                  "nom": "Backhand attack drill",
+                  "description": "Practice backhand attacks with varied speed and spin.",
+                  "difficulte": "Beginner",
+                  "duree": "Not specified by source.",
+                  "materiel": [
+                    "Table tennis racket",
+                    "Box of balls"
+                  ]
+                }
+              ],
+              "metriques_progression": [
+                {
+                  "nom": "Ratio of receives",
+                  "description": "Use a ratio of 2-2-1 or 3-2-1 for flips, short pushes, and long pushes.",
+                  "difficulte": "Beginner",
+                  "duree": "Not specified by source."
+                }
+              ],
+              "erreurs_a_eviter": [
+                {
+                  "nom": "Relying too heavily on one receive",
+                  "description": "Vary the receive to keep opponents guessing.",
+                  "difficulte": "Beginner",
+                  "duree": "Not specified by source."
+                }
+              ]
+            }
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Practice partner drill",
+            "description": "Find a practice partner and take turns practicing serves and receives.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Table tennis racket",
+              "Box of balls"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          {
+            "nom": "Gameplay drill",
+            "description": "Practice serving and attacking in a game-like scenario.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source."
+          }
+        ]
+      }
+    ]
+  }
+}

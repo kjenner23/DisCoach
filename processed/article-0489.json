@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "article_title": "November 12, 2013 - Pushing Short",
+    "article_slug": "pushing-short",
+    "source_url": "http://www.tabletenniscoaching.com/node/1662",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "pushing_short": [
+      {
+        "probleme": "Returning short backspin serves without giving the server an easy ball to loop",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Push short and low",
+              "description": "Create backspin with a light touch and skimming contact; keep the ball low and short to prevent looping",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": [
+                "table tennis racket",
+                "balls"
+              ]
+            }
+          ],
+          "intermediaire": [
+            {
+              "nom": "Push short with grazing motion",
+              "description": "Take the ball right off the bounce, chop down on it lightly as you graze the ball to create backspin and keep the ball low and short",
+              "difficulte": "intermediate",
+              "duree": "Not specified by source.",
+              "materiel": [
+                "table tennis racket",
+                "balls"
+              ]
+            }
+          ],
+          "avance": [
+            {
+              "nom": "Add finesse to your short push",
+              "description": "Aim the ball straight back at the net, or angle it to the side; aim one way and then change direction at the last second for maximum deception",
+              "difficulte": "advanced",
+              "duree": "Not specified by source.",
+              "materiel": [
+                "table tennis racket",
+                "balls"
+              ]
+            }
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Practice pushing short and low with a light touch and skimming contact",
+            "description": "Focus on creating backspin and keeping the ball low and short to prevent looping",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "table tennis racket",
+              "balls"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          {
+            "target": "Pushing short and low with a light touch and skimming contact"
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "pitfall": "Misreading the serve and popping the ball up, giving the server an easy put-away"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/1662"
+      }
+    ]
+  }
+}

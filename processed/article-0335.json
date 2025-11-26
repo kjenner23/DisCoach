@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "article_title": "December 29, 2016 - What Are Your Main Weapons?",
+    "article_slug": "what_are_your_main_weapons",
+    "source_url": "http://www.tabletenniscoaching.com/node/2578",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "what_are_your_main_weapons": [
+      {
+        "probleme": "Main Weapons",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Weaker opponents"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "description": "Set up your best weapon, and follow it up for more points."
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Serves",
+            "description": "Develop a strong serve to set up your main weapons.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket"
+          },
+          {
+            "nom": "Rallies",
+            "description": "Force rallies with your best weapon, and follow up for more points.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket"
+          },
+          {
+            "nom": "Put-away shots",
+            "description": "Use your main weapons to put away the ball and win the point.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket"
+          }
+        ],
+        "metriques_progression": [
+          "Not specified by source."
+        ],
+        "erreurs_a_eviter": [
+          {
+            "description": "Relying on opponents missing or popping up serves."
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/2578"
+      }
+    ]
+  }
+}

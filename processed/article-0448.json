@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "article_title": "September 8, 2014 - Easy Power",
+    "article_slug": "easy_power",
+    "source_url": "http://www.tabletenniscoaching.com/node/1913",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "Easy power",
+      "definition": "ability, through proper technique, to generate great force in your shots",
+      "contexte": "",
+      "source_url": ""
+    }
+  ],
+  "problemes_solutions": {
+    "easy_power": [
+      {
+        "probleme": "Lack of easy power",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          ""
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Use the whole body in your shots, rather than just the upper body and arms."
+          ],
+          "intermediaire": [
+            "Use timing to generate power from the lower body, legs, and waist."
+          ],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Forehand loop drill",
+            "description": "Slowly rotate your entire body into the shot, starting with the legs and moving up to the arm.",
+            "difficulte": "Beginner",
+            "duree": "",
+            "materiel": ""
+          }
+        ],
+        "metriques_progression": [
+          ""
+        ],
+        "erreurs_a_eviter": [
+          ""
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/1913"
+      }
+    ]
+  }
+}

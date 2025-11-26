@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "article_title": "Why You Should Systematically Practice Receive",
+    "article_slug": "why-you-should-systematically-practice-receive",
+    "source_url": "http://www.tabletenniscoaching.com/node/1823",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "why-you-should-systematically-practice-receive": [
+      {
+        "probleme": "Why players rely on matches to develop their receive",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Players don't want to let rivals practice against their serves"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "probleme": "Lack of systematic training",
+              "solution": "Practice receive with a coach or top player"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Looping deep serves",
+            "description": "Practice attacking deep serves with loops",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Racket and balls"
+          },
+          {
+            "nom": "Pushing short serves",
+            "description": "Practice pushing short serves back long or short, and flipping them",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Racket and balls"
+          },
+          {
+            "nom": "Reading varied spins",
+            "description": "Practice reading the varied spins on serves",
+            "difficulte": "Intermediate",
+            "duree": "Not specified by source.",
+            "materiel": "Racket and balls"
+          }
+        ],
+        "metriques_progression": [
+          "Return of serve rate"
+        ],
+        "erreurs_a_eviter": [
+          "Not practicing receive systematically"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/1823"
+      }
+    ]
+  }
+}

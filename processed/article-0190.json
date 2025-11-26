@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "article_title": "March 2, 2020 - Drill the Fundamentals and the Specifics",
+    "article_slug": "drill-fundamentals-specifics",
+    "source_url": "http://www.tabletenniscoaching.com/node/3145",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "",
+      "definition": "Not specified by source.",
+      "contexte": "",
+      "source_url": ""
+    }
+  ],
+  "problemes_solutions": {
+    "drill-fundamentals-specifics": [
+      {
+        "probleme": "Improperly practicing counterlooping in matches",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          ""
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Practice counterlooping with a forehand push-back- loop-counterloop drill"
+          ],
+          "intermediaire": [
+            "Work on recognizing and adapting to different arcs and spin types in loops"
+          ],
+          "avance": [
+            ""
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Multiball drill for counterlooping",
+            "description": "Serve backspin, push it back, loop, and then counterloop; partner doesn't play out the point, instead reaches for a ball from a box.",
+            "difficulte": "Beginner",
+            "duree": "",
+            "materiel": "Generic balls"
+          }
+        ],
+        "metriques_progression": [
+          "Work on practicing 3-5 reps of this drill"
+        ],
+        "erreurs_a_eviter": [
+          "Don't just practice counterlooping; work on recognizing and adapting to different arcs and spin types in loops"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3145"
+      }
+    ]
+  }
+}

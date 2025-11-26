@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "article_title": "April 27, 2015 - Your Ready Position - Think Basketball",
+    "article_slug": "your-ready-position-think-basketball",
+    "source_url": "http://www.tabletenniscoaching.com/node/2108",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "ready_position": [
+      {
+        "probleme": "Not ready to move",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "cues": "Put your racket aside, imagine you are covering someone in basketball (or an infielder in baseball or a goalie in soccer), and then examine what happens."
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "basketball-ready-position-drill",
+            "description": "Drop your arms, keep the free hand up some for balance. Practice moving in either direction.",
+            "difficulte": "all levels",
+            "duree": "Not specified by source.",
+            "materiel": "none"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "target": "develop the habit of moving"
+          }
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/2108"
+      }
+    ]
+  }
+}

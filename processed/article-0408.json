@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "article_title": "June 29, 2015 - The Feel of a Shot and a Checklist",
+    "article_slug": "the-feel-of-a-shot-and-checklist",
+    "source_url": "http://www.tabletenniscoaching.com/node/2164",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "the-feel-of-a-shot-and-checklist": [
+      {
+        "probleme": "Learning new techniques",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Trying to remember specifics of each shot"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Get the shot right one time and then repeat"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Repeat the shot",
+            "description": "Focus on the feel of the stroke and contact",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket"
+          }
+        ],
+        "metriques_progression": [
+          "Get the feel right"
+        ],
+        "erreurs_a_eviter": [
+          "Forget about the specifics and focus on the feel"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/2164"
+      }
+    ]
+  }
+}

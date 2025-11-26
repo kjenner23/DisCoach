@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "article_title": "September 5, 2016 - Looping Slightly Long Balls",
+    "article_slug": "looping_slightly_long_balls",
+    "source_url": "http://www.tabletenniscoaching.com/node/2483",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "looping_slightly_long_balls": [
+      {
+        "probleme": "Looping Slightly Long Balls",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "proche_table": "Need to be very close to the table, with your head directly over the end-line."
+            },
+            {
+              "loop_ball_even_if_short": "You can loop a ball even if it is actually slightly short, i.e. the second bounce would be on the end-line or even an inch or so inside."
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Multiball backspin",
+            "description": "Practice forehand looping with multiball backspin where the ball is only slightly long.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis equipment"
+          }
+        ],
+        "metriques_progression": [
+          "Not specified by source."
+        ],
+        "erreurs_a_eviter": [
+          {
+            "hit_hand_on_table": "Don't hit your hand on the table."
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/2483"
+      }
+    ]
+  }
+}

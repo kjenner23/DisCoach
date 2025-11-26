@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "article_title": "September 7, 2015 - Never Look for a Winner",
+    "article_slug": "never-look-for-a-winner_",
+    "source_url": "http://www.tabletenniscoaching.com/node/2211",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "neither-look-for-a-winner_": [
+      {
+        "probleme": "Looking for shots to put away",
+        "diagnostic": "Consciously looking for shots instead of letting training take over",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Multiball practice with a coach",
+              "description": "Feed multiball and mix in difficult and easy shots, putting away the easy ones. Consciously think about whether you went for the right shot after each attempt.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Multiball"
+            },
+            {
+              "nom": "Practice matches with a partner or coach",
+              "description": "Practice serve and attack, judging whether your partner's return can be put away. Clear your mind and let reactions take over. Consciously think about whether you went for the right shot after each rally.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Table tennis equipment"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Serve and attack practice",
+            "description": "Practice judging whether your partner's return can be put away. Clear your mind and let reactions take over.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis equipment"
+          }
+        ],
+        "metriques_progression": [
+          "Experience and practice"
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/2211"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "article_title": "January 13, 2020 - Don't Learn to Play Every Style - Learn to Adjust",
+    "article_slug": "dont_learn_to_play_every_style_learn_to_adjust",
+    "source_url": "http://www.tabletenniscoaching.com/node/3131",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "dont_learn_to_play_every_style_learn_to_adjust": [
+      {
+        "probleme": "Need to learn every playing style",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Blindly applying conventional tactics"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Adjust tactics for a given match"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Scouting the player",
+            "description": "Try forcing your own style on him, but with adjustments for how he plays.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Pen and paper or scouting software"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          "One or two rallies to adjust"
+        ],
+        "erreurs_a_eviter": [
+          "Blindly playing the middle"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3131"
+      }
+    ]
+  }
+}

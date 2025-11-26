@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "article_title": "February 29, 2016 - Move Those Feet",
+    "article_slug": "move-those-feet",
+    "source_url": "http://www.tabletenniscoaching.com/node/2348",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "move-those-feet": [
+      {
+        "probleme": "Players don't move their feet",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "reaching for the ball instead of stepping"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Focus on balance, with your weight centered as you move",
+            "Learn to reflexively step to wherever the ball is going"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "stepping drill",
+            "description": "Practice stepping to the ball without reaching for it; focus on balance and reflexive movement.",
+            "difficulte": "all levels",
+            "duree": "Not specified by source.",
+            "materiel": "bucket of balls"
+          }
+        ],
+        "metriques_progression": [
+          "time"
+        ],
+        "erreurs_a_eviter": [
+          "reaching for the ball",
+          "going off balance"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/2348"
+      }
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "article_title": "August 9, 2021 - Relax Your Arm During Backswing",
+    "article_slug": "relax_arm_backswing",
+    "source_url": "http://www.tabletenniscoaching.com/node/3306",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "relax_arm_backswing": [
+      {
+        "probleme": "Unnecessary arm tension during backswing",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "description": "Relax your arm into a natural backswing position"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Looping drill",
+            "description": "Use the natural elasticity of the muscles to slingshot your arm into your forward swing",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis balls"
+          }
+        ],
+        "metriques_progression": [
+          "Increase speed and control with practice"
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/3306"
+      }
+    ]
+  }
+}

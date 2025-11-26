@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "article_title": "August 28, 2017 - Covering the Wide Angles",
+    "article_slug": "covering-the-wide-angles",
+    "source_url": "http://www.tabletenniscoaching.com/node/2746",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "wide angle",
+      "definition": "an angle of attack to the forehand or backhand",
+      "contexte": "to cover an opponent's wide angle shot",
+      "source_url": "http://www.tabletenniscoaching.com/node/2746"
+    }
+  ],
+  "problemes_solutions": {
+    "covering-the-wide-angles": [
+      {
+        "probleme": "Trouble covering the wide angles",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "proposition": "Position yourself from the previous shot"
+            },
+            {
+              "proposition": "Step to the ball"
+            },
+            {
+              "proposition": "Move in to block"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Wide angle block",
+            "description": "Cut off the ball before it gets away from the table by moving sideways and in.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis balls"
+          }
+        ],
+        "metriques_progression": [
+          "Reps: 10-15, Time: Not specified by source."
+        ],
+        "erreurs_a_eviter": [
+          {
+            "erreur": "Leaning or reaching to cover the wide angle"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/2746"
+      }
+    ]
+  }
+}

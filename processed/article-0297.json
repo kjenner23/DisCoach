@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "article_title": "October 30, 2017 - How to Play the Bomber: The Player Who Tries to Blast Every Shot",
+    "article_slug": "play-the-bomber",
+    "source_url": "http://www.tabletenniscoaching.com/node/2799",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "bomber": [
+      {
+        "probleme": "Playing against an opponent who consistently hits powerful shots",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Opponent's strong serves and attacks"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "proposition": "Keep the ball short and low, making it difficult for the opponent to attack",
+              "description": "Serve short, push short, and keep the ball away from the opponent's attacking range"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Short serve",
+            "description": "Serves that are difficult to attack, forcing the opponent to push or loop",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket and balls"
+          },
+          {
+            "nom": "Angled off shots",
+            "description": "Shots that are difficult to attack, as they curve away from the opponent's body",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket and balls"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "repere": "51% of shots won by the opponent"
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "erreur": "Not anticipating the opponent's shot and reacting too late"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/2799"
+      }
+    ]
+  }
+}

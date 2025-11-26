@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "article_title": "October 28, 2019 - A Lightbulb in Your Head: Mindless Swinging or Tactical Shot-making?",
+    "article_slug": "mindless_swinging_or_tactical_shot_making",
+    "source_url": "http://www.tabletenniscoaching.com/node/3115",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "mindless_swinging_or_tactical_shot_making": [
+      {
+        "probleme": "Seemingly mindless shots",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Lack of training",
+          "Inability to read the ball"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Train regularly to improve reading the ball and positioning",
+            "Practice slow, controlled attacks except when seeing a weak ball"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Counterloop drill",
+            "description": "Practice counterlooping with different spin and speed to improve reading the ball and positioning",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket, balls"
+          }
+        ],
+        "metriques_progression": [
+          "Improving reading of the ball",
+          "Increasing accuracy"
+        ],
+        "erreurs_a_eviter": [
+          "Swinging mindlessly without proper training and practice"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3115"
+      }
+    ]
+  }
+}

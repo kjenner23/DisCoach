@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "article_title": "November 16, 2015 - Loose Grip Leads to Better Shots",
+    "article_slug": "loose-grip-leads-to-better-shots",
+    "source_url": "http://www.tabletenniscoaching.com/node/2271",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "loose-grip-leads-to-better-shots": [
+      {
+        "probleme": "Tight grip",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Muscles working against each other"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "step": "Practice smooth strokes"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Racket release",
+            "description": "Release racket while imagining someone sneaking up behind you and grabbing it from your hand.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Racket"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          "Improve smooth stroke execution"
+        ],
+        "erreurs_a_eviter": [
+          "Muscle injuries from opposing muscle forces"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/2271"
+      }
+    ]
+  }
+}

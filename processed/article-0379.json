@@ -1,0 +1,91 @@
+{
+  "meta": {
+    "article_title": "February 8, 2016 - Looping Against Backspin Drills",
+    "article_slug": "looping_against_backspin_drills",
+    "source_url": "http://www.tabletenniscoaching.com/node/2328",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "looping_against_backspin_drills": [
+      {
+        "probleme": "Practicing against backspin",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Multiball Forehand and Backhand Loops",
+              "description": "Take turns with a coach or practice partner to hone forehand and backhand loops.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Multi-ball"
+            }
+          ],
+          "intermediaire": [
+            {
+              "nom": "Serve and Loop Drills",
+              "description": "Serve backspin, partner pushes it back long, and you practice looping. Play out the point. Start with first loop to same spot each time.",
+              "difficulte": "intermediate",
+              "duree": "Not specified by source.",
+              "materiel": "Table tennis balls"
+            },
+            {
+              "nom": "Variations of Serve and Loop Drills",
+              "description": "Partner pushes to one spot, you forehand or backhand loop, then play out the point. Or partner pushes to wide forehand/middle and you forehand/backhand loop.",
+              "difficulte": "intermediate",
+              "duree": "Not specified by source.",
+              "materiel": "Table tennis balls"
+            },
+            {
+              "nom": "Deceptive Pushing Drills",
+              "description": "Partner pushes randomly, sometimes aiming one way and then going the other direction, quick off the bounce. You react with forehand or backhand loop.",
+              "difficulte": "intermediate",
+              "duree": "Not specified by source.",
+              "materiel": "Table tennis balls"
+            }
+          ],
+          "avance": [
+            {
+              "nom": "Random Pushing Drills",
+              "description": "Partner pushes anywhere randomly, you react with forehand or backhand loop. Sometimes aiming one way and then going the other direction, quick off the bounce.",
+              "difficulte": "advanced",
+              "duree": "Not specified by source.",
+              "materiel": "Table tennis balls"
+            }
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Improvised Games",
+            "description": "Do the same drills as Serve and Loop Drills, but play games that start out in these ways. Keep score to make it resemble real game situations.",
+            "difficulte": "all levels",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis balls"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "nom": "Loop Distance",
+            "valeur": "Not specified by source."
+          },
+          {
+            "nom": "Speed",
+            "valeur": "Not specified by source."
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "nom": "Lack of Practice Against Backspin",
+            "description": "Practicing topspin rallies over and over, but not against backspin."
+          },
+          {
+            "nom": "Inconsistent Looping",
+            "description": "Looping at different speeds or to different spots each time."
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/2328"
+      }
+    ]
+  }
+}

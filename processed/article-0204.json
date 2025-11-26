@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "article_title": "November 4, 2019 - How to Push Extremely Heavy",
+    "article_slug": "push-extremely-heavy",
+    "source_url": "http://www.tabletenniscoaching.com/node/3117",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "push-extremely-heavy": [
+      {
+        "probleme": "How to push extremely heavy",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Having two players practice heavy pushes at the same time"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "wrist": "Bring wrist back before contact and then use both wrist and forearm to smoothly accelerate the racket."
+            },
+            {
+              "acceleration": "Accelerate through contact"
+            },
+            {
+              "racket_angle": "Graze the ball with a relatively open racket"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Heavy push practice",
+            "description": "Practice grazing the ball with an open racket, accelerating through contact, and using wrist to add spin.",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Table tennis equipment"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          "Vary the speed of your serves and pushes during practice"
+        ],
+        "erreurs_a_eviter": [
+          "Developing a heavy push only against incoming heavy pushes"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3117"
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "article_title": "April 4, 2022 - If You Get Caught Out of Position, Either You Made a Mistake or Your Opponent Did Something Great",
+    "article_slug": "get-caught-out-of-position-or-opponent-did-something-great",
+    "source_url": "http://www.tabletenniscoaching.com/node/3367",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "get-caught-out-of-position-or-opponent-did-something-great": [
+      {
+        "probleme": "Getting caught out of position",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Previous shot left them off balance or out of position"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Follow through back into position after a forehand shot",
+            "Use weight on the left foot to immediately and smoothly push yourself back into position"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Step-around-forehand-drill",
+            "description": "Step around the backhand, follow through onto your left foot, and use weight to push yourself back into position.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "None"
+          }
+        ],
+        "metriques_progression": [
+          "Time to recover from off-balance shots"
+        ],
+        "erreurs_a_eviter": [
+          "Stepping around too early, not recovering properly"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3367"
+      }
+    ]
+  }
+}

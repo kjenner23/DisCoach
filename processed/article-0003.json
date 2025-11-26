@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "article_title": "October 23, 2023 - POP Opponents with the Power Of Placement",
+    "article_slug": "pop_opponents_with_power_of_placement",
+    "source_url": "http://www.tabletenniscoaching.com/node/3512",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "pop_opponents_with_power_of_placement": [
+      {
+        "probleme": "Inconsistent placement",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Failing to develop instinctive habit of when to go to each spot"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "placement": "Play all three spots (wide forehand, wide backhand, and middle)"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Wide forehand",
+            "description": "Go as wide as possible to the opponent's forehand; never give an easy ball.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Bucket of balls"
+          },
+          {
+            "nom": "Wide backhand",
+            "description": "Attack the wide backhand and middle, rarely go to forehand unless it's an ace.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Bucket of balls"
+          },
+          {
+            "nom": "Middle shot",
+            "description": "Play the middle, a smaller target that moves; takes practice to develop.",
+            "difficulte": "Intermediate",
+            "duree": "Not specified by source.",
+            "materiel": "Bucket of balls"
+          }
+        ],
+        "metriques_progression": [
+          "Regular match play for about a year"
+        ],
+        "erreurs_a_eviter": [
+          "Going back to the same spot twice, which can be exploited"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3512"
+      }
+    ]
+  }
+}

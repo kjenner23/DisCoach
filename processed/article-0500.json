@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "article_title": "August 19, 2013 - Height of Service Toss",
+    "article_slug": "height-of-service-toss",
+    "source_url": "http://www.tabletenniscoaching.com/node/1595",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "height_of_service_toss": [
+      {
+        "probleme": "How high should you toss the ball when serving?",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Different tosses for different purposes"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "medium-high toss",
+              "description": "Toss the ball up to eye level or just above.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "racket"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "medium-high toss serve",
+            "description": "Toss the ball up to eye level or just above, and then serve with good spin and control.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "racket"
+          }
+        ],
+        "metriques_progression": [
+          "None"
+        ],
+        "erreurs_a_eviter": [
+          "Not specified by source."
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/1595"
+      }
+    ]
+  }
+}

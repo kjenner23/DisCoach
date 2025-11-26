@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "article_title": "May 24, 2021 - Inside-out Backhands",
+    "article_slug": "inside_out_backhands",
+    "source_url": "http://www.tabletenniscoaching.com/node/3280",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "inside_out_backhands": [
+      {
+        "probleme": "Backhand",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "probleme": "Aim backhand crosscourt",
+              "description": "Let racket fall behind, then continue normal forward stroke; aimed at opponent's forehand",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "racket"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Inside-out backhand drill",
+            "description": "Practice last-second aim to crosscourt; accelerate forward swing for successful aim",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "racket, balls"
+          }
+        ],
+        "metriques_progression": [
+          "Not specified by source."
+        ],
+        "erreurs_a_eviter": [
+          {
+            "erreur": "Aiming down the line instead of crosscourt",
+            "cause": "Pulling racket back instead of accelerating forward stroke"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3280"
+      }
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "meta": {
+    "article_title": "April 11, 2022 - Do You Receive to Set Up Your Game?",
+    "article_slug": "set_up_your_game",
+    "source_url": "http://www.tabletenniscoaching.com/node/3369",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "set_up_your_game": [
+      {
+        "probleme": "Don't utilize receive well enough",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Push short to loop",
+              "description": "Loop when opponent pushes long, take away their own loop.",
+              "difficulte": "all levels",
+              "duree": "Not specified by source.",
+              "materiel": "Generic"
+            },
+            {
+              "nom": "Flip well-placed to get into topspin rally",
+              "description": "Mix in long pushes, force weak or inconsistent opening shots.",
+              "difficulte": "all levels",
+              "duree": "Not specified by source.",
+              "materiel": "Generic"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Practice looping from different angles",
+            "description": "Train to attack from both wings, with opponent already out of position.",
+            "difficulte": "all levels",
+            "duree": "Not specified by source.",
+            "materiel": "Generic"
+          }
+        ],
+        "metriques_progression": [
+          [
+            "Consistency",
+            "Neutralizing",
+            "Aggressive"
+          ]
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/3369"
+      }
+    ]
+  }
+}

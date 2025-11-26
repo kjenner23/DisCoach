@@ -1,0 +1,124 @@
+{
+  "meta": {
+    "article_title": "September 17, 2018 - Development of an Outrageously Great Spin Serve",
+    "article_slug": "development_of_an_outrageously_great_spin_serve",
+    "source_url": "http://www.tabletenniscoaching.com/node/2996",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "outrageous spin serve",
+      "definition": "A spin serve with a lot of spin and deception.",
+      "contexte": "The article describes the development of an outrageous spin serve.",
+      "source_url": "http://www.tabletenniscoaching.com/node/2996"
+    }
+  ],
+  "problemes_solutions": {
+    "development_of_an_outrageously_great_spin_serve": [
+      {
+        "probleme": "Developing an Outrageously Great Spin Serve",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "probleme": "Practicing spin and catch",
+              "solution": "Practice tossing the ball up, spinning it with your paddle, and catching it. Do this over and over, in various ways with different spins, until you can put an outrageous amount of spin on the ball."
+            },
+            {
+              "probleme": "Practicing spin at the table",
+              "solution": "Now do the same thing at the table, where you focus, again, on putting outrageous amounts of spin on the ball. Don't worry at first about serving legal or low, just get lots of spin on the ball."
+            }
+          ],
+          "intermediaire": [
+            {
+              "probleme": "Serving with different variations",
+              "solution": "Now that you can serve with outrageous spin, learn to do different variations. Try serving with backspin, side-backspin, sidespin, side-topspin, and topspin."
+            },
+            {
+              "probleme": "Faking outrageous spin",
+              "solution": "Fake that outrageous spin, but contact the ball near the handle with a stiff wrist so there's no spin, and then exaggerate the wrist and arm motion after contact - i.e. 'heavy no-spin.'"
+            }
+          ],
+          "avance": [
+            {
+              "probleme": "Adding semi-circular deception",
+              "solution": "Use a semi-circular motion in your serve. For example, for a forehand pendulum serve (i.e. racket tip down), start with a downward motion, then go sideways, and then up, all in a smooth semi-circular motion."
+            },
+            {
+              "probleme": "Shrinking and speeding up the motion",
+              "solution": "Now that you can serve all sorts of different outrageous spins with a semicircular motion, it's time to shorten and speed up the motion. By making it shorter and quicker, it's harder for the opponent to read what direction the racket was moving at contact."
+            }
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Spin and catch",
+            "description": "Practice tossing the ball up, spinning it with your paddle, and catching it.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Paddle"
+          },
+          {
+            "nom": "Spin at the table",
+            "description": "Practice putting outrageous amounts of spin on the ball at the table.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Paddle, balls"
+          },
+          {
+            "nom": "Serving with different variations",
+            "description": "Try serving with backspin, side-backspin, sidespin, side-topspin, and topspin.",
+            "difficulte": "Intermediate",
+            "duree": "Not specified by source.",
+            "materiel": "Paddle, balls"
+          },
+          {
+            "nom": "Faking outrageous spin",
+            "description": "Fake that outrageous spin, but contact the ball near the handle with a stiff wrist so there's no spin, and then exaggerate the wrist and arm motion after contact.",
+            "difficulte": "Intermediate",
+            "duree": "Not specified by source.",
+            "materiel": "Paddle"
+          },
+          {
+            "nom": "Semi-circular deception",
+            "description": "Use a semi-circular motion in your serve. For example, for a forehand pendulum serve (i.e. racket tip down), start with a downward motion, then go sideways, and then up, all in a smooth semi-circular motion.",
+            "difficulte": "Intermediate",
+            "duree": "Not specified by source.",
+            "materiel": "Paddle"
+          },
+          {
+            "nom": "Quick, deception motion",
+            "description": "Make the motion shorter and quicker. By making it shorter and quicker, it's harder for the opponent to read what direction the racket was moving at contact.",
+            "difficulte": "Advanced",
+            "duree": "Not specified by source.",
+            "materiel": "Paddle"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "target": "Put an outrageous amount of spin on the ball",
+            "reps": "Multiple",
+            "time": "Not specified by source."
+          },
+          {
+            "target": "Serve with different variations",
+            "reps": "Multiple",
+            "time": "Not specified by source."
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "pitfall": "Don't worry at first about serving legal or low, just get lots of spin on the ball",
+            "solution": "Practice serves that are both legal and with a lot of spin"
+          },
+          {
+            "pitfall": "Tend to serve sidespin-topspin which tends to be trickier to learn with this particular serve, but comes with practice.",
+            "solution": "Practice serves that have different spins such as backspin, side-backspin, sidespin, side-topspin, and topspin."
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/2996"
+      }
+    ]
+  }
+}

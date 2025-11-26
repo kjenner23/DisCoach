@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "article_title": "November 7, 2011 - How to Ace an Opponent",
+    "article_slug": "ace-opponent-snake_case",
+    "source_url": "http://www.tabletenniscoaching.com/node/660",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "ace_opponent_snake_case": [
+      {
+        "probleme": "Serving effectively against opponents",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Opponents are ready for crosscourt serves"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Fake serving crosscourt, then change direction to serve fast topspin down the line",
+            "Contact point should be a bit behind the table so that the first bounce can be near your own end-line"
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Fast down-the-line serve with sidespin",
+            "description": "Use spin, either sidespin or extra topspin, to make the serve more effective. Keep racket aimed at opponent's backhand and hit it down the line with slapping sidespin.",
+            "difficulte": "Intermediate",
+            "duree": "Not specified by source.",
+            "materiel": "Racket"
+          }
+        ],
+        "metriques_progression": [
+          "Speed and spin"
+        ],
+        "erreurs_a_eviter": [
+          "Sacrificing speed for spin",
+          "Not keeping racket aimed at opponent's backhand"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/660"
+      }
+    ]
+  }
+}

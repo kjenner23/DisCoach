@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "article_title": "February 21, 2022 - If You Don't Spend a Good Portion of Your Practice Developing Overwhelming Strengths, You Won't Develop Overwhelming Strengths",
+    "article_slug": "develop_overwhelming_strengths_snake_case",
+    "source_url": "http://www.tabletenniscoaching.com/node/3355",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "develop_overwhelming_strengths": [
+      {
+        "probleme": "Lack of overwhelming strengths",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "technique": "Identify current strengths and weaknesses"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Forehand drill",
+            "description": "Practice forehand shots to develop overwhelming strength.",
+            "difficulte": "Intermediate",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis table and racket"
+          },
+          {
+            "nom": "Serving and receiving drill",
+            "description": "Practice serves and returns to set up forehand shots.",
+            "difficulte": "Intermediate",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis table and racket"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "rep": "Practice for 30 minutes, 3 times a week"
+          }
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/3355"
+      }
+    ]
+  }
+}

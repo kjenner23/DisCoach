@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "article_title": "September 9, 2013 - Where to Serve Short?",
+    "article_slug": "where_to_serve_short",
+    "source_url": "http://www.tabletenniscoaching.com/node/1607",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "where_to_serve_short": [
+      {
+        "probleme": "Where to serve short?",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Extreme Forehand",
+              "description": "Makes the receiver reach way over the table, often leading to awkward returns.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Table tennis balls"
+            }
+          ],
+          "intermediaire": [
+            {
+              "nom": "Middle Forehand",
+              "description": "Takes away some of the angle into the forehand and gives less table to flip into.",
+              "difficulte": "intermediate",
+              "duree": "Not specified by source.",
+              "materiel": "Table tennis balls"
+            }
+          ],
+          "avance": [
+            {
+              "nom": "Middle Backhand",
+              "description": "Only gives a slight angle into the forehand side, so the server can often follow the serve with a forehand from the backhand side.",
+              "difficulte": "advanced",
+              "duree": "Not specified by source.",
+              "materiel": "Table tennis balls"
+            }
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Extreme Forehand Drill",
+            "description": "Practice serving extreme forehand and following up with a forehand from the backhand side.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Table tennis balls"
+            ]
+          },
+          {
+            "nom": "Middle Forehand Drill",
+            "description": "Practice serving middle forehand and adjusting to different returns.",
+            "difficulte": "intermediate",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Table tennis balls"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          {
+            "target": "Improved footwork",
+            "reps": "As needed"
+          },
+          {
+            "target": "Better placement",
+            "reps": "As needed"
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "pitfall": "Serving too long and giving an easy loop"
+          }
+        ]
+      }
+    ]
+  }
+}

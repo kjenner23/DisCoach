@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "article_title": "February 5, 2018 - Speed and Power are Easy with Good Technique, but Good Technique is Difficult",
+    "article_slug": "speed_and_power_are_easy_with_good_technique_but_good_technique_is_difficult",
+    "source_url": "http://www.tabletenniscoaching.com/node/2864",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "speed_and_power_are_easy_with_good_technique_but_good_technique_is_difficult": [
+      {
+        "probleme": "Players trying to drill at speeds or with power they can't control",
+        "diagnostic": "Sloppy, rushed technique and poor balance",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "probleme": "Drilling too fast",
+              "solution": "Drill at a pace you can control"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Footwork and drills at a consistent pace",
+            "description": "Staying balanced throughout with good technique",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Generic"
+          }
+        ],
+        "metriques_progression": [
+          "Not specified by source."
+        ],
+        "erreurs_a_eviter": [
+          {
+            "probleme": "Rushing the shot",
+            "solution": "Focus on developing good technique and balance"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/2864"
+      }
+    ]
+  }
+}

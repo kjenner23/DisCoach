@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "article_title": "March 9, 2020 - Proper Forehand Technique - Circling and From Side",
+    "article_slug": "proper-forehand-technique-circling-and-from-side",
+    "source_url": "http://www.tabletenniscoaching.com/node/3147",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "centripetal force",
+      "definition": "",
+      "contexte": "refers to the great power gained from rotating around an imaginary vertical rod going through the top of one's head",
+      "source_url": "http://www.tabletenniscoaching.com/node/3147"
+    }
+  ],
+  "problemes_solutions": {
+    "proper-forehand-technique-circling-and-from-side": [
+      {
+        "probleme": "Violating principles of forehand technique",
+        "diagnostic": "Moving the body forward too much or contacting the ball too far in front",
+        "causes_communes": [
+          "Players don't rotate around an imaginary vertical rod going through their head"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Rotate the body around an imaginary vertical rod going through the top of your head"
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Circling forehand",
+            "description": "Practice rotating in a circle to contact the ball directly to the side of your body",
+            "difficulte": "Beginner",
+            "duree": "",
+            "materiel": "Table tennis table, racket"
+          }
+        ],
+        "metriques_progression": [
+          [
+            "Targeting the center of the racket"
+          ]
+        ],
+        "erreurs_a_eviter": [
+          [
+            "Forgetting to rotate around an imaginary vertical rod going through your head"
+          ]
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3147"
+      }
+    ]
+  }
+}

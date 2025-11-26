@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "article_title": "October 12, 2015 - Back Foot Position on Forehand",
+    "article_slug": "back_foot_position_forehand",
+    "source_url": "http://www.tabletenniscoaching.com/node/2243",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "forehand rotation",
+      "definition": "The proper movement of the wrist and forearm on a forehand shot.",
+      "contexte": "A habit that should be developed before attempting the back foot position.",
+      "source_url": "http://www.tabletenniscoaching.com/node/2243"
+    }
+  ],
+  "problemes_solutions": {
+    "back_foot_position_forehand": [
+      {
+        "probleme": "Shooting forehands near the table",
+        "diagnostic": "Loss of power, but increase in quickness",
+        "causes_communes": [
+          "Less time to move the foot back"
+        ],
+        "solutions_progressives": {
+          "debutant": [],
+          "intermediaire": [
+            {
+              "step": "Keep the feet parallel"
+            }
+          ],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Quick forehand drills",
+            "description": "Practice shots taken near the table with quick footwork.",
+            "difficulte": "Intermediate",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Table tennis balls"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          {
+            "target": "Timing and supple waist"
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "pitfall": "Lack of forehand rotation"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/2243"
+      }
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "article_title": "September 26, 2016 - How to Play Against a Player with a Coach",
+    "article_slug": "play-against-player-coach",
+    "source_url": "http://www.tabletenniscoaching.com/node/2500",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "play-against-player-coach": [
+      {
+        "probleme": "Playing against an opponent with a coach",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Opponent's reliance on coach for guidance"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "description": "Ignore the coach and focus on your own game"
+            },
+            {
+              "description": "Get your own coach or sounding board to even the playing field"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Force rallies",
+            "description": "Play aggressively and aim for a strong rally",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Table tennis racket",
+              "Balls"
+            ]
+          },
+          {
+            "nom": "Alternate tactics",
+            "description": "Switch between different playing styles to keep the opponent guessing",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Table tennis racket",
+              "Balls"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          {
+            "reps": "10-0 in a game",
+            "time": "Not specified by source."
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "pitfall": "Letting the coach's presence affect your mindset"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/2500"
+      }
+    ]
+  }
+}

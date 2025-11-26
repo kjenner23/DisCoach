@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "article_title": "April 16, 2012 - Where to Place Your Spin Serves",
+    "article_slug": "where_to_place_your_spin_serves",
+    "source_url": "http://www.tabletenniscoaching.com/node/848",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "spin_serve_placement": [
+      {
+        "probleme": "Where to place spin serves for effectiveness",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "opponent trouble returning serve"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "probleme": "Spin away from opponent harder to receive",
+              "solution": "Serve to wide backhand, break spin away"
+            },
+            {
+              "probleme": "Spin into opponent easier to receive",
+              "solution": "Serve to forehand, break spin into receiver"
+            }
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Forehand pendulum serve short crosscourt",
+            "description": "Visualize aiming left (normal) for counter-spin; for backhand or tomahawk, aim right (down the line)",
+            "difficulte": "Intermediate",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket"
+          }
+        ],
+        "metriques_progression": [
+          "Vary spin serves to all parts of table; experiment with different placements"
+        ],
+        "erreurs_a_eviter": [
+          {
+            "probleme": "Lowering racket when moving for serve",
+            "solution": "Keep racket at correct height"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/848"
+      }
+    ]
+  }
+}

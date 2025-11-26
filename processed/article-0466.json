@@ -1,0 +1,64 @@
+{
+  "meta": {
+    "article_title": "April 28, 2014 - Develop the Fundamentals: Strokes & Footwork",
+    "article_slug": "develop-the-fundamentals-strokes-and-footwork",
+    "source_url": "http://www.tabletenniscoaching.com/node/1803",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "develop-the-fundamentals-strokes-and-footwork": [
+      {
+        "probleme": "Consistency in shots",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Lack of training time and effort"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Repeating strokes",
+              "description": "Proper stroking technique with repetition",
+              "difficulte": "Beginner",
+              "duree": "Not specified by source.",
+              "materiel": [
+                "Balls"
+              ]
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Forehand and backhand drives",
+            "description": "Proper footwork technique with repetition, adjusting racket angle and trajectory",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Balls"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          {
+            "target": "100 forehand drives",
+            "reps": "100",
+            "time": "Not specified by source."
+          },
+          {
+            "target": "100 backhand drives",
+            "reps": "100",
+            "time": "Not specified by source."
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "erreur": "Poor footwork and stroking technique"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/1803"
+      }
+    ]
+  }
+}

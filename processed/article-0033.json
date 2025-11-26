@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "article_title": "How to Win the Choice at the Start of a Match",
+    "article_slug": "win-choice-start-match_snake_case",
+    "source_url": "http://www.tabletenniscoaching.com/node/3456",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "win-choice-start-match_snake_case": [
+      {
+        "probleme": "Win the choice at the start of a match",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "description": "Watch opponent's other matches and see which hand they typically choose.",
+              "difficulte": "All levels"
+            },
+            {
+              "description": "Put ball in your left hand against a righty player, and vice versa.",
+              "difficulte": "All levels"
+            },
+            {
+              "description": "Slightly flex muscles of the hand not holding the ball and hold that hand a little lower.",
+              "difficulte": "All levels"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Hiding the ball",
+            "description": "Watch opponent's other matches and see which hand they typically choose. Put ball in your left hand against a righty player, and vice versa. Slightly flex muscles of the hand not holding the ball and hold that hand a little lower.",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": "Ball"
+          }
+        ],
+        "metriques_progression": [
+          "Not specified by source."
+        ],
+        "erreurs_a_eviter": [
+          {
+            "description": "Experienced players who cross you up, especially on slight flexing in the arm holding the ball."
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3456"
+      }
+    ]
+  }
+}

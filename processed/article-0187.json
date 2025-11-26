@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "article_title": "March 23, 2020 - Ten Table Tennis Truisms: Larry's Laws",
+    "article_slug": "ten-table-tennis-truisms-larrys-laws",
+    "source_url": "http://www.tabletenniscoaching.com/node/3151",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "",
+      "definition": "",
+      "contexte": "",
+      "source_url": ""
+    }
+  ],
+  "problemes_solutions": {
+    "ten-table-tennis-truisms-larrys-laws": [
+      {
+        "probleme": "Consistency in a match",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "probleme": "Sleeping on it",
+              "solution": "Practice everything, focus on strengths and weaknesses"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Move to the ball",
+            "description": "Get right racket angle and stroke well; move to the ball",
+            "difficulte": "all levels",
+            "duree": "Not specified by source.",
+            "materiel": "Generic table tennis equipment"
+          },
+          {
+            "nom": "Racket angle adjustment",
+            "description": "Get right racket angle and stroke well; adjust for different situations",
+            "difficulte": "all levels",
+            "duree": "Not specified by source.",
+            "materiel": "Generic table tennis equipment"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "target": "Win close games in big matches",
+            "repets": "Practice regularly",
+            "time": "Not specified by source."
+          }
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/3151"
+      }
+    ]
+  }
+}

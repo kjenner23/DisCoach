@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "article_title": "January 17, 2011 - Push with Purpose and Placement",
+    "article_slug": "push-with-purpose-and-placement",
+    "source_url": "http://www.tabletenniscoaching.com/node/265",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "push-with-purpose-and-placement": [
+      {
+        "probleme": "Ineffective pushing",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Lack of purpose",
+          "Poor placement"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Push with heavy backspin to force a mistake or weak return",
+            "Push quick and fast with last-second changes of direction to rush the opponent",
+            "Push short with the purpose of making it difficult or impossible to loop"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Heavy push drill",
+            "description": "Practice pushing with heavy backspin, focusing on forcing a mistake or weak return.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Bucket of balls"
+          },
+          {
+            "nom": "Quick and fast push drill",
+            "description": "Practice pushing quick and fast, focusing on rushing the opponent.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Bucket of balls"
+          },
+          {
+            "nom": "Short push drill",
+            "description": "Practice pushing short with the purpose of making it difficult or impossible to loop.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Bucket of balls"
+          }
+        ],
+        "metriques_progression": [
+          "Number of loops converted",
+          "Success rate with heavy backspin pushes"
+        ],
+        "erreurs_a_eviter": [
+          "Lack of footwork and positioning for the loop shot"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/265"
+      }
+    ]
+  }
+}

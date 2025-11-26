@@ -1,0 +1,64 @@
+{
+  "meta": {
+    "article_title": "July 25, 2011 - Importance of Serve Variety",
+    "article_slug": "serve-variety",
+    "source_url": "http://www.tabletenniscoaching.com/node/470",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "serve-variety": [
+      {
+        "probleme": "Lack of serve variety",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Opponent's ability to receive common serves"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Develop a small set of highly effective serves"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Forehand pendulum serve",
+            "description": "Concise, with explicit cues; no links; no brand names.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Bucket of balls"
+          },
+          {
+            "nom": "Backhand serve short to the forehand",
+            "description": "Concise, with explicit cues; no links; no brand names.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Bucket of balls"
+          },
+          {
+            "nom": "Fast and dead serve to the middle (elbow)",
+            "description": "Concise, with explicit cues; no links; no brand names.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Bucket of balls"
+          },
+          {
+            "nom": "Fast sidespin serve to the wide backhand",
+            "description": "Concise, with explicit cues; no links; no brand names.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Bucket of balls"
+          }
+        ],
+        "metriques_progression": [
+          [
+            "Learn to serve short and long (including fast) to all parts of the table"
+          ]
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/470"
+      }
+    ]
+  }
+}

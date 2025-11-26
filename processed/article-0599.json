@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "article_title": "August 29, 2011 - Suggested equipment for beginning and intermediate players",
+    "article_slug": "beginner-equipment-players",
+    "source_url": "http://www.tabletenniscoaching.com/node/540",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "suggested_equipment_players": [
+      {
+        "probleme": "Choosing the right equipment for beginners and intermediate players",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Not specified by source."
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "medium speed blade",
+              "description": "For beginners, a medium speed blade is recommended to help with control.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "blade"
+            }
+          ],
+          "intermediaire": [
+            {
+              "nom": "medium to fast blades",
+              "description": "For more advanced players, a medium to fast blade is recommended.",
+              "difficulte": "intermediate",
+              "duree": "Not specified by source.",
+              "materiel": "blade"
+            }
+          ],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "trying out different rubber and rackets",
+            "description": "Beginners should try out different rubber and rackets to find what fits their game.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "racket",
+              "rubber"
+            ]
+          },
+          {
+            "nom": "finding a racket that feels right",
+            "description": "Players should find a racket that feels right when hitting with it.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "racket"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          {
+            "nom": "sponge thickness",
+            "description": "For beginners, start with a sponge in the 1.5 to 1.9mm range.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "sponge"
+            ]
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "nom": "using ultra-fast blades",
+            "description": "Few players can control ultra-fast blades, so they should be avoided.",
+            "difficulte": "advanced",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "blade"
+            ]
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/540"
+      }
+    ]
+  }
+}

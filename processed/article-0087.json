@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "article_title": "How to Learn by Watching the Top Players",
+    "article_slug": "how_to_learn_by_watching_the_top_players",
+    "source_url": "http://www.tabletenniscoaching.com/node/3361",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "how_to_learn_by_watching_the_top_players": [
+      {
+        "probleme": "Learning from watching top players",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Lack of focus on specific techniques"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Focus on specific techniques, such as serve, receive, strokes, placement, shot selection"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Shadow-practice",
+            "description": "Practice without the ball to learn new techniques",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "racket",
+              "table"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          "Watch a game several times, each time focusing on something different"
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/3361"
+      }
+    ]
+  }
+}

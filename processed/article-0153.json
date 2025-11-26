@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "article_title": "November 16, 2020 - Use Both Sides of the Body When Forehand Looping",
+    "article_slug": "use_both_sides_of_the_body_when_forehand_looping",
+    "source_url": "http://www.tabletenniscoaching.com/node/3223",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "use_both_sides_of_the_body_when_forehand_looping": [
+      {
+        "probleme": "Limited power and balance in forehand looping",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "step": "Use both sides of the body to rotate while forehand looping"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Body rotation drill",
+            "description": "Rotate your body in a circle, using both sides, without moving forward or backward. This helps develop balance and control.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "None"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "target": "Balance",
+            "rep": "Not specified by source."
+          }
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/3223"
+      }
+    ]
+  }
+}

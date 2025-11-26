@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "article_title": "January 21, 2013 - Backhand Banana Flip",
+    "article_slug": "backhand-banana-flip",
+    "source_url": "http://www.tabletenniscoaching.com/node/1311",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "banana_flip": [
+      {
+        "probleme": "Receiving short serves effectively",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Backhand banana flip drill",
+              "description": "Practice flipping short serves with wrist and racket speed, lifting the ball up to generate topspin and sidespin.",
+              "difficulte": "Beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Bucket of balls"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Short serve drill",
+            "description": "Practice flipping short serves with wrist and racket speed, lifting the ball up to generate topspin and sidespin.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Bucket of balls"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "reps": "Practice flipping short serves with wrist and racket speed, lifting the ball up to generate topspin and sidespin."
+          }
+        ],
+        "erreurs_a_eviter": []
+      }
+    ]
+  }
+}

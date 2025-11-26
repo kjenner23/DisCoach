@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "article_title": "January 4, 2016 - Backhand Serve Deception with the Elbow",
+    "article_slug": "backhand_serve_deception_with_elbow",
+    "source_url": "http://www.tabletenniscoaching.com/node/2297",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "elbow",
+      "definition": "",
+      "contexte": "Used for deception in backhand serve",
+      "source_url": "http://www.tabletenniscoaching.com/node/2297"
+    }
+  ],
+  "problemes_solutions": {
+    "backhand_serve_deception_with_elbow": [
+      {
+        "probleme": "Deception on backhand serve",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Vigorous downward swing with elbow pull"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Chopping wood motion",
+            "description": "Downward swing and upward pull with elbow, followed by a sideways motion.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Racket, balls"
+          }
+        ],
+        "metriques_progression": [
+          "Varying spin and speed"
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/2297"
+      }
+    ]
+  }
+}

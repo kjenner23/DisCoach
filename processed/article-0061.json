@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "article_title": "September 12, 2022 - Consistency is King",
+    "article_slug": "consistency-is-king",
+    "source_url": "http://www.tabletenniscoaching.com/node/3406",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "consistency_is_king": [
+      {
+        "probleme": "Lack of consistency in rallies and attacks",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Inconsistent practice"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Practice drills for consistent rallying",
+            "Focus on placement and consistency over attack"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Consistent rally drills",
+            "description": "Relentlessly rally with a partner, focusing on keeping the ball in play.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis equipment"
+          }
+        ],
+        "metriques_progression": [
+          "Increase consistent attack and placement"
+        ],
+        "erreurs_a_eviter": [
+          "Wild, inconsistent attacks"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3406"
+      }
+    ]
+  }
+}

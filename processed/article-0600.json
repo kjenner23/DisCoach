@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "article_title": "August 22, 2011 - Strategic Versus Tactical Thinking",
+    "article_slug": "strategic-versus-tactical-thinking",
+    "source_url": "http://www.tabletenniscoaching.com/node/526",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "strategic-versus-tactical-thinking": [
+      {
+        "probleme": "Weak forehand attack against backspin",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Weakness in the attack"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Use good ball placement to make up for weakness of the attack"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Forehand loop drill",
+            "description": "Practice forehand loop with emphasis on good ball placement.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis equipment"
+          }
+        ],
+        "metriques_progression": [
+          "Increase spin and speed"
+        ],
+        "erreurs_a_eviter": [
+          "Pushing back with weak forehand attack"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/526"
+      }
+    ]
+  }
+}

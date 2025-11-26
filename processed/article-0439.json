@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "article_title": "November 17, 2014 - Smooth Acceleration + Grazing Contact = Great Spin",
+    "article_slug": "smooth_acceleration_grazing_contact_great_spin",
+    "source_url": "http://www.tabletenniscoaching.com/node/1976",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "smooth_acceleration_grazing_contact_great_spin": [
+      {
+        "probleme": "Lack of smooth acceleration and grazing contact",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Muscling the ball"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "description": "Slow down, use all muscles (70%), and smoothly accelerate into the ball"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Grazing drill",
+            "description": "Toss a ball up and graze it with your racket, making it spin; repeat to develop ball control",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Multi-colored ball or marked ball"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          {
+            "rep": "70%"
+          }
+        ],
+        "erreurs_a_eviter": [
+          "Loss of control"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/1976"
+      }
+    ]
+  }
+}

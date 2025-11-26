@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "article_title": "October 3, 2011 - Returning Long Serves with the Backhand",
+    "article_slug": "returning_long_serves_with_the_backhand",
+    "source_url": "http://www.tabletenniscoaching.com/node/616",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "returning_long_serves_with_the_backhand": [
+      {
+        "probleme": "Returning Long Serves with the Backhand",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "backhand looping",
+              "description": "Looping a long serve to the backhand.",
+              "difficulte": "all levels",
+              "duree": "Not specified by source.",
+              "materiel": "table tennis racket"
+            },
+            {
+              "nom": "punch block",
+              "description": "Using the speed of the serve against the opponent with a punch block.",
+              "difficulte": "all levels",
+              "duree": "Not specified by source.",
+              "materiel": "table tennis racket"
+            }
+          ],
+          "intermediaire": [
+            {
+              "nom": "forehand looping",
+              "description": "Stepping around and looping with the forehand.",
+              "difficulte": "all levels",
+              "duree": "Not specified by source.",
+              "materiel": "table tennis racket"
+            }
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "backhand crosscourt to wide backhand",
+            "description": "Hiding the direction and then changing at the last second to go to the wide forehand.",
+            "difficulte": "all levels",
+            "duree": "Not specified by source.",
+            "materiel": "table tennis racket"
+          },
+          {
+            "nom": "short, soft topspin return",
+            "description": "Returning a weak topspin ball that goes deep and has some spin.",
+            "difficulte": "all levels",
+            "duree": "Not specified by source.",
+            "materiel": "table tennis racket"
+          }
+        ],
+        "metriques_progression": [
+          "depth",
+          "placement",
+          "speed",
+          "spin"
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/616"
+      }
+    ]
+  }
+}

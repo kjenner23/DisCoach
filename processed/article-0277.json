@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "article_title": "April 2, 2018 - Arrange Practice Partners in Advance",
+    "article_slug": "arrange_practice_partners_in_advance",
+    "source_url": "http://www.tabletenniscoaching.com/node/2913",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "arrange_practice_partners_in_advance": [
+      {
+        "probleme": "Poor warm-up leading to poor performance",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Arranging a practice partner in advance"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Warming up with a practice partner",
+            "description": "Get a good warm-up by meeting with someone you feel comfortable warming up with.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "racket"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          {
+            "reps": "Not specified by source."
+          }
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/2913"
+      }
+    ]
+  }
+}

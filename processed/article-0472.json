@@ -1,0 +1,101 @@
+{
+  "meta": {
+    "article_title": "March 17, 2014 - Three Types of Receive Skills",
+    "article_slug": "three-types-of-receive-skills",
+    "source_url": "http://www.tabletenniscoaching.com/node/1761",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "returning-serves": [
+      {
+        "probleme": "Read and React to the Serve",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "read spin direction",
+              "description": "Watch opponent's racket at contact, ball travel and bounce",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "racket"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "return serve with spin",
+            "description": "Loop, drive or flip to put server on defensive",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "racket"
+          }
+        ],
+        "metriques_progression": [
+          "Not specified by source."
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/1761"
+      },
+      {
+        "probleme": "Make Effective Returns",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "attack serve with spin",
+              "description": "Loop, drive or flip to put server on defensive",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "racket"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "return serve short",
+            "description": "Push ball back so server cannot loop",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "racket"
+          }
+        ],
+        "metriques_progression": [
+          "Not specified by source."
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/1761"
+      },
+      {
+        "probleme": "Make Consistent Returns",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "return serves consistently",
+              "description": "Use all receives to mess up opponent, but be consistent",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "racket"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [],
+        "metriques_progression": [
+          "Not specified by source."
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/1761"
+      }
+    ]
+  }
+}

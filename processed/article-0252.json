@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "article_title": "October 29, 2018 - Don't Try So Hard When Ending the Point",
+    "article_slug": "dont-try-so-hard-when-ending-the-point",
+    "source_url": "http://www.tabletenniscoaching.com/node/3009",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "dont-try-so-hard-when-ending-the-point": [
+      {
+        "probleme": "Tendency to go spastic when ending the point",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Lack of control and consistency"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Smoothly accelerate into the shot",
+            "Put weight into the shot",
+            "Focus on good technique and placement"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Well-placed put-away",
+            "description": "Smoothly accelerate into the shot, putting weight into the shot and focusing on good technique and placement.",
+            "difficulte": "Debutant",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Table tennis racket",
+              "Table tennis balls"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          "Sacrifice 10% speed for consistency"
+        ],
+        "erreurs_a_eviter": [
+          "Experimenting with placement in matches to see what works"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3009"
+      }
+    ]
+  }
+}

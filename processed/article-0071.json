@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "article_title": "July 4, 2022 - Consistent Contact Leads to Consistency",
+    "article_slug": "consistent-contact-leads-to-consistency",
+    "source_url": "http://www.tabletenniscoaching.com/node/3390",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "consistent-contact-leads-to-consistency": [
+      {
+        "probleme": "Lack of consistent contact",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Varying footwork",
+          "Inconsistent stroke"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "cues": "Focus on the feel of good shots and strive to replicate it every time",
+              "difficulte": "All levels"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Looping drills with focus on consistent contact",
+            "description": "Loop a ball at a certain speed and spin, focusing on the feel of good shots and striving to replicate it every time",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Balls",
+              "Racket"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          {
+            "reps": "Not specified by source."
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "pitfall": "Varying footwork",
+            "caution": "Focus on consistent footwork and contact"
+          },
+          {
+            "pitfall": "Inconsistent stroke",
+            "caution": "Practice consistent strokes with a focus on the feel of good shots"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3390"
+      }
+    ]
+  }
+}

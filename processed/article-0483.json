@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "article_title": "Do Something Different",
+    "article_slug": "do-something-different",
+    "source_url": "http://www.tabletenniscoaching.com/node/1694",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "pet shots",
+      "definition": "Certain 'different' shots that are not the norm.",
+      "contexte": "Used to describe different techniques or variations in table tennis.",
+      "source_url": "http://www.tabletenniscoaching.com/node/1694"
+    }
+  ],
+  "problemes_solutions": {
+    "do-something-different": [
+      {
+        "probleme": "Unconventional playing",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Serve from forehand side",
+              "description": "Throw in a few forehand pendulum or backhand serves from the forehand side. The surprise factor will often make up for your starting a bit out of position.",
+              "difficulte": "Beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Table tennis racket"
+            },
+            {
+              "nom": "Serve short sidespin to the forehand",
+              "description": "Instead, learn to serve short to the forehand with sidespin that pulls the ball toward your forehand, making it awkward for the opponent to return the ball down the line.",
+              "difficulte": "Beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Table tennis racket"
+            }
+          ],
+          "intermediaire": [
+            {
+              "nom": "Slow, spinny loop",
+              "description": "Try letting the ball drop a bit more, and go for a super-spinny slow one. If it goes deep, it'll drive blockers crazy.",
+              "difficulte": "Intermediate",
+              "duree": "Not specified by source.",
+              "materiel": "Table tennis racket"
+            },
+            {
+              "nom": "Dead loop",
+              "description": "Fake spin, and instead give a dead loop. You sell this by using an exaggerated follow-through right after contact (including a big wrist snap), making it seem spinny.",
+              "difficulte": "Intermediate",
+              "duree": "Not specified by source.",
+              "materiel": "Table tennis racket"
+            }
+          ],
+          "avance": [
+            {
+              "nom": "Flatter flip",
+              "description": "Sometimes try a flatter one. Hit it a bit softer since you don't have topspin to pull it down, but not too soft.",
+              "difficulte": "Advanced",
+              "duree": "Not specified by source.",
+              "materiel": "Table tennis racket"
+            }
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Ginzo push",
+            "description": "Most players push to keep the ball in play. Throw in a few super-ginzo (i.e. extremely heavy) pushes, and watch opponents struggle.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket"
+          },
+          {
+            "nom": "Countering change-of-pace",
+            "description": "Rather than bang every ball in a fast counter-hitting rally, sometimes hit one soft. Either keep it low and short to the net, or deep on the table.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "nom": "Reps/time/targets",
+            "description": "Not specified by source.",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket"
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "nom": "Not returning the ball",
+            "description": "Opponents may struggle to return a super-ginzo push or a slow, spinny loop.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/1694"
+      }
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "article_title": "April 17, 2017 - Serving to the Backhand Flipper",
+    "article_slug": "serving-to-the-backhand-flipper",
+    "source_url": "http://www.tabletenniscoaching.com/node/2652",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "backspin",
+      "definition": "Spin on a serve that causes the ball to drop rapidly after contact with the racket.",
+      "contexte": "Used in serves and attacking plays.",
+      "source_url": "http://www.tabletenniscoaching.com/node/2652"
+    }
+  ],
+  "problemes_solutions": {
+    "serving_to_the_backhand_flipper": [
+      {
+        "probleme": "Opponent attacks all serves with backhand, even short ones",
+        "diagnostic": "None specified by source.",
+        "causes_communes": [
+          "Player reaches over and backhands even forehand flips"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Serve Low",
+              "description": "Serve with the ball barely above the net, with a nice low bounce on the far side.",
+              "difficulte": "All levels",
+              "duree": "Not specified by source.",
+              "materiel": [
+                "Generic racket"
+              ]
+            },
+            {
+              "nom": "Serve Long",
+              "description": "Throw deep serves at the opponent, few players are good at attacking both short and long serves.",
+              "difficulte": "All levels",
+              "duree": "Not specified by source.",
+              "materiel": [
+                "Generic racket"
+              ]
+            }
+          ],
+          "intermediaire": [
+            {
+              "nom": "Serve Heavy",
+              "description": "Load up the backspin, many opponents will struggle to attack it.",
+              "difficulte": "Intermediate",
+              "duree": "Not specified by source.",
+              "materiel": [
+                "Generic racket"
+              ]
+            }
+          ],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Backspin/No-Spin Combos",
+            "description": "Mix up the spin, from backspin to no-spin serves.",
+            "difficulte": "Intermediate",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Generic racket"
+            ]
+          },
+          {
+            "nom": "Serve from Middle of Table",
+            "description": "Serve with angle into the forehand, giving you an angle into the opponent's forehand.",
+            "difficulte": "Intermediate",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Generic racket"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          "Use counter-attacks"
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/2652"
+      }
+    ]
+  }
+}

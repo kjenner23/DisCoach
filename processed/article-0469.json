@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "article_title": "April 7, 2014 - Attacking the Middle",
+    "article_slug": "attacking-the-middle",
+    "source_url": "http://www.tabletenniscoaching.com/node/1786",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "attacking_the_middle": [
+      {
+        "probleme": "Why don't players attack the middle more often?",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "It's difficult to hit because it's a moving target.",
+          "Players don't practice attacking the middle."
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Attack the Middle Drill",
+              "description": "Drill into the opponent's middle, either looping or hitting.",
+              "difficulte": "Beginner",
+              "duree": "Not specified by source.",
+              "materiel": [
+                "Balls"
+              ]
+            }
+          ],
+          "intermediaire": [
+            {
+              "nom": "Serve and Attack Middle Drill",
+              "description": "Serve backspin, push back, and attack the opponent's middle. Then play out the point.",
+              "difficulte": "Intermediate",
+              "duree": "Not specified by source.",
+              "materiel": [
+                "Balls"
+              ]
+            }
+          ],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Practice Matches",
+            "description": "Play practice matches where the first attack goes to the middle every time.",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Balls"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          "Not specified by source."
+        ],
+        "erreurs_a_eviter": [
+          {
+            "nom": "Don't get stuck in a habit of attacking forehand or backhand only"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/1786"
+      }
+    ]
+  }
+}

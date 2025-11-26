@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "article_title": "October 29, 2012 - The Falkenberg Drill",
+    "article_slug": "falkenberg_drill",
+    "source_url": "http://www.tabletenniscoaching.com/node/1183",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "falkenberg_drill": [
+      {
+        "probleme": "Falkenberg Drill",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "off-balance"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "keep returning the ball to your partner's backhand",
+            "use the same strokes in the drill as you want to do in a match",
+            "many loop the forehand and hit the backhand"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "step-around forehand",
+            "description": "return the second ball with your forehand, then move to your wide forehand and return the third ball with your forehand",
+            "difficulte": "intermediate",
+            "duree": "Not specified by source.",
+            "materiel": "table tennis racket"
+          },
+          {
+            "nom": "multiball variation",
+            "description": "allows a player to maximize how fast he can do the drill",
+            "difficulte": "advanced",
+            "duree": "Not specified by source.",
+            "materiel": "table tennis balls"
+          }
+        ],
+        "metriques_progression": [
+          "repetitions",
+          "free play after a certain number of repetitions (e.g. three)"
+        ],
+        "erreurs_a_eviter": [
+          "off-balance"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/1183"
+      }
+    ]
+  }
+}

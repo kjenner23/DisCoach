@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "article_title": "June 10, 2019 - Should You Play Differently at Deuce?",
+    "article_slug": "should-you-play-differently-at-deuce",
+    "source_url": "http://www.tabletenniscoaching.com/node/3078",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "should-you-play-differently-at-deuce": [
+      {
+        "probleme": "Playing differently at deuce",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Use aggressive shots",
+              "description": "Choose high-percentage shot and attack, even under pressure",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Generic balls"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Attack with high-percentage shot",
+            "description": "Choose and execute attack shot, even under pressure",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Generic balls"
+          }
+        ],
+        "metriques_progression": [
+          [
+            "Openings shots",
+            "Attack with high-percentage shot"
+          ]
+        ],
+        "erreurs_a_eviter": [
+          "Reacting to opponent's shot under pressure"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3078"
+      }
+    ]
+  }
+}

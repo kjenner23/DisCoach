@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "article_title": "January 27, 2014 - Practicing Serves the Productive Way",
+    "article_slug": "practicing-serves-the-productive-way",
+    "source_url": "http://www.tabletenniscoaching.com/node/1716",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "practicing-serves-the-productive-way": [
+      {
+        "probleme": "Inefficient serve practice",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Visualize the serve in your head",
+              "description": "See the entire trajectory of the serve and the contact you want to make with the ball, then let go and let the subconscious take over.",
+              "difficulte": "Beginner",
+              "duree": "Not specified by source.",
+              "materiel": "A box of balls"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Serving with visualization",
+            "description": "Start by visualizing the serve in your head, then practice serving without trying to guide it.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "A box of balls"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "nom": "Tracking progress",
+            "description": "Pay attention to whether your serves are going as planned, and make adjustments as needed."
+          }
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/1716"
+      }
+    ]
+  }
+}

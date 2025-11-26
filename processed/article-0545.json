@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "article_title": "September 24, 2012 - Care of Equipment",
+    "article_slug": "care-of-equipment",
+    "source_url": "http://www.tabletenniscoaching.com/node/1068",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "care-of-equipment": [
+      {
+        "probleme": "Unclean equipment",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Racket cleaning",
+              "description": "Blow on racket surface every few points and wipe off with cloth. Cover racket after use.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Cloth, racket case"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Sponge maintenance",
+            "description": "Use rubber cleaner to wipe off grease. Replace when bounciness decreases.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Rubber cleaner, new sponge"
+          },
+          {
+            "nom": "Shoe care",
+            "description": "Wash shoes after use. Avoid getting soles dirty. Use wet towel to add traction.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Water, soap"
+          }
+        ],
+        "metriques_progression": [
+          "Not specified by source."
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/1068"
+      }
+    ]
+  }
+}

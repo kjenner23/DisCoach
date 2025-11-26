@@ -1,0 +1,74 @@
+{
+  "meta": {
+    "article_title": "September 1, 2014 - How to Execute a Fast Serve",
+    "article_slug": "fast-serve-table-tennis-coaching",
+    "source_url": "http://www.tabletenniscoaching.com/node/1908",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "fast-serve": [
+      {
+        "probleme": "Executing a Fast Serve",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Serve Aggressively",
+              "description": "Serve aggressively. You can't serve fast by patting the ball over the net.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Table tennis racket and balls"
+            },
+            {
+              "nom": "First Bounce Near Your Own End-Line",
+              "description": "You want to maximize the amount of table between bounces so the ball has a chance to drop. To do this you need to contact the ball far enough behind the end-line to allow this.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Table tennis racket and balls"
+            },
+            {
+              "nom": "Low Contact Point",
+              "description": "Otherwise the ball will bounce higher and will take longer to drop and hit the other side, and so you won't be able to serve as fast.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Table tennis racket and balls"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Targets on the Far Side of the Table",
+            "description": "Put targets on the far side of the table and see if you can consistently hit them.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket, balls, and targets"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "nom": "Speed",
+            "description": "Serve fast and aim for the opponent's end-line to maximize the speed.",
+            "target": "Not specified by source."
+          },
+          {
+            "nom": "Depth",
+            "description": "Aim for the middle or corners of the table to create a deep serve.",
+            "target": "Not specified by source."
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "nom": "Grazing the Ball Too Much",
+            "description": "Don't graze the ball too much with a fast serve as you won't get enough speed that way.",
+            "difficulty": "beginner"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/1908"
+      }
+    ]
+  }
+}

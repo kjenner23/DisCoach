@@ -1,0 +1,56 @@
+{
+  "meta": {
+    "article_title": "February 18, 2019 - Judging the Depth of a Serve",
+    "article_slug": "judging-the-depth-of-a-serve",
+    "source_url": "http://www.tabletenniscoaching.com/node/3041",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "judging-the-depth-of-a-serve": [
+      {
+        "probleme": "Judging the depth of a serve",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "probleme": "Recognize long serves",
+              "solution": "Watch the ball as it rises and learn to judge its trajectory with experience"
+            }
+          ],
+          "intermediaire": [
+            {
+              "probleme": "Judge the spin, speed, and bounce of a serve",
+              "solution": "Observe the paddle and racket movement, and consider the ball's speed, downward travel, and spin"
+            },
+            {
+              "probleme": "Practice judging depth reflexively as the ball is leaving the paddle or sooner",
+              "solution": "Practice with a coach or partner to develop this skill"
+            }
+          ],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Half-long serves drill",
+            "description": "Have a coach or partner serve deep balls, and practice judging their depth quickly",
+            "difficulte": "Intermediate",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis equipment"
+          }
+        ],
+        "metriques_progression": [
+          "Practice regularly to develop the skill"
+        ],
+        "erreurs_a_eviter": [
+          {
+            "probleme": "Misjudging serve depth",
+            "solution": "Practice recognizing long serves and judging their trajectory with experience"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3041"
+      }
+    ]
+  }
+}

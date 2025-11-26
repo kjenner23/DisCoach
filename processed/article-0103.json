@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "article_title": "November 22, 2021 - How to Fix a Weakness in Your Game",
+    "article_slug": "fix-weakness-game",
+    "source_url": "http://www.tabletenniscoaching.com/node/3332",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "fix-weakness-game": [
+      {
+        "probleme": "Weakness in Your Game",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Identify Weaknesses",
+              "description": "Ask regular playing partners for feedback or self-coach by watching others.",
+              "difficulte": "All levels",
+              "duree": "Not specified by source.",
+              "materiel": "Regular playing partners"
+            },
+            {
+              "nom": "Coaching and Practice",
+              "description": "Ask experienced players for help, self-coach, or watch how others do it. Then practice until no longer a weakness.",
+              "difficulte": "All levels",
+              "duree": "Not specified by source.",
+              "materiel": "Experienced players"
+            },
+            {
+              "nom": "Find Ways to Cover",
+              "description": "Play differently in practice matches, find ways to cover weaknesses. Balance between fixing and hiding.",
+              "difficulte": "All levels",
+              "duree": "Not specified by source.",
+              "materiel": "Practice partners"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Drills for Backhand Corner",
+            "description": "Train feet to stop at backhand corner, then practice with wide serves.",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": "Practice partners"
+          },
+          {
+            "nom": "Flipping or Pushing Short",
+            "description": "Flip or push short against nearly all short serves, avoid spinny loops to backhand.",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": "Practice partners"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "reps": "Not specified by source.",
+            "time": "Not specified by source."
+          }
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/3332"
+      }
+    ]
+  }
+}

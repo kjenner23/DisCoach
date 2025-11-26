@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "article_title": "May 9, 2011 - A Journey of Nine Feet Begins at Contact",
+    "article_slug": "journey_of_nine_feet_begins_at_contact",
+    "source_url": "http://www.tabletenniscoaching.com/node/343",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "journey_of_nine_feet_begins_at_contact": [
+      {
+        "probleme": "Effective Serve Technique",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "contact_point": "Visualize the contact point: how high from the table, and where on the racket?",
+              "spin": "Visualize the type of spin",
+              "speed": "Visualize the speed of the serve",
+              "first_bounce": "Visualize the location of the first bounce",
+              "curve_in_air": "Visualize the curve of the ball in the air"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Visualize Serve Technique",
+            "description": "Visualize contact point, spin, speed, first bounce, and curve in the air",
+            "difficulte": "debutant",
+            "duree": "Not specified by source.",
+            "materiel": "racket"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "target": "Low bounces near the net for short serves"
+          }
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/343"
+      }
+    ]
+  }
+}

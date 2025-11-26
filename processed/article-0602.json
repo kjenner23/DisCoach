@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "article_title": "August 8, 2011 - Playing Lefties",
+    "article_slug": "playing-lefties",
+    "source_url": "http://www.tabletenniscoaching.com/node/489",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "playing-lefties": [
+      {
+        "probleme": "Playing Lefties",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Aim the ball down the line to the lefty's forehand.",
+              "description": "Take the ball crosscourt into their backhand."
+            },
+            {
+              "nom": "Use quick, aggressive backhands crosscourt into their wide forehand.",
+              "description": "Lock them up on their backhands with your forehand into their backhand."
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Aggressive crosscourt backhands to the wide forehand",
+            "description": "Wait until the last second and then lunge for the ball as it breaks away, you're probably going to miss.",
+            "difficulte": "all levels",
+            "duree": "Not specified by source.",
+            "materiel": "None"
+          },
+          {
+            "nom": "Forehand serves into your forehand that break away",
+            "description": "Wait until the last second and then lunge for the ball as it breaks away, you're probably going to miss.",
+            "difficulte": "all levels",
+            "duree": "Not specified by source.",
+            "materiel": "None"
+          },
+          {
+            "nom": "Returning a lefty's forehand serve into your forehand",
+            "description": "Aim the ball down the line to the lefty's forehand. At the last minute you can take the ball crosscourt into their backhand.",
+            "difficulte": "all levels",
+            "duree": "Not specified by source.",
+            "materiel": "None"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "rep": "Get used to how a lefty's shots come out"
+          },
+          {
+            "target": "Master the shots"
+          }
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/489"
+      }
+    ]
+  }
+}

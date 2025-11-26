@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "article_title": "July 18, 2022 - Contact Point on Racket When Serving",
+    "article_slug": "contact-point-on-racket-when-serving",
+    "source_url": "http://www.tabletenniscoaching.com/node/3393",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "axis of rotation",
+      "definition": "The point on the racket where the wrist or elbow is located during the serve.",
+      "contexte": "Used to describe the location of the racket's rotation during the serve.",
+      "source_url": "http://www.tabletenniscoaching.com/node/3393"
+    }
+  ],
+  "problemes_solutions": {
+    "contact-point-on-racket-when-serving": [
+      {
+        "probleme": "Varying spin",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Tip of the racket",
+              "description": "For maximum spin, contact the ball toward the tip. That's the fastest moving part of the racket as you put your wrist into the serve.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Generic racket"
+            },
+            {
+              "nom": "Base of the paddle, near the handle",
+              "description": "This allows you to use the same big spin serve motion and get little or no spin.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Generic racket"
+            }
+          ],
+          "intermediaire": [
+            {
+              "nom": "Rotate the racket so that the axis of rotation is toward the middle of the racket",
+              "description": "This means you get opposite spins depending on which side of the racket you contact the ball on.",
+              "difficulte": "intermediate",
+              "duree": "Not specified by source.",
+              "materiel": "Generic racket"
+            }
+          ],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Forehand pendulum serve",
+            "description": "Serve so that, at contact, the tip is moving down (giving a backspin), but the area near the handle is moving up (giving a topspin or sidespin).",
+            "difficulte": "advanced",
+            "duree": "Not specified by source.",
+            "materiel": "Generic racket"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "nom": "Spin",
+            "description": "Varying spin depending on the location of contact.",
+            "difficulte": "all levels",
+            "duree": "Not specified by source."
+          }
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/3393"
+      }
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "article_title": "October 19, 2015 - The Power of a Low, Short, No-Spin Serve",
+    "article_slug": "the_power_of_a_low_short_no_spin_serve",
+    "source_url": "http://www.tabletenniscoaching.com/node/2249",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "the_power_of_a_low_short_no_spin_serve": [
+      {
+        "probleme": "Why are no-spin serves effective at the higher levels?",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Serves are very low",
+          "Threat of spin"
+        ],
+        "solutions_progressives": {
+          "debutant": [],
+          "intermediaire": [
+            {
+              "probleme": "Difficulty in dropping short or putting extra backspin on the push"
+            }
+          ],
+          "avance": [
+            {
+              "probleme": "Difficulty in flipping aggressively against a no-spin serve"
+            },
+            {
+              "probleme": "Faking spin and serving no-spin to deceive opponents"
+            }
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Short serves with varying spins",
+            "description": "Practice short serves with different types of spin (backspin, sidespin, topspin) to develop variety and deception.",
+            "difficulte": "Intermediate",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Table tennis racket",
+              "Table tennis balls"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          {
+            "reps": 10,
+            "time": "1 minute"
+          },
+          {
+            "reps": 20,
+            "time": "2 minutes"
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "erreur": "Assuming the serve has spin or no-spin"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/2249"
+      }
+    ]
+  }
+}

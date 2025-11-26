@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "article_title": "June 27, 2016 - Inside-Out Forehand Floppy Wrist Flip",
+    "article_slug": "inside_out_forehand_floppy_wrist_flip",
+    "source_url": "http://www.tabletenniscoaching.com/node/2442",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "inside_out_forehand_floppy_wrist_flip": [
+      {
+        "probleme": "Short serve to forehand, requiring a flip shot",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Reaching in with stiff wrist"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Approach the ball like any other flip",
+            "Bring the wrist back and brush the ball on the inside at the last second"
+          ],
+          "intermediaire": [
+            "Use sidespin to create deception"
+          ],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Forehand flip drills",
+            "description": "Practice brushing the ball with a loose wrist, focusing on inside-out spin",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Table tennis racket",
+              "Balls"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          "Targeting down-the-line shots"
+        ],
+        "erreurs_a_eviter": [
+          "Stiff wrist, reaching in too far"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/2442"
+      }
+    ]
+  }
+}

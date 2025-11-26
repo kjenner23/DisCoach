@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "article_title": "February 15, 2016 - Improving Side-to-Side Reaction",
+    "article_slug": "improving-side-to-side-reaction",
+    "source_url": "http://www.tabletenniscoaching.com/node/2335",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "improving_side_to_side_reaction": [
+      {
+        "probleme": "Side-to-side reaction issue in game-type play",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Shadow-stroking forehand or backhand",
+              "description": "React to random points left or right; shadow-stroke accordingly.",
+              "difficulte": "Beginner",
+              "duree": "Not specified by source.",
+              "materiel": []
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Randomly pointed forehand or backhand",
+            "description": "React to random points left or right; shadow-stroke accordingly.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": []
+          }
+        ],
+        "metriques_progression": [
+          [
+            "Reaction time improves in game-type play"
+          ]
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/2335"
+      }
+    ]
+  }
+}

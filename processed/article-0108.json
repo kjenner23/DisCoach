@@ -1,0 +1,74 @@
+{
+  "meta": {
+    "article_title": "September 27, 2021 - Forehand Push for Playing Choppers",
+    "article_slug": "forehand-push-playing-choppers",
+    "source_url": "http://www.tabletenniscoaching.com/node/3320",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "loop",
+      "definition": "a shot that sends the ball flying back to the opponent's side",
+      "contexte": "used in forehand pushing and chopper playing",
+      "source_url": "http://www.tabletenniscoaching.com/node/3320"
+    }
+  ],
+  "problemes_solutions": {
+    "forehand-push-playing-choppers": [
+      {
+        "probleme": "Forehand push against deep choppers",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Push and start over",
+              "description": "Push the ball back to the opponent after a successful loop, and then attack again",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "racket"
+            }
+          ],
+          "intermediaire": [
+            {
+              "nom": "Push against chopper's return",
+              "description": "Push the ball back to the opponent after a successful loop, and then start over",
+              "difficulte": "intermediate",
+              "duree": "Not specified by source.",
+              "materiel": "racket"
+            }
+          ],
+          "avance": [
+            {
+              "nom": "Attack against spinny loops",
+              "description": "Attack the ball with a stronger loop when the opponent chops back",
+              "difficulte": "advanced",
+              "duree": "Not specified by source.",
+              "materiel": "racket"
+            }
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Forehand push practice",
+            "description": "Practice forehand pushing with someone, including the not-as-often-used forehand push",
+            "difficulte": "all levels",
+            "duree": "Not specified by source.",
+            "materiel": "racket"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "reps": "Not specified by source."
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "nom": "Attacking over and over",
+            "description": "Don't attack repeatedly without letup, as this can lead to mistakes"
+          }
+        ]
+      }
+    ]
+  }
+}

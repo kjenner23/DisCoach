@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "article_title": "February 27, 2012 - Opening Up the Forehand Zone",
+    "article_slug": "opening-up-the-forehand-zone",
+    "source_url": "http://www.tabletenniscoaching.com/node/795",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "opening-up-the-forehand-zone": [
+      {
+        "probleme": "Awkward forehand stroke due to backhand stance",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Standing facing the table"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Drill with partner: side-to-side hits and forehand/backhand alternation"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Forehand-backhand drill",
+            "description": "Alternate hitting backhands and forehands to the same spot, focusing on opening up the forehand zone.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "None"
+          },
+          {
+            "nom": "Random hits drill",
+            "description": "Have partner hit ball randomly to forehand and backhand, focusing on proper forehand zone opening.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "None"
+          }
+        ],
+        "metriques_progression": [
+          "Developing habit of opening up the forehand zone"
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/795"
+      }
+    ]
+  }
+}

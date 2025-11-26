@@ -1,0 +1,73 @@
+{
+  "meta": {
+    "article_title": "September 29, 2014 - Improvised Games",
+    "article_slug": "improvised_games",
+    "source_url": "http://www.tabletenniscoaching.com/node/1937",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "improvised_games": [
+      {
+        "probleme": "Improvised Games",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Serve short backspin to opponent's backhand",
+          "Opponent pushes serve to your forehand or backhand",
+          "Server starts rally with topspin serve"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Serve short backspin to opponent's backhand",
+              "description": "Serve short backspin to opponent's backhand; he pushes to your backhand; you backhand loop; POP. Alternate versions: Your first backhand loop goes to a specified location, then POP. Or take it one step further, and opponent's first block goes to a specified location.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "racket"
+            },
+            {
+              "nom": "Serve short side-top to forehand or backhand",
+              "description": "Server serves varied long serves to opponent's backhand. Opponent soft loops serve back. You attack, POP.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "racket"
+            }
+          ],
+          "intermediaire": [
+            {
+              "nom": "Pushing game with rallies starting with a backspin serve",
+              "description": "Play a pushing game where both players can only push, with rallies starting with a backspin serve. But since most players push better on the backhand, there might be a tendency to push to the forehand in this game, since the opponent isn't allowed to attack.",
+              "difficulte": "intermediate",
+              "duree": "Not specified by source.",
+              "materiel": "racket"
+            }
+          ],
+          "avance": [
+            {
+              "nom": "Lobbing, fishing, or chopping game to work on your defense",
+              "description": "Play a lobbing, fishing, or chopping game to work on your defense, where you aren't allowed to attack. Alternate version is where you can attack, but must win the point on one shot if you do.",
+              "difficulte": "advanced",
+              "duree": "Not specified by source.",
+              "materiel": "racket"
+            }
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Serve short backspin to opponent's backhand; he pushes to your backhand; you backhand loop; POP.",
+            "description": "Server serves short backspin to opponent's backhand. Opponent pushes serve to your backhand or forehand. You attack, POP.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "racket"
+          }
+        ],
+        "metriques_progression": [
+          "Not specified by source."
+        ],
+        "erreurs_a_eviter": [
+          "Don't get into the habit of trying to rip every ball"
+        ]
+      }
+    ]
+  }
+}

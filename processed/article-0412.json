@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "article_title": "June 1, 2015 - Fast No-Spin Serves to the Middle",
+    "article_slug": "fast_no_spin_serve_to_middle",
+    "source_url": "http://www.tabletenniscoaching.com/node/2138",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "fast_no_spin_serve_to_middle": [
+      {
+        "probleme": "Fast no-spin serve to the middle",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Receiver has to make a snap decision on forehand or backhand",
+          "Receiver is rushed and has little time to make decisions and movements",
+          "Receiver tends to shorten his stroke and lose control"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Fast no-spin serve to the middle",
+              "description": "Contact the ball perhaps a foot behind the end-line, as low to the table as possible, with some topspin.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Ball"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Fast no-spin serve to the middle",
+            "description": "Practice serving fast and knocking off targets on the far end of the table.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Targets (bottles or paper cups)"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "target": "Free points"
+          }
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/2138"
+      }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "article_title": "May 18, 2015 - Become a Player of Routine",
+    "article_slug": "become-a-player-of-routine",
+    "source_url": "http://www.tabletenniscoaching.com/node/2126",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "physically",
+      "definition": "preparing for play the same way each time",
+      "contexte": "warming up and tuning up all of your major techniques",
+      "source_url": "http://www.tabletenniscoaching.com/node/2126"
+    },
+    {
+      "terme": "mentally",
+      "definition": "preparing yourself so your mind is at its best for play",
+      "contexte": "developing little rituals at the table",
+      "source_url": "http://www.tabletenniscoaching.com/node/2126"
+    },
+    {
+      "terme": "tactically",
+      "definition": "going over the tactics of the upcoming match",
+      "contexte": "remind yourself to stop and think about these things periodically during the match",
+      "source_url": "http://www.tabletenniscoaching.com/node/2126"
+    },
+    {
+      "terme": "equipmentally",
+      "definition": "having the proper equipment on hand",
+      "contexte": "making sure you have everything present and ready",
+      "source_url": "http://www.tabletenniscoaching.com/node/2126"
+    }
+  ],
+  "problemes_solutions": {
+    "become-a-player-of-routine": [
+      {
+        "probleme": "Systematically being at best physically, mentally, tactically, and equipmentally",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "warming up and tuning up all of your major techniques",
+              "description": "Warming up isn't just at the table; it means doing, for example, some easy jogging and stretching before play to get the body ready.",
+              "difficulte": "all levels",
+              "duree": "Not specified by source.",
+              "materiel": "generic names only (e.g., 'bucket of balls'); no brands"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "warming up and tuning up all of your major techniques",
+            "description": "Warming up isn't just at the table; it means doing, for example, some easy jogging and stretching before play to get the body ready.",
+            "difficulte": "all levels",
+            "duree": "Not specified by source.",
+            "materiel": "generic names only (e.g., 'bucket of balls'); no brands"
+          }
+        ],
+        "metriques_progression": [
+          [
+            "Not specified by source."
+          ]
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/2126"
+      }
+    ]
+  }
+}

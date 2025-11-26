@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "article_title": "December 3, 2012 - The Backhand Loop and Hit One-Two Punch",
+    "article_slug": "backhand-loop-hit-one-two-punch",
+    "source_url": "http://www.tabletenniscoaching.com/node/1259",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "wristy shot",
+      "definition": "",
+      "contexte": "",
+      "source_url": "http://www.tabletenniscoaching.com/node/1259"
+    }
+  ],
+  "problemes_solutions": {
+    "backhand-loop-hit-one-two-punch": [
+      {
+        "probleme": "Forehand looping dominance",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "description": "Commit to backhand loop and hit any deep ball with backspin, and follow-up block or topspin return."
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Backhand loop and hit",
+            "description": "Loop any deep ball with backspin, then follow up with a backhand hit against the blocked or topspin return.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "target": "Last-second changes in placement with a backhand hit",
+            "reps": "Vary the placement of your opening backhand loop"
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "description": "Don't forget to open against backspin on the backhand side"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/1259"
+      }
+    ]
+  }
+}

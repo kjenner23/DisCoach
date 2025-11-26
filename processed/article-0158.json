@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "article_title": "October 12, 2020 - Don't Telegraph the Direction of Your Attack",
+    "article_slug": "dont_telegraph_direction_attack",
+    "source_url": "http://www.tabletenniscoaching.com/node/3213",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "dont_telegraph_direction_attack": [
+      {
+        "probleme": "Telegraphing the direction of attack",
+        "diagnostic": "Opponent senses the direction of attack even if not consciously aware of specific differences in stroke.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "step": "Keep shots identical as long as possible before committing to a direction"
+            },
+            {
+              "step": "Use misdirection"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Shoulder rotation drill",
+            "description": "Set up for a forehand shot and at the last second, whip the shoulders around to go in the opposite direction. Repeat on backhand.",
+            "difficulte": "intermediate",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "target": "Number of successful misdirection shots"
+          }
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/3213"
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "article_title": "November 1, 2021 - Use Practice Matches to Practice",
+    "article_slug": "use-practice-matches-to-practice",
+    "source_url": "http://www.tabletenniscoaching.com/node/3325",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "use-practice-matches-to-practice": [
+      {
+        "probleme": "Inconsistent practice",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "falling back on successful shots"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Use new techniques in practice matches",
+            "Find a weaker player to work with"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Looping against backspin",
+            "description": "Play games against a weaker player where you can serve backspin and practice looping.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket, balls"
+          }
+        ],
+        "metriques_progression": [
+          "Target consistent looped shots"
+        ],
+        "erreurs_a_eviter": [
+          "Playing against strong players too early"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3325"
+      }
+    ]
+  }
+}

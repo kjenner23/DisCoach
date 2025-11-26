@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "article_title": "August 7, 2023 - Active Feet on Receive",
+    "article_slug": "active_feet_on_receive",
+    "source_url": "http://www.tabletenniscoaching.com/node/3491",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "active_feet_on_receive": [
+      {
+        "probleme": "Poor footwork on receive",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Forgetfulness"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "cues": "Start low, stand up straighter with a small bounce as the serve approaches, and come back down to move quickly to the ball."
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Small hop drill",
+            "description": "Do a small hop every shot as you go from ready stance, hop, and move to the ball.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "None"
+          }
+        ],
+        "metriques_progression": [
+          "Get a much quicker start, whether stepping left, right, or in."
+        ],
+        "erreurs_a_eviter": [
+          "Forgetting to do the small hop on receive"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3491"
+      }
+    ]
+  }
+}

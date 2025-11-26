@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "article_title": "October 1, 2018 - How to Punish those Slow, Spinny Loops",
+    "article_slug": "punish_slow_spinny_loops",
+    "source_url": "http://www.tabletenniscoaching.com/node/3001",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "punish_slow_spinny_loops": [
+      {
+        "probleme": "Slow, spinny loops",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Against backspin",
+          "Higher spin-to-speed ratio"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Stay closer to the table",
+            "Do not hesitate",
+            "Aim lower"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Modified multiball drill",
+            "description": "Practice partner serves backspin, push, loops slow and spinny, block or counter-attack. Do not continue rally.",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Bucket of balls",
+              "Coach or practice partner"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          []
+        ],
+        "erreurs_a_eviter": [
+          "Hesitation"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3001"
+      }
+    ]
+  }
+}

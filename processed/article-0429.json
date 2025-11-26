@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "article_title": "February 2, 2015",
+    "article_slug": "develop-five-types-of-rallying-shots",
+    "source_url": "http://www.tabletenniscoaching.com/node/2029",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "develop-five-types-of-rallying-shots": [
+      {
+        "probleme": "Develop Five Types of Rallying Shots",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            "Open with an attack",
+            "Continue the attack",
+            "Put away the shot when possible"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Multiball practice",
+            "description": "Loop kills and smashes to develop putaway shots.",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": "Bucket of balls"
+          }
+        ],
+        "metriques_progression": [
+          "Rate yourself relative to your current level"
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/2029"
+      }
+    ]
+  }
+}

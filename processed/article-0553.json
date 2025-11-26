@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "article_title": "July 23, 2012 - Ready Position",
+    "article_slug": "ready-position",
+    "source_url": "http://www.tabletenniscoaching.com/node/957",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "ready_position": [
+      {
+        "probleme": "What is the proper ready position?",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Feet shoulder width apart or more",
+              "description": "Keep your feet slightly bent and parallel to the table or with the right foot (for right-handers) slightly back.",
+              "difficulte": "Beginner",
+              "duree": "Not specified by source.",
+              "materiel": [
+                "Racket"
+              ]
+            },
+            {
+              "nom": "Weight on balls of feet",
+              "description": "Keep your weight centered and balanced, with weight toward the inside balls of your feet.",
+              "difficulte": "Beginner",
+              "duree": "Not specified by source.",
+              "materiel": [
+                "Racket"
+              ]
+            },
+            {
+              "nom": "Non-playing arm as counter-balance",
+              "description": "Raise your non-playing arm to balance your playing arm, with the hand at least as high as the elbow.",
+              "difficulte": "Beginner",
+              "duree": "Not specified by source.",
+              "materiel": [
+                "Racket"
+              ]
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Footwork exercises (basketball-style)",
+            "description": "Practice lowering your center of gravity and moving quickly sideways like a basketball player or shortstop.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Racket"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          {
+            "nom": "Forehand-backhand timing",
+            "description": "Practice quick reactions to simulate backhand shots and develop a neutral stance for forehands.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Racket"
+            ]
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "nom": "Poor ready position (standing up too straight)",
+            "description": "Practice good footwork and weight distribution to avoid poor ready positions.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Racket"
+            ]
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/957"
+      }
+    ]
+  }
+}

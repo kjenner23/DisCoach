@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "article_title": "March 5, 2012 - Proper Use of the Free Arm",
+    "article_slug": "proper-use-of-the-free-arm",
+    "source_url": "http://www.tabletenniscoaching.com/node/803",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "proper-use-of-the-free-arm": [
+      {
+        "probleme": "Poor free arm technique",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Holding the free arm too low",
+          "Not using the non-playing side"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Hold the free arm up for balance at all times, wrist about as high as the elbow"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Forehand counterbalance drill",
+            "description": "Stroke forehands with a focus on natural counterbalancing of the free arm.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis equipment"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "reps": "10-20 reps per side, multiple sets"
+          }
+        ],
+        "erreurs_a_eviter": [
+          "Losing balance with each shot",
+          "Not rotating properly"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/803"
+      }
+    ]
+  }
+}

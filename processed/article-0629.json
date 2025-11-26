@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "article_title": "January 31, 2011 - How To Return Different Serves",
+    "article_slug": "return-different-serves",
+    "source_url": "http://www.tabletenniscoaching.com/node/263",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "return-different-serves": [
+      {
+        "probleme": "Returning Different Serves",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "long serves",
+          "short sidespin or topspin serves",
+          "short backspin or no-spin serves"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Attack Long Serves"
+            },
+            {
+              "nom": "Flip Short Sidespin or Topspin Serves"
+            },
+            {
+              "nom": "Push Short Backspin or No-Spin Serves"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Forehand Flip",
+            "description": "Aiming a little away from the corners, start out by simply aiming at the ball.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "bucket of balls"
+          },
+          {
+            "nom": "Chop-Block",
+            "description": "Keep your racket perpendicular to the table and chop down on the ball.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "bucket of balls"
+          }
+        ],
+        "metriques_progression": [
+          "looping against backspin",
+          "lifting against topspin or sidespin"
+        ],
+        "erreurs_a_eviter": [
+          "dropping right shoulder too much when looping a sidespin or topspin serve"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/263"
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "article_title": "March 25, 2019 - Advanced Sponge but No-So-Fast Blades",
+    "article_slug": "no_so_fast_blades_snake_case",
+    "source_url": "http://www.tabletenniscoaching.com/node/3052",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "no_so_fast_blades_snake_case": [
+      {
+        "probleme": "Blades too fast for control and habit development",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "using speed to rebound the ball",
+          "developing bad habits"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "probleme": "Get a medium-speed blade",
+              "diagnostic": "Not specified by source."
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Looping drills with advanced sponge",
+            "description": "Concise, explicit cues for looping; semicolons OK",
+            "difficulte": "Advanced",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis equipment (no brands)"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "reps/time/targets": "Loop regularly to develop advanced shots"
+          }
+        ],
+        "erreurs_a_eviter": [
+          "blocking excessively"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3052"
+      }
+    ]
+  }
+}

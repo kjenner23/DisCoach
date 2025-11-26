@@ -1,0 +1,96 @@
+{
+  "meta": {
+    "article_title": "May 14, 2018 - Tactical Thinking Between Points",
+    "article_slug": "tactical-thinking-between-points",
+    "source_url": "http://www.tabletenniscoaching.com/node/2951",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "tactical-thinking-between-points": [
+      {
+        "probleme": "When to serve and how to plan serves",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Lack of tactical thinking",
+          "Insufficient planning"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Basic serve routine",
+              "description": "Choose a simple serve and stick to it, based on the opponent's receive.",
+              "difficulte": "Beginner",
+              "duree": "Not specified by source.",
+              "materiel": [
+                "Racket",
+                "Ball"
+              ]
+            }
+          ],
+          "intermediaire": [
+            {
+              "nom": "Serve and receive planning",
+              "description": "Plan serves based on the opponent's receive, considering different serve types and placement.",
+              "difficulte": "Intermediate",
+              "duree": "Not specified by source.",
+              "materiel": [
+                "Racket",
+                "Ball"
+              ]
+            }
+          ],
+          "avance": [
+            {
+              "nom": "Advanced serve planning",
+              "description": "Plan serves based on the opponent's receive, considering different serve types, placement, and timing.",
+              "difficulte": "Advanced",
+              "duree": "Not specified by source.",
+              "materiel": [
+                "Racket",
+                "Ball"
+              ]
+            }
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Serve planning drill",
+            "description": "Choose a serve type and practice planning it based on the opponent's receive, considering different placement options.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Racket",
+              "Ball"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          {
+            "nom": "Serve success rate",
+            "description": "Track the number of successful serves based on planning and execution.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Racket",
+              "Ball"
+            ]
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "nom": "Over-thinking during a match",
+            "description": "Avoid over-analyzing during a match and stick to your planned serves.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Racket",
+              "Ball"
+            ]
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/2951"
+      }
+    ]
+  }
+}

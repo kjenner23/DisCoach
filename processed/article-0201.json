@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "article_title": "November 25, 2019 - Serving from the Forehand Side",
+    "article_slug": "serving-from-forehand-side",
+    "source_url": "http://www.tabletenniscoaching.com/node/3123",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "serving-from-forehand-side": [
+      {
+        "probleme": "Serve from forehand side",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "description": "Experiment with serving from forehand side to force receiver to adjust.",
+              "difficulte": "Beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Table tennis racket and balls"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Forehand pendulum serve from forehand side",
+            "description": "Serve short to the forehand, forcing an opponent with a good backhand flip to receive forehand.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket and balls"
+          }
+        ],
+        "metriques_progression": [
+          "Not specified by source."
+        ],
+        "erreurs_a_eviter": [
+          {
+            "description": "Don't camp out on one side; follow the serve up from both wings."
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3123"
+      }
+    ]
+  }
+}

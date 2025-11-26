@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "article_title": "December 24, 2016 - Ask the Distributor!",
+    "article_slug": "ask-the-distributor",
+    "source_url": "http://www.tabletenniscoaching.com/node/2553",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "ask-the-distributor": [
+      {
+        "probleme": "Choosing the right equipment",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            "Experiment with different rackets and sponges"
+          ],
+          "intermediaire": [
+            "Consult with an equipment expert at a distributor"
+          ],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Equipment selection drills",
+            "description": "Try out different rackets and sponges to find the perfect combination",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Different rackets and sponges"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          {
+            "rep": 10,
+            "target": "Find the perfect combination"
+          }
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/2553"
+      }
+    ]
+  }
+}

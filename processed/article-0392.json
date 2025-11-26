@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "article_title": "November 2, 2015 - Distance from Table When Looping a Push",
+    "article_slug": "distance-from-table-when-looping-a-push",
+    "source_url": "http://www.tabletenniscoaching.com/node/2263",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "body torque",
+      "definition": "The act of rotating the body to generate power and speed in a shot.",
+      "contexte": "Used when looping backspin or topspin.",
+      "source_url": "http://www.tabletenniscoaching.com/node/2263"
+    }
+  ],
+  "problemes_solutions": {
+    "distance-from-table-when-looping-a-push": [
+      {
+        "probleme": "Standing too far from the table when looping against backspin.",
+        "diagnostic": "Players backing up or using a soft loop with mostly upward motion.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "description": "Learn to jam the table with your left leg (for righties) when looping backspin."
+            }
+          ],
+          "intermediaire": [
+            {
+              "description": "Use body torque to generate power and speed in a shot."
+            }
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Jamming the table with your left leg",
+            "description": "Contact the ball to the side of your body instead of in front.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "None"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "target": "50-50 speed and spin ratio on most shots"
+          }
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/2263"
+      }
+    ]
+  }
+}

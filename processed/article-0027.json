@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "article_title": "May 8, 2023 - Five Tips to Increase Forehand Looping Power",
+    "article_slug": "fearsome_fivesome",
+    "source_url": "http://www.tabletenniscoaching.com/node/3468",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "forehand_looping_power": [
+      {
+        "probleme": "Forehand Looping Power",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "proche_pied": "Use a wider stance, with your legs farther apart."
+            }
+          ],
+          "intermediaire": [
+            {
+              "bras_contre_ballon": "As you backswing, bring your wrist back as well, so that it can naturally snap through the ball during contact."
+            },
+            {
+              "rotation_body": "Contact the ball more from your side as your body is rotating."
+            }
+          ],
+          "avance": [
+            {
+              "facile_puissance": "Focus on 'easy power,' where you let the muscles smoothly contract in rough order from bottom to top (from legs to forearm & wrist), rather than try to spastically 'muscle' the ball."
+            }
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Wider Stance Drill",
+            "description": "Practice a wider stance and weight transfer.",
+            "difficulte": "Debutant",
+            "duree": "Not specified by source.",
+            "materiel": "Bucket of balls"
+          },
+          {
+            "nom": "Backswing Wrist Snap Drill",
+            "description": "Practice snapping your wrist through the ball during contact.",
+            "difficulte": "Intermediaire",
+            "duree": "Not specified by source.",
+            "materiel": "Bucket of balls"
+          },
+          {
+            "nom": "Body Rotation Loop Drill",
+            "description": "Practice looping with body rotation, focusing on contacting the ball from your side as you rotate.",
+            "difficulte": "Intermediaire",
+            "duree": "Not specified by source.",
+            "materiel": "Bucket of balls"
+          }
+        ],
+        "metriques_progression": [
+          [
+            "Target speed or reps"
+          ]
+        ],
+        "erreurs_a_eviter": [
+          {
+            "nom": "Muscling the Ball",
+            "description": "Try to avoid using raw power and instead focus on smooth, controlled movements."
+          },
+          {
+            "nom": "Swinging with Arm Alone",
+            "description": "Avoid swinging mostly with your arm and instead focus on using your body rotation."
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3468"
+      }
+    ]
+  }
+}

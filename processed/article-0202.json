@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "article_title": "November 18, 2019 - \"Proper Way\" is What Works for You",
+    "article_slug": "proper-way-what-works-for-you",
+    "source_url": "http://www.tabletenniscoaching.com/node/3121",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "proper way",
+      "definition": "the tried and true techniques used by top players",
+      "contexte": "learning to play like the top players",
+      "source_url": "http://www.tabletenniscoaching.com/node/3121"
+    }
+  ],
+  "problemes_solutions": {
+    "proper-way-what-works-for-you": [
+      {
+        "probleme": "older players with bad habits or unconventional playing style",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [],
+          "intermediaire": [
+            "forget much of the 'proper way' and focus on what you're good at"
+          ],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "dominating with backhand and blocking game",
+            "description": "focus on your strong forehand and block opponents",
+            "difficulte": "all levels",
+            "duree": "Not specified by source.",
+            "materiel": "bucket of balls"
+          }
+        ],
+        "metriques_progression": [
+          "learn the rest of your game the 'proper way'"
+        ],
+        "erreurs_a_eviter": [
+          "mindlessly trying to play like top players"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3121"
+      }
+    ]
+  }
+}

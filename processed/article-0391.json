@@ -1,0 +1,91 @@
+{
+  "meta": {
+    "article_title": "November 9, 2015 - Sidespin Serves that Break Away Tend to Be More Effective",
+    "article_slug": "sidespin-break-away-more-effective",
+    "source_url": "http://www.tabletenniscoaching.com/node/2269",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "pendulum serve",
+      "definition": "",
+      "contexte": "",
+      "source_url": ""
+    }
+  ],
+  "problemes_solutions": {
+    "sidespin-break-away-more-effective": [
+      {
+        "probleme": "Sidespin serves breaking away from receivers",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Backhand sidespin serve to forehand",
+              "description": "A backhand sidespin serve tends to be more effective to an opponent's forehand, while a forehand pendulum serve tends to be more effective to the backhand.",
+              "difficulte": "beginner",
+              "duree": "",
+              "materiel": ""
+            },
+            {
+              "nom": "Forehand pendulum serve to backhand",
+              "description": "This is both because players often have to lunge after the ball as it breaks away, and because the racket angle needed to return these sidespins is less natural when done this way.",
+              "difficulte": "beginner",
+              "duree": "",
+              "materiel": ""
+            }
+          ],
+          "intermediaire": [
+            {
+              "nom": "Big breaking sidespin serve (backhand) to backhand",
+              "description": "This is very difficult for many receivers to handle as they often don't have as much range on the backhand as the forehand, and so end up reaching for the ball as it breaks away.",
+              "difficulte": "intermediate",
+              "duree": "",
+              "materiel": ""
+            },
+            {
+              "nom": "Big breaking sidespin serve (forehand) to forehand",
+              "description": "This serve is extremely effective through the intermediate level, but doesn't work very well at the higher levels, where they just loop it.",
+              "difficulte": "intermediate",
+              "duree": "",
+              "materiel": ""
+            }
+          ],
+          "avance": [
+            {
+              "nom": "Short sidespin serve (middle or forehand) to wide forehand",
+              "description": "This is usually done with a tomahawk, backhand, or reverse pendulum serve.",
+              "difficulte": "advanced",
+              "duree": "",
+              "materiel": ""
+            },
+            {
+              "nom": "Short sidespin serve (backhand) to wide backhand",
+              "description": "This is usually done with a forehand pendulum serve.",
+              "difficulte": "advanced",
+              "duree": "",
+              "materiel": ""
+            }
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Backhand sidespin serve to forehand",
+            "description": "Try out each combination and see what happens.",
+            "difficulte": "beginner",
+            "duree": "",
+            "materiel": ""
+          }
+        ],
+        "metriques_progression": [
+          [
+            "Not specified by source."
+          ]
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/2269"
+      }
+    ]
+  }
+}

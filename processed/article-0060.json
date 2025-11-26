@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "article_title": "September 19, 2022 - Blowing Ball in Air",
+    "article_slug": "blowing_ball_in_air",
+    "source_url": "http://www.tabletenniscoaching.com/node/3408",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "blowing_ball_in_air": [
+      {
+        "probleme": "Blowing Ball in Air",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Straight Up",
+              "description": "Face straight up. Hold the ball a few inches from your mouth. Blow gently, and then release the ball. Find the right distance and how hard you blow the ball.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "ball"
+            }
+          ],
+          "intermediaire": [
+            {
+              "nom": "Sideways",
+              "description": "Blow the top of the ball. Start blowing first, and when you release the ball, it barely moves.",
+              "difficulte": "intermediate",
+              "duree": "Not specified by source.",
+              "materiel": "ball"
+            }
+          ],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Blowing Ball in Air",
+            "description": "Find the right distance and how hard you blow the ball, so that when you release the ball, it doesn't shoot up or down - it just stays where you let it go.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "ball"
+          }
+        ],
+        "metriques_progression": [
+          "Not specified by source."
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/3408"
+      }
+    ]
+  }
+}

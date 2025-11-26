@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "article_title": "A Levels Approach to Tactics",
+    "article_slug": "a_levels_approach_to_tactics",
+    "source_url": "http://www.tabletenniscoaching.com/node/352",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "a_levels_approach_to_tactics": [
+      {
+        "probleme": "Tactical approach levels",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "probleme": "Level 2 tactics: Your strengths against opponent's weaknesses",
+              "solutions": [
+                {
+                  "nom": "Opponent's weakness exploitation drill",
+                  "description": "Focus on your strong forehand to attack opponent's backhand. Semicolon OK.",
+                  "difficulte": "beginner",
+                  "duree": "Not specified by source.",
+                  "materiel": "Table tennis racket; balls"
+                }
+              ]
+            },
+            {
+              "probleme": "Level 1 tactics: Your strengths against opponent's average",
+              "solutions": []
+            },
+            {
+              "probleme": "Level 0 tactics: Your strengths against opponent's strengths",
+              "solutions": []
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [],
+        "metriques_progression": [
+          "Not specified by source."
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/352"
+      }
+    ]
+  }
+}

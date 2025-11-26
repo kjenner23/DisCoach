@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "article_title": "December 4, 2017 - How to Mess Up Your Opponent When Forced to Make a Weak Shot",
+    "article_slug": "mess_up_opponent_weak_shot",
+    "source_url": "http://www.tabletenniscoaching.com/node/2826",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "mess_up_opponent_weak_shot": [
+      {
+        "probleme": "Reach or lunge for a shot",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "out of position"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Depth",
+              "description": "Keep the ball deep to keep opponent farther away and cut off extreme angles; give yourself more time to react",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Table tennis paddle"
+            }
+          ],
+          "intermediaire": [
+            {
+              "nom": "Angled placement",
+              "description": "Aim for a wide corner to force opponent to move and increase chances of mistake",
+              "difficulte": "intermediate",
+              "duree": "Not specified by source.",
+              "materiel": "Table tennis paddle"
+            }
+          ],
+          "avance": [
+            {
+              "nom": "Last-second change of direction",
+              "description": "Aim for one extreme angle, then go the other way at the last second to mess up opponent",
+              "difficulte": "advanced",
+              "duree": "Not specified by source.",
+              "materiel": "Table tennis paddle"
+            },
+            {
+              "nom": "Spin",
+              "description": "Put a good topspin or backspin on the ball even when lunging; can be tricky for some opponents",
+              "difficulte": "advanced",
+              "duree": "Not specified by source.",
+              "materiel": "Table tennis paddle"
+            },
+            {
+              "nom": "Heavy no-spin",
+              "description": "Fake backspin but meet the ball with little or no spin; can catch opponents off guard",
+              "difficulte": "advanced",
+              "duree": "Not specified by source.",
+              "materiel": "Table tennis paddle"
+            }
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Depth drill",
+            "description": "Practice keeping the ball deep to keep opponent farther away and cut off extreme angles; give yourself more time to react",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis paddle"
+          }
+        ],
+        "metriques_progression": [
+          "Not specified by source."
+        ],
+        "erreurs_a_eviter": [
+          {
+            "nom": "Lifting the ball off the table",
+            "description": "Be careful not to lift the ball right off the table with too much spin",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis paddle"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/2826"
+      }
+    ]
+  }
+}

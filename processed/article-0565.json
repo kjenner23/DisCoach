@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "article_title": "April 23, 2012 - Reverse Forehand Pendulum Serve",
+    "article_slug": "reverse_forehand_pendulum_serve",
+    "source_url": "http://www.tabletenniscoaching.com/node/857",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "reverse_forehand_pendulum_serve": [
+      {
+        "probleme": "Reverse Forehand Pendulum Serve",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Vigorously rotate the body into the shot",
+              "description": "snap the wrist just before contact; straight sidespin",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "racket"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Body rotation drill",
+            "description": "Vigorously rotate the body into the shot; no links.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "racket"
+          }
+        ],
+        "metriques_progression": [
+          "straight sidespin"
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/857"
+      }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "article_title": "August 16, 2021 - The Seven Links of Table Tennis",
+    "article_slug": "seven_links_table_tennis",
+    "source_url": "http://www.tabletenniscoaching.com/node/3307",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "first attack",
+      "definition": "The key is the first attack has to be both consistent and effective, and well-placed.",
+      "contexte": "In table tennis, refers to the initial attack after serving or receiving.",
+      "source_url": "http://www.tabletenniscoaching.com/node/3307"
+    }
+  ],
+  "problemes_solutions": {
+    "seven_links_table_tennis": [
+      {
+        "probleme": "The Seven Links of Table Tennis",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            "Practice serve and receive; develop a consistent forehand"
+          ],
+          "intermediaire": [
+            "Work on continued attack and putaways; improve mental strength"
+          ],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Basic serves",
+            "description": "Focus on consistency and placement.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket"
+          },
+          {
+            "nom": "Forehand drills",
+            "description": "Practice consistent forehands with varied spins.",
+            "difficulte": "intermediate",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket; balls"
+          }
+        ],
+        "metriques_progression": [
+          "Focus on consistency and placement; track progress"
+        ],
+        "erreurs_a_eviter": [
+          "Do not neglect receive and continued attack"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3307"
+      }
+    ]
+  }
+}

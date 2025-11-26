@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "article_title": "March 6, 2023 - Don't Practice Missing",
+    "article_slug": "dont_practice_missing",
+    "source_url": "http://www.tabletenniscoaching.com/node/3450",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "dont_practice_missing": [
+      {
+        "probleme": "Practicing missing",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Rallying at a pace they can't control"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Work on having great technique, control, and consistency.",
+            "Do drills where you focus on hitting the ball within six inches or so of where you are aiming for control."
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Drills for control",
+            "description": "Do drills where you focus on hitting the ball within six inches or so of where you are aiming.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "generic"
+          }
+        ],
+        "metriques_progression": [
+          "Count how many shots you can do in a drill to work on consistency."
+        ],
+        "erreurs_a_eviter": [
+          "Practicing missing"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3450"
+      }
+    ]
+  }
+}

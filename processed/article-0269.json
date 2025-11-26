@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "article_title": "May 29, 2018 - The Balance Between Tactical and Strategic Thinking",
+    "article_slug": "balance-between-tactical-and-strategic-thinking",
+    "source_url": "http://www.tabletenniscoaching.com/node/2961",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "balance-between-tactical-and-strategic-thinking": [
+      {
+        "probleme": "Weak blocking game",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Hiding weakness in important matches"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Realize and practice to develop blocking skill",
+            "Develop ways to get it into play"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Blocking drills",
+            "description": "Practice blocking with different spin and pace of balls; focus on developing strong forehand and backhand blocks",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Bucket of balls"
+          }
+        ],
+        "metriques_progression": [
+          "Increase confidence in shots"
+        ],
+        "erreurs_a_eviter": [
+          "Don't neglect to practice blocking in close matches"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/2961"
+      }
+    ]
+  }
+}

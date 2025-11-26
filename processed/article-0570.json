@@ -1,0 +1,64 @@
+{
+  "meta": {
+    "article_title": "March 19, 2012 - Fixing the Biggest Weakness in Your Game",
+    "article_slug": "fix-biggest-weakness-game",
+    "source_url": "http://www.tabletenniscoaching.com/node/817",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "biggest-weakness": [
+      {
+        "probleme": "Fixing the biggest weakness in your game",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Exaggeration drill",
+              "description": "Focus on correcting the bad technique, not just developing a decent one",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Table tennis equipment"
+            }
+          ],
+          "intermediaire": [
+            {
+              "nom": "Video analysis",
+              "description": "Watch videos of yourself playing and compare with top players to identify the weakness",
+              "difficulte": "intermediate",
+              "duree": "Not specified by source.",
+              "materiel": "Table tennis equipment, video recording device"
+            }
+          ],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Drill to exaggerate the fix",
+            "description": "Exaggerate the correct technique for a while to ingraining it",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis equipment"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "nom": "Long-term practice sessions",
+            "description": "Spend extended period of time practicing to undo the bad habit",
+            "difficulte": "all levels",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis equipment"
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "nom": "Working on just a decent technique",
+            "description": "Replace one bad technique with another, rather than focusing on turning the weakness into a strength"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/817"
+      }
+    ]
+  }
+}

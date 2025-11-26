@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "article_title": "December 6, 2021 - Bring Proper Equipment and Supplies",
+    "article_slug": "proper-equipment-and-supplies_",
+    "source_url": "http://www.tabletenniscoaching.com/node/3335",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "slippery-floors": [
+      {
+        "probleme": "Slippery floors",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "new shoes",
+          "old shoes"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Wet paper towel drill",
+              "description": "Use a slightly wet paper towel on the floor, and step on it between rallies.",
+              "difficulte": "Beginner",
+              "duree": "Not specified by source.",
+              "materiel": [
+                "paper towel",
+                "plastic bag"
+              ]
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Towel drill",
+            "description": "Use two towels, one for yourself and one for the ball and racket only.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "towels"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          {
+            "nom": "Racket grip maintenance",
+            "description": "Keep your racket grippy by using two towels, one for yourself and one for the ball and racket only.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "towels"
+            ]
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "nom": "Dehydration",
+            "description": "Drink fluids from the start of the tournament, not just when you are thirsty.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "water",
+              "Gatorade"
+            ]
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3335"
+      }
+    ]
+  }
+}

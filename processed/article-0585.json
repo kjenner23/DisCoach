@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "article_title": "December 5, 2011 - Going to the Well Too Often",
+    "article_slug": "going-to-the-well-too-often",
+    "source_url": "http://www.tabletenniscoaching.com/node/691",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "going_to_the_well_too_often": [
+      {
+        "probleme": "Overusing a winning tactic",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "description": "Vary the serve or push by changing spin, speed, depth, or serving location"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Serve variation",
+            "description": "Try different spins, speeds, depths, or locations for the serve",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket and balls"
+          }
+        ],
+        "metriques_progression": [
+          "Target: Varying the winning tactic"
+        ],
+        "erreurs_a_eviter": [
+          {
+            "description": "Overusing a winning tactic too early or often"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/691"
+      }
+    ]
+  }
+}

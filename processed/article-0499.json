@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "article_title": "A Step-by-Step Sequence to Learning Pendulum Serves",
+    "article_slug": "pendulum_serve",
+    "source_url": "http://www.tabletenniscoaching.com/node/1602",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "pendulum_serve": [
+      {
+        "probleme": "Learn Pendulum Serve with Great Spin and Control",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Spin the ball to make it jump to left side",
+              "description": "Hold racket out, toss ball, and spin bottom with right-to-left motion. Catch and repeat until you can really spin the ball.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "tabletennis racket"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Spin and control the ball on table",
+            "description": "Repeat step two, except don't catch the ball - let it go. Practice until you can spin the ball and control it to bounce over net after one bounce.",
+            "difficulte": "intermediate",
+            "duree": "Not specified by source.",
+            "materiel": "tabletennis racket"
+          }
+        ],
+        "metriques_progression": [
+          [
+            "first bounce near the net"
+          ],
+          [
+            "second bounce near opponent's end-line"
+          ]
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/1602"
+      }
+    ]
+  }
+}

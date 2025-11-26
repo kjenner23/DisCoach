@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "article_title": "October 31, 2022 - Increase Forearm Snap to Maximize Smashing Speed",
+    "article_slug": "increase_forearm_snap_maximize_smashing_speed",
+    "source_url": "http://www.tabletenniscoaching.com/node/3419",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "increase_forearm_snap_maximize_smashing_speed": [
+      {
+        "probleme": "Weak Forearm Snap",
+        "diagnostic": "Lack of forearm snap leading to slow smashes",
+        "causes_communes": [
+          "Lack of proper timing",
+          "Insufficient weight transfer"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Work on smooth progression from legs, hips, waist, shoulders, and forearm",
+            "Use 70-80% power"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Forearm Snap Drill",
+            "description": "Bounce ball high, smash using lots of forearm snap, keeping elbow down",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Balls",
+              "Table"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          {
+            "rep": 5,
+            "time": "2-3 minutes"
+          }
+        ],
+        "erreurs_a_eviter": [
+          "Inconsistent contact, leading to varying sounds when smashing"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3419"
+      }
+    ]
+  }
+}

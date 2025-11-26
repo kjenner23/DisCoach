@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "article_title": "December 9, 2013 - Learn Tactics by Coaching Others",
+    "article_slug": "learn-tactics-by-coaching-others",
+    "source_url": "http://www.tabletenniscoaching.com/node/1684",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "learn-tactics-by-coaching-others": [
+      {
+        "probleme": "Limited tactical awareness",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Staying in a comfort zone"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Watch others play and analyze their tactics"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Coaching others",
+            "description": "Pay attention to what others are doing during matches, analyzing their tactics and learning from them.",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": "None"
+          }
+        ],
+        "metriques_progression": [
+          [
+            "Learn new tactics"
+          ]
+        ],
+        "erreurs_a_eviter": [
+          [
+            "Staying stuck in a tactical fishbowl"
+          ]
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/1684"
+      }
+    ]
+  }
+}

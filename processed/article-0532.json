@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "article_title": "December 31, 2012 - Balance Throughout the Stroke",
+    "article_slug": "balance-throughout-the-stroke",
+    "source_url": "http://www.tabletenniscoaching.com/node/1287",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "balance-throughout-the-stroke": [
+      {
+        "probleme": "Going off balance",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "When moving to the ball",
+          "When following through"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Keep weight between feet when moving to the ball",
+            "Focus on rotating around a pole in follow-through"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Shadow practice forehand shot",
+            "description": "Freeze at end of follow-through; ensure weight between feet.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "None"
+          }
+        ],
+        "metriques_progression": [
+          "Rapid recovery for next shot"
+        ],
+        "erreurs_a_eviter": [
+          "Widening stance; leaning or reaching for the ball"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/1287"
+      }
+    ]
+  }
+}

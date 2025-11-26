@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "article_title": "February 3, 2014 - Winning with Ball Control",
+    "article_slug": "winning_with_ball_control",
+    "source_url": "http://www.tabletenniscoaching.com/node/1723",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "winning_with_ball_control": [
+      {
+        "probleme": "Playing against fast and powerful opponents (bashers)",
+        "diagnostic": "",
+        "causes_communes": [
+          "letting the opponent dominate"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "placement": "return serve to extreme wide backhand or forehand"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Relentless returns to extreme wide areas",
+            "description": "Practice returning serves to corners, focusing on placement and control.",
+            "difficulte": "beginner",
+            "duree": "",
+            "materiel": "racket, balls"
+          },
+          {
+            "nom": "Quick returns to elbow or backhand",
+            "description": "Train quick returns to the opponent's elbow or backhand, forcing them to make last-second decisions.",
+            "difficulte": "beginner",
+            "duree": "",
+            "materiel": "racket, balls"
+          },
+          {
+            "nom": "Middle serves and placement attacks",
+            "description": "Focus on serving to the middle of the table and attacking with well-placed shots.",
+            "difficulte": "beginner",
+            "duree": "",
+            "materiel": "racket, balls"
+          }
+        ],
+        "metriques_progression": [
+          "return serve anywhere on the table",
+          "win most points when having the initiative"
+        ],
+        "erreurs_a_eviter": [
+          "letting the opponent dominate"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/1723"
+      }
+    ]
+  }
+}

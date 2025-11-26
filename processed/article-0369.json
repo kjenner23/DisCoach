@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "article_title": "April 18, 2016 - Shot Awareness in Practice",
+    "article_slug": "shot_awareness_in_practice",
+    "source_url": "http://www.tabletenniscoaching.com/node/2385",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "shot_awareness_in_practice": [
+      {
+        "probleme": "Improving shot accuracy in practice drills",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Lack of awareness"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "proposition": "Practice shots with an aim to deep corners or middle area"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Long pushes",
+            "description": "Practicing long pushes, aiming for deep corners",
+            "difficulte": "Intermediate",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis balls"
+          }
+        ],
+        "metriques_progression": [
+          "Aim for deeper shots"
+        ],
+        "erreurs_a_eviter": [
+          "Focusing on just getting the ball on the table"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/2385"
+      }
+    ]
+  }
+}

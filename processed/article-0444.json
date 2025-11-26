@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "article_title": "October 6, 2014 - Should You Play Tournaments When Working on Something New?",
+    "article_slug": "should_you_play_tournaments_when_working_on_something_new",
+    "source_url": "http://www.tabletenniscoaching.com/node/1943",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "should_you_play_tournaments_when_working_on_something_new": [
+      {
+        "probleme": "Should I play tournaments when working on new techniques?",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Master the new technique",
+              "description": "Practice until reflexive use in matches; don't re-enforce old habits.",
+              "difficulte": "Beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Generic equipment"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Practice under pressure",
+            "description": "Use new technique in match situations to reinforce learning; avoid re-enforcing old habits.",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": "Generic equipment"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "nom": "Mastering new technique",
+            "description": "Use in match situations most of the time; don't just perfect, also reinforce under pressure."
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "nom": "Re-enforcing old habits",
+            "description": "Playing matches too early while still working on new techniques can re-enforce bad habits."
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/1943"
+      }
+    ]
+  }
+}

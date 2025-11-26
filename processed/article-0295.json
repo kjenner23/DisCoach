@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "article_title": "How to Play Doubles with a Much Stronger Player",
+    "article_slug": "play-doubles-stronger-player",
+    "source_url": "http://www.tabletenniscoaching.com/node/2812",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "lopsided team",
+      "definition": "",
+      "contexte": "",
+      "source_url": ""
+    }
+  ],
+  "problemes_solutions": {
+    "play-doubles-stronger-player": [
+      {
+        "probleme": "Playing doubles with a much stronger player",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Serve low and short, with backspin or no-spin",
+              "description": "Practice in advance to serve short, low serves. Stopping the opposing team from making strong returns allows the stronger partner to dominate.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "racket"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Serve low and short, with backspin or no-spin",
+            "description": "Practice in advance to serve short, low serves. Stopping the opposing team from making strong returns allows the stronger partner to dominate.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "racket"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "targets": "Serve short, low serves with backspin or no-spin"
+          }
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": ""
+      }
+    ]
+  }
+}

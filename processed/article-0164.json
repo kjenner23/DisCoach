@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "article_title": "Move Like a Pro",
+    "article_slug": "move_like_a_pro",
+    "source_url": "http://www.tabletenniscoaching.com/node/3201",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "move_like_a_pro": [
+      {
+        "probleme": "Slow to get to the ball and complains he's too slow.",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Slow foot speed"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Before your opponent hits the ball, flex your knees. This prepares you to move quickly."
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Flexing knees drill",
+            "description": "Prepare for quick movement by flexing knees.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "None"
+          }
+        ],
+        "metriques_progression": [
+          "Move quickly into position."
+        ],
+        "erreurs_a_eviter": [
+          "Assuming you don't always have to move"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3201"
+      }
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "article_title": "October 19, 2020 - Sometimes Hit Twice to the Same Spot",
+    "article_slug": "hit_twice_same_spot",
+    "source_url": "http://www.tabletenniscoaching.com/node/3215",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "wide forehand",
+      "definition": "",
+      "contexte": "opponent's weak spot",
+      "source_url": "http://www.tabletenniscoaching.com/node/3215"
+    },
+    {
+      "terme": "wide backhand",
+      "definition": "",
+      "contexte": "opponent's weak side",
+      "source_url": "http://www.tabletenniscoaching.com/node/3215"
+    },
+    {
+      "terme": "middle",
+      "definition": "",
+      "contexte": "transition point between forehand and backhand",
+      "source_url": "http://www.tabletenniscoaching.com/node/3215"
+    }
+  ],
+  "problemes_solutions": {
+    "hit_twice_same_spot": [
+      {
+        "probleme": "Sometimes hit twice to the same spot",
+        "diagnostic": "",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Back to forehand",
+              "description": "If opponent is out of position, go back to wide forehand.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Bucket of balls"
+            },
+            {
+              "nom": "Pin down weak side",
+              "description": "Play to opponent's weak backhand, don't change direction.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Bucket of balls"
+            },
+            {
+              "nom": "Drop shot and catch",
+              "description": "Do a drop shot, then go back to attack if opponent is too close or push was weak.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Bucket of balls"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Playing to the middle",
+            "description": "Go to the opponent's middle if they're stepping back.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Bucket of balls"
+          },
+          {
+            "nom": "Attacking chopper",
+            "description": "Attack after chopping, but only if opponent is close or push was weak.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Bucket of balls"
+          }
+        ],
+        "metriques_progression": [
+          [
+            "Weak return",
+            "Not specified by source."
+          ]
+        ],
+        "erreurs_a_eviter": [
+          [
+            "Give easy counter",
+            "Not specified by source."
+          ],
+          [
+            "Don't pin down weak side",
+            "Not specified by source."
+          ]
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3215"
+      }
+    ]
+  }
+}

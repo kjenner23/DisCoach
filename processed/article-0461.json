@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "article_title": "June 2, 2014 - Playing Short pips",
+    "article_slug": "playing_short_pips",
+    "source_url": "http://www.tabletenniscoaching.com/node/1835",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "playing_short_pips": [
+      {
+        "probleme": "Playing Against a Short Pips Player",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Inverted players often don't know how to play them"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Keep the ball deep on the table",
+              "description": "Makes things difficult for the short pips player, gives you more time to react",
+              "difficulte": "Beginner",
+              "duree": "Not specified by source.",
+              "materiel": "No specific materials needed"
+            }
+          ],
+          "intermediaire": [
+            {
+              "nom": "Don't take on a short pips player in a battle of quickness",
+              "description": "Find your comfort zone, close to the table as you are comfortable and consistent",
+              "difficulte": "Intermediate",
+              "duree": "Not specified by source.",
+              "materiel": "No specific materials needed"
+            }
+          ],
+          "avance": [
+            {
+              "nom": "Remember that their blocks and hits are deader than you expect",
+              "description": "Adjust your loops and drives slightly higher, use a bit more force to generate topspin",
+              "difficulte": "Advanced",
+              "duree": "Not specified by source.",
+              "materiel": "No specific materials needed"
+            }
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Loop into the net and then think of the short pips block as a very quick push without much spin",
+            "description": "Adjust your stroke to generate topspin, or just go with less spin but control the ball deep on the table",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "No specific materials needed"
+          },
+          {
+            "nom": "Loop off the end and adjust to lift a dropping ball",
+            "description": "Over-react less, use a bit more force to generate topspin",
+            "difficulte": "Intermediate",
+            "duree": "Not specified by source.",
+            "materiel": "No specific materials needed"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "target": "Play against short pips players every chance you can, adjust to their serves and pushes",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "No specific materials needed"
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "erreur": "Expecting too much spin from short pips serves and pushes",
+            "correction": "Adjust your reaction to less spin, play against them more often to become comfortable"
+          }
+        ]
+      }
+    ]
+  }
+}

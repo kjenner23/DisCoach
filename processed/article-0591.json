@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "article_title": "October 24, 2011 - Feet at more than shoulder width",
+    "article_slug": "feet_at_more_than_shoulder_width",
+    "source_url": "http://www.tabletenniscoaching.com/node/642",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "feet_at_more_than_shoulder_width": [
+      {
+        "probleme": "Feet width",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            "Keep feet at shoulder width or slightly wider for stability and balance"
+          ],
+          "intermediaire": [
+            "Adjust stance to lower center of gravity for quick movements"
+          ],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Wide stance drill",
+            "description": "Stand with feet shoulder-width or slightly wider apart; practice shots and quick movements.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Table tennis table",
+              "Racket",
+              "Balls"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          "Lower center of gravity for quicker movements"
+        ],
+        "erreurs_a_eviter": [
+          "Letting feet get too close together, losing balance and stability"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/642"
+      }
+    ]
+  }
+}

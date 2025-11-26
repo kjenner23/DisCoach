@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "article_title": "May 2, 2011 - Exaggerate the Opposite Motion on Serves",
+    "article_slug": "exaggerate-opposite-motion-serve",
+    "source_url": "http://www.tabletenniscoaching.com/node/336",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "exaggerate-opposite-motion-serve": [
+      {
+        "probleme": "Serve with backspin or topspin",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Opponent reading spin too easily"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Exaggerate opposite motion after contact",
+            "Vary follow-through to avoid pattern detection"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Semicircle racket movement",
+            "description": "Whip racket in a tight semicircle after contact, making it difficult for opponent to pick up spin.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Generic"
+          }
+        ],
+        "metriques_progression": [
+          "Target reps/time: 5-10 serves with exaggerated motion"
+        ],
+        "erreurs_a_eviter": [
+          "Stalling or slow follow-through"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/336"
+      }
+    ]
+  }
+}

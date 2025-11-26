@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "article_title": "November 30, 2020 - Letting an Opponent Control Play is Risky",
+    "article_slug": "letting-opponent-control-play-is-risky",
+    "source_url": "http://www.tabletenniscoaching.com/node/3228",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "letting-opponent-control-play-is-risky": [
+      {
+        "probleme": "Letting opponent control play",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            "pushing quick, very deep or short, and wide-angled"
+          ],
+          "intermediaire": [
+            "taking the ball a bit quicker",
+            "going for aggressive angles and shots to the opponent's middle"
+          ],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "quick pushes",
+            "description": "take the initiative away from the server",
+            "difficulte": "all levels",
+            "duree": "Not specified by source.",
+            "materiel": "table tennis table, racket"
+          }
+        ],
+        "metriques_progression": [
+          "return serves that take the initiative away from the server"
+        ],
+        "erreurs_a_eviter": [
+          "sitting back and hoping opponent will hand you victory"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3228"
+      }
+    ]
+  }
+}

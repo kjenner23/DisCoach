@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "article_title": "August 17, 2015 - Controlling a Match",
+    "article_slug": "controlling_a_match",
+    "source_url": "http://www.tabletenniscoaching.com/node/2193",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "serve/receive",
+      "definition": "shots that set up the first shot in a rally",
+      "contexte": "used to control play and set up first shot in a rally",
+      "source_url": "http://www.tabletenniscoaching.com/node/2193"
+    }
+  ],
+  "problemes_solutions": {
+    "controlling_a_match": [
+      {
+        "probleme": "Controlling a match",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Serve to opponent's weakness",
+              "description": "Serve to the side your opponent is weaker on, and prepare to block their shot.",
+              "difficulte": "Beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Table tennis racket"
+            },
+            {
+              "nom": "Vary serves and receives",
+              "description": "Vary your serves and receives to keep the opponent guessing and off guard.",
+              "difficulte": "Beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Table tennis racket"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Short serve to forehand and quick block to backhand",
+            "description": "Serve short to the forehand, and then quickly block their flip to the backhand.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket"
+          },
+          {
+            "nom": "Deep serve to backhand and quick block to forehand",
+            "description": "Serve deep to the backhand, and then quickly block their flip to the forehand.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "nom": "Variety of serves and receives",
+            "description": "Vary your serves and receives to keep the opponent guessing and off guard.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source."
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "nom": "Predictable receives",
+            "description": "Don't receive predictably; vary your receives to keep the opponent off guard.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source."
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/2193"
+      }
+    ]
+  }
+}

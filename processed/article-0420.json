@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "article_title": "April 6, 2015 - Tiger Woods Distraction Drill",
+    "article_slug": "tiger-woods-distract-drill",
+    "source_url": "http://www.tabletenniscoaching.com/node/2089",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "tiger-woods-distract-drill": [
+      {
+        "probleme": "Distractions",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            "Practice focusing in drills where someone creates distractions"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Jingle keys or play distracting music",
+            "description": "Practice tuning out distractions while playing or practicing.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Keys, music"
+          }
+        ],
+        "metriques_progression": [
+          "Complete focus on task at hand"
+        ],
+        "erreurs_a_eviter": [
+          "Paying attention to outside distractions"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/2089"
+      }
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "article_title": "June 9, 2014 - Controlling a Match",
+    "article_slug": "controlling-a-match_0",
+    "source_url": "http://www.tabletenniscoaching.com/node/1841",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "controlling-a-match_0": [
+      {
+        "probleme": "Controlling a match",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "hitter's hitting",
+          "looper's looping",
+          "blocker's blocking"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "serve and receive game development",
+              "description": "Develop your serve and receive game to put your strengths into play.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": [
+                "racket",
+                "table"
+              ]
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "serve and receive drills",
+            "description": "Practice serving short backspin, long backspin, sidespin, and no-spin serves to force your opponent's rallies.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "racket",
+              "table"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          {
+            "nom": "serve and receive targets",
+            "description": "Use your serve and receive game to force your opponent's rallies, focusing on placing your shots to take control.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "racket",
+              "table"
+            ]
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "nom": "opponent's strengths exploitation",
+            "description": "Be aware of your opponent's strengths and adjust your game to force them to play on their weaknesses."
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/1841"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "article_title": "December 1, 2014",
+    "article_slug": "game-plan-table-tennis-coaching",
+    "source_url": "http://www.tabletenniscoaching.com/node/1987",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "game-plan-table-tennis-coaching": [
+      {
+        "probleme": "Lack of game plan",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Playing without purpose"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Develop a game plan; adjust techniques and loop placement, speed, spin, etc., to the opponent"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Serve and loop planning",
+            "description": "Plan where to serve and loop; focus on adjusting techniques and loop placement, speed, spin, etc., to the opponent.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Generic table tennis equipment"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          "Force match-ups against opponent's weakness"
+        ],
+        "erreurs_a_eviter": [
+          "Don't just serve and loop; plan where to attack"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/1987"
+      }
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "article_title": "June 6, 2011 - Practice Matches",
+    "article_slug": "practice_matches",
+    "source_url": "http://www.tabletenniscoaching.com/node/376",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "practice_matches": [
+      {
+        "probleme": "Practice matches vs. tournament matches",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "step": "Play to win, but focus on improving specific shots or tactics"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Looping against backspin",
+            "description": "Practice counterlooping against opponents who push heavy backspin",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket"
+          },
+          {
+            "nom": "Blocking serve and loop",
+            "description": "Practice blocking serve and looping against opponents who use this tactic",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "metric": "Improve specific shots or tactics"
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "pitfall": "Don't underestimate weaker opponents; they can still practice your weaknesses"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/376"
+      }
+    ]
+  }
+}

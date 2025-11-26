@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "article_title": "March 6, 2017 - Footwork and Strokes: Use Em or Lose Em",
+    "article_slug": "use_em_or_lose_em",
+    "source_url": "http://www.tabletenniscoaching.com/node/2614",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "use_em_or_lose_em": [
+      {
+        "probleme": "Loss of footwork and strokes",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Gradual slowing down with age",
+          "Laziness"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Keep using footwork to avoid losing it",
+            "Practice counterlooping and back-up counterlooping"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Forehand loop drills",
+            "description": "Concentrate on using forehand footwork to maintain technique; practice with a partner or robot.",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis equipment"
+          }
+        ],
+        "metriques_progression": [
+          "Reps/time",
+          "Targets"
+        ],
+        "erreurs_a_eviter": [
+          "Neglecting footwork and strokes"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/2614"
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "article_title": "April 29, 2013 - The Decline of the High-Toss Serve and Why You Should Learn It",
+    "article_slug": "decline-of-high-toss-serve-and-why-you-should-learn-it",
+    "source_url": "http://www.tabletenniscoaching.com/node/1471",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "decline-of-high-toss-serve-and-why-you-should-learn-it": [
+      {
+        "probleme": "Decline of the High-Toss Serve",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "High-Toss Serve Technique",
+              "description": "Toss the ball high into the air, often ten to fifteen feet up. Practice a lot.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Table tennis racket and balls"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Forehand Pendulum Serve Drill",
+            "description": "Practice the forehand pendulum serve, tip-down with righty's racket moving from right to left.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket and balls"
+          }
+        ],
+        "metriques_progression": [
+          "Not specified by source."
+        ],
+        "erreurs_a_eviter": [
+          {
+            "nom": "Loss of Control",
+            "description": "The high-toss serve can be difficult to control, leading to inconsistent results."
+          }
+        ]
+      }
+    ]
+  }
+}

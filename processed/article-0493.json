@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "article_title": "October 14, 2013 - Playing Choppers",
+    "article_slug": "playing-choppers",
+    "source_url": "http://www.tabletenniscoaching.com/node/1637",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "chopper",
+      "definition": "",
+      "contexte": "",
+      "source_url": "http://www.tabletenniscoaching.com/node/1637"
+    }
+  ],
+  "problemes_solutions": {
+    "playing-choppers": [
+      {
+        "probleme": "Losing to a chopper",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "step": "Attack the middle of the chopper's table"
+            },
+            {
+              "step": "Use European Style, Asian Style, Pick-hitting Style or Chiseling Style to attack"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Diagonal corner attack",
+            "description": "Attack the chopper's corners with a diagonal shot",
+            "difficulte": "Beginner",
+            "duree": "Not specified",
+            "materiel": [
+              "Ball"
+            ]
+          },
+          {
+            "nom": "Middle attack",
+            "description": "Attack the chopper's middle",
+            "difficulte": "Beginner",
+            "duree": "Not specified",
+            "materiel": [
+              "Ball"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          [
+            "Number of attacks"
+          ],
+          [
+            "Average time between attacks"
+          ],
+          [
+            "Most common spin direction used"
+          ]
+        ],
+        "erreurs_a_eviter": [
+          {
+            "pitfall": "Getting too close to the table"
+          },
+          {
+            "pitfall": "Not varying spin and pace"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/1637"
+      }
+    ]
+  }
+}

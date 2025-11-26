@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "article_title": "March 15, 2015 - To Play the Middle and Wide Corners You Have to Practice to Them",
+    "article_slug": "play-middle-wide-corners-practice-them",
+    "source_url": "http://www.tabletenniscoaching.com/node/2068",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "play-middle-wide-corners-practice-them": [
+      {
+        "probleme": "Not practicing ball placement",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Looper goes wide with hooking sidespin",
+              "description": "Looping the ball outside the corner, often with hooking sidespin to go even wider. The blocker should block the ball as wide as possible.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Bucket of balls"
+            }
+          ],
+          "intermediaire": [
+            {
+              "nom": "Blocking at the middle with forehand or backhand",
+              "description": "Blocking with just forehand or just backhand over and over, or moving back into a neutral position after each shot, and then reacting to the next shot with forehand or backhand.",
+              "difficulte": "intermediate",
+              "duree": "Not specified by source.",
+              "materiel": "Bucket of balls"
+            }
+          ],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Drill with both players going wide",
+            "description": "Looper should try looping the ball outside the corner, often with hooking sidespin to go even wider. The blocker should take the ball quick off the bounce and block it as wide as possible.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Bucket of balls"
+          }
+        ],
+        "metriques_progression": [
+          "Consistency"
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/2068"
+      }
+    ]
+  }
+}

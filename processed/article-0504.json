@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "article_title": "July 22, 2013 - Pushing Change of Direction",
+    "article_slug": "pushing-change-of-direction",
+    "source_url": "http://www.tabletenniscoaching.com/node/1572",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "change_of_direction": [
+      {
+        "probleme": "Pushing to the backhand too often",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Aiming racket at opponent's backhand"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Push quick and low",
+            "Change direction at last second"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Last-second change of direction drill",
+            "description": "Quickly push to the forehand after aiming for the backhand, causing havoc for the opponent.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Bucket of balls"
+          }
+        ],
+        "metriques_progression": [
+          "Deep and wide pushes",
+          "Quick and low pushes"
+        ],
+        "erreurs_a_eviter": [
+          "Aiming racket at opponent's backhand too early"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/1572"
+      }
+    ]
+  }
+}

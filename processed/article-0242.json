@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "article_title": "January 21, 2019 - The Grinding Mentality - How to Play It and Against It",
+    "article_slug": "the_grinding_mentality",
+    "source_url": "http://www.tabletenniscoaching.com/node/3032",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "the_grinding_mentality": [
+      {
+        "probleme": "Playing the Grinder",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "description": "Find the weakest part of the Grinder's defense. Serve long, spinny serves that give you lots of time to follow up."
+            },
+            {
+              "description": "Play safe in receive, mostly, as there's no point in making an error attacking a serve when you can just push it back and look for an easier attack."
+            }
+          ],
+          "intermediaire": [
+            {
+              "description": "Attack the middle, roughly the playing elbow, midway between forehand and backhand, to force a weaker, erratic return."
+            },
+            {
+              "description": "Keep picking away at him with serves and rally shots, looking for balls you can easily attack. Don't force it; if the shot's not there, don't take it."
+            }
+          ],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Slow looping",
+            "description": "Look to see if you can end the point on the next shot after slow looping. If not, continue playing consistent until you do get the right shot.",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket and balls"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "reps": "Not specified by source."
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "description": "Don't force low-percentage attacks. Instead, play the percentage shots as you pick away at the Grinder's defense."
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3032"
+      }
+    ]
+  }
+}

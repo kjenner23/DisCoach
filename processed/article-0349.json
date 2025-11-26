@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "article_title": "October 11, 2016 - Taking the Shot Versus Letting it Happen",
+    "article_slug": "taking-the-shot-versus-letting-it-happen",
+    "source_url": "http://www.tabletenniscoaching.com/node/2512",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "taking-the-shot-versus-letting-it-happen": [
+      {
+        "probleme": "Thinking of an attacking shot as 'going for a shot'",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Lack of confidence in the shot"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Practice the shot with multiball training until it's second nature"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Multiball training",
+            "description": "Practice the shot until it becomes second nature",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Multi-ball robot"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          "Maximize consistency"
+        ],
+        "erreurs_a_eviter": [
+          "Forcing a shot; thinking you're 'going for a shot'"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/2512"
+      }
+    ]
+  }
+}

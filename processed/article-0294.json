@@ -1,0 +1,76 @@
+{
+  "meta": {
+    "article_title": "November 20, 2017 - Three Simple Side-to-Side Drills",
+    "article_slug": "side_to_side_drills",
+    "source_url": "http://www.tabletenniscoaching.com/node/2817",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "side_to_side_drills": [
+      {
+        "probleme": "Side-to-side movement",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Inconsistent strokes"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "probleme": "Consistency in side-to-side shots",
+              "solution": "Practice Drill One: Side to Side Forehand and Backhand"
+            }
+          ],
+          "intermediaire": [
+            "Not specified by source."
+          ],
+          "avance": [
+            "Not specified by source."
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Side to Side Forehand and Backhand",
+            "description": "Alternating shots, focus on consistency and strong shots.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Table tennis racket",
+              "Balls"
+            ]
+          },
+          {
+            "nom": "Side to Side Random Forehand and Backhand, Two Spots",
+            "description": "Reacting to randomly hit shots to forehand or backhand, focus on correct first move.",
+            "difficulte": "Intermediate",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Table tennis racket",
+              "Balls"
+            ]
+          },
+          {
+            "nom": "Side to Side Random Whole Table",
+            "description": "Reacting to randomly hit shots, focus on correct first move and covering middle shots.",
+            "difficulte": "Advanced",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Table tennis racket",
+              "Balls"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          {
+            "repetitions": "Not specified by source.",
+            "time": "Not specified by source."
+          }
+        ],
+        "erreurs_a_eviter": [
+          "Inconsistent strokes"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/2817"
+      }
+    ]
+  }
+}

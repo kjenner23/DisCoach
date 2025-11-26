@@ -1,0 +1,73 @@
+{
+  "meta": {
+    "article_title": "September 5, 2022 - The Simplicity of Tactics",
+    "article_slug": "tactics_simplicity",
+    "source_url": "http://www.tabletenniscoaching.com/node/3404",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "tactics_simplicity": [
+      {
+        "probleme": "Losing a match against someone around your playing level",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Opponent had more successful tactics"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Developing a large arsenal of possible tactics"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Attacking all three spots - wide forehand, wide backhand, middle",
+            "description": "End the point to the forehand when that side opens up",
+            "difficulte": "Intermediate",
+            "duree": "Not specified by source.",
+            "materiel": "Racket"
+          },
+          {
+            "nom": "Looping all deep serves and dropping nearly all short serves short",
+            "description": "No flipping except as an occasional variation",
+            "difficulte": "Intermediate",
+            "duree": "Not specified by source.",
+            "materiel": "Racket"
+          },
+          {
+            "nom": "Following the opponent's elbow around and keeping attacking it",
+            "description": "Opponent had long arms and was very strong from the corners",
+            "difficulte": "Intermediate",
+            "duree": "Not specified by source.",
+            "materiel": "Racket"
+          },
+          {
+            "nom": "Taking shots as quick as possible and taking everything to the wide backhand",
+            "description": "Take out the opponent's very strong forehand while reducing him to playing his weak backhand",
+            "difficulte": "Intermediate",
+            "duree": "Not specified by source.",
+            "materiel": "Racket"
+          },
+          {
+            "nom": "Gaining a willingness to cover much of the table with your strong backhand",
+            "description": "Go after the forehand relentlessly, never going to the backhand side unless the opponent moves over to play backhand from the forehand side - and then quick-block to the open backhand side",
+            "difficulte": "Intermediate",
+            "duree": "Not specified by source.",
+            "materiel": "Racket"
+          }
+        ],
+        "metriques_progression": [
+          "Gaining experience"
+        ],
+        "erreurs_a_eviter": [
+          "Don't fret too much about finding 'perfect' tactics"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3404"
+      }
+    ]
+  }
+}

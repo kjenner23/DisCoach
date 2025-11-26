@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "article_title": "December 14, 2015 - Fast, Quick Motions Disguise a No-Spin Serve",
+    "article_slug": "fast_quick_motions_disguise_a_no_spin_serve",
+    "source_url": "http://www.tabletenniscoaching.com/node/2291",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "no-spin serve",
+      "definition": "",
+      "contexte": "",
+      "source_url": "http://www.tabletenniscoaching.com/node/2291"
+    }
+  ],
+  "problemes_solutions": {
+    "fast_quick_motions_disguise_a_no_spin_serve": [
+      {
+        "probleme": "disguising spin on serve",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "proposition": "Change directions in the split second that the racket contacts the ball, where it is nearly motionless, or contact the ball near the handle of the blade (where the racket is moving slowest) so there will be little spin."
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "no-spin serve drill",
+            "description": "Exaggerate one direction, often down, then snap the racket up at contact, leaving the receiver to figure where the contact was.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "table tennis racket and ball"
+          }
+        ],
+        "metriques_progression": [
+          "Not specified by source."
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/2291"
+      }
+    ]
+  }
+}

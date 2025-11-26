@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "article_title": "September 25, 2023 - To Hit or to Loop?",
+    "article_slug": "to-hit-or-to-loop",
+    "source_url": "http://www.tabletenniscoaching.com/node/3505",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "to-hit-or-to-loop": [
+      {
+        "probleme": "Choose between hitting and looping",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Short balls",
+          "Fast rally"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "probleme": "Start with basic strokes (hitting in rallies and looping against backspin)",
+              "diagnostic": "Not specified by source.",
+              "causes_communes": [],
+              "solutions_progressives": []
+            }
+          ],
+          "intermediaire": [
+            {
+              "probleme": "Move beyond hitting and looping",
+              "diagnostic": "Not specified by source.",
+              "causes_communes": [],
+              "solutions_progressives": []
+            }
+          ],
+          "avance": [
+            {
+              "probleme": "Develop a winning game with hitting and blocking",
+              "diagnostic": "Not specified by source.",
+              "causes_communes": [
+                "Physical shape",
+                "Elite level"
+              ],
+              "solutions_progressives": []
+            }
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Drills for looping",
+            "description": "Practice looping against backspin and forehand sides",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Table tennis racket",
+              "Ball"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          "Not specified by source."
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/3505"
+      }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "article_title": "November 15, 2021 - Don't Give a Quick Player Too Many Short Balls",
+    "article_slug": "dont_give_a_quick_player_too_many_short_balls",
+    "source_url": "http://www.tabletenniscoaching.com/node/3329",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "dont_give_a_quick_player_too_many_short_balls": [
+      {
+        "probleme": "Rushing by a quick opponent",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "step": "Keep most shots deep against quick opponents to give yourself more time"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Short serve or short push",
+            "description": "Start some rallies with a short ball to throw the opponent off and bring them over the table, then go deep.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "reps": "Not specified by source."
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "pitfall": "Playing everything deep, making yourself predictable"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3329"
+      }
+    ]
+  }
+}

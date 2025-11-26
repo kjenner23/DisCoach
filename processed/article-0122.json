@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "article_title": "June 21, 2021 - Don't Play a Point Until You Have a Game Plan",
+    "article_slug": "dont-play-a-point-until-you-have-a-game-plan",
+    "source_url": "http://www.tabletenniscoaching.com/node/3290",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "dont-play-a-point-until-you-have-a-game-plan": [
+      {
+        "probleme": "Don't Play a Point Until You Have a Game Plan",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "description": "Serve short backspin, hoping to get long push and loop.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source."
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Varying spin and pace serves",
+            "description": "Serve short backspin, no-spin, and long with varying spin.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source."
+          },
+          {
+            "nom": "Attack deep serves and force a neutral exchange",
+            "description": "Attack deep serves to force server to serve short.",
+            "difficulte": "intermediate",
+            "duree": "Not specified by source."
+          }
+        ],
+        "metriques_progression": [
+          "Looping pushes"
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/3290"
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "article_title": "Training the Subconscious",
+    "article_slug": "training-the-subconscious",
+    "source_url": "http://www.tabletenniscoaching.com/node/2982",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "training_the_subconscious": [
+      {
+        "probleme": "Training the Subconscious",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Negative self-talk"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Practice positive self-talk between points"
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Telling yourself what to do",
+            "description": "Keep telling yourself to attack the middle or corners based on opponent's playstyle.",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": "None"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "target": "Number of points played with positive self-talk",
+            "reps": "Not specified by source."
+          }
+        ],
+        "erreurs_a_eviter": [
+          "Negative self-talk"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/2982"
+      }
+    ]
+  }
+}

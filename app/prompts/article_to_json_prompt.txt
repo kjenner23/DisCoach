@@ -1,0 +1,120 @@
+ROLE
+You are a precise data extractor for table-tennis coaching content. 
+Convert the SINGLE article below into EXACTLY ONE JSON object.
+You will always receive exactly one article per request.
+Never expect multiple articles.
+Never merge. Do not invent. Use only the text file. No web fetching.
+
+INPUT
+you will receive a an article. It is indicated by:
+===ARTICLE===
+source_url: <URL or "unknown">
+title: <exact page title if available>
+date_accessed: <YYYY-MM-DD or "unknown">
+TEXT:
+<full article text here>
+
+OUTPUT RULES (CRITICAL)
+- Output VALID JSON (not JSONL), one JSON object per article. 
+- Each object MUST be pretty-printed with indentation and line breaks (human-readable, like a formatted config file). Use pretty-printed JSON, with 2-space indent.
+- Use the schema keys (French), but values in ENGLISH.
+- If the source doesn’t state something, use [] or "Not specified by source."
+- Do NOT merge multiple articles into one object.
+- Do NOT fetch content from URLs; rely only on pasted TEXT.
+- Keep entries atomic: one article = one problem bucket.
+
+PROMOTIONAL CONTENT EXCLUSION (NON-NEGOTIABLE)
+- Never include promotional or commercial material in any field. Ignore sentences/sections that:
+  • Ask readers to buy, subscribe, donate, join a course/program/membership, book paid coaching, or use a discount code.
+  • Tell readers to “read my book/ebook,” “watch my video/YouTube,” “listen to my podcast,” “follow on social,” “sign up to newsletter.”
+  • Promote a specific brand, store, product, affiliate link, or the author/coach personally (testimonials, accolades, sales pages).
+- If a step includes a brand/product name but the advice is technical, keep the technique and replace the brand with a generic noun (e.g., "multi-ball robot" instead of a brand).
+- If an article is mostly promotional and contains little or no actual coaching advice, still output a JSON object but leave arrays empty and use "Not specified by source." where appropriate. Do NOT paraphrase promotional claims into advice.
+
+LINK & MEDIA HANDLING
+- Ignore links and calls-to-action to external media (books, videos, courses, stores). Do not turn them into drills or solutions.
+- If the pasted TEXT itself contains explicit technical guidance (even if it references a video elsewhere), you may use the guidance—but never include the link or any promotional phrasing.
+
+SLUG POLICY (MANDATORY)
+- Build <problem_slug_snake_case> from the article TITLE (fallback: source_url last segment).
+- Lowercase; remove accents; replace non [a–z0–9] with "_"; collapse repeats; trim; max 48 chars.
+
+TECHNICAL DEPTH PRIORITY
+- Capture every explicit technical cue (mechanics, timing, spin, racket angle, wrist/forearm actions, footwork, placement, sequences, constraints, reps/time/targets).
+- If content is only beginner-level, leave "intermediaire"/"avance" empty. Never speculate.
+
+TERMS POLICY
+- Add to "terminologie_extrait" ONLY when the author explicitly defines a term.
+
+JSON SHAPE TO PRODUCE (per article)
+{
+  "meta": {
+    "article_title": "<exact title or 'Unknown'>",
+    "article_slug": "<slug per policy>",
+    "source_url": "<from header>",
+    "date_accessed": "<from header>"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "<author term>",
+      "definition": "<author's explicit definition>",
+      "contexte": "<when/how it's used>",
+      "source_url": "<from header>"
+    }
+    // If none, output []
+  ],
+  "problemes_solutions": {
+    "<problem_slug_snake_case>": [
+      {
+        "probleme": "<Short problem label>",
+        "diagnostic": "<Only if stated; else 'Not specified by source.'>",
+        "causes_communes": [ /* only if stated; no promo */ ],
+        "solutions_progressives": {
+          "debutant": [ /* explicit beginner steps only; no promo */ ],
+          "intermediaire": [ /* explicit intermediate cues only; no promo */ ],
+          "avance": [ /* explicit advanced cues only; no promo */ ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "<drill name (generic, no brands)>",
+            "description": "<concise, with explicit cues; no links; no brand names; semicolons OK>",
+            "difficulte": "<beginner|intermediate|advanced|all levels or 'Not specified by source.'>",
+            "duree": "<stated or 'Not specified by source.'>",
+            "materiel": "<generic names only (e.g., 'bucket of balls'); no brands>"
+          }
+          // else []
+        ],
+        "metriques_progression": [
+          // only explicit targets/reps/time; else ["Not specified by source."]
+        ],
+        "erreurs_a_eviter": [
+          // only explicit pitfalls
+        ],
+        "source_url": "<from header>"
+      }
+    ]
+  }
+}
+
+LONG-TEXT HANDLING
+- Process the text sequentially from start to finish.
+- Do NOT skip or summarize; extract every explicit technical cue.
+- If the text seems truncated, output what you could extract so far but keep valid JSON structure.
+- Never invent missing parts.
+- Always ensure brackets and quotation marks are closed so that the JSON is valid even if incomplete.
+- If unsure about later sections, leave empty arrays or "Not specified by source."
+
+
+VALIDATION BEFORE OUTPUT
+- Remove any remaining promotional sentences or calls-to-action.
+- Replace any specific product/brand with a generic category noun if necessary.
+- If in doubt whether a sentence is promotional, exclude it.
+
+Now, using ONLY the article below, produce ONE output:
+- A SINGLE valid JSON object.
+- NO explanations, NO commentary, NO markdown, NO surrounding text.
+- The FIRST character of your reply must be "{" and the LAST must be "}".
+
+ARTICLE (PROCESS IT NOW, DO NOT WAIT FOR MORE INPUT):
+{{ARTICLE_TEXT}}
+

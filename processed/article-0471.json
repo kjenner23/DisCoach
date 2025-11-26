@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "article_title": "Isolating Techniques and Combinations",
+    "article_slug": "isolating-techniques-and-combinations",
+    "source_url": "http://www.tabletenniscoaching.com/node/1766",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "isolating-techniques-and-combinations": [
+      {
+        "probleme": "Isolating Techniques and Combinations",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Forehand drive",
+              "description": "Practice individual shots, such as forehand drives.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Table tennis racket and balls"
+            },
+            {
+              "nom": "Backhand loop",
+              "description": "Work on individual shots, such as backhand loops.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Table tennis racket and balls"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Loop against backspin",
+            "description": "Serve backspin to your partner's backhand; he pushes it back to a pre-set spot (such as your middle backhand); you loop a forehand (or backhand) to your partner's backhand.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket and balls"
+          },
+          {
+            "nom": "Backhand one-two combo",
+            "description": "Have your partner push and then block to your backhand, and you backhand loop the first (or drive, if that's how you attack backspin), and follow with a backhand loop or drive against the block.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket and balls"
+          }
+        ],
+        "metriques_progression": [
+          "Not specified by source."
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/1766"
+      }
+    ]
+  }
+}

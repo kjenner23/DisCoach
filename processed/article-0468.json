@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "article_title": "April 14, 2014 - Pushing Sidespin Serves Short",
+    "article_slug": "pushing-sidespin-serves-short",
+    "source_url": "http://www.tabletenniscoaching.com/node/1791",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "pushing-sidespin-serves-short": [
+      {
+        "probleme": "Pushing short against sidespin serves",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          ""
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Forehand pendulum serve push",
+              "description": "Drop racket tip, meet ball on bottom right side with grazing motion and slightly downward motion. Meet spin head-on.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": [
+                "bucket of balls"
+              ]
+            },
+            {
+              "nom": "Backhand serve push",
+              "description": "Raise racket tip, meet ball on bottom left side with grazing motion and slightly downward motion. Meet spin head-on.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": [
+                "bucket of balls"
+              ]
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Visualizing sidespin serves",
+            "description": "Rotate ball with forehand pendulum sidespin serve, then push and see how it would jump to the right. Drop racket tip and meet spin head-on.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "bucket of balls"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          ""
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/1791"
+      }
+    ]
+  }
+}

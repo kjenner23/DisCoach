@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "article_title": "June 8, 2015 - What to Think About in a Match",
+    "article_slug": "think-about-match",
+    "source_url": "http://www.tabletenniscoaching.com/node/2144",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "think_about_match": [
+      {
+        "probleme": "Thinking about winning or losing in a match",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Focusing on the outcome rather than basic tactics"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "focus_on_basic_tactics": "Keep your mind occupied with what's happening on the table"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Serve experiment",
+            "description": "Think about different serves and how to use them in a match.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Racket",
+              "Ball"
+            ]
+          },
+          {
+            "nom": "Basic tactics focus",
+            "description": "Focus on basic tactics such as serves, receives, and rally shots to avoid thinking about winning or losing.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Racket",
+              "Ball"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          "Keep your mind occupied with basic tactics"
+        ],
+        "erreurs_a_eviter": [
+          "Thinking about winning or losing, which can lead to nervousness and loss of focus"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/2144"
+      }
+    ]
+  }
+}

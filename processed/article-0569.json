@@ -1,0 +1,56 @@
+{
+  "meta": {
+    "article_title": "March 25, 2012 - The Great Scourge of Table Tennis Footwork: Leaning",
+    "article_slug": "leaning",
+    "source_url": "http://www.tabletenniscoaching.com/node/826",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "leaning": [
+      {
+        "probleme": "Leaning footwork",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Reaching instead of stepping"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Short step and shuffle",
+              "description": "Step first with the right or left foot, then shuffle both feet together.",
+              "difficulte": "Beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Any"
+            }
+          ],
+          "intermediaire": [
+            {
+              "nom": "One long step and shuffle",
+              "description": "Take one long step, then shuffle both feet together (especially when moving to the forehand).",
+              "difficulte": "Intermediate",
+              "duree": "Not specified by source.",
+              "materiel": "Any"
+            }
+          ],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Shadow practicing footwork",
+            "description": "Practice footwork anywhere, without a racket. Use any object as a substitute.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Any"
+          }
+        ],
+        "metriques_progression": [
+          "Practicing regularly"
+        ],
+        "erreurs_a_eviter": [
+          "Reaching instead of stepping"
+        ]
+      }
+    ]
+  }
+}

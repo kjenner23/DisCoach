@@ -1,0 +1,94 @@
+{
+  "meta": {
+    "article_title": "June 18, 2012 - Playing in Different Time Zones",
+    "article_slug": "playing-different-time-zones",
+    "source_url": "http://www.tabletenniscoaching.com/node/923",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "playing-different-time-zones": [
+      {
+        "probleme": "Adjusting to different time zones",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Travel messes up your sleeping habits",
+          "Jet lag leading to fatigue"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Adjust schedule 1-2 weeks before tournament",
+              "description": "",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": []
+            },
+            {
+              "nom": "Arrive at least 2 days before main events",
+              "description": "",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": []
+            },
+            {
+              "nom": "Get extra practice at the tournament site",
+              "description": "",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": []
+            }
+          ],
+          "intermediaire": [
+            {
+              "nom": "Splash cold water on face to energize body",
+              "description": "",
+              "difficulte": "intermediate",
+              "duree": "Not specified by source.",
+              "materiel": []
+            },
+            {
+              "nom": "Take an afternoon nap during the tournament",
+              "description": "",
+              "difficulte": "intermediate",
+              "duree": "Not specified by source.",
+              "materiel": []
+            }
+          ],
+          "avance": [
+            {
+              "nom": "Use bright light to adjust circadian rhythms",
+              "description": "",
+              "difficulte": "advanced",
+              "duree": "Not specified by source.",
+              "materiel": []
+            },
+            {
+              "nom": "Practice morning exercise before matches",
+              "description": "",
+              "difficulte": "advanced",
+              "duree": "Not specified by source.",
+              "materiel": []
+            }
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Drills and practice matches",
+            "description": "",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": []
+          }
+        ],
+        "metriques_progression": [
+          "Not specified by source."
+        ],
+        "erreurs_a_eviter": [
+          "Stay in your own time zone sleeping habits"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/923"
+      }
+    ]
+  }
+}

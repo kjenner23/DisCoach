@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "article_title": "July 11, 2011 - Where to Place Your Putaways",
+    "article_slug": "putaway-where-to-place",
+    "source_url": "http://www.tabletenniscoaching.com/node/448",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "putaway-where-to-place": [
+      {
+        "probleme": "Where to place putaways",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "probleme": "Aim for the longest diagonal"
+            }
+          ],
+          "intermediaire": [
+            {
+              "probleme": "Aim one way, go the other (longest diagonal and then down the line)"
+            },
+            {
+              "probleme": "Use the opponent's middle as a target"
+            }
+          ],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Practice aiming for different spots",
+            "description": "Concentrate on aiming at the longest diagonal, then one way and the other, and finally the opponent's middle. Make sure to practice changing direction quickly.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Bucket of balls"
+          }
+        ],
+        "metriques_progression": [
+          "Aim for different spots at different levels (longest diagonal, one way and the other, and the opponent's middle)"
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/448"
+      }
+    ]
+  }
+}

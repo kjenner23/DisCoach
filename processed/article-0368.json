@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "article_title": "April 25, 2016 - Clean Your Racket",
+    "article_slug": "clean_your_racket",
+    "source_url": "http://www.tabletenniscoaching.com/node/2391",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "clean_your_racket": [
+      {
+        "probleme": "Dusty racket",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "dust accumulation"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "description": "Wash it off with water before every session. Wet a corner of a towel, wipe the racket off, then dry the racket."
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Racket cleaning drill",
+            "description": "Breathe on the sponge's surface, then wipe it on your pants or towel.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "towel",
+              "racket"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          {
+            "target": "clean racket"
+          }
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/2391"
+      }
+    ]
+  }
+}

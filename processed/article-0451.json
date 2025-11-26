@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "article_title": "The Purpose of the Serve",
+    "article_slug": "purpose_of_the_server",
+    "source_url": "http://www.tabletenniscoaching.com/node/1895",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "purpose_of_the_server": [
+      {
+        "probleme": "Misunderstanding the purpose of the serve",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "description": "Use serves to set up your attack, and be ready for follow-up attacks unless the opponent does something to stop it."
+            }
+          ],
+          "intermediaire": [
+            {
+              "description": "Experiment with different types of serves (e.g., forehand, backhand, loop) to find what works best for you."
+            }
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Serve and attack drill",
+            "description": "Practice serving and immediately attacking, using different types of serves and attacks.",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis table, racket, balls"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "reps": 10,
+            "time": "Not specified by source."
+          }
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/1895"
+      }
+    ]
+  }
+}

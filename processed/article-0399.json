@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "article_title": "September 14, 2015 - Do You Have the Blocking Reachies?",
+    "article_slug": "blocking-reachies",
+    "source_url": "http://www.tabletenniscoaching.com/node/2219",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "blocking-reachies": [
+      {
+        "probleme": "Blocking Reachies",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "You have no choice but to reach if your feet are anchored to the ground.",
+          "If you wait to see if you have to move, you're wasting time.",
+          "Moving is a habit"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "So be light on your feet. Weight should be toward the front inside part of the feet."
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Shadow stroke footwork",
+            "description": "Imagine a ball coming to you to your right or left, and practice stepping to it to block.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "None"
+          }
+        ],
+        "metriques_progression": [
+          [
+            "Cover the entire table with a single step in either direction"
+          ]
+        ],
+        "erreurs_a_eviter": [
+          "Don't rush; in most cases you have more time than you think."
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/2219"
+      }
+    ]
+  }
+}

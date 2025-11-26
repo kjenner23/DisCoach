@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "article_title": "November 6, 2017 - Become Your Own Feedback",
+    "article_slug": "become_your_own_feedback",
+    "source_url": "http://www.tabletenniscoaching.com/node/2805",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "become_your_own_feedback": [
+      {
+        "probleme": "Self-awareness in table tennis",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Lack of self-awareness"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Pay attention to your winning and losing points",
+            "Track your performance after each match"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Tracking your serves and receives",
+            "description": "Keep track of the likelihood of getting the shot you want with each serve, and how often you win with each receive.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Table tennis equipment"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          "Identify what worked and didn't work in wins and losses"
+        ],
+        "erreurs_a_eviter": [
+          "Missing important aspects of your game"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/2805"
+      }
+    ]
+  }
+}

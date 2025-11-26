@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "article_title": "August 14, 2017 - Attacking the Middle with the Forehand and Backhand",
+    "article_slug": "attacking-the-middle-with-forehand-and-backhand",
+    "source_url": "http://www.tabletenniscoaching.com/node/2734",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "attacking-the-middle-with-forehand-and-backhand": [
+      {
+        "probleme": "Difficulty attacking the opponent's middle with forehand",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "step": "Practice hitting to the middle"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Forehand and backhand serve and attack drills",
+            "description": "Do free-play drills where you focus on going after the middle, moving your target to where the opponent's new middle is.",
+            "difficulte": "Intermediate",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis equipment"
+          }
+        ],
+        "metriques_progression": [
+          "Repetitions"
+        ],
+        "erreurs_a_eviter": [
+          {
+            "pitfall": "Failing to develop a habit of attacking the middle with forehand"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/2734"
+      }
+    ]
+  }
+}

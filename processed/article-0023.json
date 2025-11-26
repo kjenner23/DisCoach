@@ -1,0 +1,56 @@
+{
+  "meta": {
+    "article_title": "June 5, 2023 - Random Drills Placement",
+    "article_slug": "random_drills_placement",
+    "source_url": "http://www.tabletenniscoaching.com/node/3476",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "neuromuscular adaptation",
+      "definition": "",
+      "contexte": "when the 'driller' reacts to the ball",
+      "source_url": "http://www.tabletenniscoaching.com/node/3476"
+    }
+  ],
+  "problemes_solutions": {
+    "random_drills_placement": [
+      {
+        "probleme": "Random Drills Placement",
+        "diagnostic": "",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "standard random drill",
+              "description": "play backhand (or forehand) randomly anywhere while keeping it to the backhand (or forehand)",
+              "difficulte": "all levels",
+              "duree": "",
+              "materiel": "table tennis equipment"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "random drill",
+            "description": "reacting to the ball, moving to the footwork, and stroking the technique",
+            "difficulte": "all levels",
+            "duree": "",
+            "materiel": "table tennis equipment"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "target": "regularly do the drill",
+            "rep": "",
+            "time": ""
+          }
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/3476"
+      }
+    ]
+  }
+}

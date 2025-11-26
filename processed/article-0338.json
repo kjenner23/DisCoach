@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "article_title": "December 26, 2016 - Last-Second Changes of Direction on Receive",
+    "article_slug": "last_second_changes_of_direction_on_receive",
+    "source_url": "http://www.tabletenniscoaching.com/node/2557",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "last_second_changes_of_direction_on_receive": [
+      {
+        "probleme": "Reacting to opponent's motion too early",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "committing early"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "try adding last-second changes of direction"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Quick push to forehand/backhand",
+            "description": "Aim one way, then quickly change to the other. Rush opponent's reaction.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "none"
+          }
+        ],
+        "metriques_progression": [
+          "force opponent to use weaker side"
+        ],
+        "erreurs_a_eviter": [
+          "committing early"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/2557"
+      }
+    ]
+  }
+}

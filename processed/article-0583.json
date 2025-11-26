@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "article_title": "December 19, 2011 - Time-Out Tactics",
+    "article_slug": "time_out_tactics",
+    "source_url": "http://www.tabletenniscoaching.com/node/702",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "time_out_tactics": [
+      {
+        "probleme": "When to Call a Time-out",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "losing focus before a key point",
+          "to think about or discuss tactics at a key point",
+          "falling behind in a key game"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "probleme": "When losing focus before a key point",
+              "solution": "Call a time-out to get your concentration back."
+            },
+            {
+              "probleme": "To think about or discuss tactics at a key point",
+              "solution": "Call a time-out when you are receiving mostly if you have a good idea what the opponent will serve, and are debating how you should return that serve."
+            }
+          ],
+          "intermediaire": [
+            {
+              "probleme": "When falling behind in a key game",
+              "solution": "Call a time-out to make sure you are focused and rethink your tactics."
+            },
+            {
+              "probleme": "Desperation tactic",
+              "solution": "Call the time-out earlier in the hope of not being in this situation, where the time-out will rarely help."
+            }
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Concentration drill",
+            "description": "Practice focusing and regaining concentration during a training session.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "racket"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          {
+            "target": "Improve focus and concentration"
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "erreur": "Waiting until you are way behind before calling a time-out"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/702"
+      }
+    ]
+  }
+}

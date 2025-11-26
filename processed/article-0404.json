@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "article_title": "August 10, 2015 - You Can Be Light on Your Feet",
+    "article_slug": "be_light_on_your_feet",
+    "source_url": "http://www.tabletenniscoaching.com/node/2188",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "be_light_on_your_feet": [
+      {
+        "probleme": "Being light on your feet",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Standing still, waiting to see if and where you have to move"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "The slight hop as the opponent is making his shot",
+              "description": "Take a slight hop before moving to prepare for shots",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "None"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Multiball drills",
+            "description": "Practice the slight hop and foot positioning in a match or drill",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Multiball"
+          }
+        ],
+        "metriques_progression": [
+          "Get started quickly, never flat-footed"
+        ],
+        "erreurs_a_eviter": [
+          "Reaching for the ball instead of stepping to it"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/2188"
+      }
+    ]
+  }
+}

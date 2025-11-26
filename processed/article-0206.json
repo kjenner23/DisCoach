@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "article_title": "October 21, 2019 - How to Stop the Short Receive",
+    "article_slug": "stop_short_receive",
+    "source_url": "http://www.tabletenniscoaching.com/node/3113",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "stop_short_receive": [
+      {
+        "probleme": "Short receive",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          ""
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "probleme": "Serve long",
+              "description": "Make the serve easier to attack (mostly by looping), but not all players can attack deep serves effectively, especially if the long serves are mixed in occasionally.",
+              "difficulte": "all levels",
+              "duree": "Not specified by source.",
+              "materiel": [
+                "bucket of balls"
+              ]
+            }
+          ],
+          "intermediaire": [
+            {
+              "probleme": "Aggressive half-long serves",
+              "description": "Serve it aggressively, so it comes at the receiver somewhat fast and low, yet still bounces twice.",
+              "difficulte": "all levels",
+              "duree": "Not specified by source.",
+              "materiel": [
+                "bucket of balls"
+              ]
+            },
+            {
+              "probleme": "Backspin/No-spin serves",
+              "description": "Serve just like a backspin, but instead of grazing the ball near the racket tip, contact it near the handle, where the racket is moving slowly.",
+              "difficulte": "all levels",
+              "duree": "Not specified by source.",
+              "materiel": [
+                "bucket of balls"
+              ]
+            }
+          ],
+          "avance": [
+            {
+              "probleme": "Short side/topspin serves",
+              "description": "Serve short sidespin/topspin serves that land short (usually half-long).",
+              "difficulte": "all levels",
+              "duree": "Not specified by source.",
+              "materiel": [
+                "bucket of balls"
+              ]
+            },
+            {
+              "probleme": "Make them Receive Forehand",
+              "description": "Serve short to the forehand, so you have an angle into their short forehand.",
+              "difficulte": "all levels",
+              "duree": "Not specified by source.",
+              "materiel": [
+                "bucket of balls"
+              ]
+            },
+            {
+              "probleme": "Develop a Really Good Flip",
+              "description": "Learn to reach in and attack the short push if it goes high - and many do.",
+              "difficulte": "all levels",
+              "duree": "Not specified by source.",
+              "materiel": [
+                "bucket of balls"
+              ]
+            }
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Long serves",
+            "description": "Make the serve easier to attack (mostly by looping), but not all players can attack deep serves effectively, especially if the long serves are mixed in occasionally.",
+            "difficulte": "all levels",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "bucket of balls"
+            ]
+          },
+          {
+            "nom": "Aggressive half-long serves",
+            "description": "Serve it aggressively, so it comes at the receiver somewhat fast and low, yet still bounces twice.",
+            "difficulte": "all levels",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "bucket of balls"
+            ]
+          },
+          {
+            "nom": "Backspin/No-spin serves",
+            "description": "Serve just like a backspin, but instead of grazing the ball near the racket tip, contact it near the handle, where the racket is moving slowly.",
+            "difficulte": "all levels",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "bucket of balls"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          ""
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/3113"
+      }
+    ]
+  }
+}

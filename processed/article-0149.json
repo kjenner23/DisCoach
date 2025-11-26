@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "article_title": "December 14, 2020: Use It or Lose It!",
+    "article_slug": "use-it-or-lose-it",
+    "source_url": "http://www.tabletenniscoaching.com/node/3232",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "use-it-or-lose-it": [
+      {
+        "probleme": "Lack of practice or use leads to decline in technique",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Aging",
+          "Loss of physical fitness"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Continue practicing techniques to maintain level"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Practice matches with focus on technique",
+            "description": "Concentrate on using weaker techniques in practice matches to maintain them.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Table tennis table",
+              "Balls"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          "Repetition, feedback"
+        ],
+        "erreurs_a_eviter": [
+          "Playing too passive, neglecting weaker techniques"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3232"
+      }
+    ]
+  }
+}

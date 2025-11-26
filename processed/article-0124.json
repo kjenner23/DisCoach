@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "article_title": "What to Do in the \"Big Points\"",
+    "article_slug": "big_points",
+    "source_url": "http://www.tabletenniscoaching.com/node/3284",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "big_points": [
+      {
+        "probleme": "Not using a successful tactic in a 'Big Point'",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "overthinking"
+        ],
+        "solutions_progressives": {
+          "debutant": [],
+          "intermediaire": [
+            "go with what was working"
+          ],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Use a successful tactic",
+            "description": "Go with what worked, don't overthink.",
+            "difficulte": "all levels",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "racket",
+              "ball"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          "develop a feel for successful tactics"
+        ],
+        "erreurs_a_eviter": [
+          "overthinking, not using what works"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3284"
+      }
+    ]
+  }
+}

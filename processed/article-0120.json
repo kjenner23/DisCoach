@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "article_title": "July 5, 2021 - Changing the Pace",
+    "article_slug": "changing_the_pace",
+    "source_url": "http://www.tabletenniscoaching.com/node/3297",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "changing_the_pace": [
+      {
+        "probleme": "Inability to change the pace",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "not knowing how to do it",
+          "not understanding the purpose of changing the pace"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "probleme": "Hitting a weak shot",
+              "solution": "Hit the ball at a slower pace, but low to the net"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Soft return to backhand",
+            "description": "Return with a softer ball, vulnerable to aggressive players' misses",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Generic balls"
+          },
+          {
+            "nom": "Soft return to forehand",
+            "description": "Return with a softer ball, vulnerable to big forehand players' misses",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Generic balls"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "metric": "Experiment and find what works"
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "erreur": "Hitting a weak shot"
+          },
+          {
+            "erreur": "Not understanding the purpose of changing the pace"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3297"
+      }
+    ]
+  }
+}

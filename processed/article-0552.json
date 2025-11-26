@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "article_title": "August 6, 2012 - The Feel of Good Technique",
+    "article_slug": "feel-good-technique",
+    "source_url": "http://www.tabletenniscoaching.com/node/969",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "",
+      "definition": "",
+      "contexte": "",
+      "source_url": "http://www.tabletenniscoaching.com/node/969"
+    }
+  ],
+  "problemes_solutions": {
+    "feel-good-technique": [
+      {
+        "probleme": "Remembering the feel of a good stroke",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Feel the stroke",
+              "description": "Remember the feel of a good stroke and try to repeat it",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "racket"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Practice session",
+            "description": "Remember a particular practice session or match where the feel was just right, and regularly use that memory to get the proper feel back",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "racket"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "nom": "Level improvement",
+            "description": "Watch your level improve through regular practice and repetition",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "racket"
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "nom": "Forgetting the feel of a good stroke",
+            "description": "Regularly practice and repeat the feel of a good stroke to maintain and improve skills",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "racket"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/969"
+      }
+    ]
+  }
+}

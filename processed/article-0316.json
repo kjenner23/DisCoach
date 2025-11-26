@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "article_title": "June 5, 2017 - Rallying Tactics for Blockers",
+    "article_slug": "rallying-tactics-for-blockers",
+    "source_url": "http://www.tabletenniscoaching.com/node/2689",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "aggressive blockers",
+      "definition": "blockers who attack the wide corners and opponent's elbow with nearly every shot.",
+      "contexte": "",
+      "source_url": "http://www.tabletenniscoaching.com/node/2689"
+    }
+  ],
+  "problemes_solutions": {
+    "rallying-tactics-for-blockers": [
+      {
+        "probleme": "Blocker's Problem",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "aggressive blockers should attack the wide corners and opponent's elbow with nearly every shot",
+          "steady blockers are just that, focusing mostly on wide angles",
+          "change-of-pace blockers want to throw off the opponent's rhythm"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "aggressive blocking",
+              "description": "Block aggressively to the wide corners and opponent's elbow.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "racket"
+            },
+            {
+              "nom": "steady blocking",
+              "description": "Focus on wide angles, especially if an angled block can be attacked right back at a wide angle.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "racket"
+            },
+            {
+              "nom": "change-of-pace blocking",
+              "description": "Mix in aggressive and dead blocks to throw off the opponent's rhythm.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "racket"
+            }
+          ],
+          "intermediaire": [
+            {
+              "nom": "sidespin blocking",
+              "description": "Use sidespin to change the pace and give the opponent difficulty.",
+              "difficulte": "intermediate",
+              "duree": "Not specified by source.",
+              "materiel": "racket"
+            }
+          ],
+          "avance": [
+            {
+              "nom": "down-the-line forehand block",
+              "description": "Learn to tilt the racket tip back so as to angle your forehand block down the line, and watch the awkward returns of your opponent!",
+              "difficulte": "advanced",
+              "duree": "Not specified by source.",
+              "materiel": "racket"
+            }
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "aggressive blocking drill",
+            "description": "Practice blocking aggressively to the wide corners and opponent's elbow, focusing on pressure and pace.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "racket"
+          },
+          {
+            "nom": "steady blocking drill",
+            "description": "Focus on steady blocking to the wide angles, especially if an angled block can be attacked right back at a wide angle.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "racket"
+          },
+          {
+            "nom": "change-of-pace blocking drill",
+            "description": "Practice mixing in aggressive and dead blocks to throw off the opponent's rhythm.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "racket"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "nom": "pace and pressure",
+            "description": "Increase pace and pressure on the opponent to force errors or weak returns."
+          },
+          {
+            "nom": "angle and depth",
+            "description": "Focus on angling and deepening blocks to reduce the opponent's options."
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "nom": "lack of a forehand down-the-line block",
+            "description": "Develop a forehand down-the-line block to throw off opponents who expect crosscourt blocks."
+          },
+          {
+            "nom": "relying on quick, steady blocking",
+            "description": "Don't rely solely on quick, steady blocking; develop an attack or loop-kill for when you get a weak ball."
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/2689"
+      }
+    ]
+  }
+}

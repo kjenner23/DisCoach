@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "article_title": "June 4, 2013 - Five Steps to a Great Spin Serve",
+    "article_slug": "five-steps-to-a-great-spin-serve",
+    "source_url": "http://www.tabletenniscoaching.com/node/1524",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "five-steps-to-a-great-spin-serve": [
+      {
+        "probleme": "Developing a great spin serve",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Basic spin serve",
+              "description": "Use racket speed and grazing motion to put spin on the ball",
+              "difficulte": "Beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Racket, balls"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Spin serve practice",
+            "description": "Serve on a rug and watch the ball spin; practice different spins",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Racket, balls"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "nom": "Spin serve depth control",
+            "description": "Learn to serve with varying depths and spin",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Racket, balls"
+          }
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/1524"
+      }
+    ]
+  }
+}

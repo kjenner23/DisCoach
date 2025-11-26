@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "article_title": "December 27, 2016 - Focus on How to Beat Someone, Not On Why You Can�t",
+    "article_slug": "focus_on_how_to_beat_someone_not_on_why_you_cant",
+    "source_url": "http://www.tabletenniscoaching.com/node/2565",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "focus_on_how_to_beat_someone_not_on_why_you_cant": [
+      {
+        "probleme": "Facing a strong shot",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Strong serves",
+          "Strong forehand or backhand",
+          "Quick blocks",
+          "Heavy push"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Attack their forehand",
+            "Go to the forehand to draw them out of position and then go back backhand, forcing awkward shots",
+            "Go to the middle and wide backhand (as well as forehand) to force even more awkward shots",
+            "Keep the ball deep so their backhands aren't so strong",
+            "Give them shots that their backhand isn't so strong against (heavy topspin, heavy backspin, quick shots, etc.)",
+            "Throw them off with varied pace",
+            "Use serve and receive to dominate rallies so they don't get to use their strong backhand"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Attack forehand",
+            "description": "Go to the forehand and force awkward shots",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "None"
+          },
+          {
+            "nom": "Keep ball deep",
+            "description": "Keep the ball deep to reduce opponent's strong backhand effectiveness",
+            "difficulte": "intermediate",
+            "duree": "Not specified by source.",
+            "materiel": "None"
+          }
+        ],
+        "metriques_progression": [
+          [
+            "Not specified by source."
+          ]
+        ],
+        "erreurs_a_eviter": [
+          "Worrying about opponent's strong shot"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/2565"
+      }
+    ]
+  }
+}

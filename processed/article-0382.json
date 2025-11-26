@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "article_title": "January 18, 2016 - On Short Serves to the Forehand, Fake to the Forehand, Then Go Down the Line",
+    "article_slug": "short_serves_forehand_fake_down_line",
+    "source_url": "http://www.tabletenniscoaching.com/node/2310",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "short_serves_forehand_fake_down_line": [
+      {
+        "probleme": "Players having difficulty with serves that go short to their forehand",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "awkwardness in reaching over the table"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "step": "fake crosscourt, then go down the line",
+              "cues": "softly flip the ball down the line"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "down-the-line flip",
+            "description": "Soft or fast, off the bounce. Aim for the right side (for a righty).",
+            "difficulte": "beginner",
+            "duree": "not specified by source.",
+            "materiel": "table tennis racket and balls"
+          }
+        ],
+        "metriques_progression": [
+          "Not specified by source."
+        ],
+        "erreurs_a_eviter": [
+          "over-anticipating the shot"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/2310"
+      }
+    ]
+  }
+}

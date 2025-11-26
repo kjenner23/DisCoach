@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "article_title": "February 11, 2013 - Winning with Backspin for the Non-Chopper",
+    "article_slug": "winning-with-backspin-for-the-non-chopper",
+    "source_url": "http://www.tabletenniscoaching.com/node/1344",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "winning-with-backspin-for-the-non-chopper": [
+      {
+        "probleme": "When to use backspin in a rally",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "pushed return"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Short push with backspin",
+              "description": "Keep the ball very low to the net, and brush it back lightly with backspin. This makes it easier to keep the ball low and short.",
+              "difficulte": "all levels",
+              "duree": "Not specified by source.",
+              "materiel": [
+                "racket"
+              ]
+            }
+          ],
+          "intermediaire": [
+            {
+              "nom": "Backhand chop against quick-block",
+              "description": "If you are out of position and have to reach for the ball, a better answer might be a backhand chop. This keeps you in the rally, gives you time to get back into the point, and it may throw off the opponent's timing.",
+              "difficulte": "all levels",
+              "duree": "Not specified by source.",
+              "materiel": [
+                "racket"
+              ]
+            }
+          ],
+          "avance": [
+            {
+              "nom": "Long push with backspin",
+              "description": "Push quick, low, heavy, deep, and at wide angles (or to the middle against some two-winged players). Aim one way, and at the last second change directions.",
+              "difficulte": "all levels",
+              "duree": "Not specified by source.",
+              "materiel": [
+                "racket"
+              ]
+            }
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Short push with backspin",
+            "description": "Keep the ball very low to the net, and brush it back lightly with backspin. This makes it easier to keep the ball low and short.",
+            "difficulte": "all levels",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "racket"
+            ]
+          },
+          {
+            "nom": "Long push with backspin",
+            "description": "Push quick, low, heavy, deep, and at wide angles (or to the middle against some two-winged players). Aim one way, and at the last second change directions.",
+            "difficulte": "all levels",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "racket"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          "Not specified by source."
+        ],
+        "erreurs_a_eviter": [
+          {
+            "nom": "Chopping against an incoming topspin",
+            "description": "Chopping can be tricky, especially with a fast attacking racket.",
+            "difficulte": "all levels"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/1344"
+      }
+    ]
+  }
+}

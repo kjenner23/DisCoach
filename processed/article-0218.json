@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "article_title": "July 29, 2019 - Do You Want to Know an Opponent's Rating Before a Match?",
+    "article_slug": "know_opponent_rating_match",
+    "source_url": "http://www.tabletenniscoaching.com/node/3086",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "know_opponent_rating_match": [
+      {
+        "probleme": "Knowing opponent's rating before a match",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Executing game plan",
+            "description": "Concentrate on opponent's playing style, not rating. Execute properly to beat most weaker players.",
+            "difficulte": "all levels",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket"
+          }
+        ],
+        "metriques_progression": [
+          [
+            "Not specified by source."
+          ]
+        ],
+        "erreurs_a_eviter": [
+          "Focusing on opponent's rating instead of playing style"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3086"
+      }
+    ]
+  }
+}

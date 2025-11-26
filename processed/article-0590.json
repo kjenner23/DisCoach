@@ -1,0 +1,56 @@
+{
+  "meta": {
+    "article_title": "October 31, 2011 - When to React",
+    "article_slug": "when_to_react",
+    "source_url": "http://www.tabletenniscoaching.com/node/649",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "placement",
+      "definition": "where the opponent will hit the ball",
+      "contexte": "in the swing, when the opponent has committed to a specific placement",
+      "source_url": "http://www.tabletenniscoaching.com/node/649"
+    }
+  ],
+  "problemes_solutions": {
+    "when_to_react": [
+      {
+        "probleme": "Reacting too late or not at all",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "step": "Anticipate the opponent's return when they have committed to a specific placement"
+            }
+          ],
+          "intermediaire": [
+            {
+              "step": "Learn to observe the opponent's direction and move before they hit the ball"
+            }
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Forehand anticipation drill",
+            "description": "Watch for shoulder alignment early in the forehand swing; anticipate the direction",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket, balls"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "target": "React earlier and more accurately to the opponent's shots"
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "pitfall": "Overreacting or moving too late; losing control of the game"
+          }
+        ]
+      }
+    ]
+  }
+}

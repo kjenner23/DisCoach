@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "article_title": "July 7, 2014 - Playing Bad - It's All Mental (Usually)",
+    "article_slug": "playing_bad_its_all_mental",
+    "source_url": "http://www.tabletenniscoaching.com/node/1863",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "playing_bad_its_all_mental": [
+      {
+        "probleme": "Playing poorly relative to normal level of play",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Mental factors"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Go practice",
+            "Focus on good shots rather than bad ones"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Mental rehearsal drills",
+            "description": "Visualize yourself playing well; focus on positive thoughts and emotions",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": "None"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "target": "Developing mental control through practice",
+            "rep": "Variable",
+            "time": "Not specified by source."
+          }
+        ],
+        "erreurs_a_eviter": [
+          "Talking yourself out of playing well; focusing on poor shots"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/1863"
+      }
+    ]
+  }
+}

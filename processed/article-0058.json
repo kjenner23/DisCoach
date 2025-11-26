@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "article_title": "October 3, 2022 - The Larry Line",
+    "article_slug": "larry_line",
+    "source_url": "http://www.tabletenniscoaching.com/node/3411",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "Larry Line",
+      "definition": "that level of speed, quickness, and spin (done consistently) that overwhelms a given opponent",
+      "contexte": "used to describe the ideal playing level for an individual player",
+      "source_url": "http://www.tabletenniscoaching.com/node/3411"
+    }
+  ],
+  "problemes_solutions": {
+    "larry_line": [
+      {
+        "probleme": "Play just above your opponent's Larry Line to overwhelm them and force defensive play",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "description": "Focus on consistent spin and speed to raise your Larry Line"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Practice serve and receive",
+            "description": "Use early attacks to end the point before getting into losing rallies",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": "Balls"
+          }
+        ],
+        "metriques_progression": [
+          "Raise your Larry Line through practice"
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/3411"
+      }
+    ]
+  }
+}

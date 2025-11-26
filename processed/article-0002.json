@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "article_title": "October 30, 2023 - Quicker Drives with the Forehand-Backhand Drill",
+    "article_slug": "quicker_drives_with_forehand_backhand",
+    "source_url": "http://www.tabletenniscoaching.com/node/3515",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "quicker_drives_with_forehand_backhand": [
+      {
+        "probleme": "Developing close-to-table play",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Backed off too far"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "description": "Attack side to side, top of the bounce",
+              "difficulty": "beginner"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Forehand-Backhand Drill",
+            "description": "Go side to side, attacking as quickly as possible. Most shots should be top of the bounce.",
+            "difficulty": "beginner",
+            "duration": "Not specified by source.",
+            "material": [
+              "Multiball"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          {
+            "target": "Consistency"
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "pitfall": "Backed off too far"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3515"
+      }
+    ]
+  }
+}

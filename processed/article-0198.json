@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "article_title": "January 6, 2020 - How to Develop a Nasty Forehand Flip",
+    "article_slug": "develop-nasty-forehand-flip",
+    "source_url": "http://www.tabletenniscoaching.com/node/3129",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "develop-nasty-forehand-flip": [
+      {
+        "probleme": "Develop a forehand flip",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Lack of proper technique",
+          "Insufficient multiball practice"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Step in with right foot (for righties), with left hand up for balance",
+            "Keep racket tip low",
+            "Contact the ball at the top of the bounce"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Forehand flip drill",
+            "description": "Practice flipping with multiball, short to forehand, with different spins.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Multiball"
+          }
+        ],
+        "metriques_progression": [
+          "Consistency in placement and spin",
+          "Ability to flip with topspin against backspin"
+        ],
+        "erreurs_a_eviter": [
+          "Flipping too aggressively or at the wrong angle"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3129"
+      }
+    ]
+  }
+}

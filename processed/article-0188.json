@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "article_title": "March 16, 2020 - Practice Attacking the Middle in Rote Drills",
+    "article_slug": "practice_attacking_the_middle_in_rote_drills",
+    "source_url": "http://www.tabletenniscoaching.com/node/3149",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "practice_attacking_the_middle_in_rote_drills": [
+      {
+        "probleme": "Attacking the Middle",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Lack of practice"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "technique": "Have partner block from middle with forehand or backhand"
+            },
+            {
+              "technique": "Practice going to the spot"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Serve and Loop to Middle",
+            "description": "Concise, with explicit cues; no links; no brand names.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Bucket of balls"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          "Reps",
+          "Time"
+        ],
+        "erreurs_a_eviter": [
+          "Going crosscourt or down the line instead"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3149"
+      }
+    ]
+  }
+}

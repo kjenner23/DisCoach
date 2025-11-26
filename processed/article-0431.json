@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "article_title": "January 19, 2015 - The Lost Art of Messing People Up",
+    "article_slug": "lost-art-messing-people-up",
+    "source_url": "http://www.tabletenniscoaching.com/node/2021",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "messing_people_up": [
+      {
+        "probleme": "Messing Up Opponents",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "probleme": "Chop or Sidespin Block",
+              "description": "Push long with sidespin, usually so the ball curves out to the corners.",
+              "difficulte": "Beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Generic"
+            },
+            {
+              "probleme": "Last-second Changes of Directions with Pushes",
+              "description": "Here's how.",
+              "difficulte": "Beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Generic"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Attack the Middle",
+            "description": "Here's how.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Generic"
+          }
+        ],
+        "metriques_progression": [
+          "Not specified by source."
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/2021"
+      }
+    ]
+  }
+}

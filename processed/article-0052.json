@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "article_title": "November 14, 2022 - Backhand Counter Domination",
+    "article_slug": "backhand-counter-domination",
+    "source_url": "http://www.tabletenniscoaching.com/node/3423",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "backhand_counter_domination": [
+      {
+        "probleme": "Backhand Counter Domination",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Weak backhand",
+          "Difficulty stopping opponents' scoring"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Basic Backhand Counterdrive",
+              "description": "Aim for the deep backhand corner; maximum depth, angle into opponent's backhand.",
+              "difficulte": "Beginner",
+              "duree": "Not specified",
+              "materiel": "Table tennis racket"
+            }
+          ],
+          "intermediaire": [
+            {
+              "nom": "Counter Backhands with Speed and Spin Change",
+              "description": "Move the ball around, change speeds and spins; force opponent into a mistake.",
+              "difficulte": "Intermediate",
+              "duree": "Not specified",
+              "materiel": "Table tennis racket"
+            }
+          ],
+          "avance": [
+            {
+              "nom": "Combining Shots for Opponent's Mistakes",
+              "description": "Force opponent to decide between forehand and backhand; often leads to mistakes.",
+              "difficulte": "Advanced",
+              "duree": "Not specified",
+              "materiel": "Table tennis racket"
+            }
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Wide Forehand Attack",
+            "description": "Snap in a quick shot to the opponent's wide forehand, often point-winning.",
+            "difficulte": "Intermediate",
+            "duree": "Not specified",
+            "materiel": "Table tennis racket"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "nom": "Mistake Counting",
+            "description": "Count your opponent's mistakes to adapt your strategy.",
+            "difficulte": "Beginner",
+            "duree": "Not specified",
+            "materiel": "Table tennis racket"
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "nom": "Staying at the Table with a Quicker Opponent's Backhand",
+            "description": "Don't try to stay right up at the table; focus on quick and aggressive shots.",
+            "difficulte": "Intermediate",
+            "duree": "Not specified",
+            "materiel": "Table tennis racket"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3423"
+      }
+    ]
+  }
+}

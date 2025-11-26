@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "article_title": "August 27, 2012 - Movement in Doubles",
+    "article_slug": "movement_in_doubles",
+    "source_url": "http://www.tabletenniscoaching.com/node/1001",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "movement_in_doubles": [
+      {
+        "probleme": "Movement in Doubles",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Step backward after shot",
+              "description": "After making your shot, step backward to allow partner to move in.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "None"
+            },
+            {
+              "nom": "Move to opposite side of partner's shot",
+              "description": "Watch where your partner is moving to make his shot, and move to the opposite side.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "None"
+            },
+            {
+              "nom": "Step in after partner's shot",
+              "description": "As your partner steps back, you step in to the table.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "None"
+            },
+            {
+              "nom": "Move to where ball is being hit",
+              "description": "Move to where the ball is being hit and make your shot.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "None"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Circling footwork drills",
+            "description": "Practice circling footwork with a coach or experienced player.",
+            "difficulte": "intermediate",
+            "duree": "Not specified by source.",
+            "materiel": "Bucket of balls, mobile players"
+          },
+          {
+            "nom": "In-out footwork drills",
+            "description": "Practice in-out footwork with a partner or coach.",
+            "difficulte": "intermediate",
+            "duree": "Not specified by source.",
+            "materiel": "Bucket of balls, mobile players"
+          }
+        ],
+        "metriques_progression": [
+          "Not specified by source."
+        ],
+        "erreurs_a_eviter": [
+          {
+            "nom": "Move too much to the side",
+            "description": "Don't move too much to the side or you'll be out of position on the next shot."
+          },
+          {
+            "nom": "Block partner's shot",
+            "description": "Don't block your partner against an angled shot, or he'll likely block you from getting back after that shot."
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/1001"
+      }
+    ]
+  }
+}

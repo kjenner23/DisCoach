@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "article_title": "Do You Hit to the Three Spots?",
+    "article_slug": "do_you_hit_to_the_three_spots",
+    "source_url": "http://www.tabletenniscoaching.com/node/258",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "do_you_hit_to_the_three_spots": [
+      {
+        "probleme": "Choosing the right spot to hit",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Opponents may not have all three spots well covered"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Pick a spot and don't telegraph it",
+            "Fake one way and go another at the last second"
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Spot selection drill",
+            "description": "Practice choosing different spots to hit, without telegraphing your move.",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis table and balls"
+          }
+        ],
+        "metriques_progression": [
+          []
+        ],
+        "erreurs_a_eviter": [
+          "Hitting wherever without a plan"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/258"
+      }
+    ]
+  }
+}

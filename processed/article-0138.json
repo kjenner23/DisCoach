@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "article_title": "Learn Something New Each Time You Play",
+    "article_slug": "learn-something-new-each-time-you-play",
+    "source_url": "http://www.tabletenniscoaching.com/node/3254",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "learn-something-new-each-time-you-play": [
+      {
+        "probleme": "Do you learn something new each time you play?",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "You can learn from your opponents; from watching or talking to others; or from your own play."
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "description": "Learn how to return a serve that gives you trouble."
+            },
+            {
+              "description": "Analyze and decide not to use a technique if it's not right for you."
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Talk to knowledgeable players at your club",
+            "description": "Just talk to the knowledgeable players at your club, and you can learn all sorts of things.",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "bucket of balls"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          {
+            "target": "Be consistent"
+          }
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/3254"
+      }
+    ]
+  }
+}

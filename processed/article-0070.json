@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "article_title": "July 11, 2022 - Five Ways to Force an Opponent Out of Position",
+    "article_slug": "force_opponent_out_of_position",
+    "source_url": "http://www.tabletenniscoaching.com/node/3391",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "force_opponent_out_of_position": [
+      {
+        "probleme": "Force an opponent out of position",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Opponent's over-reaction"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "step": "Attack middle, then wide to corners"
+            },
+            {
+              "step": "Short to forehand, long to wide backhand, or short to backhand, long to wide forehand"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Jam opponent on the other wide corner",
+            "description": "Go short to forehand, long to wide backhand, or vice versa.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Generic balls"
+          },
+          {
+            "nom": "Take the second wide corner quickly and wider",
+            "description": "Go to a wide corner twice in a row, taking the second one quicker and wider.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Generic balls"
+          },
+          {
+            "nom": "Force opponent to decide between forehand or backhand",
+            "description": "Short to middle, wide to corners. This forces the opponent to decide whether to return forehand or backhand.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Generic balls"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "target": "Force opponent out of position"
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "pitfall": "Opponent's over-reaction"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3391"
+      }
+    ]
+  }
+}

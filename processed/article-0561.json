@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "article_title": "March 21, 2012 - Forehand Deception with Shoulder Rotation",
+    "article_slug": "forehand-deception-with-shoulder-rotation",
+    "source_url": "http://www.tabletenniscoaching.com/node/883",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "forehand-deception-with-shoulder-rotation": [
+      {
+        "probleme": "Proper shoulder rotation for forehand deception",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Fake crosscourt then go down the line",
+              "description": "Line up shoulders for crosscourt, hesitate briefly, and then hit down the line.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Table tennis racket"
+            },
+            {
+              "nom": "Fake down the line then go crosscourt",
+              "description": "Line up shoulders for down-the-line shot, hesitate briefly, and then hit crosscourt.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Table tennis racket"
+            }
+          ],
+          "intermediaire": [
+            {
+              "nom": "Fake down the line from backhand side and go crosscourt",
+              "description": "Line up shoulders to hit down the line, then rotate forward more during the forward swing to hit crosscourt.",
+              "difficulte": "intermediate",
+              "duree": "Not specified by source.",
+              "materiel": "Table tennis racket"
+            },
+            {
+              "nom": "Fake crosscourt from forehand side and go down the line",
+              "description": "Line up shoulders to hit crosscourt, then rotate back more during the forward swing to hit down the line.",
+              "difficulte": "intermediate",
+              "duree": "Not specified by source.",
+              "materiel": "Table tennis racket"
+            }
+          ],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Fake down the line from backhand side and go crosscourt",
+            "description": "Line up shoulders to hit down the line, then rotate forward more during the forward swing to hit crosscourt.",
+            "difficulte": "intermediate",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "nom": "Timing and hesitation",
+            "description": "Practice timing the last-second shoulder rotation for a smooth transition between shots.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket"
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "nom": "Over-rotating the shoulders",
+            "description": "Avoid over-rotating the shoulders, as this can make it difficult to control the shot.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/883"
+      }
+    ]
+  }
+}

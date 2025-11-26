@@ -1,0 +1,91 @@
+{
+  "meta": {
+    "article_title": "September 19, 2016 - Five Serves That EVERYONE Should Master",
+    "article_slug": "five-serves-that-everyone-should-master",
+    "source_url": "http://www.tabletenniscoaching.com/node/2496",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "sidespin",
+      "definition": "",
+      "contexte": "",
+      "source_url": "http://www.tabletenniscoaching.com/node/2496"
+    }
+  ],
+  "problemes_solutions": {
+    "five-serves-that-everyone-should-master": [
+      {
+        "probleme": "Mastering multiple serves",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Fast no-spin at the elbow",
+              "description": "A serve that breaks away from the receiver's timing and often leaves them lunging for the ball.",
+              "difficulte": "beginner",
+              "duree": "",
+              "materiel": ""
+            },
+            {
+              "nom": "Fast down-the-line",
+              "description": "A serve that draws receivers out of position for the next shot.",
+              "difficulte": "beginner",
+              "duree": "",
+              "materiel": ""
+            }
+          ],
+          "intermediaire": [
+            {
+              "nom": "Deep crosscourt breaking sidespin serve",
+              "description": "A serve that breaks away from the receiver and often leaves them lunging for the ball.",
+              "difficulte": "intermediate",
+              "duree": "",
+              "materiel": ""
+            }
+          ],
+          "avance": [
+            {
+              "nom": "Backhand-type sidespin from the middle, served short to forehand or long to backhand",
+              "description": "A serve that breaks away from the receiver and can be awkward to receive.",
+              "difficulte": "advanced",
+              "duree": "",
+              "materiel": ""
+            },
+            {
+              "nom": "Sidespin-topspin serve that looks like backspin",
+              "description": "A serve that pops up or goes off the end if pushed.",
+              "difficulte": "advanced",
+              "duree": "",
+              "materiel": ""
+            }
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Fast no-spin at the elbow drill",
+            "description": "A drill that throws off a receiver's timing and often leaves them lunging for the ball.",
+            "difficulte": "beginner",
+            "duree": "",
+            "materiel": ""
+          },
+          {
+            "nom": "Fast down-the-line drill",
+            "description": "A drill that draws receivers out of position for the next shot.",
+            "difficulte": "beginner",
+            "duree": "",
+            "materiel": ""
+          }
+        ],
+        "metriques_progression": [
+          [
+            "Not specified by source."
+          ]
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/2496"
+      }
+    ]
+  }
+}

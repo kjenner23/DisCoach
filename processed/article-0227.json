@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "article_title": "May 6, 2019 - Playing Against Short Pips on the Forehand",
+    "article_slug": "playing_against_short_pips_on_the_forehand",
+    "source_url": "http://www.tabletenniscoaching.com/node/3065",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "playing_against_short_pips_on_the_forehand": [
+      {
+        "probleme": "Playing Against Short Pips on the Forehand",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Pips-out players are notoriously good attacking short, spinny balls"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "probleme": "Short, very low no-spin serves to the forehand",
+              "solution": "Counter-attack against these weaker opening loops."
+            },
+            {
+              "probleme": "Long, low, heavy pushes, especially to the wide corners",
+              "solution": "Counter-attack against these weaker opening loops."
+            },
+            {
+              "probleme": "Deep backspin serves to the forehand",
+              "solution": "Counter-attack their opening shot, often to the wide backhand."
+            }
+          ],
+          "intermediaire": [
+            {
+              "probleme": "Attack the middle. Pips-out players have to stay close to the table to be effective",
+              "solution": "If you attack their middle (the mid-point between their forehand and backhand), they are rushed even more."
+            }
+          ],
+          "avance": [
+            {
+              "probleme": "Aggressive loops deep to the forehand and middle",
+              "solution": "Move the ball around from wide forehand to the middle so they have to move as well."
+            },
+            {
+              "probleme": "In rallies, keep the ball deep",
+              "solution": "This both makes it harder for the pips-out player to smash, and gives you more time to react to their pips-out shots."
+            }
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Short, very low no-spin serves",
+            "description": "Counter-attack against these weaker opening loops.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "racket"
+          },
+          {
+            "nom": "Long, low, heavy pushes",
+            "description": "Counter-attack against these weaker opening loops.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "racket"
+          }
+        ],
+        "metriques_progression": [
+          "Not specified by source."
+        ],
+        "erreurs_a_eviter": [
+          {
+            "probleme": "Playing too far back, getting jammed and out of position",
+            "solution": "Move forward to attack the middle."
+          }
+        ]
+      }
+    ]
+  }
+}

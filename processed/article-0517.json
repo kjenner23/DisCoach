@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "article_title": "April 15, 2013: Playing the Big Backhand Player",
+    "article_slug": "playing-big-backhand-player",
+    "source_url": "http://www.tabletenniscoaching.com/node/1451",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "playing-big-backhand-player": [
+      {
+        "probleme": "Playing the Big Backhand Player",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Balls that aren't going deep"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "depth": "Keep the ball deep on the table"
+            },
+            {
+              "play_forehand": "Play the forehand side"
+            }
+          ],
+          "intermediaire": [
+            {
+              "play_forehand_then_backhand": "Draw them out to their forehand side, then make them play backhands"
+            },
+            {
+              "first_attack": "Get a good first attack (deep on the table)"
+            },
+            {
+              "attack_middle": "Make the opponent move side to side by playing both wide and middle"
+            }
+          ],
+          "avance": [
+            {
+              "consistency": "Keep the ball deep and consistent"
+            },
+            {
+              "changing_spins": "Find the spin they have the most trouble with, and place it deep on the table or go back and forth between loops and pushes"
+            }
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Depth",
+            "description": "Keep the ball deep on the table to reduce the opponent's options.",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Table tennis balls"
+            ]
+          },
+          {
+            "nom": "Play Forehand",
+            "description": "Play the forehand side to draw the opponent out of their backhand pocket.",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Table tennis balls"
+            ]
+          },
+          {
+            "nom": "Loop and Push",
+            "description": "Alternate between deep, spinny loops and deep, heavy pushes to force the opponent to adjust.",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Table tennis balls"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          {
+            "depth": "Deep on the table"
+          }
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/1451"
+      }
+    ]
+  }
+}

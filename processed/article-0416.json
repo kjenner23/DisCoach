@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "article_title": "May 4, 2015 - Good Tactics Lead to Confidence",
+    "article_slug": "good-tactics-lead-to-confidence",
+    "source_url": "http://www.tabletenniscoaching.com/node/2114",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "good-tactics-lead-to-confidence": [
+      {
+        "probleme": "Nervousness",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Unclear game plan"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "description": "Think tactically, ask yourself what tactics you need to win."
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Simple tactical play",
+            "description": "Focus on simple tactics and execution.",
+            "difficulte": "Debutant",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket, balls"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "target": "Confidence",
+            "rep": "Execution of simple tactics"
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "description": "Not focusing on simple tactics and execution"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/2114"
+      }
+    ]
+  }
+}

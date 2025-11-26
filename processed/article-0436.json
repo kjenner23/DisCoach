@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "article_title": "December 8, 2014 - Keep Your Strokes Simple",
+    "article_slug": "keep_your_strokes_simple",
+    "source_url": "http://www.tabletenniscoaching.com/node/1994",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "keep_your_strokes_simple": [
+      {
+        "probleme": "Overcomplicating strokes",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Simple stroke technique",
+              "description": "Focus on efficient backswing and natural shot execution",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "None"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Simple stroke practice",
+            "description": "Practice simple strokes with minimal wrist or elbow involvement",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "None"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "nom": "Timing and contact",
+            "description": "Develop timing to turn stroke into a powerful shot",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "None"
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "nom": "Flopping the wrist or elbow",
+            "description": "Avoid using arm or upper body only for stroke execution",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "None"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/1994"
+      }
+    ]
+  }
+}

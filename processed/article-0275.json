@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "article_title": "April 16, 2018 - If You Miss a Practice Session, You Will Know",
+    "article_slug": "miss_practice_session",
+    "source_url": "http://www.tabletenniscoaching.com/node/2925",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "miss_practice_session": [
+      {
+        "probleme": "Missing a practice session",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            "Set standards for daily practice",
+            "Make up for missed sessions"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Reviewing basics",
+            "description": "Conduct a quick review of the fundamentals to get back into rhythm.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "None required"
+          }
+        ],
+        "metriques_progression": [
+          "Daily practice",
+          "Setting goals"
+        ],
+        "erreurs_a_eviter": [
+          "Missing multiple sessions in a row"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/2925"
+      }
+    ]
+  }
+}

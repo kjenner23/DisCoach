@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "article_title": "May 9, 2022 - Playing the Middle Doubles the Opponent's Difficulties",
+    "article_slug": "playing-the-middle-doubles-the-opponents-difficulties",
+    "source_url": "http://www.tabletenniscoaching.com/node/3375",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "playing-the-middle-doubles-the-opponents-difficulties": [
+      {
+        "probleme": "Playing to the corners",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Playing to the corners",
+          "Opponent has only two options"
+        ],
+        "solutions_progressives": {
+          "debutant": [],
+          "intermediaire": [
+            "Playing to the middle"
+          ],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Push to the middle",
+            "description": "Effective push shot to the mid-point between opponent's backhand and forehand.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Bucket of balls"
+          }
+        ],
+        "metriques_progression": [
+          "Doubles the number of shots to cover"
+        ],
+        "erreurs_a_eviter": [
+          "Playing only to the wide corners"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3375"
+      }
+    ]
+  }
+}

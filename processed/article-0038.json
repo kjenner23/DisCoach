@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "article_title": "February 20, 2023 - Double Motion on Serves",
+    "article_slug": "double_motion_on_serves",
+    "source_url": "http://www.tabletenniscoaching.com/node/3448",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "double_motion_on_serves": [
+      {
+        "probleme": "Simplistic serves",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Not specified by source."
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Use a semicircular serving motion; hit the ball on different parts of the swing"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Reverse pendulum serve",
+            "description": "Set up to do a reverse pendulum serve, then miss the ball and do a regular pendulum serve",
+            "difficulte": "Intermediate",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Table tennis racket"
+            ]
+          },
+          {
+            "nom": "Forehand pendulum serve with deception",
+            "description": "Do a forehand pendulum serve, then pull the racket away from you; or set up for a reverse pendulum serve and miss the ball, then do a regular pendulum serve",
+            "difficulte": "Intermediate",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Table tennis racket"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          "Get free points"
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/3448"
+      }
+    ]
+  }
+}

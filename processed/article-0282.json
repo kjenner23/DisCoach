@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "article_title": "February 26, 2018 - Sound and Feet",
+    "article_slug": "sound_and_feet",
+    "source_url": "http://www.tabletenniscoaching.com/node/2883",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "sound_and_feet": [
+      {
+        "probleme": "Unsuitable footwork or grip",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          ""
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Listen to the sound of contact",
+            "Watch your feet",
+            "Practice proper footwork drills"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Footwork drills",
+            "description": "Concentrate on proper foot positioning and movement; start slow and gradually increase speed.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Table tennis table",
+              "Balls"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          "Not specified by source."
+        ],
+        "erreurs_a_eviter": [
+          "Twisting of the body due to incorrect footwork or grip"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/2883"
+      }
+    ]
+  }
+}

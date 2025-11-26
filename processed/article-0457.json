@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "article_title": "June 30, 2014 - Forehand or Backhand Serve & Attack",
+    "article_slug": "forehand-or-backhand-serve-attack",
+    "source_url": "http://www.tabletenniscoaching.com/node/1860",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "forehand-or-backhand-serve-attack": [
+      {
+        "probleme": "Should you try to serve and attack with your forehand or backhand?",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "predictability, opponent getting into rhythm"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Serve with forehand when possible",
+            "Follow up with forehand attack"
+          ],
+          "intermediaire": [
+            "Mix in serve and backhand attacks to keep opponent guessing",
+            "Use backhand attack if opponent pushes long or counters/spins your serve"
+          ],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Looping forehand",
+            "description": "Use forehand to loop returns with topspin or backspin",
+            "difficulte": "intermediate",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "racket"
+            ]
+          },
+          {
+            "nom": "Backhand looping",
+            "description": "Use backhand to loop returns with topspin, backspin or sidespin",
+            "difficulte": "intermediate",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "racket"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          "Reach high level in table tennis"
+        ],
+        "erreurs_a_eviter": [
+          "Letting opponent get into rhythm"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/1860"
+      }
+    ]
+  }
+}

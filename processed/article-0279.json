@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "article_title": "March 19, 2018 - Your Goal Should Normally Be to Win Playing the Style You Are Developing",
+    "article_slug": "developing-playing-style-you-are-developing",
+    "source_url": "http://www.tabletenniscoaching.com/node/2901",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "developing-playing-style-you-are-developing": [
+      {
+        "probleme": "Afraid to loop many deep serves",
+        "diagnostic": "Modestly successful returning them passively",
+        "causes_communes": [
+          "Tactical rigidity",
+          "Fear of losing"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "Description": "Start looping those deep serves, even if it means temporarily losing some winnable matches"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Looping drills",
+            "description": "Practice looping different types of deep serves with emphasis on developing looping style",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis table, balls"
+          }
+        ],
+        "metriques_progression": [
+          "Temporary losses in winnable matches"
+        ],
+        "erreurs_a_eviter": [
+          {
+            "Description": "Return deep serves passively"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/2901"
+      },
+      {
+        "probleme": "Not consistently following up serve with attack",
+        "diagnostic": "Missed opportunities to gain initiative",
+        "causes_communes": [
+          "Tactical sense",
+          "Fear of losing"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "Description": "Follow your serve with an attack, unless the opponent returns it in a way that takes away your attack"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Serve and attack drills",
+            "description": "Practice following up serves with attacks, focusing on developing playing style",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis table, balls"
+          }
+        ],
+        "metriques_progression": [
+          "Improved initiative and attack opportunities"
+        ],
+        "erreurs_a_eviter": [
+          {
+            "Description": "Returning serve passively"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/2901"
+      }
+    ]
+  }
+}

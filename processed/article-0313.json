@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "article_title": "June 26, 2017 - One Point at a Time",
+    "article_slug": "one_point_at_a_time",
+    "source_url": "http://www.tabletenniscoaching.com/node/2704",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "One Point at a Time",
+      "definition": "Focusing on one point instead of the score or game",
+      "contexte": "When playing table tennis, ignore everything except the next point to stay relaxed and focused",
+      "source_url": "http://www.tabletenniscoaching.com/node/2704"
+    }
+  ],
+  "problemes_solutions": {
+    "one_point_at_a_time": [
+      {
+        "probleme": "Difficulty staying focused under pressure",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "description": "Focus on the next point, ignore everything else"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Next Point Focus",
+            "description": "Practice focusing on one point at a time during drills",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis table, racket, balls"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "reps": "30-45 minutes of focused play"
+          }
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/2704"
+      }
+    ]
+  }
+}

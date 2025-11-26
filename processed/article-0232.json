@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "article_title": "April 1, 2019 - Positioning After Serve",
+    "article_slug": "positioning-after-serve_",
+    "source_url": "http://www.tabletenniscoaching.com/node/3054",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "positioning_after_serve_": [
+      {
+        "probleme": "Poor positioning after serve",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "proposition": "Analyze the receive direction and adjust your position accordingly"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Forehand positioning drill",
+            "description": "Stand at an angle to simulate a short serve to the forehand, then move to cover different angles",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket and balls"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "target": "Improve positioning accuracy",
+            "rep": "Practice with different serves and receive directions",
+            "time": "Not specified by source."
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "erreur": "Ignoring the receive direction"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3054"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "article_title": "May 2, 2016 - React to Opponent's Swing",
+    "article_slug": "react_to_opponents_swing",
+    "source_url": "http://www.tabletenniscoaching.com/node/2397",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "react_to_opponents_swing": [
+      {
+        "probleme": "Reacting to opponent's shots without consciously judging direction",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Lack of awareness of opponent's movements"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Observe the opponent's shoulders and body position"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Opponent's shoulder observation",
+            "description": "Consciously observe an opponent's shoulders as they start their forward swing, then react to the shot based on that observation.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Bucket of balls"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          "React in under 1 second"
+        ],
+        "erreurs_a_eviter": [
+          "Not specified by source."
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/2397"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "article_title": "December 26, 2011 - Balance is a Habit",
+    "article_slug": "balance-is-a-habit",
+    "source_url": "http://www.tabletenniscoaching.com/node/706",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "balance-is-a-habit": [
+      {
+        "probleme": "Lunging for shots instead of stepping to them",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "cues": "Practice staying balanced while moving in any direction"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Step-to-the-ball drill",
+            "description": "Practice stepping to the ball instead of reaching for it, always staying balanced.",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket and balls"
+          }
+        ],
+        "metriques_progression": [
+          "Practice stepping to the ball for a set amount of time or reps"
+        ],
+        "erreurs_a_eviter": [
+          {
+            "pitfall": "Lunging for shots instead of stepping to them"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/706"
+      }
+    ]
+  }
+}

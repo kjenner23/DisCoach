@@ -1,0 +1,75 @@
+{
+  "meta": {
+    "article_title": "January 16, 2023 - Anticipation",
+    "article_slug": "anticipation",
+    "source_url": "http://www.tabletenniscoaching.com/node/3439",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "anticipation": [
+      {
+        "probleme": "Anticipation vs Reaction",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Pattern recognition",
+              "description": "Learn to recognize patterns in opponents' strokes and adjust your positioning accordingly.",
+              "difficulte": "Beginner",
+              "duree": "Not specified by source.",
+              "materiel": "None"
+            }
+          ],
+          "intermediaire": [
+            {
+              "nom": "Serve return anticipation",
+              "description": "Anticipate opponents' serve returns and adjust your positioning accordingly.",
+              "difficulte": "Intermediate",
+              "duree": "Not specified by source.",
+              "materiel": "None"
+            }
+          ],
+          "avance": [
+            {
+              "nom": "Opponent's swing anticipation",
+              "description": "Anticipate opponents' swings and adjust your positioning accordingly.",
+              "difficulte": "Advanced",
+              "duree": "Not specified by source.",
+              "materiel": "None"
+            }
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Pattern recognition drill",
+            "description": "Recognize patterns in opponents' strokes and adjust your positioning accordingly. Start with slow, controlled movements and gradually increase speed and complexity.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "None"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "nom": "Anticipation targets",
+            "description": "Set targets for yourself to anticipate opponents' strokes and adjust your positioning accordingly. Gradually increase the difficulty of these targets as you improve.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "None"
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "nom": "Misjudging opponents' strokes",
+            "description": "Avoid misjudging opponents' strokes and adjust your positioning accordingly. Practice recognizing patterns in opponents' strokes to improve anticipation.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "None"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3439"
+      }
+    ]
+  }
+}

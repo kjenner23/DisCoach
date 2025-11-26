@@ -1,0 +1,92 @@
+{
+  "meta": {
+    "article_title": "August 22, 2022 - Developing Your Game at Different Ages",
+    "article_slug": "developing-your-game-at-different-ages",
+    "source_url": "http://www.tabletenniscoaching.com/node/3400",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "developing-your-game-at-different-ages": [
+      {
+        "probleme": "Different stages of life and tennis goals",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "loop from both sides with feet parallel to the table",
+              "description": "Loop forehands except when forced off the table. Teach counter-looping and short backspin/no-spin serves, with third-ball attack serves.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "bucket of balls"
+            },
+            {
+              "nom": "backhand banana flips against short serves",
+              "description": "Attack short serves with backhand banana flips.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "bucket of balls"
+            }
+          ],
+          "intermediaire": [
+            {
+              "nom": "looping backhand against backspin",
+              "description": "Teach looping the backhand against backspin, but in rallies hit and block aggressively.",
+              "difficulte": "intermediate",
+              "duree": "Not specified by source.",
+              "materiel": "racket"
+            },
+            {
+              "nom": "pushing serves effectively",
+              "description": "Focus on pushing back serves effectively.",
+              "difficulte": "intermediate",
+              "duree": "Not specified by source.",
+              "materiel": "serves"
+            }
+          ],
+          "avance": [
+            {
+              "nom": "long pips on the backhand for blocking",
+              "description": "Use long pips on the backhand to better block opponents' athletic loops and turn topspin into change-of-pace backspin.",
+              "difficulte": "advanced",
+              "duree": "Not specified by source.",
+              "materiel": "long pips"
+            },
+            {
+              "nom": "short pips on the backhand for blocking",
+              "description": "Use short pips on the backhand to help with blocking and hitting.",
+              "difficulte": "advanced",
+              "duree": "Not specified by source.",
+              "materiel": "short pips"
+            }
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "long pips on the backhand for blocking drills",
+            "description": "Practice looping and blocking with long pips on the backhand.",
+            "difficulte": "advanced",
+            "duree": "Not specified by source.",
+            "materiel": "racket, long pips"
+          }
+        ],
+        "metriques_progression": [
+          [
+            "Not specified by source."
+          ]
+        ],
+        "erreurs_a_eviter": [
+          {
+            "nom": "jamming the table with loops",
+            "description": "Avoid trying to jam the table when looping.",
+            "difficulte": "advanced",
+            "duree": "Not specified by source.",
+            "materiel": "racket"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3400"
+      }
+    ]
+  }
+}

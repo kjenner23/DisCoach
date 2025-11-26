@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "article_title": "Recovering from Forehand Attacks from a Corner",
+    "article_slug": "recovering_from_forehand_attacks_from_a_corner",
+    "source_url": "http://www.tabletenniscoaching.com/node/3425",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "recovering_from_forehand_attacks_from_a_corner": [
+      {
+        "probleme": "Not covering the table after forehand attack",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Poor footwork technique"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Use own momentum from shot to move back into position quickly"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Follow-through with balanced ready position",
+            "description": "Concise, with explicit cues; no links; no brand names; semicolons OK",
+            "difficulte": "all levels",
+            "duree": "Not specified by source.",
+            "materiel": "Bucket of balls"
+          }
+        ],
+        "metriques_progression": [
+          "Ready to cover the table by the time opponent hits shot"
+        ],
+        "erreurs_a_eviter": [
+          "Still moving as opponent hits shot"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3425"
+      }
+    ]
+  }
+}

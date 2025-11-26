@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "article_title": "October 5, 2015 - Serving and the Snowball Effect",
+    "article_slug": "serving-and-the-snowball-effect",
+    "source_url": "http://www.tabletenniscoaching.com/node/2237",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "serving-and-the-snowball-effect": [
+      {
+        "probleme": "Improve game through serves",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Weak returns"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Develop strong serves for consistent attack and footwork"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Third-ball serve",
+            "description": "Serve to consistently create attacking opportunities, forcing free points from opponents' mistakes.",
+            "difficulte": "Intermediate",
+            "duree": "Not specified by source.",
+            "materiel": "Racket"
+          },
+          {
+            "nom": "Trick serve",
+            "description": "Learn a few deceptive serves to create free points, but avoid overusing them to maintain effectiveness.",
+            "difficulte": "Intermediate",
+            "duree": "Not specified by source.",
+            "materiel": "Racket"
+          }
+        ],
+        "metriques_progression": [
+          "Rating improvement: 1900 in 2.5 years, 2100 in 5"
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/2237"
+      }
+    ]
+  }
+}

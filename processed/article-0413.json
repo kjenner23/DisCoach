@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "article_title": "May 25, 2015 - Performance vs. Results",
+    "article_slug": "performance-vs-results_",
+    "source_url": "http://www.tabletenniscoaching.com/node/2132",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "performance-vs-results_": [
+      {
+        "probleme": "Judging performance vs. results",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Bad luck",
+          "Ill-timed injuries or illnesses"
+        ],
+        "solutions_progressives": {
+          "debutant": [],
+          "intermediaire": [
+            "Practice to improve performance"
+          ],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Practice and improvement",
+            "description": "Concentrate on improving performance, focusing on specific aspects to be better prepared for future matches.",
+            "difficulte": "Intermediate",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Playing hall",
+              "Coaches"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          "Monitor and adjust performance metrics"
+        ],
+        "erreurs_a_eviter": [
+          "Lack of practice, focus on results over performance"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/2132"
+      }
+    ]
+  }
+}

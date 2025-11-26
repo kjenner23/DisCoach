@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "article_title": "May 13, 2019 - First Block and First Counterloop",
+    "article_slug": "first_block_and_first_counterloop",
+    "source_url": "http://www.tabletenniscoaching.com/node/3067",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "first_block_and_first_counterloop": [
+      {
+        "probleme": "Trouble blocking or counterlooping against opponent's opening loop against backspin",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "step": "Get a partner and a bucket of balls. Server serves backspin, receiver pushes back long, server loops, receiver blocks or counterloops - but don't play out the point."
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Loop against backspin",
+            "description": "Server loops, receiver blocks or counterloops.",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": "Bucket of balls"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "target": "Practice reacting to a loop against backspin, over and over."
+          }
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/3067"
+      }
+    ]
+  }
+}

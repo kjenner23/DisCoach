@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "article_title": "September 20, 2021 - A Good Warm-up",
+    "article_slug": "a-good-warm-up",
+    "source_url": "http://www.tabletenniscoaching.com/node/3318",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "groove your shots",
+      "definition": "to make your shots natural and automatic",
+      "contexte": "during warm-up to prepare for matches",
+      "source_url": "http://www.tabletenniscoaching.com/node/3318"
+    }
+  ],
+  "problemes_solutions": {
+    "a-good-warm-up": [
+      {
+        "probleme": "Improving Warm-up Techniques",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "description": "Do some easy jogging and perhaps some shadow practice to warm up the muscles."
+            }
+          ],
+          "intermediaire": [
+            {
+              "description": "Arrange in advance to warm up with someone you are used to practicing with."
+            },
+            {
+              "description": "Decide in advance what you need to warm up and make sure to cover every major aspect of your game."
+            }
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Easy jogging",
+            "description": "To loosen up the muscles.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": []
+          },
+          {
+            "nom": "Shadow practice",
+            "description": "To warm up the muscles and get ready to play.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": []
+          }
+        ],
+        "metriques_progression": [
+          {
+            "description": "Take 2-3 minutes or more to warm up each major aspect of your game."
+          },
+          {
+            "description": "For a really good warm-up, it takes at least 45 minutes or more, though you can probably get most of it done in 30 minutes."
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "description": "Don't forget to play actual points after warming up."
+          },
+          {
+            "description": "Make sure to feel ready to play after the warm-up."
+          }
+        ]
+      }
+    ]
+  }
+}

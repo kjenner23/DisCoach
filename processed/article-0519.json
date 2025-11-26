@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "article_title": "April 1, 2013 - The Many Ways to Receive a Short Backspin Serve",
+    "article_slug": "receive_short_backspin_serve",
+    "source_url": "http://www.tabletenniscoaching.com/node/1423",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "receive_short_backspin_serve": [
+      {
+        "probleme": "Returning short backspin serve",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Being predictable with passive returns"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Push long",
+              "description": "Loop the serve, forehand or backhand. If you don't loop, play aggressive by pushing the serve back.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "racket"
+            },
+            {
+              "nom": "Push short",
+              "description": "Stop the opponent from looping. Aim to push short one way and then go the other way.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "racket"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Loop the serve, forehand or backhand",
+            "description": "Aim to loop the serve with topspin, forehand or backhand.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "racket"
+          },
+          {
+            "nom": "Push quick, heavy, low, deep, and wide",
+            "description": "Experiment with pushing the serve back with sidespin, especially a sidespin that breaks away from the opponent on his wide backhand side.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "racket"
+          }
+        ],
+        "metriques_progression": [
+          "Consistency and control"
+        ],
+        "erreurs_a_eviter": [
+          "Being predictable with passive returns"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/1423"
+      }
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "article_title": "May 10, 2021 - How to Play a Player Who Attacks With Long Pips",
+    "article_slug": "play-player-attacks-long-pips_snake_case",
+    "source_url": "http://www.tabletenniscoaching.com/node/3276",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "play-player-attacks-long-pips_snake_case": [
+      {
+        "probleme": "Handling long pips attack",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Unfamiliarity with the attack"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Don't let them attack",
+            "Take a step off the table, and return with a topspin drive of some sort either offensively or defensively",
+            "Stay at the table, open your racket, and be willing to lose a number of points as you get used to countering their attacks"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Deep ball with no spin",
+            "description": "Keep the ball deep and put no spin on it.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Racket"
+          },
+          {
+            "nom": "Topspin drive",
+            "description": "Put topspin on the ball and return with a drive of some sort either offensively or defensively.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Racket"
+          }
+        ],
+        "metriques_progression": [
+          "Get used to countering their attacks"
+        ],
+        "erreurs_a_eviter": [
+          "Don't be afraid to lose a number of points as you get used to countering their attacks"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3276"
+      }
+    ]
+  }
+}

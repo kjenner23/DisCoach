@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "article_title": "November 24, 2014 - ?Pre-Serve Routine - a 1-2-3 Approach",
+    "article_slug": "pre-serve-routine-a-123-approach",
+    "source_url": "http://www.tabletenniscoaching.com/node/1983",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "service",
+      "definition": "the act of serving the ball in table tennis",
+      "contexte": "when discussing a pre-serve routine and visualizing the serve",
+      "source_url": "http://www.tabletenniscoaching.com/node/1983"
+    }
+  ],
+  "problemes_solutions": {
+    "pre-serve-routine-a-123-approach": [
+      {
+        "probleme": "Mental preparation for serves",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Stop and clear your mind",
+              "description": "Finalize what serve you will do and then clear your mind to prepare for the upcoming rally.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "No specific material needed"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Pendulum swing",
+            "description": "Push up the sleeve of your serving shoulder, drop your serving arm so it hangs loosely, and then swing it back and forth one time like a pendulum.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "No specific material needed"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "height_of_toss": "Variable, depending on the serve",
+            "speed_of_contact": "Variable, depending on the serve",
+            "location_of_contact": "Low or high, depending on the serve",
+            "direction_of_the_serve": "Variable, depending on the serve",
+            "flight_of_the_ball": "Curving, sinking, floating, or flat, depending on the spin and speed of the serve"
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "nom": "Not visualizing all aspects of the serve",
+            "description": "Not mentally preparing for the follow-up after serving.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "No specific material needed"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/1983"
+      }
+    ]
+  }
+}

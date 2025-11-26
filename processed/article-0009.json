@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "article_title": "September 11, 2023 - The \"No Net\" Rule Against Heavy Backspin",
+    "article_slug": "no_net_rule_against_heavy_backspin",
+    "source_url": "http://www.tabletenniscoaching.com/node/3501",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "no_net_rule_against_heavy_backspin": [
+      {
+        "probleme": "Lifting heavy backspin",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Instincts telling you to aim up, fear of going off the end"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "description": "Practice lifting heavy backspin, even if it goes off the end",
+              "difficulte": "All levels",
+              "duree": "Not specified by source.",
+              "materiel": "Generic"
+            }
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Lifting heavy backspin drills",
+            "description": "Practice lifting heavy backspin, even if it goes off the end, with a partner or against multiball",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": "Generic"
+          }
+        ],
+        "metriques_progression": [
+          "Target accuracy over consistency"
+        ],
+        "erreurs_a_eviter": [
+          {
+            "description": "Not practicing lifting heavy backspin enough, getting frustrated and trying to weakly topspin it up"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3501"
+      }
+    ]
+  }
+}

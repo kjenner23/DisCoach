@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "article_title": "November 11, 2019 - Three Spots or Two?",
+    "article_slug": "three_spots_or_two",
+    "source_url": "http://www.tabletenniscoaching.com/node/3119",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "three_spots_or_two": [
+      {
+        "probleme": "Playing the wrong spots",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Failing to adjust to opponent's strengths and weaknesses"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Play all three spots, but focus on one or two initially",
+            "Adjust shot placement based on opponent's position and strength"
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Wide corner attack",
+            "description": "Attack the wide corner to draw the opponent out of position; then attack the middle or other side",
+            "difficulte": "Intermediate",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket"
+          }
+        ],
+        "metriques_progression": [
+          "Keep track of opponent's strengths and weaknesses throughout the match; adjust strategy accordingly"
+        ],
+        "erreurs_a_eviter": [
+          "Failing to adapt to changing circumstances during the match"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3119"
+      }
+    ]
+  }
+}

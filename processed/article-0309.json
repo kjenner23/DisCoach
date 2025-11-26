@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "article_title": "August 7, 2017 - Feet Parallel to Table is Usually a Backhand Stance",
+    "article_slug": "feet_parallel_to_table_is_usually_a_backhand_stance",
+    "source_url": "http://www.tabletenniscoaching.com/node/2728",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "feet_parallel_to_table_is_usually_a_backhand_stance": [
+      {
+        "probleme": "Incorrect ready stance for backhand attack",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Players facing forehand side, not opponent"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "cues": "Face opponent, feet parallel to expected contact point"
+            }
+          ]
+        },
+        "exercices_complementaires": [],
+        "metriques_progression": [
+          "Not specified by source."
+        ],
+        "erreurs_a_eviter": [
+          "Pushing with backhand when expecting forehand"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/2728"
+      }
+    ]
+  }
+}

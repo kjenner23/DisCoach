@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "article_title": "January 24, 2022 - Focus on the Next Point",
+    "article_slug": "focus-on-the-next-point",
+    "source_url": "http://www.tabletenniscoaching.com/node/3347",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "tactically",
+      "definition": "in a strategic manner",
+      "contexte": "to prepare for the next point",
+      "source_url": "http://www.tabletenniscoaching.com/node/3347"
+    }
+  ],
+  "problemes_solutions": {
+    "focus-on-the-next-point": [
+      {
+        "probleme": "Focusing on past mistakes",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            "Clear your mind before the next point"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Serve practice",
+            "description": "Focus on a specific serve and its placement, then clear your mind for the next point.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket and balls"
+          }
+        ],
+        "metriques_progression": [
+          "Set a target number of points to win"
+        ],
+        "erreurs_a_eviter": [
+          "Don't overthink, just focus on the next point"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3347"
+      }
+    ]
+  }
+}

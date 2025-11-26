@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "article_title": "February 25, 2013 - Should You Hit or Loop the Backhand?",
+    "article_slug": "should-you-hit-or-loop-the-backhand",
+    "source_url": "http://www.tabletenniscoaching.com/node/1367",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "backhand_loop_hit": [
+      {
+        "probleme": "Should You Hit or Loop the Backhand?",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Beginners should learn to hit first.",
+          "Players need good habits early on."
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "probleme": "Beginner-level backhand",
+              "solution": "Learn to hit the backhand first."
+            }
+          ],
+          "intermediaire": [
+            {
+              "probleme": "Intermediate-level backhand",
+              "solution": "Learn to loop against backspin, followed by hitting against an incoming block and rest of rally."
+            }
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Backhand Loop and Hit One-Two Punch",
+            "description": "Open with a backhand loop against backspin, followed by backhand hit against an incoming block.",
+            "difficulte": "Intermediate",
+            "duree": "Not specified by source.",
+            "materiel": "Generic balls"
+          }
+        ],
+        "metriques_progression": [
+          "Practice"
+        ],
+        "erreurs_a_eviter": [
+          "Pushing over and over, giving opponent the chance to attack"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/1367"
+      }
+    ]
+  }
+}

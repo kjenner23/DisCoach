@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "article_title": "The Game is All Mental",
+    "article_slug": "the_game_is_all_mental",
+    "source_url": "http://www.tabletenniscoaching.com/node/932",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "the_game_is_all_mental": [
+      {
+        "probleme": "Maintaining mental focus during a match",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            "Take deep breaths to calm down"
+          ],
+          "intermediaire": [
+            "Focus on one point at a time",
+            "Use positive self-talk"
+          ],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Visualization drill",
+            "description": "Visualize yourself playing well and calmly in a match.",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "A quiet space to focus"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          "Not specified by source."
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/932"
+      }
+    ]
+  }
+}

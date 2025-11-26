@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "article_title": "September 9, 2019 - Smashing Lobs",
+    "article_slug": "smashing-lob",
+    "source_url": "http://www.tabletenniscoaching.com/node/3099",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "smashing-lob": [
+      {
+        "probleme": "Smashing a lob is difficult",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Lob height and spin"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Read the spin, back up for deep lobs, hit above eye level, practice smashing",
+            "Hit a lob above eye level, either as it goes up or as it comes down"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Smashing lobs as they drop",
+            "description": "Practice smashing lobs until consistent, take them on the rise for good angle",
+            "difficulte": "Intermediate",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket"
+          },
+          {
+            "nom": "Smashing lobs from short distance",
+            "description": "Practice smashing lobs that land short, force a weak lob and put it away",
+            "difficulte": "Intermediate",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket"
+          }
+        ],
+        "metriques_progression": [
+          "Force a weak lob and put it away"
+        ],
+        "erreurs_a_eviter": [
+          "Going for an outright winner, letting opponent counter-hit"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3099"
+      }
+    ]
+  }
+}

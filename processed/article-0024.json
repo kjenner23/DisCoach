@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "article_title": "May 29, 2203 - Solving Slow Starter Syndrome",
+    "article_slug": "slow-starter-syndrome",
+    "source_url": "http://www.tabletenniscoaching.com/node/3474",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "slow-starter-syndrome": [
+      {
+        "probleme": "Slow Start Syndrome",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "robotic warmup"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "description": "Include lots of random drills and match play in the last few days before a tournament to prepare",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "generic"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "random drills and match play",
+            "description": "Random drills and match play to prepare for real play",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "generic"
+          },
+          {
+            "nom": "playing real points before a tournament",
+            "description": "Playing real points before the first match in a tournament to prepare",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "generic"
+          },
+          {
+            "nom": "standard random drill",
+            "description": "Standard random drill, where partner blocks to all parts of the table and you just react",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "generic"
+          }
+        ],
+        "metriques_progression": [
+          [
+            "Get into the same mental state as during the best match"
+          ]
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/3474"
+      }
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "article_title": "November 13, 2012 - Complex or Simple Tactics?",
+    "article_slug": "complex_or_simple_tactics",
+    "source_url": "http://www.tabletenniscoaching.com/node/1222",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "complex_or_simple_tactics": [
+      {
+        "probleme": "Simple Tactics vs. Complex Strategies",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "description": "Find two or three simple tactics that work and develop reflexive tactics to cover other situations."
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Simple Shot Placement",
+            "description": "Vary the speed and spin of your shots, placing them side to side and in and out.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "table tennis racket"
+          }
+        ],
+        "metriques_progression": [
+          "Not specified by source."
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/1222"
+      }
+    ]
+  }
+}

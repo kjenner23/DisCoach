@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "article_title": "June 13, 2016 - The Difference Between a Drop Shot and a Short Push",
+    "article_slug": "the-difference-between-a-drop-shot-and-a-short-push",
+    "source_url": "http://www.tabletenniscoaching.com/node/2431",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "the-difference-between-a-drop-shot-and-a-short-push": [
+      {
+        "probleme": "Understanding the difference between a drop shot and a short push",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "description": "Make the ball as short as possible to keep the defender off-balance"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Drop shot drill",
+            "description": "Practice making drop shots against a chopper, aiming for the corners and using spin to make it difficult to return",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis ball"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "target": "Keep the ball as short as possible",
+            "reps": "Practice making 10-15 drop shots in a row",
+            "time": "Not specified by source."
+          }
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/2431"
+      }
+    ]
+  }
+}

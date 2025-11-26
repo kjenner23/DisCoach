@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "article_title": "June 24, 2013 - Feet and Grip",
+    "article_slug": "feet-and-grip",
+    "source_url": "http://www.tabletenniscoaching.com/node/1546",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "feet-and-grip": [
+      {
+        "probleme": "Improper feet and grip positioning",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Incorrect foot placement",
+          "Misaligned grip"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Neutral grip",
+              "description": "Wrist lines up with racket",
+              "difficulte": "Beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Table tennis racket"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Foot placement drills",
+            "description": "Practice foot placement with proper grip",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket"
+          }
+        ],
+        "metriques_progression": [
+          "Not specified by source."
+        ],
+        "erreurs_a_eviter": [
+          {
+            "nom": "Twisted strokes",
+            "description": "Awkward positioning of elbow, shoulder, and feet"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/1546"
+      }
+    ]
+  }
+}

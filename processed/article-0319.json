@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "article_title": "May 15, 2017 - Towel for Fast Serve Practice",
+    "article_slug": "towel-fast-serve-practice",
+    "source_url": "http://www.tabletenniscoaching.com/node/2673",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "towel-fast-serve-practice": [
+      {
+        "probleme": "Maximize the speed of the serve",
+        "diagnostic": "Most players are not aware of where the first bounce is on their side of the table.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Towel drill",
+              "description": "Spread a towel on your side of the table, about six inches from your end-line. Then practice your fast, deep serves.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Towel"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Side of the table drill",
+            "description": "Try hitting the side of the table on your end-line.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "None"
+          }
+        ],
+        "metriques_progression": [
+          "Not specified by source."
+        ],
+        "erreurs_a_eviter": [
+          "Not specified by source."
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/2673"
+      }
+    ]
+  }
+}

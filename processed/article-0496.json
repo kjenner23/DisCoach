@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "article_title": "September 23, 2013 - Saturation Training",
+    "article_slug": "saturation_training",
+    "source_url": "http://www.tabletenniscoaching.com/node/1619",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "saturation_training": [
+      {
+        "probleme": "Perfecting a weakness in the game",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "haphazard practice"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Shadow practicing the new technique",
+              "description": "Practice the shot over and Over and OVER until it is so ingrained you can do it in your sleep.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": [
+                "racket"
+              ]
+            }
+          ],
+          "intermediaire": [
+            {
+              "nom": "Practice with a partner or robot, focusing on the shot",
+              "description": "Ideally, find a coach or player who can feed multiball to you and go at it.",
+              "difficulte": "intermediate",
+              "duree": "Not specified by source.",
+              "materiel": [
+                "racket",
+                "multiball robot"
+              ]
+            }
+          ],
+          "avance": [
+            {
+              "nom": "Use the shot in practice matches, focusing on its development",
+              "description": "Get the shot ingrained in this way as something you can do regularly in a match.",
+              "difficulte": "advanced",
+              "duree": "Not specified by source.",
+              "materiel": [
+                "racket"
+              ]
+            }
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Backhand loop against backspin",
+            "description": "Practice the shot over and Over and OVER until it is so ingrained you can do it in your sleep.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "racket",
+              "multiball robot"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          "Not specified by source."
+        ],
+        "erreurs_a_eviter": [
+          {
+            "nom": "Practicing the shot haphazardly"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/1619"
+      }
+    ]
+  }
+}

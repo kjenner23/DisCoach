@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "article_title": "March 11, 2013 - Practicing for the Big Matches",
+    "article_slug": "practicing-for-the-big-matches",
+    "source_url": "http://www.tabletenniscoaching.com/node/1388",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "practicing-for-the-big-matches": [
+      {
+        "probleme": "Preparing for important matches",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "little pressure in practice"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Drill as if it were a match",
+              "description": "Think of drills as matches, where you must outlast your opponent.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "generic"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Practice match drill",
+            "description": "Play practice matches as if they were serious matches, and focus on your mental game.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "generic"
+          }
+        ],
+        "metriques_progression": [
+          "maximize your chances of winning"
+        ],
+        "erreurs_a_eviter": [
+          "worrying about winning or losing"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/1388"
+      }
+    ]
+  }
+}

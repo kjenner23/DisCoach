@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "article_title": "February 21, 2011 - Wait a split second longer when looping a push, then change directions",
+    "article_slug": "wait_a_split_second_longer_when_looping_a_push_then_change_directions",
+    "source_url": "http://www.tabletenniscoaching.com/node/260",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "wait_a_split_second_longer_when_looping_a_push_then_change_directions": [
+      {
+        "probleme": "Normal loop timing",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Most blockers develop timing to react to your normal loop"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Wait a split second longer than normal, letting the ball travel perhaps an six inches to a foot, and then go down the line",
+            "Make no attempt to hide your setup to loop crosscourt"
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Looping drill with delay",
+            "description": "Set up to loop crosscourt, wait a split second longer than normal, then go down the line. Focus on the timing and delay.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket and balls"
+          }
+        ],
+        "metriques_progression": [
+          [
+            "Target: 6-12 inches ball travel before changing direction"
+          ]
+        ],
+        "erreurs_a_eviter": [
+          "Don't try to hide your setup, as this can be detected by the opponent"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/260"
+      }
+    ]
+  }
+}

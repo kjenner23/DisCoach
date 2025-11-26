@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "article_title": "November 27, 2017 - The Non-Playing Arm",
+    "article_slug": "non_playing_arm",
+    "source_url": "http://www.tabletenniscoaching.com/node/2821",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "non_playing_arm": [
+      {
+        "probleme": "Dead snake syndrome",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            "Keep the arm and hand up in your ready position for balance"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Counter-balance drills",
+            "description": "Use the non-playing arm as a counter-balance while rallying, especially when making big forehand shots.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Balls"
+          }
+        ],
+        "metriques_progression": [
+          "Quick starts",
+          "Big forehand shots"
+        ],
+        "erreurs_a_eviter": [
+          "Letting the arm hang like a dead snake"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/2821"
+      }
+    ]
+  }
+}

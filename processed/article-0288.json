@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "article_title": "January 15, 2018 - Best Way to Learn � Watch, Mimic, Practice",
+    "article_slug": "watch_mimic_practice",
+    "source_url": "http://www.tabletenniscoaching.com/node/2847",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "watch_mimic_practice": [
+      {
+        "probleme": "Learning table tennis",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "proposition": "Watch a top player and mimic their shots"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Shadow-practicing",
+            "description": "Practicing your stroke without the ball to improve technique",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "None"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "rep": "Until you can do it as well as the player"
+          }
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/2847"
+      }
+    ]
+  }
+}

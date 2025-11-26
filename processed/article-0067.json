@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "article_title": "August 1, 2022 - Serving - The Trick Part of Table Tennis",
+    "article_slug": "serving-the-trick-part-of-table-tennis",
+    "source_url": "http://www.tabletenniscoaching.com/node/3396",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "serving_the_trick_part_of_table_tennis": [
+      {
+        "probleme": "Serving effectively",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Relying too much on trick serves"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Vary the swing and follow-through",
+            "Use quick motions to make it tricky for the receiver"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Exaggerated motion",
+            "description": "Follow through with an exaggerated upward swing (backspin) or downward swing (topspin/sidespin)",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Racket"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          "Win some free points",
+          "Set up your shots"
+        ],
+        "erreurs_a_eviter": [
+          "Serving just to put the ball in play"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3396"
+      }
+    ]
+  }
+}

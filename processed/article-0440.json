@@ -1,0 +1,64 @@
+{
+  "meta": {
+    "article_title": "November 10, 2014 - Keep the Ball Deep",
+    "article_slug": "keep-the-ball-deep",
+    "source_url": "http://www.tabletenniscoaching.com/node/1970",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "keep-the-ball-deep": [
+      {
+        "probleme": "Lack of depth control in shots",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Playing safe, middle-of-the-table shots"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Forehand to forehand and backhand to backhand drills",
+              "description": "Practice keeping the ball deep with simple drills.",
+              "difficulte": "Beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Box of balls"
+            }
+          ],
+          "intermediaire": [
+            {
+              "nom": "String or marker across the table drill",
+              "description": "Practice keeping the ball deep with a string or marker on the table.",
+              "difficulte": "Intermediate",
+              "duree": "Not specified by source.",
+              "materiel": "Box of balls"
+            }
+          ],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Practice with a box against the end-line drill",
+            "description": "Practice keeping the ball deep with a box against the end-line.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Box of balls"
+          },
+          {
+            "nom": "Long serves depth control practice",
+            "description": "Practice keeping the ball deep with long serves.",
+            "difficulte": "Advanced",
+            "duree": "Not specified by source.",
+            "materiel": "Box of balls"
+          }
+        ],
+        "metriques_progression": [
+          "Aim for the last 18 inches or so of the table"
+        ],
+        "erreurs_a_eviter": [
+          "Playing safe, middle-of-the-table shots"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/1970"
+      }
+    ]
+  }
+}

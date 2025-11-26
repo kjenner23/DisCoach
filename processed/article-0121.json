@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "article_title": "June 28, 2021 - Forehand Attackers Should Serve & Backhand Attack",
+    "article_slug": "forehand_attackers_should_serve_and_backhand_attack",
+    "source_url": "http://www.tabletenniscoaching.com/node/3295",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "forehand_attackers_should_serve_and_backhand_attack": [
+      {
+        "probleme": "Opponents anticipating forehand attacks",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Opponents pushing to backhand corner"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Serve and get into backhand position",
+              "description": "Follow with a backhand loop",
+              "difficulte": "Beginner",
+              "duree": "Not specified by source.",
+              "materiel": [
+                "Bucket of balls"
+              ]
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Backhand loop",
+            "description": "Loop the ball back to the opponent's side; use as a variation to forehand attacks",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Bucket of balls"
+            ]
+          },
+          {
+            "nom": "Forehand loop",
+            "description": "Loop the ball forward; use as a variation to backhand attacks",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Bucket of balls"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          {
+            "target": "Unspecified"
+          },
+          {
+            "reps": "Unspecified"
+          },
+          {
+            "time": "Unspecified"
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "pitfall": "Opponents adjusting to forehand attacks"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3295"
+      }
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "article_title": "May 17, 2021 - Patient Decisiveness",
+    "article_slug": "patient_decisiveness",
+    "source_url": "http://www.tabletenniscoaching.com/node/3278",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "patient_decisiveness": [
+      {
+        "probleme": "Lack of patient decisiveness",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            "Pick your shots carefully"
+          ],
+          "intermediaire": [
+            "Be decisive about whatever choice you make"
+          ],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Push or block",
+            "description": "Play a shot that doesn't give your opponent an easy shot while perhaps setting up your own shot.",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis equipment"
+          }
+        ],
+        "metriques_progression": [
+          "Not specified by source."
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/3278"
+      }
+    ]
+  }
+}

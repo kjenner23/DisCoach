@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "article_title": "October 26, 2020 - Learn To Play Close to the Table",
+    "article_slug": "learn-to-play-close-to-the-table",
+    "source_url": "http://www.tabletenniscoaching.com/node/3217",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "learn-to-play-close-to-the-table": [
+      {
+        "probleme": "Staying close to the table during a match",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "giving up the table",
+          "opponent having more time to react"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Stay within an arm's length or slightly more of the table",
+            "Practice with a barrier behind you"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Jamming at the table",
+            "description": "Stay within an arm's length or slightly more of the table, exaggerating it to learn to stay close.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "barrier"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          {
+            "target": "Staying within an arm's length or slightly more of the table"
+          }
+        ],
+        "erreurs_a_eviter": [
+          "Backing off the table too far"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3217"
+      }
+    ]
+  }
+}

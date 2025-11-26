@@ -1,0 +1,94 @@
+{
+  "meta": {
+    "article_title": "March 27 - Serve and Forehand Loop",
+    "article_slug": "serve-and-forehand-loop",
+    "source_url": "http://www.tabletenniscoaching.com/node/2636",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "One gun is as good as two.",
+      "definition": "A common slogan in table tennis, referring to the dominance of forehand attackers in the past.",
+      "contexte": "Historical context",
+      "source_url": "http://www.tabletenniscoaching.com/node/2636"
+    }
+  ],
+  "problemes_solutions": {
+    "serve-and-forehand-loop": [
+      {
+        "probleme": "Developing a serve and forehand attack",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Depth of Serve",
+              "description": "Serve short, with the ideal third-ball attack serve bouncing twice on the other side and ideally an inch or so inside the end-line.",
+              "difficulte": "Beginner",
+              "duree": "Not specified",
+              "materiel": "Table tennis ball"
+            },
+            {
+              "nom": "Placement of Serve",
+              "description": "Serve to the backhand, forehand, or middle, varying the depth and spin to force the receiver to make mistakes.",
+              "difficulte": "Beginner",
+              "duree": "Not specified",
+              "materiel": "Table tennis ball"
+            }
+          ],
+          "intermediaire": [
+            {
+              "nom": "Spin Variation on Serve",
+              "description": "Vary the spin of your serve, including backspin, no-spin, and sidespin, to make it difficult for the receiver to return.",
+              "difficulte": "Intermediate",
+              "duree": "Not specified",
+              "materiel": "Table tennis ball"
+            },
+            {
+              "nom": "Types of Sidespin on Serve",
+              "description": "Use left and right sidespin serves to change the trajectory of the receiver's return.",
+              "difficulte": "Intermediate",
+              "duree": "Not specified",
+              "materiel": "Table tennis ball"
+            }
+          ]
+        },
+        "ready-stance": {
+          "nom": "Ready Stance",
+          "description": "Stand with your weight on the balls of your feet, knees slightly bent, and relatively wide stance to be ready to move in either direction.",
+          "difficulte": "Beginner",
+          "duree": "Not specified",
+          "materiel": "None"
+        },
+        "when-to-react": {
+          "nom": "When to React",
+          "description": "Move into position to attack before the receiver makes their shot, and be prepared for their return.",
+          "difficulte": "Intermediate",
+          "duree": "Not specified",
+          "materiel": "Table tennis ball"
+        },
+        "how-hard-to-attack": {
+          "nom": "How Hard to Attack",
+          "description": "Make well-placed aggressive attacks that put pressure on the opponent and set you up for the next shot.",
+          "difficulte": "Intermediate",
+          "duree": "Not specified",
+          "materiel": "Table tennis ball"
+        },
+        "follow-through-back-into-position": {
+          "nom": "Follow Through Back into Position",
+          "description": "Follow through back into position after your serve and forehand attack to be ready for the next shot.",
+          "difficulte": "Beginner",
+          "duree": "Not specified",
+          "materiel": "Table tennis ball"
+        },
+        "mentality": {
+          "nom": "Mentality",
+          "description": "Commit yourself to serving and forehand attacking, understand that proper preparation and reaction are key, and be prepared for the next shot.",
+          "difficulte": "Beginner",
+          "duree": "Not specified",
+          "materiel": "Table tennis ball"
+        }
+      }
+    ]
+  }
+}

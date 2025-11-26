@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "article_title": "November 5, 2018 - Heavy and No-Spin Pushes",
+    "article_slug": "heavy-and-no-spin-pushes",
+    "source_url": "http://www.tabletenniscoaching.com/node/3011",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "no-spin push",
+      "definition": "",
+      "contexte": "a push where you fake great backspin, but put little spin on the ball",
+      "source_url": "http://www.tabletenniscoaching.com/node/3011"
+    }
+  ],
+  "problemes_solutions": {
+    "heavy-and-no-spin-pushes": [
+      {
+        "probleme": "",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "conventional heavy push",
+              "description": "except don't graze the ball much, and more importantly, snap the wrist after contact",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "racket"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "conventional heavy push",
+            "description": "except don't graze the ball much, and more importantly, snap the wrist after contact",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "racket"
+          }
+        ],
+        "metriques_progression": [
+          [
+            "Not specified by source."
+          ]
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/3011"
+      }
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "article_title": "April 29, 2019 - Rope-a-Dope Defense",
+    "article_slug": "rope_a_dope_defense",
+    "source_url": "http://www.tabletenniscoaching.com/node/3062",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "Rope-a-Dope Defense",
+      "definition": "A defensive strategy that focuses on keeping the ball deep and moving it around to wide angles.",
+      "contexte": "Used to describe a defensive approach in table tennis.",
+      "source_url": "http://www.tabletenniscoaching.com/node/3062"
+    }
+  ],
+  "problemes_solutions": {
+    "rope_a_dope_defense": [
+      {
+        "probleme": "Struggling to stay in rallies against relentless counter-hitters",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "proposition": "Attack first and try to end the point before getting into bang-bang rallies."
+            },
+            {
+              "proposition": "Force the opponent to open weakly by giving them low, heavy, deep pushes or deep serves that they have trouble attacking, and counter-attacking off their openings with placement key."
+            }
+          ],
+          "intermediaire": [
+            {
+              "proposition": "Get every ball back, focusing on confidence and reaction time."
+            },
+            {
+              "proposition": "Keep it deep, making sure shots don't go short and get into trouble."
+            },
+            {
+              "proposition": "Move the ball around, keeping opponents off balance with wide-angled shots and aggressive counter-shots."
+            }
+          ],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Rally-focused practice",
+            "description": "Practice getting every ball back, focusing on confidence and reaction time.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket, balls"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "target": "Consistency in getting every ball back",
+            "rep": "Not specified by source.",
+            "time": "Not specified by source."
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "erreur": "Backtracking too much, giving opponents wider angles and more time to attack"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3062"
+      }
+    ]
+  }
+}

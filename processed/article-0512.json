@@ -1,0 +1,100 @@
+{
+  "meta": {
+    "article_title": "May 20, 2013 - Tools and Tactics for the Physically Challenged",
+    "article_slug": "physically-challenged-table-tennis-coaching-tips",
+    "source_url": "http://www.tabletenniscoaching.com/node/1508",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "physically-challenged-table-tennis-coaching-tips": [
+      {
+        "probleme": "Competing with a faster, stronger, and more athletic opponent",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "procedé": "Use serves to set up your best shot and to set up other tools outlined below",
+              "explication": ""
+            },
+            {
+              "procedé": "Develop strong receive to take control of the rally",
+              "explication": ""
+            }
+          ],
+          "intermediaire": [
+            {
+              "procedé": "Use spin to mess up your opponent and slow down the pace",
+              "explication": ""
+            },
+            {
+              "procedé": "Keep the ball deep to jam your opponent and out-rally him",
+              "explication": ""
+            }
+          ],
+          "avance": [
+            {
+              "procedé": "Vary the pace and depth of shots to mess up an opponent's timing",
+              "explication": ""
+            },
+            {
+              "procedé": "Move the ball around to focus on three spots - wide backhand, wide forehand, and middle",
+              "explication": ""
+            }
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Serves drills",
+            "description": "Practice mixing in short and long serves with extreme and varying spins.",
+            "difficulte": "Debutant",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Table tennis racket",
+              "Ball"
+            ]
+          },
+          {
+            "nom": "Receive drills",
+            "description": "Practice developing strong receive to take control of the rally.",
+            "difficulte": "Debutant",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Table tennis racket",
+              "Ball"
+            ]
+          },
+          {
+            "nom": "Spin drills",
+            "description": "Practice using both heavy topspin and heavy backspin to mess up an opponent.",
+            "difficulte": "Intermediaire",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Table tennis racket",
+              "Ball"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          {
+            "objectif": "Improve serve and receive skills",
+            "repertoire": "10-20 serves with varying spins"
+          },
+          {
+            "objectif": "Master spin techniques",
+            "repertoire": "5-10 topspin and backspin shots"
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "erreur": "Trying to attack all your opponent's serves"
+          },
+          {
+            "erreur": "Focusing on speed rather than control"
+          }
+        ]
+      }
+    ]
+  }
+}

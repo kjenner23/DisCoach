@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "article_title": "October 29, 2013 - Start Drills with a Serve",
+    "article_slug": "start-drills-with-a-serve",
+    "source_url": "http://www.tabletenniscoaching.com/node/1651",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "backspin",
+      "definition": "type of spin on a serve or push",
+      "contexte": "used in drills to practice looping off the backspin",
+      "source_url": "http://www.tabletenniscoaching.com/node/1651"
+    }
+  ],
+  "problemes_solutions": {
+    "start-drills-with-a-serve": [
+      {
+        "probleme": "Start Drills with a Serve",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Simple serve and receive drill",
+              "description": "Serve backspin; receiver pushes back long to a pre-set spot; server loops off the backspin to the same spot.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "ball"
+            }
+          ],
+          "intermediaire": [
+            {
+              "nom": "Looping off backspin drill",
+              "description": "Server serves backspin; receiver pushes back long to a pre-set spot; server loops off the backspin to a pre-set spot, and then continues looping off the block.",
+              "difficulte": "intermediate",
+              "duree": "Not specified by source.",
+              "materiel": "ball"
+            }
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Hitting drill",
+            "description": "After the opening loop against backspin, follow with hitting instead of looping.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "ball"
+          },
+          {
+            "nom": "Chopping drill",
+            "description": "Loop or hit the forehand over and over, except the receiver's goal is to block him out of position and force him to chop with his backhand.",
+            "difficulte": "intermediate",
+            "duree": "Not specified by source.",
+            "materiel": "ball"
+          }
+        ],
+        "metriques_progression": [
+          [
+            "Repetitive loops against block"
+          ],
+          [
+            "Repeatable serves and receives"
+          ]
+        ],
+        "erreurs_a_eviter": [
+          [
+            "Randomly blocking to different parts of the table"
+          ],
+          [
+            "Not focusing on developing specific techniques"
+          ]
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/1651"
+      }
+    ]
+  }
+}

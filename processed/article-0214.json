@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "article_title": "August 26, 2019 - Don't Get Mad; Get Determined",
+    "article_slug": "dont_get_mad_get_determined",
+    "source_url": "http://www.tabletenniscoaching.com/node/3094",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "dont_get_mad_get_determined": [
+      {
+        "probleme": "Losing a match",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Drills addressing problem techniques",
+              "description": "Specifically work on the technique that caused loss, then move to game-like drills",
+              "difficulte": "Beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Generic"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Game-like drills addressing problem techniques",
+            "description": "Drills to practice the corrected technique until it becomes second nature",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Generic"
+          }
+        ],
+        "metriques_progression": [
+          [
+            "Improve technique",
+            "Practice game-like drills"
+          ]
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/3094"
+      }
+    ]
+  }
+}

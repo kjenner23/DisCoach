@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "article_title": "January 22, 2018 - Doubles Signals and Why You Should Use Them",
+    "article_slug": "doubles-signals-and-why-you-should-use-them",
+    "source_url": "http://www.tabletenniscoaching.com/node/2852",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "doubles-signals-and-why-you-should-use-them": [
+      {
+        "probleme": "Unsignaled serves in doubles",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Lack of communication"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Signal the serve with index finger pointing down for backspin",
+              "description": "Use under-the-table signals to inform partner of serve type; use backspin signal (pointing down) for short serves.",
+              "difficulte": "Beginner",
+              "duree": "Not specified by source.",
+              "materiel": [
+                "None"
+              ]
+            },
+            {
+              "nom": "Signal the serve with thumb or index finger pointing up for topspin",
+              "description": "Use under-the-table signals to inform partner of serve type; use topspin signal (pointing up) for high-arcing serves.",
+              "difficulte": "Beginner",
+              "duree": "Not specified by source.",
+              "materiel": [
+                "None"
+              ]
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Practice under-the-table signaling with partner",
+            "description": "Use agreed-upon signals to communicate serve type and direction; focus on consistency and clear communication.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Table tennis equipment"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          {
+            "nom": "Master 3-4 different serves and their corresponding signals",
+            "description": "Practice serving and signaling with partner; focus on consistency, accuracy, and clear communication.",
+            "difficulte": "Intermediate",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Table tennis equipment"
+            ]
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "nom": "Stalling or delaying decision-making during serves",
+            "description": "Practice under-the-table signaling and committing to a serve quickly; focus on clear communication and quick decision-making.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Table tennis equipment"
+            ]
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/2852"
+      }
+    ]
+  }
+}

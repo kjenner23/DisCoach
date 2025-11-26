@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "article_title": "October 8, 2018 - Counterlooping and the Forehand Block",
+    "article_slug": "forehand_block",
+    "source_url": "http://www.tabletenniscoaching.com/node/3003",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "forehand_block": [
+      {
+        "probleme": "Vulnerability to strong, deep loops",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "playing close to the table",
+          "varying placement"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "find a comfortable distance for forehand counterlooping"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Forehand block with half-step back",
+            "description": "Block aggressive balls, then take half a step back to counterloop slower loops",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "None"
+          }
+        ],
+        "metriques_progression": [
+          "practice against faster loops"
+        ],
+        "erreurs_a_eviter": [
+          "only blocking incoming loops"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3003"
+      }
+    ]
+  }
+}

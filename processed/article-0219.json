@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "article_title": "July 8, 2019 - Take the Shot",
+    "article_slug": "take-the-shot",
+    "source_url": "http://www.tabletenniscoaching.com/node/3084",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "take_the_shot": [
+      {
+        "probleme": "Hesitation to take an aggressive shot",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "probleme": "Fear of missing the shot",
+              "solution": "Take the shot under pressure to learn and improve"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Looping or attacking a deep serve",
+            "description": "Practice looping or attacking a deep serve in practice to build confidence and skills",
+            "difficulte": "Intermediate",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis equipment"
+          }
+        ],
+        "metriques_progression": [
+          "Improving percentage of successful shots taken under pressure"
+        ],
+        "erreurs_a_eviter": [
+          {
+            "probleme": "Fearing to take the right shot",
+            "solution": "Focus on taking the high-percentage shot and learn from mistakes"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3084"
+      }
+    ]
+  }
+}

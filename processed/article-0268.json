@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "article_title": "June 4, 2018 - Footwork at Different Physical Levels",
+    "article_slug": "footwork_at_different_physical_levels",
+    "source_url": "http://www.tabletenniscoaching.com/node/2967",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "footwork_at_different_physical_levels": [
+      {
+        "probleme": "Uncoordinated footwork",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "description": "Always bounce slightly between shots to prepare legs for movement."
+            },
+            {
+              "description": "Assume you will move and don't wait to see if you have to move - expect to, and only wait to see what direction you will be moving."
+            },
+            {
+              "description": "Start with a very short step with the near foot, then adjust as needed."
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Short steps",
+            "description": "Take small steps to prepare for movement and get comfortable moving.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "None"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "target": "Mastering short steps"
+          }
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/2967"
+      }
+    ]
+  }
+}

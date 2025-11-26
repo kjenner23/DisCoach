@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "article_title": "November 18, 2013 - Three Reasons Players Miss Against Deep Sidespin and Topspin Serves",
+    "article_slug": "three-reasons-players-miss-against-deep-sidespin-and-topspin-serves",
+    "source_url": "http://www.tabletenniscoaching.com/node/1667",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "three-reasons-players-miss-against-deep-sidespin-and-topspin-serves": [
+      {
+        "probleme": "Players miss against deep sidespin and topspin serves",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Do not adjust to the amount of spin on the ball",
+          "Do not take into account that their contact point is usually closer to the table than in a rally",
+          "Lift breaking sidespin serves off the end"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "probleme": "Do not adjust to the amount of spin on the ball",
+              "solution": "Aim lower because the ball will jump off your paddle faster with topspin or sidespin"
+            },
+            {
+              "probleme": "Do not take into account that their contact point is usually closer to the table than in a rally",
+              "solution": "Contact the ball more on top of the ball, especially when looping"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Serving to receive",
+            "description": "Have a partner serve while you just receive; then switch roles and practice returning different serves",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": "Bucket of balls"
+          }
+        ],
+        "metriques_progression": [
+          "Consistency, control, depth, and placement are king"
+        ],
+        "erreurs_a_eviter": [
+          "Lifting the ball off the end when reaching for it"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/1667"
+      }
+    ]
+  }
+}

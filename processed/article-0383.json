@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "article_title": "What Is a Good Serve?",
+    "article_slug": "good-serve",
+    "source_url": "http://www.tabletenniscoaching.com/node/2303",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "good-serve": [
+      {
+        "probleme": "What is a good serve?",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "loop-set-up",
+              "description": "Serve that sets up your loop shot.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "generic balls"
+            },
+            {
+              "nom": "smash-set-up",
+              "description": "Serve that sets up your smash shot.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "generic balls"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "loop-set-up-drill",
+            "description": "Practice serving to set up your loop shot.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "generic balls"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "target": "win points directly from the serve"
+          }
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/2303"
+      }
+    ]
+  }
+}

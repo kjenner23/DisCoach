@@ -1,0 +1,102 @@
+{
+  "meta": {
+    "article_title": "August 3, 2015 - Get to the Root of the Problem",
+    "article_slug": "get-to-the-root-of-the-problem",
+    "source_url": "http://www.tabletenniscoaching.com/node/2182",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "get_to_the_root_of_the_problem": [
+      {
+        "probleme": "Falling back while looping forehands",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Standing too far from the ball"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Stand closer to the ball",
+            "Have left leg closer to the table"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Forehand loop with focus on rotation",
+            "description": "Concentrate on rotating around and forward into the ball, keeping balance.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Table tennis equipment"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          "Focus on rotation"
+        ],
+        "erreurs_a_eviter": [
+          "Reaching forward and falling back"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/2182"
+      },
+      {
+        "probleme": "Struggling to rotate body backwards",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Knees facing forward"
+        ],
+        "solutions_progressives": {
+          "debutant": [],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Ready stance with knees pointing sideways",
+            "description": "Practice rotating body comfortably while keeping knees pointing somewhat outward.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Table tennis equipment"
+            ]
+          }
+        ],
+        "metriques_progression": [],
+        "erreurs_a_eviter": [
+          "Knees facing forward"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/2182"
+      },
+      {
+        "probleme": "Difficulty getting great spin on serves",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Contacting the back of the ball"
+        ],
+        "solutions_progressives": {
+          "debutant": [],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Serves with focus on grazing the ball",
+            "description": "Practice contacting the ball more under and to the side.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Table tennis equipment"
+            ]
+          }
+        ],
+        "metriques_progression": [],
+        "erreurs_a_eviter": [
+          "Contacting the back of the ball"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/2182"
+      }
+    ]
+  }
+}

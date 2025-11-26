@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "article_title": "February 7, 2022 - Go After Your Opponent's Weaknesses - But Not Too Much!",
+    "article_slug": "go_after_your_opponent_s_weaknesses",
+    "source_url": "http://www.tabletenniscoaching.com/node/3351",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "go_after_your_opponent_s_weaknesses": [
+      {
+        "probleme": "Opponent's weakness",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Overusing a successful tactic"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Space out the opponent's weakness, come back to it regularly"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Pounding an opponent's weakness",
+            "description": "Regularly return to a successful tactic until the opponent adjusts, then space it out.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket and balls"
+          }
+        ],
+        "metriques_progression": [
+          "Return to what works at critical points"
+        ],
+        "erreurs_a_eviter": [
+          "Overusing a successful tactic, letting the opponent adjust"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3351"
+      }
+    ]
+  }
+}

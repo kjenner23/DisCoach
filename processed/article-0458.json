@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "article_title": "June 23, 2014 - Get the Backswing Right",
+    "article_slug": "backswing_right",
+    "source_url": "http://www.tabletenniscoaching.com/node/1854",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "backswing_right": [
+      {
+        "probleme": "Improper backswing",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Too short or too long backswing"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "step": "Analyze the backswing, piece by piece."
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Repeating stroke drill",
+            "description": "Practice same backswing each time to develop a natural forward swing.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket and balls"
+          }
+        ],
+        "metriques_progression": [
+          "Repeating stroke"
+        ],
+        "erreurs_a_eviter": [
+          "Major changes in racket angle during forward swing"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/1854"
+      }
+    ]
+  }
+}

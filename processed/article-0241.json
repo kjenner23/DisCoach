@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "article_title": "January 28, 2019 - Progressive Drills to Improve Rallying Skills",
+    "article_slug": "rallying_skills_snake_case",
+    "source_url": "http://www.tabletenniscoaching.com/node/3034",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "rallying_skills_snake_case": [
+      {
+        "probleme": "Rallies in drills but not in matches",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          ""
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Forehand to forehand warm-up",
+              "description": "Do until proficient, then 2 minutes each for drills progression",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Table tennis equipment"
+            },
+            {
+              "nom": "Backhand to backhand warm-up",
+              "description": "Do until proficient, then 2 minutes each for drills progression",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Table tennis equipment"
+            }
+          ],
+          "intermediaire": [
+            {
+              "nom": "Forehand down the line to partner's backhand",
+              "description": "Do until proficient, then 2 minutes each for drills progression",
+              "difficulte": "intermediate",
+              "duree": "Not specified by source.",
+              "materiel": "Table tennis equipment"
+            },
+            {
+              "nom": "Forehand to partner's middle",
+              "description": "Do until proficient, then 2 minutes each for drills progression",
+              "difficulte": "intermediate",
+              "duree": "Not specified by source.",
+              "materiel": "Table tennis equipment"
+            }
+          ],
+          "avance": [
+            {
+              "nom": "Alternate forehand and backhand, to partner's backhand",
+              "description": "Do until proficient, then 2 minutes each for drills progression",
+              "difficulte": "advanced",
+              "duree": "Not specified by source.",
+              "materiel": "Table tennis equipment"
+            },
+            {
+              "nom": "Random side to side, to partner's backhand",
+              "description": "Do until proficient, then 2 minutes each for drills progression",
+              "difficulte": "advanced",
+              "duree": "Not specified by source.",
+              "materiel": "Table tennis equipment"
+            }
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Both sides serve topspin and rally placing the ball to any of the three spots � forehand, backhand, or middle",
+            "description": "Do until proficient, then 2 minutes each for drills progression",
+            "difficulte": "all levels",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis equipment"
+          }
+        ],
+        "metriques_progression": [
+          "Not specified by source."
+        ],
+        "erreurs_a_eviter": [
+          ""
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3034"
+      }
+    ]
+  }
+}

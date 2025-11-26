@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "article_title": "February 18, 2013 - Learn to Play Defense",
+    "article_slug": "learn-to-play-defense",
+    "source_url": "http://www.tabletenniscoaching.com/node/1352",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "learn-to-play-defense": [
+      {
+        "probleme": "Developing attacks without defense",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Blocking",
+              "description": "Quick-hit the ball to the opponent's wide corners or middle and keep moving him around these three spots, and you'll often force a miss or weaker shot you can attack.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "racket"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Blocking drill",
+            "description": "Practice blocking in drills, focusing on precision and accuracy.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "racket"
+          }
+        ],
+        "metriques_progression": [
+          "Winning points or forcing misses"
+        ],
+        "erreurs_a_eviter": [
+          {
+            "nom": "Wild, low percentage shots",
+            "description": "Counter-attacking can lead to wild shots; instead, focus on defense."
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/1352"
+      }
+    ]
+  }
+}

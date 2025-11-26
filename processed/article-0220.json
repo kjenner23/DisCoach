@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "article_title": "June 24, 2019 - Learning to Win",
+    "article_slug": "learning-to-win",
+    "source_url": "http://www.tabletenniscoaching.com/node/3082",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "learning_to_win": [
+      {
+        "probleme": "Inability to recognize the difference between learning shots and learning to win",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            "Develop the right shots"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Combining shots",
+            "description": "Combine various shots in different combinations to maximize game effectiveness.",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Table tennis table",
+              "Racket"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          "Develop the shots you need to win"
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/3082"
+      }
+    ]
+  }
+}

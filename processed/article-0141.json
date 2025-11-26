@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "article_title": "February 8, 2021 - Locking Up Your Opponents",
+    "article_slug": "locking_up_your_opponents",
+    "source_url": "http://www.tabletenniscoaching.com/node/3248",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "locking_up_your_opponents": [
+      {
+        "probleme": "Opponent is strong on backhand",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Weaker backhand"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Force opponent to go backhand to backhand"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Loop to block drill",
+            "description": "Get in the first loop each rally, then block with racket angle.",
+            "difficulte": "Intermediate",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Racket"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          "Target 10 reps with correct technique"
+        ],
+        "erreurs_a_eviter": [
+          "Don't get too aggressive on the backhand"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3248"
+      }
+    ]
+  }
+}

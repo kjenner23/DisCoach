@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "article_title": "July 12, 2021 - Playing the Non-Adjuster",
+    "article_slug": "playing_the_non_adjuster",
+    "source_url": "http://www.tabletenniscoaching.com/node/3298",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "playing_the_non_adjuster": [
+      {
+        "probleme": "Playing against non-adjusting opponents",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "probleme": "Over-thinking",
+              "solution": "Use best tactic in situation"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Mirror drill",
+            "description": "Regularly vary tactics; don't overuse any one serve, shot, or technique",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": "Generic"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "reps": 5,
+            "time": "Not specified by source."
+          }
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/3298"
+      }
+    ]
+  }
+}

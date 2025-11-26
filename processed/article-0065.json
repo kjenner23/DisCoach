@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "article_title": "August 15, 2022 - Don't Be a Predictable Receiver",
+    "article_slug": "dont_be_a_predictable_receiver",
+    "source_url": "http://www.tabletenniscoaching.com/node/3399",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "dont_be_a_predictable_receiver": [
+      {
+        "probleme": "Being a predictable receiver",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Returning serves passively"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Return serve passively",
+            "Play riskier shots"
+          ],
+          "intermediaire": [
+            "Use neutral receives"
+          ],
+          "avance": [
+            "Specialize in two types of receives"
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Pushing long serves",
+            "description": "Looping long serves; flipping short ones aggressively",
+            "difficulte": "Intermediate",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket"
+          },
+          {
+            "nom": "Flipping short serves",
+            "description": "Flipping short serves over and over, then catching opponent off guard with a short or long push",
+            "difficulte": "Intermediate",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket"
+          }
+        ],
+        "metriques_progression": [
+          "Mastering three types of receives"
+        ],
+        "erreurs_a_eviter": [
+          "Returning serves aggressively without a plan"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3399"
+      }
+    ]
+  }
+}

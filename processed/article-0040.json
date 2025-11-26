@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "article_title": "February 6, 2023 - Blocking Spinny Loops",
+    "article_slug": "blocking_spinny_loops",
+    "source_url": "http://www.tabletenniscoaching.com/node/3445",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "blocking_spinny_loops": [
+      {
+        "probleme": "Blocking Spinny Loops",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          ""
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Close racket more for spinny loop",
+              "description": "Aim lower and give the ball a light punch to counteract spin.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": [
+                ""
+              ]
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Multiball Drill with Backspin Loop",
+            "description": "Practice blocking spinny loops with an improvised multiball drill. Partner serves backspin, you push it back, partner loops, and you block.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "bucket of balls",
+              "backspin"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          ""
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/3445"
+      }
+    ]
+  }
+}

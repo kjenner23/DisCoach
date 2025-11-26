@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "article_title": "October 15, 2012 - How to Handle the First Loop Off Backspin",
+    "article_slug": "loop-off-backspin",
+    "source_url": "http://www.tabletenniscoaching.com/node/1111",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "backspin",
+      "definition": "",
+      "contexte": "spinning the ball in a reverse direction",
+      "source_url": "http://www.tabletenniscoaching.com/node/1111"
+    }
+  ],
+  "problemes_solutions": {
+    "loop-off-backspin": [
+      {
+        "probleme": "Missed Loop Against Backspin",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          ""
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Quick Block with Jabbing Motion",
+              "description": "Block the ball quickly off the bounce, using a slight jabbing motion at contact. This helps to neutralize the spin and gives you control.",
+              "difficulte": "Beginner",
+              "duree": "Not specified by source.",
+              "materiel": [
+                ""
+              ]
+            }
+          ],
+          "intermediaire": [
+            {
+              "nom": "Top-of-the-Bounce Smash or Counterloop",
+              "description": "Take the ball at the top of the bounce or even on the rise, and smash or counterloop. This allows you to take advantage of the slow, spinny loop and gain control.",
+              "difficulte": "Intermediate",
+              "duree": "Not specified by source.",
+              "materiel": [
+                ""
+              ]
+            }
+          ],
+          "avance": [
+            {
+              "nom": "Lifting Motion in Counterlooping",
+              "description": "When counterlooping, make sure to loop nearly the very top of the ball. Any major lifting motion will send the ball off the end.",
+              "difficulte": "Advanced",
+              "duree": "Not specified by source.",
+              "materiel": [
+                ""
+              ]
+            }
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Multiball Drill Against Loop Off Backspin",
+            "description": "Get a box of balls and set them on a chair or other stand near the table. The first player grabs a ball and serves backspin, then loops while the second player practices blocking, smashing, or counterlooping.",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "box of balls",
+              "chair or stand"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          "Increase speed and spin in loops against backspin"
+        ],
+        "erreurs_a_eviter": [
+          {
+            "nom": "Hesitation When Attacking Loop Against Backspin",
+            "description": "When attacking a slow, spinny loop, do not hesitate. If you do, you will probably miss."
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/1111"
+      }
+    ]
+  }
+}

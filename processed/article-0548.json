@@ -1,0 +1,90 @@
+{
+  "meta": {
+    "article_title": "September 4, 2012 - Multiball Training",
+    "article_slug": "multiball-training",
+    "source_url": "http://www.tabletenniscoaching.com/node/1010",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "chopper",
+      "definition": "",
+      "contexte": "",
+      "source_url": ""
+    }
+  ],
+  "problemes_solutions": {
+    "multiball-training": [
+      {
+        "probleme": "Looping against backspin systematically",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Multiball training with a coach or practice partner",
+              "description": "Practice looping against backspin with a coach or practice partner who feeds balls to you, allowing you to practice looping against different spins and speeds.",
+              "difficulte": "Beginner",
+              "duree": "",
+              "materiel": "Box of balls"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Forehand and backhand loop drills",
+            "description": "Practice looping against backspin with your forehand and backhand, alternating between the two.",
+            "difficulte": "Beginner",
+            "duree": "",
+            "materiel": "Box of balls"
+          },
+          {
+            "nom": "Backspin/topspin combinations",
+            "description": "Practice looping against different spin combinations, such as backspin to the middle followed by topspin to the wide forehand.",
+            "difficulte": "Intermediate",
+            "duree": "",
+            "materiel": "Box of balls"
+          },
+          {
+            "nom": "2-1 drill (backhand-forehand-forehand)",
+            "description": "Practice playing three shots: a backhand from the backhand side, a forehand from the backhand side, and then a forehand from the forehand side.",
+            "difficulte": "Intermediate",
+            "duree": "",
+            "materiel": "Box of balls"
+          },
+          {
+            "nom": "Random topspin drills",
+            "description": "Practice looping against random topspin shots, either to two spots or all parts of the table.",
+            "difficulte": "Intermediate",
+            "duree": "",
+            "materiel": "Box of balls"
+          },
+          {
+            "nom": "Short ball followed by a deep ball drill",
+            "description": "Practice pushing or flipping a short ball and then looping a deep ball.",
+            "difficulte": "Beginner",
+            "duree": "",
+            "materiel": "Box of balls"
+          }
+        ],
+        "metriques_progression": [
+          [
+            "Up to one per second or so"
+          ],
+          [
+            "As in a real game"
+          ]
+        ],
+        "erreurs_a_eviter": [
+          {
+            "nom": "Not practicing multiball training",
+            "description": "Make sure to practice multiball training regularly to improve your looping skills."
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/1010"
+      }
+    ]
+  }
+}

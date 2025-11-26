@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "article_title": "What You Should Be Watching",
+    "article_slug": "what-you-should-be-watching",
+    "source_url": "http://www.tabletenniscoaching.com/node/2889",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "what-you-should-be-watching": [
+      {
+        "probleme": "Watching the ball at the right moment",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "probleme": "Not watching the ball early enough"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Slow and fast forehand",
+            "description": "Watch the ball into your racket when moving slowly, but not at the last second if moving quickly.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "racket"
+          }
+        ],
+        "metriques_progression": [
+          "Time to watch ball before reacting"
+        ],
+        "erreurs_a_eviter": [
+          {
+            "erreur": "Watching the ball too late when moving quickly"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/2889"
+      }
+    ]
+  }
+}

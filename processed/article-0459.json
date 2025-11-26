@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "article_title": "June 16, 2014 - Be a Perfectionist",
+    "article_slug": "be_a_perfectionist",
+    "source_url": "http://www.tabletenniscoaching.com/node/1847",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "perfect",
+      "definition": "correct execution of a shot or technique",
+      "contexte": "used to describe the desired outcome of practicing techniques",
+      "source_url": "http://www.tabletenniscoaching.com/node/1847"
+    }
+  ],
+  "problemes_solutions": {
+    "be_a_perfectionist": [
+      {
+        "probleme": "Improving technique",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "probleme": "Focusing on proper execution",
+              "solution": "Practice techniques repeatedly until they feel natural"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Practice repetition drill",
+            "description": "Repeat a technique multiple times to develop muscle memory and correct execution",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "table tennis racket, balls"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "target": "Correct execution of a shot or technique",
+            "rep": "Practice repetition drill",
+            "time": "Not specified by source."
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "erreur": "Focusing on incorrect shots"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/1847"
+      }
+    ]
+  }
+}

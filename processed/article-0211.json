@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "article_title": "September 16, 2019 - Topspin Defense",
+    "article_slug": "topspin_defense",
+    "source_url": "http://www.tabletenniscoaching.com/node/3102",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "topspin_defense": [
+      {
+        "probleme": "Defending against topspin attack",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "aggressive drives, loops, or smashes"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Start off from far away",
+              "description": "Use a mostly forward, slightly upward stroke to 'fish' the ball back.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "inverted rubber"
+            }
+          ],
+          "intermediaire": [
+            {
+              "nom": "Keep the ball deep and low",
+              "description": "Try to keep the ball deep, relatively low, and with some topspin.",
+              "difficulte": "intermediate",
+              "duree": "Not specified by source.",
+              "materiel": "inverted rubber"
+            }
+          ],
+          "avance": [
+            {
+              "nom": "Use sidespin and depth",
+              "description": "Add sidespin to the ball to make it more difficult for your opponent to attack.",
+              "difficulte": "advanced",
+              "duree": "Not specified by source.",
+              "materiel": "inverted rubber"
+            }
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Counter-attack forehand",
+            "description": "Attack from your stronger side, usually the forehand.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "racket"
+          }
+        ],
+        "metriques_progression": [
+          "Depth is key"
+        ],
+        "erreurs_a_eviter": [
+          "Landing short on the table"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3102"
+      }
+    ]
+  }
+}

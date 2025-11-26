@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "article_title": "August 23, 2021 - Forehand Position for Backhands",
+    "article_slug": "forehand-position-for-backhands",
+    "source_url": "http://www.tabletenniscoaching.com/node/3310",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "forehand-position-for-backhands": [
+      {
+        "probleme": "Quick transition from forehand to backhand shots",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "little time"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "proposition": "Play the shot from a slight forehand stance with right leg slightly back"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Forehand to backhand transition drill",
+            "description": "Start in forehand stance, then rotate body and play a quick backhand shot. Repeat.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis balls"
+          }
+        ],
+        "metriques_progression": [
+          "Time to make transition"
+        ],
+        "erreurs_a_eviter": [
+          {
+            "erreur": "Staying in forehand stance too long"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3310"
+      }
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "article_title": "January 29, 2018 - Playing the Crafty Veteran",
+    "article_slug": "crafty_veteran",
+    "source_url": "http://www.tabletenniscoaching.com/node/2858",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "crafty_veteran": [
+      {
+        "probleme": "Beating the Crafty Veteran",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Opponent's experience and tactical knowledge"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Don't let him do what he wants to do",
+            "Take your time and pick your shots",
+            "Be flexible with your tactics",
+            "Stay focused",
+            "Dominate with your game"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Serve topspin",
+            "description": "To counter loaded pushes",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket"
+          },
+          {
+            "nom": "Attack soft forehand loops",
+            "description": "From the Crafty Veteran's wide backhand side",
+            "difficulte": "Intermediate",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket"
+          }
+        ],
+        "metriques_progression": [
+          "Winning 60% of points"
+        ],
+        "erreurs_a_eviter": [
+          "Losing focus for a prolonged period"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/2858"
+      }
+    ]
+  }
+}

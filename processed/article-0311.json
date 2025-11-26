@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "article_title": "July 17, 2017 - Sports Psychology",
+    "article_slug": "sports_psychology",
+    "source_url": "http://www.tabletenniscoaching.com/node/2716",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "sports_psychology": [
+      {
+        "probleme": "Lack of performance in tournaments compared to practice matches",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Nervousness",
+          "Inability to play best"
+        ],
+        "solutions_progressives": {
+          "debutant": [],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Stroking and footwork drills",
+            "description": "Not applicable.",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Table tennis table"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          "Not specified by source."
+        ],
+        "erreurs_a_eviter": [
+          "Not specified by source."
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/2716"
+      }
+    ]
+  }
+}

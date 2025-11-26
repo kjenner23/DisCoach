@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "article_title": "May 23, 2022 - Rushed Backhand Loop",
+    "article_slug": "rushed_backhand_loop",
+    "source_url": "http://www.tabletenniscoaching.com/node/3379",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "rushed_backhand_loop": [
+      {
+        "probleme": "Rushed backhand loop",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Body is in the way"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Early racket preparation"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Backhand loop drill",
+            "description": "Bring the racket down and back in a smooth motion, whip it through the ball giving it an arcing topspin.",
+            "difficulte": "Intermediate",
+            "duree": "Not specified by source.",
+            "materiel": "Racket"
+          }
+        ],
+        "metriques_progression": [
+          "Arcing topspin"
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/3379"
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "article_title": "July 8, 2013 - Expect to Win",
+    "article_slug": "expect_to_win",
+    "source_url": "http://www.tabletenniscoaching.com/node/1558",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "expect_to_win": [
+      {
+        "probleme": "Lack of Expectation to Win",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Comparing opponent's best shot to yours"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Practice Regularly",
+              "description": "Regular practice helps improve skills and builds confidence.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Table tennis equipment"
+            }
+          ],
+          "intermediaire": [
+            {
+              "nom": "Develop Confidence",
+              "description": "Believe in your abilities and focus on positive self-talk.",
+              "difficulte": "intermediate",
+              "duree": "Not specified by source.",
+              "materiel": "None"
+            }
+          ],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Mental Training Exercises",
+            "description": "Visualize yourself winning, focus on positive self-talk, and practice mental toughness exercises.",
+            "difficulte": "all levels",
+            "duree": "Not specified by source.",
+            "materiel": "None"
+          }
+        ],
+        "metriques_progression": [
+          "Set specific goals for improvement"
+        ],
+        "erreurs_a_eviter": [
+          {
+            "nom": "Comparing Opponent's Best Shot to Yours",
+            "description": "Focus on your own strengths and develop a strategy to exploit them."
+          }
+        ]
+      }
+    ]
+  }
+}

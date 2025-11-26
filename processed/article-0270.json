@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "article_title": "May 21, 2018 - Develop Power Timing by Slapping",
+    "article_slug": "develop-power-timing-by-slapping",
+    "source_url": "http://www.tabletenniscoaching.com/node/2957",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "develop_power_timing_by_slapping": [
+      {
+        "probleme": "Develop Power Timing",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "shadow practice forehand",
+              "description": "Imaginary forehand swing to develop muscle timing for maximum power, then transition to real forehand swings with a moving ball.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "None"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "forehand slapping drill",
+            "description": "Imaginary forehand swing to develop muscle timing for maximum power, focusing on proper sequence of muscles.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "None"
+          }
+        ],
+        "metriques_progression": [
+          "maximize power"
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/2957"
+      }
+    ]
+  }
+}

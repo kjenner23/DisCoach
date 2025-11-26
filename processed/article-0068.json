@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "article_title": "July 25, 2022 - Develop an All-Around Game",
+    "article_slug": "develop-an-all-around-game",
+    "source_url": "http://www.tabletenniscoaching.com/node/3395",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "develop-an-all-around-game": [
+      {
+        "probleme": "Limited game scope",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Limited attacking or defensive skills"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Develop control by pushing long and handling opponent's attacks"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Long push drill",
+            "description": "Practice pushing long serves back to develop control and comfort.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Balls"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          "Reach a solid, all-around game"
+        ],
+        "erreurs_a_eviter": [
+          "Let opponent attack without developing counter-attacking skills"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3395"
+      }
+    ]
+  }
+}

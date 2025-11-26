@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "article_title": "October 26, 2015 - Develop a Practice Partner",
+    "article_slug": "develop_a_practice_partner",
+    "source_url": "http://www.tabletenniscoaching.com/node/2255",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "develop_a_practice_partner": [
+      {
+        "probleme": "How to get a good practice partner?",
+        "diagnostic": "Difficulty finding someone at the same level or willing to train at the same times and number of hours.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "description": "Practice with a weaker player, focusing on consistency and accuracy. Keep the ball in their forehand and backhand pockets."
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Consistency drills",
+            "description": "Practice with a weaker player, focusing on consistency and accuracy. Keep the ball in their forehand and backhand pockets.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "table tennis table and equipment"
+          }
+        ],
+        "metriques_progression": [
+          "Not specified by source."
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/2255"
+      }
+    ]
+  }
+}

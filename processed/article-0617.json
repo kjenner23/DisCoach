@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "article_title": "April 25, 2011 - The Short Serve & Short Receive, and Looping",
+    "article_slug": "the_short_serve_and_short_receive_and_looping",
+    "source_url": "http://www.tabletenniscoaching.com/node/325",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "the_short_serve_and_short_receive_and_looping": [
+      {
+        "probleme": "Serve and receive short to set up a loop",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Serving long",
+          "Returning serves with too much power"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Practice recognizing short backspin serves"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Short push receive drill",
+            "description": "Step in and push the serve with enough touch to keep it short and low.",
+            "difficulte": "Intermediate",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Table tennis table",
+              "Balls"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          "Regularly practice the drill"
+        ],
+        "erreurs_a_eviter": [
+          "Pushing long",
+          "Flipping"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/325"
+      }
+    ]
+  }
+}

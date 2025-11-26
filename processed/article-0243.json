@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "article_title": "January 14, 2019 - If You Can't Do It Without a Ball, How Can You Do It With the Ball?",
+    "article_slug": "shadow_practice",
+    "source_url": "http://www.tabletenniscoaching.com/node/3030",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "shadow-practice",
+      "definition": "Practicing a stroke without the ball.",
+      "contexte": "To develop proper technique and streamline strokes, especially with help from a coach or experienced player.",
+      "source_url": "http://www.tabletenniscoaching.com/node/3030"
+    }
+  ],
+  "problemes_solutions": {
+    "shadow_practice": [
+      {
+        "probleme": "Improving technique",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Practicing a stroke without proper timing and racket angle"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Shadow-practice to develop proper technique"
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Proper stance and grip",
+            "description": "Focus on developing a consistent and efficient stance and grip.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket"
+          }
+        ],
+        "metriques_progression": [
+          [
+            "Number of correct strokes"
+          ]
+        ],
+        "erreurs_a_eviter": [
+          "Practicing a stroke without proper timing and racket angle"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3030"
+      }
+    ]
+  }
+}

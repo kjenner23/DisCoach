@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "article_title": "November 5, 2012 - Developing Your Forehand Smash",
+    "article_slug": "developing-your-forehand-smash",
+    "source_url": "http://www.tabletenniscoaching.com/node/1207",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "smashing",
+      "definition": "a precision shot",
+      "contexte": "First and foremost, smashing is a precision shot",
+      "source_url": "http://www.tabletenniscoaching.com/node/1207"
+    }
+  ],
+  "problemes_solutions": {
+    "developing-your-forehand-smash": [
+      {
+        "probleme": "Developing a precise forehand smash",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Focus on driving the ball at a pace you can control",
+              "description": "Develop precision at that speed, then increase the speed.",
+              "difficulte": "Beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Generic"
+            }
+          ],
+          "intermediaire": [
+            {
+              "nom": "Use the same backswing",
+              "description": "Find a perfect spot to backswing and do it every time.",
+              "difficulte": "Intermediate",
+              "duree": "Not specified by source.",
+              "materiel": "Generic"
+            },
+            {
+              "nom": "Use your whole body in a smooth progression from bottom to top",
+              "description": "Legs, hips, waist, shoulders, and forearm work together for the shot.",
+              "difficulte": "Intermediate",
+              "duree": "Not specified by source.",
+              "materiel": "Generic"
+            }
+          ],
+          "avance": [
+            {
+              "nom": "Don't strain to smash",
+              "description": "Good technique and power come from a smooth progression, not straining.",
+              "difficulte": "Advanced",
+              "duree": "Not specified by source.",
+              "materiel": "Generic"
+            },
+            {
+              "nom": "Add a slight upswing with most smashes",
+              "description": "This results in topspin to control the shot and increase target area.",
+              "difficulte": "Advanced",
+              "duree": "Not specified by source.",
+              "materiel": "Generic"
+            }
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Forehand smash with good technique",
+            "description": "Use the whole body, same backswing, and precision to develop a consistent smash.",
+            "difficulte": "Beginner-Advanced",
+            "duree": "Not specified by source.",
+            "materiel": "Generic"
+          }
+        ],
+        "metriques_progression": [
+          [
+            "Not specified by source."
+          ]
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/1207"
+      }
+    ]
+  }
+}

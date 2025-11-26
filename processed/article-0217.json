@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "article_title": "August 5, 2019 - Serving Long",
+    "article_slug": "serving_long",
+    "source_url": "http://www.tabletenniscoaching.com/node/3088",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "serving_long": [
+      {
+        "probleme": "Serving Deep vs. Short",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "opponent not attacking deep serves well",
+          "server being a strong counter-driver"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Fast and Flat Serve",
+              "description": "serve into opponent's backhand with no spin, making it 'die' on the net"
+            },
+            {
+              "nom": "Deep and Spinny Serve",
+              "description": "slow serve with spin that breaks a lot"
+            }
+          ],
+          "intermediaire": [
+            {
+              "nom": "Fast Down-the-Line Serve",
+              "description": "serve deep into opponent's backhand, then step around to attack"
+            },
+            {
+              "nom": "Just Off the End Serve",
+              "description": "serve with some spin that combines advantages of short and deep spin serves"
+            }
+          ],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Fast and Flat Serve Drill",
+            "description": "make ball hit your side as close to the endline as possible, then hit opponent's side as deep as possible",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "racket"
+          },
+          {
+            "nom": "Deep and Spinny Serve Drill",
+            "description": "serve with spin that breaks a lot, aiming for opponent's backhand",
+            "difficulte": "intermediate",
+            "duree": "Not specified by source.",
+            "materiel": "racket"
+          }
+        ],
+        "metriques_progression": [
+          "stroke slightly downward at contact to put slight backspin on the ball"
+        ],
+        "erreurs_a_eviter": [
+          {
+            "nom": "not accounting for topspin",
+            "description": "serve with maximum speed and deepness"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3088"
+      }
+    ]
+  }
+}

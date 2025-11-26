@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "article_title": "January 30, 2023 - Don�t Fix a Problem You�ve Already Fixed",
+    "article_slug": "dont_fix_a_problem_youve_already_fixed",
+    "source_url": "http://www.tabletenniscoaching.com/node/3443",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "dont_fix_a_problem_youve_already_fixed": [
+      {
+        "probleme": "Fixing a problem that's already been solved",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "problem": "Remember the feel of the good shots",
+              "solution": "Repeat the shot, focusing on the feel"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Repetition drill",
+            "description": "Focus on the feel of the good shots and repeat them",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket, balls"
+          }
+        ],
+        "metriques_progression": [
+          "Number of successful repetitions"
+        ],
+        "erreurs_a_eviter": [
+          {
+            "error": "Overthinking the shot after missing",
+            "solution": "Focus on the feel of the good shots and repeat them"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3443"
+      }
+    ]
+  }
+}

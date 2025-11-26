@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "article_title": "June 6, 2016 - What to Focus on to Improve",
+    "article_slug": "what_to_focus_on_to_improve",
+    "source_url": "http://www.tabletenniscoaching.com/node/2424",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "what_to_focus_on_to_improve": [
+      {
+        "probleme": "Improvement",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "probleme": "Fundamentals",
+              "solution": "Develop fundamentals until you can do them in your sleep: strokes, footwork, serve, and receive. Work with a coach to develop them, find players to practice with, and drill, drill, drill!"
+            }
+          ],
+          "intermediaire": [
+            {
+              "probleme": "Playing Style",
+              "solution": "Develop a playing style by honing your shots and figuring out what you win and lose on."
+            },
+            {
+              "probleme": "Serve and Receive Game",
+              "solution": "Use your serve and receive game to set up your overall game."
+            }
+          ],
+          "avance": [
+            {
+              "probleme": "Mastering Fundamentals",
+              "solution": "Continue to work on mastering the fundamentals, even at advanced levels."
+            },
+            {
+              "probleme": "Developing All Parts of Your Game",
+              "solution": "Develop all parts of your game so you can master any situation and against any style."
+            }
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Drill, drill, drill!",
+            "description": "Focus on fundamentals until they become second nature.",
+            "difficulte": "Debutant",
+            "duree": "Not specified by source.",
+            "materiel": "Generic (no brands)"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "probleme": "Consistency",
+            "solution": "The more consistent your fundamentals are, the better you will be."
+          }
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/2424"
+      }
+    ]
+  }
+}

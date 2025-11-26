@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "article_title": "December 28, 2016 - Coaching and Playing Under the New ITTF Coaching Rule",
+    "article_slug": "coaching-and-playing-under-the-new-ittf-coaching-rule",
+    "source_url": "http://www.tabletenniscoaching.com/node/2572",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "coaching-and-playing-under-the-new-ittf-coaching-rule": [
+      {
+        "probleme": "Coaching and Playing Under the New ITTF Coaching Rule",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "signal": "serve short more"
+            },
+            {
+              "signal": "serve long more"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "serve selection",
+            "description": "Whisper advice to the player during serves.",
+            "difficulte": "all levels",
+            "duree": "Not specified by source.",
+            "materiel": "none"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "reps": 1,
+            "time": "Not specified by source."
+          }
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/2572"
+      }
+    ]
+  }
+}

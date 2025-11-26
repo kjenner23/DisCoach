@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "article_title": "October 9, 2012 - Training Cycles",
+    "article_slug": "training-cycles",
+    "source_url": "http://www.tabletenniscoaching.com/node/1101",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "training-cycles": [
+      {
+        "probleme": "Preparing for a big tournament",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Lack of training",
+          "Poor training approach"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "General conditioning exercises",
+              "description": "Start with longer but easier workouts and gradually transition to more intense ones.",
+              "difficulte": "Beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Table tennis table or open space"
+            }
+          ],
+          "intermediaire": [
+            {
+              "nom": "Serve drills with a partner",
+              "description": "Practice serves and receives in drills with a partner, focusing on different variations and tactics.",
+              "difficulte": "Intermediate",
+              "duree": "Not specified by source.",
+              "materiel": "Table tennis table or open space"
+            }
+          ],
+          "avance": [
+            {
+              "nom": "Match-type drills with a partner",
+              "description": "Mimic match conditions in drills with a partner, focusing on different tactics and strategies.",
+              "difficulte": "Advanced",
+              "duree": "Not specified by source.",
+              "materiel": "Table tennis table or open space"
+            }
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Footwork drills with a partner",
+            "description": "Practice footwork and strokes in drills with a partner, focusing on different variations and tactics.",
+            "difficulte": "Beginner to Advanced",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis table or open space"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "nom": "Gradual transition from basic to advanced drills",
+            "description": "Increase the intensity and complexity of drills as the big tournament approaches.",
+            "difficulte": "Beginner to Advanced",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis table or open space"
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "nom": "Lack of focus on weaknesses and strengths",
+            "description": "Make sure to practice both improving weaknesses and turning strengths into overpowering ones.",
+            "difficulte": "Beginner to Advanced",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis table or open space"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/1101"
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "article_title": "May 12, 2014 - Anyone Can Become Very Good at Something",
+    "article_slug": "anyone-can-become-very-good-at-something",
+    "source_url": "http://www.tabletenniscoaching.com/node/1817",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "anyone-can-become-very-good-at-something": [
+      {
+        "probleme": "Becoming great at table tennis",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Practice a specific shot (e.g., serve, loop)",
+              "description": "Focus on developing one aspect of your game until it's very good; watch top players and work with a coach.",
+              "difficulte": "Beginner",
+              "duree": "100 hours",
+              "materiel": "Table tennis equipment"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Daily practice (20 minutes, 5 days a week)",
+            "description": "Develop a very good serve in about 80 hours by practicing it daily.",
+            "difficulte": "Beginner",
+            "duree": "1 year",
+            "materiel": "Table tennis equipment"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "target": "100 hours",
+            "reps": "Develop one aspect of your game until it's very good"
+          }
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/1817"
+      }
+    ]
+  }
+}

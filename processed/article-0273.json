@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "article_title": "April 30, 2018 - Weaknesses Can Be Strengths",
+    "article_slug": "weakness-can-be-strength",
+    "source_url": "http://www.tabletenniscoaching.com/node/2935",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "weakness-can-be-strength": [
+      {
+        "probleme": "Using a perceived weakness as a strength",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Perceived limitations"
+        ],
+        "solutions_progressives": {
+          "debutant": [],
+          "intermediaire": [
+            "Emphasize strengths"
+          ],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Forehand drills",
+            "description": "Practice forehand loops to improve overall game",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Table tennis racket"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          "Improve forehand loop"
+        ],
+        "erreurs_a_eviter": [
+          "Overemphasizing perceived weaknesses"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/2935"
+      }
+    ]
+  }
+}

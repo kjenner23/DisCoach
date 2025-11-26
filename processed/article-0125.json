@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "article_title": "May 31, 2021 - How to Play the Attacker/Blocker with Dead Rubber",
+    "article_slug": "dead_rubber_attacker_blocker",
+    "source_url": "http://www.tabletenniscoaching.com/node/3282",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "dead_rubber_attacker_blocker": [
+      {
+        "probleme": "Playing against an attacker/blocker with a dead surface",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Opponent's slow inverted surface or short pips"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "probleme": "Get used to the dead surface",
+              "solution": "Rally against it early in the match as much as you can"
+            },
+            {
+              "probleme": "Adjust racket angles and stroke direction",
+              "solution": "Aim higher against the deader incoming surface"
+            }
+          ],
+          "intermediaire": [
+            {
+              "probleme": "Use spin to counteract the opponent's dead surface",
+              "solution": "Put a good topspin or backspin on the ball"
+            }
+          ],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Rallying against the dead surface",
+            "description": "Rally as much as you can to get used to it",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket and balls"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "rep": "Relentless attack of their weaker loops"
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "erreur": "Over-angling the ball, leading to errors off the end"
+          }
+        ]
+      }
+    ]
+  }
+}

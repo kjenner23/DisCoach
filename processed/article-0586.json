@@ -1,0 +1,75 @@
+{
+  "meta": {
+    "article_title": "November 28, 2011 - Message to Lower-Ranked Players from Higher-Ranked Players",
+    "article_slug": "message_to_lower_ranked_players_from_higher_ranked_players",
+    "source_url": "http://www.tabletenniscoaching.com/node/683",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "",
+      "definition": "Not specified by source.",
+      "contexte": "",
+      "source_url": "http://www.tabletenniscoaching.com/node/683"
+    }
+  ],
+  "problemes_solutions": {
+    "message_to_lower_ranked_players_from_higher_ranked_players": [
+      {
+        "probleme": "Scoring points against higher-ranked players",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Consistency drills",
+              "description": "Focus on steady attacks and placement.",
+              "difficulte": "Beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Table tennis balls"
+            },
+            {
+              "nom": "Developing good serves",
+              "description": "Work on both long and short serves.",
+              "difficulte": "Beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Table tennis balls, racket"
+            },
+            {
+              "nom": "Improving receive",
+              "description": "Focus on control and practice.",
+              "difficulte": "Beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Table tennis balls, racket"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Steady attacks drills",
+            "description": "Practice consistent and steady attacks.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis balls, racket"
+          },
+          {
+            "nom": "Serves development exercises",
+            "description": "Work on both long and short serves.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis balls, racket"
+          }
+        ],
+        "metriques_progression": [
+          [
+            "5 minutes"
+          ]
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/683"
+      }
+    ]
+  }
+}

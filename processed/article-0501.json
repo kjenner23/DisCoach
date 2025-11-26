@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "article_title": "August 12, 2013 - Service Contact Point",
+    "article_slug": "service-contact-point",
+    "source_url": "http://www.tabletenniscoaching.com/node/1589",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "service-contact-point": [
+      {
+        "probleme": "Where to contact the ball when serving?",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Low contact point",
+              "description": "Contact the ball no more than 9 inches high.",
+              "difficulte": "all levels",
+              "duree": "Not specified by source.",
+              "materiel": "racket"
+            }
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Serving with low contact point",
+            "description": "Try to contact the ball even lower, ideally below 6 inches high. This makes it easier to keep the ball low and difficult for opponents to attack.",
+            "difficulte": "all levels",
+            "duree": "Not specified by source.",
+            "materiel": "racket"
+          }
+        ],
+        "metriques_progression": [
+          [
+            "First bounce close to end-line",
+            "Second bounce very deep on opponent's side"
+          ]
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/1589"
+      }
+    ]
+  }
+}

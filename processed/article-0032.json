@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "article_title": "April 3, 2023 - Do You Need to Be a Top Player to Be a Top Coach?",
+    "article_slug": "do-you-need-to-be-a-top-player-to-be-a-top-coach",
+    "source_url": "http://www.tabletenniscoaching.com/node/3458",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "do-you-need-to-be-a-top-player-to-be-a-top-coach": [
+      {
+        "probleme": "Being a Top Player",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Teaching basics in a way that will later hurt the player"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Watching top coaches train and work with top players",
+            "Becoming an expert in feeding multiball"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Feeding Multiball",
+            "description": "Practice on your own, observing top coaches, and volunteering to assist in group sessions",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": "Box of balls"
+          }
+        ],
+        "metriques_progression": [
+          []
+        ],
+        "erreurs_a_eviter": [
+          "Teaching basics in a way that will later hurt the player"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3458"
+      }
+    ]
+  }
+}

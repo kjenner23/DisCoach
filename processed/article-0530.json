@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "article_title": "January 14, 2013 - Learning to Counterloop",
+    "article_slug": "counterlooping_from_way_off_the_table",
+    "source_url": "http://www.tabletenniscoaching.com/node/1305",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "counterlooping_from_way_off_the_table": [
+      {
+        "probleme": "Counterlooping",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Basic counterloop drill",
+              "description": "Stand off the table, loop to forehand side with sidespin. Practice until proficient.",
+              "difficulte": "Beginner",
+              "duree": "Not specified by source.",
+              "materiel": [
+                "Table tennis racket",
+                "Table tennis balls"
+              ]
+            }
+          ],
+          "intermediaire": [
+            {
+              "nom": "Counterlooping against backspin",
+              "description": "Server serves and loops against backspin. Receiver counterloops. Repeat for rapid-fire practice.",
+              "difficulte": "Intermediate",
+              "duree": "Not specified by source.",
+              "materiel": [
+                "Table tennis racket",
+                "Table tennis balls"
+              ]
+            }
+          ],
+          "avance": [
+            {
+              "nom": "Variable placement and reaction drill",
+              "description": "Server serves and loops to forehand or backhand. Receiver counterloops, hits, or blocks in response.",
+              "difficulte": "Advanced",
+              "duree": "Not specified by source.",
+              "materiel": [
+                "Table tennis racket",
+                "Table tennis balls"
+              ]
+            }
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Multiball drill",
+            "description": "Server loops and receiver counterloops. Repeat for rapid-fire practice.",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Table tennis racket",
+              "Table tennis balls",
+              "Box of balls"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          {
+            "target": "Practice until proficient.",
+            "reps": "Not specified by source."
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "nom": "Anticipating",
+            "description": "React to the ball coming off the opponent's racket instead of anticipating."
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/1305"
+      }
+    ]
+  }
+}

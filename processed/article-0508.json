@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "article_title": "June 17, 2013 - Shadow Practice for Strokes and Footwork",
+    "article_slug": "shadow_practice_for_strokes_and_footwork",
+    "source_url": "http://www.tabletenniscoaching.com/node/1538",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "shadow_practice_for_strokes_and_footwork": [
+      {
+        "probleme": "Improve sharpness and steadiness of shots",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Forehand drives",
+              "description": "Practice forehand drives fifty to a hundred times, stroking each time (either all forehand or alternate forehand and backhand).",
+              "difficulte": "Beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Table tennis racket"
+            },
+            {
+              "nom": "Backhand drives",
+              "description": "Practice backhand drives fifty to a hundred times, stroking each time (either all backhand or alternate forehand and backhand).",
+              "difficulte": "Beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Table tennis racket"
+            },
+            {
+              "nom": "Footwork",
+              "description": "Practice side-to-side footwork fifty to a hundred times, stroking each time (either all forehand or alternate forehand and backhand).",
+              "difficulte": "Beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Table tennis racket"
+            }
+          ],
+          "intermediaire": [
+            {
+              "nom": "Forehand loops",
+              "description": "Practice powerful forehand loops, from both the wide forehand and wide backhand, as well as from the middle, and practice moving from one spot to another.",
+              "difficulte": "Intermediate",
+              "duree": "Not specified by source.",
+              "materiel": "Table tennis racket"
+            },
+            {
+              "nom": "Backhand loops",
+              "description": "Practice powerful backhand loops, from both the wide backhand and wide forehand, as well as from the middle, and practice moving from one spot to another.",
+              "difficulte": "Intermediate",
+              "duree": "Not specified by source.",
+              "materiel": "Table tennis racket"
+            }
+          ],
+          "avance": [
+            {
+              "nom": "Random footwork",
+              "description": "Practice random footwork, imagining specific opponents and playing out rallies with different movements and shots.",
+              "difficulte": "Advanced",
+              "duree": "Not specified by source.",
+              "materiel": "Table tennis racket"
+            }
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Receive techniques",
+            "description": "Practice receive techniques, imagining an opponent's serve and returning it with different shots.",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket"
+          }
+        ],
+        "metriques_progression": [
+          "Not specified by source."
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/1538"
+      }
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "article_title": "February 10, 2014 - Never Give a Server What He's Looking For",
+    "article_slug": "never-give-a-server-what-hes-looking-for",
+    "source_url": "http://www.tabletenniscoaching.com/node/1730",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "never-give-a-server-what-hes-looking-for": [
+      {
+        "probleme": "Give in to your opponent's serve",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "anticipating a push to his backhand"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "quickly push the ball back short",
+            "attack the short serve"
+          ],
+          "intermediaire": [
+            "push the ball back with topspin",
+            "take away his loop altogether"
+          ],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Push to wide forehand",
+            "description": "Take away his loop and make him adjust.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "a racket",
+              "table tennis balls"
+            ]
+          },
+          {
+            "nom": "Push to middle",
+            "description": "Rush him as he tries to decide which side to attack with.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "a racket",
+              "table tennis balls"
+            ]
+          },
+          {
+            "nom": "Vary the return",
+            "description": "Go to his forehand first, then quick to the backhand.",
+            "difficulte": "intermediate",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "a racket",
+              "table tennis balls"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          "Take away his loop altogether"
+        ],
+        "erreurs_a_eviter": [
+          "Give in to your opponent's serve"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/1730"
+      }
+    ]
+  }
+}

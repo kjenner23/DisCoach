@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "article_title": "January 28, 2013 - Holding Back on Serves",
+    "article_slug": "holding_back_on_serves",
+    "source_url": "http://www.tabletenniscoaching.com/node/1321",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "holding_back_on_serves": [
+      {
+        "probleme": "When to use a troublesome serve?",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "The opponent gets used to the serve"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Use it early in the game to establish effectiveness",
+            "If not effective, stop using it; if effective, use it regularly"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Serve rotation with variations",
+            "description": "Use the serve regularly in rotation with other serves and vary it to keep the opponent guessing.",
+            "difficulte": "all levels",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis equipment"
+          }
+        ],
+        "metriques_progression": [
+          "Win a game on the strength of one serve"
+        ],
+        "erreurs_a_eviter": [
+          "Holding back on a winning shot and hoping to come back"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/1321"
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "article_title": "July 21, 2014 - Overplaying and Underplaying",
+    "article_slug": "overplaying_and_underplaying",
+    "source_url": "http://www.tabletenniscoaching.com/node/1877",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "overplaying_and_underplaying": [
+      {
+        "probleme": "Overplaying and Underplaying",
+        "diagnostic": "When a player goes for shots that are beyond his level or plays too safe.",
+        "causes_communes": [
+          "nervousness"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "description": "Attack at the level you are consistent, and keep working to increase that level until you have a high-level attack.",
+              "difficulte": "All levels",
+              "duree": "Not specified by source."
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Strong first attacks",
+            "description": "Make strong first attacks, and perhaps rip the next ball. A good general rule is this - until you have an easy pop-up, never attack at more than 80% speed.",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "multi-ball robot"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          {
+            "target": "Not specified by source."
+          }
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/1877"
+      }
+    ]
+  }
+}

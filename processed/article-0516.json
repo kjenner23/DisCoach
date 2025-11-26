@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "article_title": "April 22, 2013 - Proper Practice Progression Prevents Poor Play",
+    "article_slug": "proper_practice_progression_prevents_poor_play",
+    "source_url": "http://www.tabletenniscoaching.com/node/1462",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "proper_practice_progression_prevents_poor_play": [
+      {
+        "probleme": "Poor Play",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Forehand Development",
+              "description": "Start with basic forehand, then hit forehand to forehand with partner or do multiball with coach.",
+              "difficulte": "Beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Table tennis equipment"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Footwork Drills",
+            "description": "Alternating forehands with partner, or hitting from middle and backhand side of table.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis equipment"
+          },
+          {
+            "nom": "Random Forehands",
+            "description": "Partner puts ball randomly on forehand court, hit all forehands.",
+            "difficulte": "Intermediate",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis equipment"
+          },
+          {
+            "nom": "Game Situations",
+            "description": "Serve topspin to partner's forehand, and hit forehand aggressively; or serve into backhand and play down the line.",
+            "difficulte": "Intermediate",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis equipment"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "reps": "Not specified by source.",
+            "time": "Not specified by source."
+          }
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/1462"
+      }
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "article_title": "June 13, 2011 - Playing the Fisher",
+    "article_slug": "playing-the-fisher",
+    "source_url": "http://www.tabletenniscoaching.com/node/385",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "playing_the_fisher": [
+      {
+        "probleme": "How to play against a fisher?",
+        "diagnostic": "The player who backs up and softly topspins everything back a few feet over the net.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Placement",
+              "description": "Focus on wide backhand, middle (elbow area), and wide forehand; avoid middle forehand and backhand",
+              "difficulte": "Beginner",
+              "duree": "Not specified by source.",
+              "materiel": [
+                "ball"
+              ]
+            }
+          ],
+          "intermediaire": [
+            {
+              "nom": "Change of Pace",
+              "description": "Try changing the pace; attack one ball softer than normal, or perhaps block one",
+              "difficulte": "Intermediate",
+              "duree": "Not specified by source.",
+              "materiel": [
+                "ball"
+              ]
+            }
+          ],
+          "avance": [
+            {
+              "nom": "Loop or Smash?",
+              "description": "Use whichever you are more comfortable with; do both if possible",
+              "difficulte": "Advanced",
+              "duree": "Not specified by source.",
+              "materiel": [
+                "ball"
+              ]
+            },
+            {
+              "nom": "The Short Ball",
+              "description": "Put pressure on the fisher until he returns a ball that lands short; attack at wide angles and use deception",
+              "difficulte": "Advanced",
+              "duree": "Not specified by source.",
+              "materiel": [
+                "ball"
+              ]
+            }
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Placement",
+            "description": "Focus on wide backhand, middle (elbow area), and wide forehand; avoid middle forehand and backhand",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "ball"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          {
+            "reps": "Not specified by source.",
+            "time": "Not specified by source.",
+            "target": "Not specified by source."
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "nom": "Telegraphing your shot",
+            "description": "Don't give away the direction of your shot"
+          }
+        ]
+      }
+    ]
+  }
+}

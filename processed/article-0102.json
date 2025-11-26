@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "article_title": "November 29, 2021 - How to Get Lucky",
+    "article_slug": "get_lucky_snake_case",
+    "source_url": "http://www.tabletenniscoaching.com/node/3333",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "get_lucky_snake_case": [
+      {
+        "probleme": "Losing matches due to 'lucky' nets and edges",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Playing too safe"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Play aggressively deep and wide"
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Aggressive loops",
+            "description": "Challenge yourself to play shots more aggressively, with decent net clearance",
+            "difficulte": "Intermediate",
+            "duree": "Not specified by source.",
+            "materiel": "Generic table tennis equipment"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "target": "Consistency in topspin rallies"
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "pitfall": "Playing too low to the net during rallying shots"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3333"
+      }
+    ]
+  }
+}

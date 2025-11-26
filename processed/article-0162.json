@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "article_title": "September 14, 2020 - A Trick to Beat a Tricky Pusher",
+    "article_slug": "beat_tricky_pusher",
+    "source_url": "http://www.tabletenniscoaching.com/node/3205",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "beat_tricky_pusher": [
+      {
+        "probleme": "Pusher with strong backhand push",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "description": "Serve backspin or push to the pusher's backhand, then step left and back into position"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Hokey Pokey drill",
+            "description": "Step around with left leg, then back to original position",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis table"
+          }
+        ],
+        "metriques_progression": [
+          [
+            "10-15 pushes",
+            "5 loops"
+          ]
+        ],
+        "erreurs_a_eviter": [
+          "Don't get too far ahead of the pusher, stay focused on the ball"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3205"
+      }
+    ]
+  }
+}

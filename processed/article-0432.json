@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "article_title": "January 12, 2015 - Develop Your Primary and Secondary Skills",
+    "article_slug": "develop-primary-secondary-skills",
+    "source_url": "http://www.tabletenniscoaching.com/node/2015",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "develop-your-primary-and-secondary-skills": [
+      {
+        "probleme": "Primary and Secondary Skills Analysis",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Weak secondary skills",
+          "Lack of primary skill development"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Focus on developing secondary set-up skills to set up point-winning skills"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Secondary Skill Development Drill",
+            "description": "Practice sets of 10-15 with focus on specific secondary skill, e.g. serve or footwork.",
+            "difficulte": "Beginner",
+            "duree": "30 minutes",
+            "materiel": "Racket, balls"
+          }
+        ],
+        "metriques_progression": [
+          "Lots of attacking practice"
+        ],
+        "erreurs_a_eviter": [
+          "Not developing secondary skills"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/2015"
+      }
+    ]
+  }
+}

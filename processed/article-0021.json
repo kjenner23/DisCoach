@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "article_title": "June 19, 2023 - Stepping Versus Lunging",
+    "article_slug": "stepping-versus-lunging",
+    "source_url": "http://www.tabletenniscoaching.com/node/3480",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "stepping-versus-lunging": [
+      {
+        "probleme": "Reaching for the ball instead of stepping",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "reflexively reaching for the ball"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "step to the ball, staying balanced",
+            "shuffle both feet together"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Balanced movement",
+            "description": "Move without losing balance, as if wearing a loose-fitting hat.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "none"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          "reach the ball only after stepping"
+        ],
+        "erreurs_a_eviter": [
+          "lunge for the ball without stepping first"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3480"
+      }
+    ]
+  }
+}

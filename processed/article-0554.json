@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "article_title": "July 16, 2012 - Serving Low",
+    "article_slug": "serving_low",
+    "source_url": "http://www.tabletenniscoaching.com/node/951",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "",
+      "definition": "",
+      "contexte": "",
+      "source_url": ""
+    }
+  ],
+  "problemes_solutions": {
+    "serving_low": [
+      {
+        "probleme": "Serving too high",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          ""
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Contact the ball low to the table",
+              "description": "Ideally at about net height. The higher the contact point the higher the ball will tend to bounce.",
+              "difficulte": "Beginner",
+              "duree": "Not specified by source.",
+              "materiel": ""
+            },
+            {
+              "nom": "Barely graze the ball when serving",
+              "description": "Especially when serving short with spin. The more you graze the ball, the more energy goes into spin instead of speed, giving the ball a lower bounce.",
+              "difficulte": "Beginner",
+              "duree": "Not specified by source.",
+              "materiel": ""
+            },
+            {
+              "nom": "Think of serving as a struggle to get the ball over the net",
+              "description": "Instead of trying to lower your serve, think of having to raise your serve so that it barely goes over the net.",
+              "difficulte": "Beginner",
+              "duree": "Not specified by source.",
+              "materiel": ""
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Practice serving low and short with spin",
+            "description": "The more you practice, the better you'll get at getting your serves to bounce low on the far side.",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": ""
+          }
+        ],
+        "metriques_progression": [
+          ""
+        ],
+        "erreurs_a_eviter": [
+          "Don't think of it as serving low, think of it as a struggle to get the ball over the net."
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/951"
+      }
+    ]
+  }
+}

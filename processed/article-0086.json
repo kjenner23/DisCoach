@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "article_title": "A Table Tennis Player's Guide to Toweling",
+    "article_slug": "towel-tips-snake_case",
+    "source_url": "http://www.tabletenniscoaching.com/node/3363",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "towel-tips": [
+      {
+        "probleme": "Why towel off?",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "sweat",
+          "humidity"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "description": "Wipe sweat away"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Towel break",
+            "description": "Take a mental break, clear your mind, and focus",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Towel"
+          }
+        ],
+        "metriques_progression": [
+          "Every six points"
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/3363"
+      }
+    ]
+  }
+}

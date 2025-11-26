@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "article_title": "January 6, 2014 - Three Parts to a Swing",
+    "article_slug": "three_parts_to_a_swing",
+    "source_url": "http://www.tabletenniscoaching.com/node/1701",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "three_parts_to_a_swing": [
+      {
+        "probleme": "Inconsistent swing pattern",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Practice only focusing on backswing and forward swing"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Make a practice of returning to ready after each shot when practicing",
+            "Drop the linear strokes and learn the triangle!"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Triangle drill",
+            "description": "Practice the racket movement through a triangle, starting from the ready position: backswing, forward swing, and return to ready position.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket"
+          }
+        ],
+        "metriques_progression": [
+          "Not specified by source."
+        ],
+        "erreurs_a_eviter": [
+          "Not specified by source."
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/1701"
+      }
+    ]
+  }
+}

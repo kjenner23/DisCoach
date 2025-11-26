@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "article_title": "August 4, 2014 - How to Move Up a Level",
+    "article_slug": "move_up_a_level",
+    "source_url": "http://www.tabletenniscoaching.com/node/1884",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "level",
+      "definition": "A player's overall level defined by their rating points.",
+      "contexte": "The article defines a level in table tennis as ranging from about 300 to 100 points, depending on the player's skill level.",
+      "source_url": "http://www.tabletenniscoaching.com/node/1884"
+    }
+  ],
+  "problemes_solutions": {
+    "move_up_a_level": [
+      {
+        "probleme": "How to move up a level",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Return serves as well as opponents do",
+              "description": "Return serves at the same pace as opponents to avoid giving them an advantage.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Tennis balls, rackets"
+            },
+            {
+              "nom": "Rally as fast or slow down pace",
+              "description": "Either hit at opponents' pace or slow down the pace to gain an advantage.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Tennis balls, rackets"
+            },
+            {
+              "nom": "React to opponents' rallying spins",
+              "description": "React to opponents' spinning shots and adjust your game accordingly.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Tennis balls, rackets"
+            },
+            {
+              "nom": "End the point with strong shots",
+              "description": "Use strong shots to end the point and gain an advantage.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Tennis balls, rackets"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Forehand loop",
+            "description": "Develop a strong forehand loop to gain an advantage in rallies.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Tennis balls, rackets"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "target": "rating points"
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "nom": "Developing a single 'overpowering' strength",
+            "description": "Focusing on one strong shot or tactic can still lead to losses due to weaknesses in other areas of your game."
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/1884"
+      }
+    ]
+  }
+}

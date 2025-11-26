@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "article_title": "September 15, 2014 - Should You Watch the Ball All the Way Into the Racket?",
+    "article_slug": "should_you_watch_ball_all_way_into_racket",
+    "source_url": "http://www.tabletenniscoaching.com/node/1922",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "should_you_watch_ball_all_way_into_racket": [
+      {
+        "probleme": "Should You Watch the Ball All the Way Into the Racket?",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "probleme": "Watch slow balls all the way into the racket.",
+              "solution": "Watch it until you can no longer react to it."
+            },
+            {
+              "probleme": "Watch fast balls until perhaps a few feet in front of you.",
+              "solution": "Since you can't react at the end anyway."
+            }
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Slow ball reaction drill",
+            "description": "Hit slow balls and focus on seeing contact with the racket.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Bucket of balls"
+          }
+        ],
+        "metriques_progression": [
+          "Watch ball until you can no longer react to it."
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/1922"
+      }
+    ]
+  }
+}

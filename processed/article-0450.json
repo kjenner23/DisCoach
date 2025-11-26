@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "article_title": "August 25, 2014 - Semi-Circular Motion on Serves",
+    "article_slug": "semi_circular_motion_on_serves",
+    "source_url": "http://www.tabletenniscoaching.com/node/1901",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "semi_circular_motion_on_serves": [
+      {
+        "probleme": "Variation and Deception on Serves",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Get lots of spin (backspin, backspin-sidespin, sidespin, sidespin-topspin, and topspin)",
+              "description": "Mastering these spins is key to creating variation",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "generic"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Pendulum Serve with Semi-Circular Spin",
+            "description": "Start racket moving down, then down and sideways, then sideways, then sideways and up, and finally up like a pendulum.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "generic"
+          }
+        ],
+        "metriques_progression": [
+          "spin amount"
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/1901"
+      }
+    ]
+  }
+}

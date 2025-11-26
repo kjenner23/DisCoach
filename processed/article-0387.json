@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "article_title": "December 7, 2015 - Use Simple No-Spin Serves in Doubles",
+    "article_slug": "use-simple-no-spin-serves-in-doubles",
+    "source_url": "http://www.tabletenniscoaching.com/node/2286",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "use-simple-no-spin-serves-in-doubles": [
+      {
+        "probleme": "Unpredictable serves in doubles",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Opponent can choose stronger side to receive",
+          "Long serves can be attacked with loops"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "description": "Serve short, low no-spin serve"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Low, no-spin serves",
+            "description": "Serve low and flat to make it difficult for opponent to attack. Avoid using spin as it can be used against you.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket, table tennis balls"
+          }
+        ],
+        "metriques_progression": [
+          "Short no-spin serves"
+        ],
+        "erreurs_a_eviter": [
+          "Serving too high or with spin"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/2286"
+      }
+    ]
+  }
+}

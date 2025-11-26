@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "article_title": "January 8, 2018 - Systematically Practice Against What You Have Trouble With",
+    "article_slug": "systematically-practice-against-what-you-have-trouble-with",
+    "source_url": "http://www.tabletenniscoaching.com/node/2843",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "systematically-practice-against-what-you-have-trouble-with": [
+      {
+        "probleme": "Trouble with specific serves",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Multiball drill for heavy backspin serve",
+              "description": "Practice serving against multiball with heavy backspin. Focus on proper technique and footwork.",
+              "difficulte": "Beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Multi-ball robot"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Drill for blocking spinny loops",
+            "description": "Partner serves backspin, you push, partner loops, you block. Repeat for effective practice.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Multi-ball robot"
+          }
+        ],
+        "metriques_progression": [
+          "Focus on proper technique and footwork",
+          "Practice until proficiency is achieved"
+        ],
+        "erreurs_a_eviter": [
+          "Choosing not to fix weaknesses"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/2843"
+      }
+    ]
+  }
+}

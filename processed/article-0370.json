@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "article_title": "April 11, 2016 - How to Do Demonstrations",
+    "article_slug": "how-to-do-demonstrations_",
+    "source_url": "http://www.tabletenniscoaching.com/node/2379",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "how-to-do-demonstrations_": [
+      {
+        "probleme": "How to Do Demonstrations",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Bring needed equipment (table, balls, rackets, etc.)",
+              "description": "Make sure to have all the necessary items for a successful demonstration.",
+              "difficulte": "Beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Generic (no brands)"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Mini-racket exhibition",
+            "description": "Use a mini-racket to perform tricks and showcase skills.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Generic (no brands)"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "target": "Speed or Spin",
+            "reps": "Not specified by source.",
+            "time": "Not specified by source."
+          }
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/2379"
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "article_title": "January 4, 2021 - Play Both Weaker and Stronger Players",
+    "article_slug": "play_both_weaker_and_stronger_players",
+    "source_url": "http://www.tabletenniscoaching.com/node/3238",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "play_both_weaker_and_stronger_players": [
+      {
+        "probleme": "Playing mostly stronger players",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Trying to develop new shots or tactics"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Try out new techniques and tactics against weaker players",
+            "Develop shots and instincts in a controlled environment"
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Serving backspin and looping the pushed return",
+            "description": "Loop against a weaker player's push to develop shot",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket, balls"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "reps": "Develop the shot and instincts until proficient"
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "erreur": "Stops trying out new shots or tactics due to losses against stronger players"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3238"
+      }
+    ]
+  }
+}

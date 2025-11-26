@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "article_title": "October 22, 2012 - Turn Opponents into Puppets with Long Serves",
+    "article_slug": "turn-opponents-into-puppets-with-long-serves",
+    "source_url": "http://www.tabletenniscoaching.com/node/1125",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "turn-opponents-into-puppets-with-long-serves": [
+      {
+        "probleme": "Serving short over and over against an opponent who doesn't attack long serves",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Deep serve",
+              "description": "Serve as deep as possible, with the bounce somewhere near the receiver's end-line.",
+              "difficulte": "Beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Generic (e.g., 'multi-ball robot')"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Deep serve",
+            "description": "Serve as deep as possible, with the bounce somewhere near the receiver's end-line.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Generic (e.g., 'multi-ball robot')"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "target": "Serve as deep as possible, with the bounce somewhere near the receiver's end-line",
+            "repets": "Not specified by source.",
+            "temps": "Not specified by source."
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "erreur": "Serving short over and over against an opponent who doesn't attack long serves"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/1125"
+      }
+    ]
+  }
+}

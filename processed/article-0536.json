@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "article_title": "November 27, 2012 - Serving Short to Forehand and Long to Backhand",
+    "article_slug": "serving-short-to-forehand-and-long-to-backhand",
+    "source_url": "http://www.tabletenniscoaching.com/node/1248",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "serving-short-to-forehand-and-long-to-backhand": [
+      {
+        "probleme": "Handling short serves to forehand and long serves to backhand",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Short serve to forehand",
+              "description": "Serve very short and wide to the forehand, making the receiver cover 6.7 feet of table.",
+              "difficulte": "Beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Racket"
+            },
+            {
+              "nom": "Long serve to backhand",
+              "description": "Serve long and breaking into the backhand, making the receiver reach even more.",
+              "difficulte": "Beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Racket"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Forehand pendulum serve",
+            "description": "Serve very low and short to the forehand, or a long, breaking serve into the backhand.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Racket"
+          }
+        ],
+        "metriques_progression": [
+          "Distance between contact points: 6.7 feet"
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/1248"
+      }
+    ]
+  }
+}

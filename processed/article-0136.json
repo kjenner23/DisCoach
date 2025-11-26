@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "article_title": "March 15, 2021 - Do You Really Play the Middle?",
+    "article_slug": "play-middle",
+    "source_url": "http://www.tabletenniscoaching.com/node/3258",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "play-middle": [
+      {
+        "probleme": "Lack of effective play to the middle",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Misunderstanding what constitutes playing the middle"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Start with short, controlled shots to the middle; focus on precise placement"
+          ],
+          "intermediaire": [
+            "Judge distances and angles better; aim for the middle as the ball reaches the opponent"
+          ],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Middle shot drill",
+            "description": "Practice controlled shots to the middle, adjusting distance and angle based on opponent's reaction.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis equipment"
+          }
+        ],
+        "metriques_progression": [
+          "Aim for the middle; adjust shots based on opponent's reaction"
+        ],
+        "erreurs_a_eviter": [
+          "Playing too much to the corners; neglecting the middle as a viable target"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3258"
+      }
+    ]
+  }
+}

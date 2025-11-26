@@ -1,0 +1,64 @@
+{
+  "meta": {
+    "article_title": "February 13, 2012 - Those Dizzying No-Spin Serves",
+    "article_slug": "those_dizzying_no_spin_serves",
+    "source_url": "http://www.tabletenniscoaching.com/node/776",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "those_dizzying_no_spin_serves": [
+      {
+        "probleme": "Difficulty in attacking a low, heavy backspin serve",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Opponent digging into the serve and pushing it back low and heavy",
+          "Looping with heavy topspin to convert opponent's backspin into topspin",
+          "Pushing back short and low"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "developing a good sidepin or topspin serve",
+              "description": "Develop other serves as variations.",
+              "difficulte": "all levels",
+              "duree": "Not specified by source.",
+              "materiel": " generic racket"
+            }
+          ],
+          "intermediaire": [
+            {
+              "nom": "mixing in no-spin serves",
+              "description": "Develop a no-spin serve as a variation to your spin serves, and learn to really load up the ball with so much no-spin that no opponent can possibly overcome that dizzying lack of spin you throw at them.",
+              "difficulte": "all levels",
+              "duree": "Not specified by source.",
+              "materiel": " generic racket"
+            }
+          ],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "practicing no-spin serves",
+            "description": "Serve the ball near the handle, where the racket is moving slowly, to get an almost spinless ball.",
+            "difficulte": "all levels",
+            "duree": "Not specified by source.",
+            "materiel": " generic racket"
+          }
+        ],
+        "metriques_progression": [
+          "looping",
+          "pushing back short and low",
+          "misreading the serve as backspin"
+        ],
+        "erreurs_a_eviter": [
+          {
+            "nom": "not serving the ball low to the net",
+            "description": "Serve no-spin very low to the net, so that it's difficult for an opponent to flip aggressively."
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/776"
+      }
+    ]
+  }
+}

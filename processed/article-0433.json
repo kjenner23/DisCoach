@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "article_title": "January 5, 2015 - Hitting or Looping?",
+    "article_slug": "hitting_or_looping",
+    "source_url": "http://www.tabletenniscoaching.com/node/2009",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "hitting_or_looping": [
+      {
+        "probleme": "Choosing between hitting or looping",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Non-elite levels",
+          "Higher levels"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Develop the basics and focus on looping"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Looping drills",
+            "description": "Use short pips, mess up opponents who only know how to play inverted",
+            "difficulte": "Intermediate",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Short pips"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          "Not specified by source."
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/2009"
+      }
+    ]
+  }
+}

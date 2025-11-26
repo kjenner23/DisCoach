@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "article_title": "Recipe for Table Tennis Success",
+    "article_slug": "recipe_for_table_tennis_success",
+    "source_url": "http://www.tabletenniscoaching.com/node/3069",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "recipe_for_table_tennis_success": [
+      {
+        "probleme": "",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Practice",
+              "description": "Put in lots of practice thyme.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Racket, balls"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Pepper your opponent with tricky serves",
+            "description": "Use good tactics to put a steak in your opponent's heart.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Racket, balls"
+          },
+          {
+            "nom": "Banana flip those short balls",
+            "description": "Use good tactics to put a steak in your opponent's heart.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Racket, balls"
+          }
+        ],
+        "metriques_progression": [
+          [
+            "Not specified by source."
+          ]
+        ],
+        "erreurs_a_eviter": [
+          {
+            "nom": "Don't grape about problems",
+            "description": ""
+          },
+          {
+            "nom": "Squash any thoughts about losing or the score",
+            "description": ""
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3069"
+      }
+    ]
+  }
+}

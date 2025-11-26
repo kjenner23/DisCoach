@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "article_title": "December 23, 2013 - Returning Hidden and Other Tricky Spin Serves",
+    "article_slug": "returning-hidden-spin-serves",
+    "source_url": "http://www.tabletenniscoaching.com/node/1690",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "returning-hidden-spin-serves": [
+      {
+        "probleme": "Trouble reading the spin on the opponent's serve",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Too quick serving motion",
+          "Opponent hiding contact"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Don't do too much",
+              "description": "Accept that you won't consistently make strong returns"
+            },
+            {
+              "nom": "Take the ball as late as you can",
+              "description": "Gives you more time to react to the spin"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Return the ball softly but with placement and depth",
+            "description": "Keep it wide and deep to the server's weaker side; make him move way over to his backhand side",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Racket",
+              "Table"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          {
+            "cible": "Softly return the ball with placement and depth"
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "erreur": "Do too much"
+          },
+          {
+            "erreur": "Don't read the spin quickly enough"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/1690"
+      }
+    ]
+  }
+}

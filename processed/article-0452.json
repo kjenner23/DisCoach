@@ -1,0 +1,132 @@
+{
+  "meta": {
+    "article_title": "August 11, 2014 - Ten Steps to a Great Service Game",
+    "article_slug": "ten-steps-to-a-great-service-game",
+    "source_url": "http://www.tabletenniscoaching.com/node/1889",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "spin serve",
+      "definition": "a serve with spin",
+      "contexte": "used to create different spins with the same motion by varying where in the motion you contact the ball",
+      "source_url": "http://www.tabletenniscoaching.com/node/1889"
+    }
+  ],
+  "problemes_solutions": {
+    "ten-steps-to-a-great-service-game": [
+      {
+        "probleme": "Short Service with Spin",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Semi-circular Motion on Serves",
+              "description": "Accelerate the racket through the ball and graze it to learn to serve with lots of spin.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Racket, balls"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Semi-circular Motion on Serves",
+            "description": "Minimize and do quickly the semi-circular motion so receiver has trouble picking up contact.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Racket, balls"
+          }
+        ],
+        "metriques_progression": [
+          [
+            "Not specified by source."
+          ]
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/1889"
+      },
+      {
+        "probleme": "Serving Low",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [],
+        "metriques_progression": [
+          [
+            "Not specified by source."
+          ]
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/1889"
+      },
+      {
+        "probleme": "Serve with Spin",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Spin Serve",
+              "description": "Accelerate the racket through the ball and graze it to learn to serve with lots of spin.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Racket, balls"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Semi-circular Motion on Serves",
+            "description": "Minimize and do quickly the semi-circular motion so receiver has trouble picking up contact.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Racket, balls"
+          }
+        ],
+        "metriques_progression": [
+          [
+            "Not specified by source."
+          ]
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/1889"
+      },
+      {
+        "probleme": "Fake Spin and Serve No-Spin",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "No-Spin Serve",
+              "description": "Contact the ball near the handle to fake spin and serve no-spin.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Racket, balls"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [],
+        "metriques_progression": [
+          [
+            "Not specified by source."
+          ]
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/1889"
+      }
+    ]
+  }
+}

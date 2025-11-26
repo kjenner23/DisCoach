@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "article_title": "December 10, 2018 - Punish Passivity",
+    "article_slug": "punish_passivity",
+    "source_url": "http://www.tabletenniscoaching.com/node/3021",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "punish_passivity": [
+      {
+        "probleme": "Playing against a passive opponent",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Not specified by source."
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Use serve and receive to set up shots"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Tactical practice drills",
+            "description": "Practice serves, receives, and shots that set up tactical play",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Table tennis equipment"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          "Improve serves, receives, and shots"
+        ],
+        "erreurs_a_eviter": [
+          "Don't fall victim to passive players"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3021"
+      }
+    ]
+  }
+}

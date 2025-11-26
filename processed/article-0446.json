@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "article_title": "September 22 - Power in Table Tennis",
+    "article_slug": "power-in-table-tennis",
+    "source_url": "http://www.tabletenniscoaching.com/node/1927",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "power-in-table-tennis": [
+      {
+        "probleme": "Power in Table Tennis",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Equipment",
+          "Strength",
+          "Muscle Elasticity",
+          "Body Mass and Type",
+          "Type of Contact",
+          "Proper Technique",
+          "Timing of Muscle Contractions",
+          "Timing of Contact"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Physical training can help with strength and muscle elasticity.",
+            "Proper Technique"
+          ],
+          "intermediaire": [
+            "Timing of Muscle Contractions",
+            "Timing of Contact"
+          ],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Forehand stroke",
+            "description": "The proper order for a forehand stroke is legs, hips, waist, shoulder rotation, shoulder, elbow, and wrist.",
+            "difficulte": "Intermediate",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Racket"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          {
+            "reps": "70%",
+            "time": "Not specified by source."
+          }
+        ],
+        "erreurs_a_eviter": [
+          "Graze the ball too finely",
+          "Stop accelerating before contact"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/1927"
+      }
+    ]
+  }
+}

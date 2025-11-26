@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "article_title": "December 27, 2021 - Equally Comfortable Attacking or Defending",
+    "article_slug": "equally_comfortable_attacking_or_defending",
+    "source_url": "http://www.tabletenniscoaching.com/node/3338",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "attacking",
+      "definition": "",
+      "contexte": "",
+      "source_url": ""
+    }
+  ],
+  "problemes_solutions": {
+    "equally_comfortable_attacking_or_defending": [
+      {
+        "probleme": "Player not comfortable defending when opponent attacks first",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            "Practice blocking or other defensive shots"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Defensive drills",
+            "description": "Block opponent's shots while having someone attack you until comfortable.",
+            "difficulte": "beginner",
+            "duree": "",
+            "materiel": ""
+          }
+        ],
+        "metriques_progression": [
+          [
+            "Improve reaction time and movement"
+          ]
+        ],
+        "erreurs_a_eviter": [
+          [
+            "Getting too far back or hesitating when opponent attacks first"
+          ]
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3338"
+      }
+    ]
+  }
+}

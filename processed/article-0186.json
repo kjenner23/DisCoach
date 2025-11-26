@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "article_title": "March 30, 2020 - Tactics at the End of a Close Game",
+    "article_slug": "tactics-at-the-end-of-a-close-game",
+    "source_url": "http://www.tabletenniscoaching.com/node/3153",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "tactics-at-the-end-of-a-close-game": [
+      {
+        "probleme": "Play safe when it's close?",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "nervousness"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "description": "Play your game, whether attacking or not, and get used to playing under pressure."
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Aggressive attack",
+            "description": "Use whatever part of your game you do best - and that usually means playing aggressively.",
+            "difficulte": "all levels",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "racket",
+              "balls"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          "target: win the game"
+        ],
+        "erreurs_a_eviter": [
+          "playing safe when it's close"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3153"
+      }
+    ]
+  }
+}

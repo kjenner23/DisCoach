@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "article_title": "February 23, 2015 - Shadow Practice When You Miss",
+    "article_slug": "shadow_practice_when_you_miss",
+    "source_url": "http://www.tabletenniscoaching.com/node/2047",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "shadow_practice_when_you_miss": [
+      {
+        "probleme": "Missing a shot",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Incorrect technique"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "technique_correction": "Shadow practice the shot, imagining the same incoming ball you just missed against"
+            }
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Shadow practice drill",
+            "description": "Reinforce correct muscle memory by shadow practicing the shot, visualizing the perfect outcome",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket and balls"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "target": "Reinforce correct muscle memory"
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "pitfall": "Thinking about the miss reinforces incorrect muscle memory"
+          }
+        ]
+      }
+    ]
+  }
+}

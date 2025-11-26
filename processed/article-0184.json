@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "article_title": "April 13, 2020 - The Grinding Mentality - How to Play It and Against It",
+    "article_slug": "grinding_mentality_snake_case",
+    "source_url": "http://www.tabletenniscoaching.com/node/3157",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "grinding_mentality_snake_case": [
+      {
+        "probleme": "Playing against a grinder's style",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            "Take your time on shots and focus on consistency"
+          ],
+          "intermediaire": [
+            "Find the balance between consistency and decisiveness"
+          ],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Consecutive shots",
+            "description": "Focus on returning all shots, no matter their type, while maintaining consistency.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "tabletennis balls"
+          }
+        ],
+        "metriques_progression": [
+          "Avoid weak returns and improve overall consistency"
+        ],
+        "erreurs_a_eviter": [
+          "Don't rush shots; prioritize consistency"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3157"
+      }
+    ]
+  }
+}

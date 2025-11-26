@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "article_title": "November 14, 2011 - Forehands from the Backhand Corner",
+    "article_slug": "forehands-from-the-backhand-corner",
+    "source_url": "http://www.tabletenniscoaching.com/node/668",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "forehands-from-the-backhand-corner": [
+      {
+        "probleme": "Attacking with the forehand from the backhand corner",
+        "diagnostic": "Leaving the forehand side open",
+        "causes_communes": [
+          "Off-balance when finishing the shot",
+          "Failing to generate power with the forehand"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Maintain balance while rotating around a pole through your head",
+            "Keep shots deep to have more time to recover"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Loop slow and deep from the backhand side",
+            "description": "Slow loops give you time to recover, while kill shots can keep opponents from counter-attacking",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Balls"
+          }
+        ],
+        "metriques_progression": [
+          [
+            "Recover after 2-3 strokes",
+            "Maintain balance and rotate around the pole"
+          ]
+        ],
+        "erreurs_a_eviter": [
+          "Stepping too far to the side, leaving yourself off-balance"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/668"
+      }
+    ]
+  }
+}

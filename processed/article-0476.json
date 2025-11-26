@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "article_title": "February 17, 2014 - Five-Ball Attack",
+    "article_slug": "five_ball_attack",
+    "source_url": "http://www.tabletenniscoaching.com/node/1737",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "five_ball_attack": [
+      {
+        "probleme": "Develop a five-ball attack as a fallback plan",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "opponent's difficulty returning third-ball attack"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "description": "Serve and slow loop to the middle or wide corners"
+            },
+            {
+              "description": "Use opponent's backspin against them; let ball drop slightly, then topspin away with slow loop"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Slow-loop drill",
+            "description": "Serve and slow loop to the middle or wide corners; focus on consistent placement",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "table tennis racket",
+              "balls"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          "Target aggressive shots with each subsequent ball"
+        ],
+        "erreurs_a_eviter": [
+          {
+            "description": "Don't force a put-away; play another aggressive shot if possible"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/1737"
+      }
+    ]
+  }
+}

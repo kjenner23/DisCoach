@@ -1,0 +1,56 @@
+{
+  "meta": {
+    "article_title": "Dec. 26, 2022 - Looping Against Backspin and Topspin",
+    "article_slug": "looping_against_backspin_and_topspin",
+    "source_url": "http://www.tabletenniscoaching.com/node/3434",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "looping_against_backspin_and_topspin": [
+      {
+        "probleme": "Looping Against Backspin and Topspin",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Forehand Loop",
+              "description": "Start looping against backspin, as it's more natural and easier to learn. Add spin to the ball, rather than trying to change it.",
+              "difficulte": "Beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Generic"
+            }
+          ],
+          "intermediaire": [
+            {
+              "nom": "Looping Against Topspin",
+              "description": "Go mostly forward, spinning almost the top of the ball. Drop the back shoulder when forehand looping against backspin.",
+              "difficulte": "Intermediate",
+              "duree": "Not specified by source.",
+              "materiel": "Generic"
+            }
+          ],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Forehand Loop Against Backspin Drill",
+            "description": "Practice looping against backspin with a forehand motion, adding spin to the ball.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Generic"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "target": "Spin",
+            "rep": "Not specified by source."
+          }
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/3434"
+      }
+    ]
+  }
+}

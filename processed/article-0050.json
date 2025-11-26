@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "article_title": "What Comes First, Speed or Consistency?",
+    "article_slug": "what_comes_first_speed_or_consistency",
+    "source_url": "http://www.tabletenniscoaching.com/node/3427",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "developing_consistency": [
+      {
+        "probleme": "Should I focus on speed or consistency?",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Trying to play at a pace you can't do consistently"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Play each shot at the pace you can do consistently",
+            "Focus on good technique"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Consistency drill",
+            "description": "Play each shot at a consistent pace, gradually increasing speed as you improve.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Racket and balls"
+          }
+        ],
+        "metriques_progression": [
+          "Gradually increase speed as you get better"
+        ],
+        "erreurs_a_eviter": [
+          "Trying to play at a pace you can't do consistently"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3427"
+      }
+    ]
+  }
+}

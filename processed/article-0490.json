@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "article_title": "November 4, 2013 - Tournament Toughness",
+    "article_slug": "tournament-toughness",
+    "source_url": "http://www.tabletenniscoaching.com/node/1655",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "Tournament Toughness",
+      "definition": "",
+      "contexte": "Ability to perform well in tournament matches",
+      "source_url": ""
+    }
+  ],
+  "problemes_solutions": {
+    "tournament-toughness": [
+      {
+        "probleme": "Lack of experience in tournaments",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Play in tournaments",
+              "description": "Get used to different playing conditions, opponents, and pressures of tournament play",
+              "difficulte": "all levels",
+              "duree": "",
+              "materiel": []
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Play with varied conditions",
+            "description": "Get used to playing in different conditions, such as slippery floors and poor lighting",
+            "difficulte": "all levels",
+            "duree": "",
+            "materiel": []
+          },
+          {
+            "nom": "Play with different opponents",
+            "description": "Adjust to different playing styles and opponents",
+            "difficulte": "all levels",
+            "duree": "",
+            "materiel": []
+          }
+        ],
+        "metriques_progression": [
+          "Not specified by source."
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": ""
+      }
+    ]
+  }
+}

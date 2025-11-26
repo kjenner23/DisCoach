@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "article_title": "May 6, 2013 - How to Create a Truly Heavy Backspin Serve",
+    "article_slug": "how-to-create-a-truly-heavy-backspin-serve",
+    "source_url": "http://www.tabletenniscoaching.com/node/1485",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "backspin_serve": [
+      {
+        "probleme": "How to create a truly heavy backspin serve",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Lack of racket speed",
+          "Incorrect contact point"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "description": "Graze the ball finely, with racket roughly parallel to the floor."
+            }
+          ],
+          "intermediaire": [
+            {
+              "description": "Use higher toss to convert speed into spin"
+            }
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Graze-and-scoop drill",
+            "description": "Practice grazing the ball finely, then scooping it up with an open racket.",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket and balls"
+          }
+        ],
+        "metriques_progression": [
+          "Lower toss: less spin; higher toss: more spin"
+        ],
+        "erreurs_a_eviter": [
+          "Sinking the ball too much into the sponge"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/1485"
+      }
+    ]
+  }
+}

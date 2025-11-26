@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "article_title": "January 9, 2012 - Proper Care of Your Racket",
+    "article_slug": "proper-care-of-your-racket",
+    "source_url": "http://www.tabletenniscoaching.com/node/719",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "racket_care": [
+      {
+        "probleme": "Dusty, non-grippy rubber surface",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Not specified by source."
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Cleaning with plain water and towel",
+              "description": "Wet a corner of the towel, wipe the surface, then wipe dry with the rest of the towel.",
+              "difficulte": "Beginner",
+              "duree": "Not specified by source.",
+              "materiel": [
+                "Towel"
+              ]
+            }
+          ],
+          "intermediaire": [
+            {
+              "nom": "Rubber cleaner and towel",
+              "description": "Spray rubber cleaner on the surface, wipe with a towel.",
+              "difficulte": "Intermediate",
+              "duree": "Not specified by source.",
+              "materiel": [
+                "Rubber cleaner",
+                "Towel"
+              ]
+            }
+          ],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Breathing on the racket and wiping with towel",
+            "description": "Blow on the surface, then wipe it off with a towel.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Towel"
+            ]
+          },
+          {
+            "nom": "Wiping with breath and shirt/pants",
+            "description": "Blow on the surface, then wipe it off with the palm of the hand or clothes.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Palm",
+              "Clothes"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          {
+            "nom": "Frequent cleaning (every 5 minutes)",
+            "description": "Regularly clean the surface during a playing session.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Towel"
+            ]
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "nom": "Leaving the racket uncovered",
+            "description": "Keep your racket covered when not in use to prevent deterioration."
+          },
+          {
+            "nom": "Exposing the racket to cold temperatures",
+            "description": "Keep your racket inside the car or with you on a cold day to prevent damage."
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/719"
+      }
+    ]
+  }
+}

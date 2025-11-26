@@ -1,0 +1,155 @@
+{
+  "meta": {
+    "article_title": "Make a Game of Your Weaknesses",
+    "article_slug": "make_a_game_of_your_weaknesses",
+    "source_url": "http://www.tabletenniscoaching.com/node/898",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "backhand",
+      "definition": "a shot played with the back of the racket",
+      "contexte": "used in a game to improve weak backhands",
+      "source_url": "http://www.tabletenniscoaching.com/node/898"
+    }
+  ],
+  "problemes_solutions": {
+    "make_a_game_of_your_weaknesses": [
+      {
+        "probleme": "Weak backhand counter-drive",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "lack of practice"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "backhand-to-backhand games",
+              "description": "play backhand drives to improve weak backhands"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "box or towel game",
+            "description": "play backhand-to-backhand games with a box or towel around the middle of the table to keep the ball in play",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "box",
+              "towel"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          "repeat for 10-15 minutes, take a break, repeat"
+        ],
+        "erreurs_a_eviter": [
+          "playing anything other than a backhand drive"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/898"
+      },
+      {
+        "probleme": "Weak loop or block",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "lack of practice"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "loop or block game",
+              "description": "play a game where one player loops everything, the other blocks"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "loop or block game",
+            "description": "play a game where one player loops everything, the other blocks; alternate version: blocker can smash or counterloop if he sees a weak loop",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": []
+          }
+        ],
+        "metriques_progression": [
+          "repeat for 10-15 minutes, take a break, repeat"
+        ],
+        "erreurs_a_eviter": [
+          "playing anything other than loop or block"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/898"
+      },
+      {
+        "probleme": "Weak pushing",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "lack of practice"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "pushing game",
+              "description": "play an all-pushing game with someone"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "short and low pushing",
+            "description": "take turns serving short backspin, pushing short; if a push is going to go long, let it go and win the point; if it bounces twice, lose the point",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": []
+          }
+        ],
+        "metriques_progression": [
+          "repeat for 10-15 minutes, take a break, repeat"
+        ],
+        "erreurs_a_eviter": [
+          "missing a push or popping it up"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/898"
+      },
+      {
+        "probleme": "Weak serve and attack",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "lack of practice"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "serve and attack game",
+              "description": "play a regular game except both players are allowed only two shots after the serve to win the point"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "aggressive serve and attack",
+            "description": "play a regular game except both players are allowed only two shots after the serve to win the point; look for ways to stop the opponent's attack on his serve",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": []
+          }
+        ],
+        "metriques_progression": [
+          "repeat for 10-15 minutes, take a break, repeat"
+        ],
+        "erreurs_a_eviter": [
+          "not being aggressive enough on the serve"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/898"
+      }
+    ]
+  }
+}

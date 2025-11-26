@@ -1,0 +1,74 @@
+{
+  "meta": {
+    "article_title": "June 4, 2012 - Serving Short with Spin",
+    "article_slug": "serving_short_with_spin",
+    "source_url": "http://www.tabletenniscoaching.com/node/907",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "spinny serve",
+      "definition": "serve with great spin",
+      "contexte": "used to describe a serve that is spinny and goes short",
+      "source_url": "http://www.tabletenniscoaching.com/node/907"
+    }
+  ],
+  "problemes_solutions": {
+    "serving_short_with_spin": [
+      {
+        "probleme": "Should you serve with lots of spin or sacrifice spin to keep the serve short?",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "simple backspin serve",
+              "description": "focus on keeping the ball low with as much backspin as possible while still keeping the ball short",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "generic"
+            }
+          ],
+          "intermediaire": [
+            {
+              "nom": "spinny serve with low contact point",
+              "description": "learn to serve the ball low with a low contact point and varying depths",
+              "difficulte": "intermediate",
+              "duree": "Not specified by source.",
+              "materiel": "generic"
+            }
+          ],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "whipping the racket into the ball at full speed",
+            "description": "to get maximum spin, whip the racket into the ball at full speed but barely graze the ball",
+            "difficulte": "advanced",
+            "duree": "Not specified by source.",
+            "materiel": "generic"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "nom": "second bounce near the endline",
+            "description": "ideal spin serve will bounce twice on the opponent's side of the table, with the second bounce as close to the endline as possible",
+            "difficulte": "advanced",
+            "duree": "Not specified by source.",
+            "materiel": "generic"
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "nom": "serving just backspin or no-spin when you want to serve short",
+            "description": "this greatly limits your options and makes things a lot easier for the opponent",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "generic"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/907"
+      }
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "article_title": "August 19, 2019 - Strategic Tactics",
+    "article_slug": "strategic-tactics",
+    "source_url": "http://www.tabletenniscoaching.com/node/3092",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "strategic-tactics": [
+      {
+        "probleme": "Strategic Tactics",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [],
+          "intermediaire": [
+            "intentionally push long on the second point"
+          ],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Punishing slow, spinny loops",
+            "description": "Push long to adjust to opponent's spinny loop.",
+            "difficulte": "all levels",
+            "duree": "Not specified by source.",
+            "materiel": "racket"
+          }
+        ],
+        "metriques_progression": [
+          "get comfortable against the shot"
+        ],
+        "erreurs_a_eviter": [
+          "avoiding shots you're not good at"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3092"
+      }
+    ]
+  }
+}

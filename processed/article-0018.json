@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "article_title": "July 10, 2023 - Forehand Back Foot Placement",
+    "article_slug": "forehand_back_foot_placement",
+    "source_url": "http://www.tabletenniscoaching.com/node/3484",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "forehand_back_foot_placement": [
+      {
+        "probleme": "Forehand Back Foot Placement",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Backswing with foot back",
+              "description": "Open up a larger hitting zone from the side.",
+              "difficulte": "Beginner",
+              "duree": "Not specified by source.",
+              "materiel": []
+            }
+          ],
+          "intermediaire": [
+            {
+              "nom": "Parallel feet forehand",
+              "description": "Allows for a quicker stroke.",
+              "difficulte": "Intermediate",
+              "duree": "Not specified by source.",
+              "materiel": []
+            }
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Blocking with parallel feet",
+            "description": "Keep the feet more parallel to the incoming ball.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": []
+          }
+        ],
+        "metriques_progression": [
+          [
+            "8 sec"
+          ]
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/3484"
+      }
+    ]
+  }
+}

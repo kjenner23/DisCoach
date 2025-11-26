@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "article_title": "May 7, 2012 - How to Play and Practice with Weaker Players",
+    "article_slug": "play-practice-weaker-players",
+    "source_url": "http://www.tabletenniscoaching.com/node/871",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "play-practice-weaker-players": [
+      {
+        "probleme": "Playing weaker players",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Desire to react to opponent's play rather than forcing own game"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "probleme": "Dominating points",
+              "solution": "Try out new things against weaker players"
+            },
+            {
+              "probleme": "Reading spin and controlling ball",
+              "solution": "Focus on developing short push against weaker serves"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Loop drills",
+            "description": "Work on good technique, focus on consistent loops",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": "Generic racket and balls"
+          },
+          {
+            "nom": "Drills for consistency",
+            "description": "Do longer drills at steady pace, focus on good technique",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": "Generic racket and balls"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "reps": "Not specified by source.",
+            "time": "Not specified by source."
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "erreur": "Focusing on opponent's strengths rather than own game"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/871"
+      }
+    ]
+  }
+}

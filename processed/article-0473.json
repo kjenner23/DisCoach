@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "article_title": "March 10, 2014 - Reading Service Spin",
+    "article_slug": "reading-service-spin",
+    "source_url": "http://www.tabletenniscoaching.com/node/1755",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "reading-service-spin": [
+      {
+        "probleme": "Reading Spin",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Follow the racket's direction at contact",
+              "description": "Watch the racket speed and direction to read spin type",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Generic balls"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Practice reading spin from racket",
+            "description": "Watch the racket's speed and direction to read spin type; focus on different serves with varying spin",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Generic balls"
+          }
+        ],
+        "metriques_progression": [
+          "Not specified by source."
+        ],
+        "erreurs_a_eviter": [
+          {
+            "nom": "Misreading spin from ball alone",
+            "description": "Pay attention to racket's direction at contact and adjust receive accordingly"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/1755"
+      }
+    ]
+  }
+}

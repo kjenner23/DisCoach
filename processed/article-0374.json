@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "article_title": "March 14, 2016 - Outlining the Book on Your Game",
+    "article_slug": "outline_the_book_on_your_game",
+    "source_url": "http://www.tabletenniscoaching.com/node/2360",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "outlining_the_book_on_your_game": [
+      {
+        "probleme": "Outlining your game",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Game outline template",
+              "description": "Fill in your strengths, weaknesses, and techniques to identify areas for improvement.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Pen and paper"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Game analysis drill",
+            "description": "Analyze your game, identifying strengths, weaknesses, and areas for improvement.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Pen and paper"
+          }
+        ],
+        "metriques_progression": [
+          "Identify areas for improvement"
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/2360"
+      }
+    ]
+  }
+}

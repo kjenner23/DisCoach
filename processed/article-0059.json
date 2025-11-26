@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "article_title": "September 26, 2022 - The Quick Chip Receive",
+    "article_slug": "quick_chip_receive",
+    "source_url": "http://www.tabletenniscoaching.com/node/3409",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "flip",
+      "definition": "a type of receive",
+      "contexte": "receiving a serve and pushing it back with spin",
+      "source_url": "http://www.tabletenniscoaching.com/node/3409"
+    }
+  ],
+  "problemes_solutions": {
+    "quick_chip_receive": [
+      {
+        "probleme": "Opponent serves short backspin or no-spin to middle or backhand, and all you can do is push it back",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "probleme": "Take the serve right off the bounce and aim wide to the server's backhand"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Simple Quick Push",
+            "description": "Hit the serve with a slightly downward stroke, aiming for the wide backhand corner, and give it good backspin. Make sure to place it consistently.",
+            "difficulte": "intermediate",
+            "duree": "Not specified by source.",
+            "materiel": "table tennis racket"
+          }
+        ],
+        "metriques_progression": [
+          "Placement and consistency are more important than speed."
+        ],
+        "erreurs_a_eviter": [
+          {
+            "probleme": "Let the server's forehand attack get in play"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3409"
+      }
+    ]
+  }
+}

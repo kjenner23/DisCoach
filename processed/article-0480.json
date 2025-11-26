@@ -1,0 +1,56 @@
+{
+  "meta": {
+    "article_title": "January 20, 2014 - Playing Against the Seemiller or American Grip",
+    "article_slug": "playing-against-the-seemiller-or-american-grip",
+    "source_url": "http://www.tabletenniscoaching.com/node/1710",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "Seemiller grip",
+      "definition": "a variation of the shakehands grip with the top of the racket rotated to the left",
+      "contexte": "described as a grip that is sometimes called the American grip, but more commonly called the Seemiller grip",
+      "source_url": "http://www.tabletenniscoaching.com/node/1710"
+    }
+  ],
+  "problemes_solutions": {
+    "playing-against-the-seemiller-or-american-grip": [
+      {
+        "probleme": "Opponent with Seemiller grip",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "lack of strong backhand loop"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Play forehand from the backhand over and over to limit their counterloop options"
+          ],
+          "intermediaire": [
+            "Use deep serves and pushes to the backhand to limit their blocking and hitting options"
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Block and loop drill",
+            "description": "Practice blocking with the Seemiller grip, then immediately loop the ball back to limit their counterloop options.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "racket"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "target": "Loop and block",
+            "reps": 10,
+            "time": 30
+          }
+        ],
+        "erreurs_a_eviter": [
+          "Don't telegraph your serves",
+          "Keep the same motion for both short and long serves"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/1710"
+      }
+    ]
+  }
+}

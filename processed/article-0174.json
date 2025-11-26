@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "article_title": "June 22, 2020 - Do You Really Have Control of Your Shots?",
+    "article_slug": "do-you-really-have-control-of-your-shots",
+    "source_url": "http://www.tabletenniscoaching.com/node/3180",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "direction_depth_control": [
+      {
+        "probleme": "Lack of directional and depth control",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Limited feedback on shot direction and depth"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "description": "Practice target practice, bouncing or tossing the ball at a target",
+              "difficulte": "Beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Balls, towel (or paper)"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Target practice",
+            "description": "Hit or loop the ball at a target to develop directional control",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Balls, towel (or paper)"
+          },
+          {
+            "nom": "Depth control exercise",
+            "description": "Hit the towel or paper near a corner to develop depth control",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Balls, towel (or paper)"
+          },
+          {
+            "nom": "Rally exercise",
+            "description": "Hit the paper in a real rally to develop directional and depth control",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Balls, sheet of paper"
+          }
+        ],
+        "metriques_progression": [
+          [
+            "Directional control",
+            "Depth control"
+          ]
+        ],
+        "erreurs_a_eviter": [
+          {
+            "description": "Giving the opponent easy opportunities to make a good shot by not placing your shot directionally and depth-wise"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3180"
+      }
+    ]
+  }
+}

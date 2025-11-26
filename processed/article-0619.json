@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "article_title": "April 11, 2011 - The Value of Down the Line",
+    "article_slug": "the_value_of_down_the_line",
+    "source_url": "http://www.tabletenniscoaching.com/node/324",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "the_value_of_down_the_line": [
+      {
+        "probleme": "Hitting the ball back the way it's coming (crosscourt)",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "step": "Hit the ball back the way it's coming"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Forehand-to-backhand drill",
+            "description": "Use both sides of the table; hit forehand to backhand and backhand to forehand.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Racket, ball"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "reps": "15.5 more inches of table when hitting down the line"
+          }
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/324"
+      }
+    ]
+  }
+}

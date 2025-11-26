@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "article_title": "November 23, 2020 - The Forehand Down-the Line Block and Counterloop",
+    "article_slug": "forehand_down_line_block_counterloop",
+    "source_url": "http://www.tabletenniscoaching.com/node/3226",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "forehand_down_line_block_counterloop": [
+      {
+        "probleme": "Forehand loops returned crosscourt",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "playing it safe, going where there's more room"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "learn to drop wrist back for down-the-line block",
+            "practice blocking with someone looping down the line"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Forehand block and counterloop drills",
+            "description": "Practice blocking and counterlooping with someone down the line, focusing on wrist angle and ball contact.",
+            "difficulte": "intermediate",
+            "duree": "Not specified by source.",
+            "materiel": "bucket of balls"
+          }
+        ],
+        "metriques_progression": [
+          "target reps/time"
+        ],
+        "erreurs_a_eviter": [
+          "frozen by unexpected down-the-line returns"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3226"
+      }
+    ]
+  }
+}

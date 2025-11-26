@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "article_title": "September 10, 2012 - If You Can See It, You Can Loop It",
+    "article_slug": "if-you-can-see-it-you-can-loop-it",
+    "source_url": "http://www.tabletenniscoaching.com/node/1024",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "if-you-can-see-it-you-can-loop-it": [
+      {
+        "probleme": "Looping on both sides vs. one side",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Loss of hitter versus looper battles"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Assume you are going to loop it until proven otherwise"
+          ],
+          "intermediaire": [
+            "Set up to loop on both sides"
+          ],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Loop drills",
+            "description": "Practice looping from forehand and backhand sides with varying spin and pace",
+            "difficulte": "Intermediate",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Table tennis racket",
+              "Balls"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          "Time to react",
+          "Spin and pace control"
+        ],
+        "erreurs_a_eviter": [
+          "Not seeing the ball in time"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/1024"
+      }
+    ]
+  }
+}

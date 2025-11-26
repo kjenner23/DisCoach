@@ -1,0 +1,56 @@
+{
+  "meta": {
+    "article_title": "September 25, 2017 - Assume You Have to Move",
+    "article_slug": "assume_you_have_to_move",
+    "source_url": "http://www.tabletenniscoaching.com/node/2770",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "",
+      "definition": "",
+      "contexte": "",
+      "source_url": ""
+    }
+  ],
+  "problemes_solutions": {
+    "assume_you_have_to_move": [
+      {
+        "probleme": "Do I have to move?",
+        "diagnostic": "Yes, I have to move!",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "step": "I prepare to move."
+            },
+            {
+              "step": "The ball is coming toward me."
+            },
+            {
+              "step": "More advanced players go through this series of events: I prepare to move. Opponent begins forward swing. From forward swing I see where the ball is going. I move."
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Waiting for opponent's forward swing",
+            "description": "Get into habit of reacting to where opponent is hitting the ball as he begins his forward swing.",
+            "difficulte": "all levels",
+            "duree": "Not specified by source.",
+            "materiel": "generic names only"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "rep": "react to where opponent is hitting the ball as he begins his forward swing"
+          }
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/2770"
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "article_title": "How to Serve to the Backhand Attacking Receiver",
+    "article_slug": "serve-backhand-attacking-receiver",
+    "source_url": "http://www.tabletenniscoaching.com/node/2205",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "serve-backhand-attacking-receiver": [
+      {
+        "probleme": "Serving to a backhand attacking receiver",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "players thinking they are serving low but not actually getting enough spin"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "low and heavy backspin serves",
+              "description": "challenge the receiver with extremely low and heavy backspin serves, varying between no-spin and backspin serves"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "serving from the middle or forehand side of the table",
+            "description": "serve short to the forehand with a backhand sidespin type serve, then vary between serving short and long to the backhand using the same motion",
+            "difficulte": "intermediate",
+            "duree": "Not specified by source.",
+            "materiel": "racket"
+          }
+        ],
+        "metriques_progression": [
+          "maximize the number of mistakes the receiver will make"
+        ],
+        "erreurs_a_eviter": [
+          {
+            "nom": "accepting rallies with the receiver"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/2205"
+      }
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "article_title": "Lobbing",
+    "article_slug": "lobbing",
+    "source_url": "http://www.tabletenniscoaching.com/node/3429",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "lobbing": [
+      {
+        "probleme": "Lobbing",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Overusing the lob"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Basic Lob Drill",
+              "description": "Drive the ball mostly upward, dissipating the ball's speed by sending it upwards. Sink the ball into the sponge at an angle so you can spin it with both topspin and sidespin.",
+              "difficulte": "Beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Table tennis racket"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Counter-Loop Drill",
+            "description": "Practice counter-looping after a lob, using the spin and speed of the incoming ball to attack back.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket"
+          }
+        ],
+        "metriques_progression": [
+          "Return a certain number of lobs in a row"
+        ],
+        "erreurs_a_eviter": [
+          {
+            "nom": "Incorrect Lob Placement",
+            "description": "Don't lob to the same spot repeatedly, as this can make it easy for your opponent to anticipate and smash"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3429"
+      }
+    ]
+  }
+}

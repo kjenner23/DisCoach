@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "article_title": "December 13, 2021 - Attacking the Middle is Different and Often Better Than Attacking the Corners",
+    "article_slug": "attacking_middle",
+    "source_url": "http://www.tabletenniscoaching.com/node/3336",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "attacking_middle": [
+      {
+        "probleme": "Intermediate and advanced intermediate players under-use the middle attacking tactic",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "proposition": "Go more towards the forehand if they cover the middle with backhand, and vice versa"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Middle approach drills",
+            "description": "Concentrate on shots from the middle; don't guard against extreme angled returns",
+            "difficulte": "all levels",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket, balls"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "cible": "Fewer aggressive returns",
+            "repere": "Mistakes decreased due to indecision when the opponent decides which shot to use"
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "pitfall": "Don't get stuck in a corner; play the middle for an edge"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3336"
+      }
+    ]
+  }
+}

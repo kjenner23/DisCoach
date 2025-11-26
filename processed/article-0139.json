@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "article_title": "February 22, 2021 - Rote vs. Random Drills",
+    "article_slug": "rote-vs-random-drills",
+    "source_url": "http://www.tabletenniscoaching.com/node/3252",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "rote drill",
+      "definition": "",
+      "contexte": "A type of drill where you do the same repetitive movement over and over.",
+      "source_url": "http://www.tabletenniscoaching.com/node/3252"
+    }
+  ],
+  "problemes_solutions": {
+    "rote-vs-random-drills": [
+      {
+        "probleme": "Which type of drills to do?",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "probleme": "Developing specific techniques",
+              "solution": "Rote drills"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Forehand to forehand drill",
+            "description": "Do the same repetitive forehand movement over and over.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket"
+          },
+          {
+            "nom": "Side-to-side footwork drill",
+            "description": "Do the same repetitive side-to-side foot movement over and over.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "metric": "Countless variations, covering every aspect of the game",
+            "value": ""
+          }
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/3252"
+      }
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "article_title": "Telegraphing Serves",
+    "article_slug": "telegraphing_serves",
+    "source_url": "http://www.tabletenniscoaching.com/node/945",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "telegraphing_serves": [
+      {
+        "probleme": "Telegraphing Serves",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "description": "Set up each time as if you plan to serve the same serve, and only after you are set to serve do you 'change' your serving plan to what you really want to serve."
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Short Serve",
+            "description": "Start with racket slightly farther back and more closed than when serving short backspin.",
+            "difficulte": "Intermediate",
+            "duree": "Not specified by source.",
+            "materiel": "Table Tennis Racket"
+          },
+          {
+            "nom": "Long Serve",
+            "description": "High-toss serve with predictable spin and length.",
+            "difficulte": "Advanced",
+            "duree": "Not specified by source.",
+            "materiel": "Table Tennis Racket"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "target": "Subconsciously recognize different serves"
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "pitfall": "Telegraphing the serve with a slightly different motion for short and long serves"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/945"
+      }
+    ]
+  }
+}

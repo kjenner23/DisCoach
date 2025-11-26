@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "article_title": "April 5, 2021 - Reading Service Spin",
+    "article_slug": "reading-service-spin_snake_case",
+    "source_url": "http://www.tabletenniscoaching.com/node/3266",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "contact period",
+      "definition": "the split second of contact between the racket and the ball",
+      "contexte": "used to focus on the actual direction of the racket at contact",
+      "source_url": "http://www.tabletenniscoaching.com/node/3266"
+    }
+  ],
+  "problemes_solutions": {
+    "reading-service-spin_snake_case": [
+      {
+        "probleme": "Learning to read spin",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "proposition": "Focus on the contact period and imagine taking a mini-video of it"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Practicing against different serves",
+            "description": "Have a coach or player with good serves let you practice until you begin to be able to read the spin multiple ways",
+            "difficulte": "all levels",
+            "duree": "Not specified by source.",
+            "materiel": "generic (paddle, balls)"
+          }
+        ],
+        "metriques_progression": [
+          [
+            "Not specified by source."
+          ]
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/3266"
+      }
+    ]
+  }
+}

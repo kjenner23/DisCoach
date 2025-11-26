@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "article_title": "April 20, 2020 - Sometimes Challenge an Opponent's Strength",
+    "article_slug": "challenge_opponent_strength",
+    "source_url": "http://www.tabletenniscoaching.com/node/3159",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "challenge_opponent_strength": [
+      {
+        "probleme": "Opponent's strength is a challenge",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Player relies too much on their strong shot"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "step 1": "Identify the opponent's strong shot"
+            },
+            {
+              "step 2": "Attack the opponent's weaker side"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Loop to the opponent's backhand",
+            "description": "Slow, deep, spinny loop that is difficult for the blocker to quick-block.",
+            "difficulte": "Intermediate",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Table tennis ball"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          "Target 3-5 shots in a row without error"
+        ],
+        "erreurs_a_eviter": [
+          "Trying to force the opponent's strong shot"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3159"
+      }
+    ]
+  }
+}

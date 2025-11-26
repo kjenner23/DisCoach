@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "article_title": "October 27, 2014 - Defensive or Offensive Returns of Short Serves",
+    "article_slug": "short_serve_returns",
+    "source_url": "http://www.tabletenniscoaching.com/node/1959",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "short_serve_returns": [
+      {
+        "probleme": "Returning short serves",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "proposition": "Attack the serve, or at least be decisive about it"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Drive return",
+            "description": "Drive the ball back with topspin or sidespin",
+            "difficulte": "Intermediate",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket"
+          },
+          {
+            "nom": "Push return",
+            "description": "Push the ball back with little to no spin",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket"
+          }
+        ],
+        "metriques_progression": [
+          "Attack all short serves, unless you see backspin"
+        ],
+        "erreurs_a_eviter": [
+          {
+            "erreur": "Being indecisive and switching between attacking and pushing"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/1959"
+      }
+    ]
+  }
+}

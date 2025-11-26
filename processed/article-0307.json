@@ -1,0 +1,64 @@
+{
+  "meta": {
+    "article_title": "August 21, 2017 - Fourth-Ball Backhand Loop Attack",
+    "article_slug": "fourth_ball_backhand_loop_attack",
+    "source_url": "http://www.tabletenniscoaching.com/node/2740",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "Fourth-ball attack",
+      "definition": "Attack the fourth ball serve, receive, server's first shot, receiver's second shot",
+      "contexte": "When receiving against a backspin serve, it can be a good opportunity to set up this attack",
+      "source_url": "http://www.tabletenniscoaching.com/node/2740"
+    }
+  ],
+  "problemes_solutions": {
+    "fourth_ball_backhand_loop_attack": [
+      {
+        "probleme": "Fourth-ball backhand loop setup",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Aggressive push to the server's backhand",
+              "description": "Push the serve back right off the bounce, heavy, low, deep, and angled into the server's backhand.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "none"
+            },
+            {
+              "nom": "Short push to the server's backhand",
+              "description": "Push the serve back short, since the server is likely hanging back looking to attack a deep return.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "none"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Backhand loop practice against long pushes",
+            "description": "Practice attacking the push to the backhand until you can do it against any long push.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "none"
+          }
+        ],
+        "metriques_progression": [
+          "Not specified by source."
+        ],
+        "erreurs_a_eviter": [
+          {
+            "nom": "Attacking the opponent's middle or wide forehand instead of their backhand",
+            "description": "Make sure to place the backhand attack correctly."
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/2740"
+      }
+    ]
+  }
+}

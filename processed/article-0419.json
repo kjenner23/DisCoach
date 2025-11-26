@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "article_title": "April 13, 2015 - How Many Serving Motions Should You Have?",
+    "article_slug": "how-many-serving-motions-should-you-have",
+    "source_url": "http://www.tabletenniscoaching.com/node/2095",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "how-many-serving-motions-should-you-have": [
+      {
+        "probleme": "Serving Motion Limitation",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "opponent adjusts to serving motion"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "forehand pendulum",
+              "description": "",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "racket"
+            }
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "tomahawk serve",
+            "description": "throw in backhand or tomahawk serve after forehand pendulum",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "racket"
+          }
+        ],
+        "metriques_progression": [
+          "get comfortable using serves in games"
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/2095"
+      }
+    ]
+  }
+}

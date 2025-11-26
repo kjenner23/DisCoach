@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "article_title": "April 18, 2011 - Fifteen Important Deep Serves",
+    "article_slug": "fifteen-important-deep-serves",
+    "source_url": "http://www.tabletenniscoaching.com/node/294",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "fifteen-important-deep-serves": [
+      {
+        "probleme": "Deep Serve",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Incorrect spin",
+          "Lack of timing"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Practice with slow and deep serves"
+          ],
+          "intermediaire": [
+            "Vary the degree of spin"
+          ],
+          "avance": [
+            "Master multiple variations"
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Fast & Deep Serve",
+            "description": "Serve down the line to a righty's forehand by aiming to their backhand and switching directions the split second before contact.",
+            "difficulte": "intermediate",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis paddle"
+          }
+        ],
+        "metriques_progression": [
+          "Full speed"
+        ],
+        "erreurs_a_eviter": [
+          "Lack of practice",
+          "Incorrect spin"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/294"
+      }
+    ]
+  }
+}

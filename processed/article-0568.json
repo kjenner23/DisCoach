@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "article_title": "April 2, 2012 - Grip and Stance",
+    "article_slug": "grip-and-stance",
+    "source_url": "http://www.tabletenniscoaching.com/node/836",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "neutral grip",
+      "definition": "The thinnest part of the wrist lines up with the racket.",
+      "contexte": "For shakehand players, a neutral grip means the thinnest part of the wrist lines up with the racket.",
+      "source_url": "http://www.tabletenniscoaching.com/node/836"
+    }
+  ],
+  "problemes_solutions": {
+    "grip-and-stance": [
+      {
+        "probleme": "Bad grip or foot positioning",
+        "diagnostic": "Twists the entire body out of proper alignment, causing technique problems.",
+        "causes_communes": [
+          "Bad grip",
+          "Poor foot positioning"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Neutral grip and stance",
+              "description": "Use a neutral grip and proper stance during formative years, and usually well beyond that.",
+              "difficulte": "Beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Racket"
+            }
+          ],
+          "intermediaire": [
+            {
+              "nom": "Adjust grip to neutral stance",
+              "description": "Adjust the foot positioning and racket angle to a neutral position.",
+              "difficulte": "Intermediate",
+              "duree": "Not specified by source.",
+              "materiel": "Racket"
+            }
+          ],
+          "avance": [
+            {
+              "nom": "Fine-tune grip and stance",
+              "description": "Adjust the grip and foot positioning to optimize stroke technique.",
+              "difficulte": "Advanced",
+              "duree": "Not specified by source.",
+              "materiel": "Racket"
+            }
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Twist the paper drill",
+            "description": "Hold a piece of paper and twist the top or bottom to demonstrate the effects of bad grip or foot positioning.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Paper"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "target": "Proper stroke technique"
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "pitfall": "Forcing the arm or wrist to adjust for a bad grip, leading to awkward strokes and timing issues."
+          },
+          {
+            "pitfall": "Not recognizing the cause of technique problems and treating only the symptoms instead."
+          }
+        ]
+      }
+    ]
+  }
+}

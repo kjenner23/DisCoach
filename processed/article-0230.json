@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "article_title": "April 15, 2019 - The Lead Problem",
+    "article_slug": "the_lead_problem",
+    "source_url": "http://www.tabletenniscoaching.com/node/3058",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "the_lead_problem": [
+      {
+        "probleme": "Playing to not lose after winning a game",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Loss of focus",
+          "Changing mentality"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "step": "Blank out your mind and let yourself go"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Practice playing with a strong mentality",
+            "description": "Concentrate on the tactical thoughts that worked in the previous game and apply them to the next one.",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Table tennis equipment"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          {
+            "target": "Increase winning percentage"
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "erreur": "Letting up after winning a game"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3058"
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "article_title": "December 20, 2021 - If You Play to Not Lose, You Are Playing to Lose",
+    "article_slug": "play_your_game_snake_case",
+    "source_url": "http://www.tabletenniscoaching.com/node/3337",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "play_your_game_snake_case": [
+      {
+        "probleme": "Playing to not lose",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Abandoning one's game"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Play your game",
+            "Think tactically about what you need to do to win the next point"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Consistency drill",
+            "description": "Emphasize consistency without becoming passive, using your game as reference.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "A ball and a racket"
+          }
+        ],
+        "metriques_progression": [
+          "Not specified by source."
+        ],
+        "erreurs_a_eviter": [
+          "Abandoning one's game"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3337"
+      }
+    ]
+  }
+}

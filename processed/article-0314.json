@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "article_title": "June 19, 2017 - Importance of Routine",
+    "article_slug": "importance_of_routine",
+    "source_url": "http://www.tabletenniscoaching.com/node/2699",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "",
+      "definition": "",
+      "contexte": "",
+      "source_url": ""
+    }
+  ],
+  "problemes_solutions": {
+    "importance_of_routine": [
+      {
+        "probleme": "Importance of Routine",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "bounce ball twice on the table, stop, bounce two more times, stop, then prime to play",
+              "description": "Concise description of beginner routine with explicit cues.",
+              "difficulte": "beginner",
+              "duree": "",
+              "materiel": "ball"
+            }
+          ],
+          "intermediaire": [
+            {
+              "nom": "stretch out, holding ball just over middle line and come to a stop, focusing on serve",
+              "description": "Concise description of intermediate routine with explicit cues.",
+              "difficulte": "intermediate",
+              "duree": "",
+              "materiel": "ball"
+            }
+          ],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "give right sleeve a tug with left arm, then step to the table and drop playing arm and pull it back and then forward like pendulum",
+            "description": "Concise description of serving routine with explicit cues.",
+            "difficulte": "beginner",
+            "duree": "",
+            "materiel": ""
+          }
+        ],
+        "metriques_progression": [
+          [
+            "Not specified by source."
+          ]
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/2699"
+      }
+    ]
+  }
+}

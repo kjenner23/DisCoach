@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "article_title": "June 6, 2022 - What Are Your Strongest and Weakest Links?",
+    "article_slug": "strongest_and_weakest_links",
+    "source_url": "http://www.tabletenniscoaching.com/node/3383",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "strongest_and_weakest_links": [
+      {
+        "probleme": "Identifying strengths and weaknesses in table tennis",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "technique": "Watch a video of yourself playing and count how you win or lose points"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Self-analysis exercise",
+            "description": "Compile data on winning and losing points to identify strengths and weaknesses",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": "None"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "target": "Maximize winning ways and minimize losing ones"
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "pitfall": "Winging it without understanding strengths and weaknesses"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3383"
+      }
+    ]
+  }
+}

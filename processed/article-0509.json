@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "article_title": "June 10, 2013 - Staying Low",
+    "article_slug": "staying_low",
+    "source_url": "http://www.tabletenniscoaching.com/node/1531",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "staying_low": [
+      {
+        "probleme": "Standing up too straight",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "reaching for the ball instead of moving to it"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "lower stance",
+              "description": "feet relatively wide and pointing slightly outward, weight toward the front inside balls of their feet, knees bent, and leaning slightly forward from the waist"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "forehand drill",
+            "description": "start with a lower stance and focus on rotating your body while keeping your knees bent",
+            "difficulte": "all levels",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "table tennis racket",
+              "a bucket of balls"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          "quick recovery",
+          "powerful shots"
+        ],
+        "erreurs_a_eviter": [
+          "reaching for the ball instead of moving to it"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/1531"
+      }
+    ]
+  }
+}

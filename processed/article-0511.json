@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "article_title": "May 28, 2013 - What to Do at the End of a Close Game",
+    "article_slug": "close_game_end",
+    "source_url": "http://www.tabletenniscoaching.com/node/1516",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "close_game_end": [
+      {
+        "probleme": "Close games at the end of a match",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Lack of experience playing at higher levels"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "proposition": "Learn what serves work best for your game"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Tricky serve or spin",
+            "description": "Use deceptive serves or unexpected spins to win points",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket and balls"
+          },
+          {
+            "nom": "Forcing your game with serve and receive",
+            "description": "Use serves that set you up for your game, and receive to take control of a point",
+            "difficulte": "Intermediate",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket and balls"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "target": "Experience playing at higher levels"
+          },
+          {
+            "target": "Knowing what to do in close games"
+          }
+        ],
+        "erreurs_a_eviter": [
+          "Nervousness",
+          "Lack of confidence"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/1516"
+      }
+    ]
+  }
+}

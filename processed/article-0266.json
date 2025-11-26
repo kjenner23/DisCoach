@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "article_title": "July 9, 2018 - Pinpoint Your Weakness and Then Pinpoint a Drill",
+    "article_slug": "pinpoint-weakness-and-drill",
+    "source_url": "http://www.tabletenniscoaching.com/node/2976",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "slow_spinny_loops_against_backspin": [
+      {
+        "probleme": "Slow, spinny loops against backspin",
+        "diagnostic": "Consistently blocking them off the end, or too high, or counterlooping or smashing them erratically",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "description": "Practice slow, spinny loops against backspin with a coach or practice partner"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Rapid-fire practice",
+            "description": "Practice against slow, spinny loops as the partner reaches for the next ball to serve and loop with",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Box of balls"
+          }
+        ],
+        "metriques_progression": [
+          "Reps"
+        ],
+        "erreurs_a_eviter": [
+          {
+            "description": "Don't play out the point - practice against slow, spinny loops"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/2976"
+      }
+    ]
+  }
+}

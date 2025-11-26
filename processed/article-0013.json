@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "article_title": "August 14, 2023 - Shadow Replay",
+    "article_slug": "shadow_replay",
+    "source_url": "http://www.tabletenniscoaching.com/node/3493",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "shadow_replay": [
+      {
+        "probleme": "Mistakenly babying the ball or misreading spin after a missed shot",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "description": "Shadow practice the corrected stroke"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Corrected shot shadow practice",
+            "description": "Practice the corrected stroke immediately after a missed shot",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket, balls"
+          }
+        ],
+        "metriques_progression": [
+          "Not specified by source."
+        ],
+        "erreurs_a_eviter": [
+          {
+            "description": "Staring at the racket instead of correcting the mistake"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3493"
+      }
+    ]
+  }
+}

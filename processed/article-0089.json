@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "article_title": "February 28, 2022 - Be a Machine But Not Mechanical",
+    "article_slug": "be_a_machine_but_not_mechanical",
+    "source_url": "http://www.tabletenniscoaching.com/node/3357",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "machine-like proficiency",
+      "definition": "the ability to make even difficult shots with seeming ease and consistency",
+      "contexte": "used to describe the skills of top players",
+      "source_url": "http://www.tabletenniscoaching.com/node/3357"
+    }
+  ],
+  "problemes_solutions": {
+    "be_a_machine_but_not_mechanical": [
+      {
+        "probleme": "Developing both mechanical proficiency and consistency against variation",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "step": "Practice rote drills to develop mechanically perfect shots"
+            }
+          ],
+          "intermediaire": [
+            {
+              "step": "Add variation to drills and practice adjusting"
+            }
+          ],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Serve and attack drill",
+            "description": "Vary returns to practice adjusting to different shots",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": "None"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "target": "Practice against different players and styles"
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "pitfall": "Becoming too mechanical by playing the same players repeatedly"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3357"
+      }
+    ]
+  }
+}

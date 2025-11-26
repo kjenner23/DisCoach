@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "article_title": "November 2, 2020 - Backhand Chopping in an Emergency",
+    "article_slug": "backhand_chopping_in_an_emergency",
+    "source_url": "http://www.tabletenniscoaching.com/node/3219",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "chop",
+      "definition": "a shot where the ball is grazed with a mostly downward stroke",
+      "contexte": "used to rescue out of an impossible position when quick-hit from forehand side",
+      "source_url": "http://www.tabletenniscoaching.com/node/3219"
+    }
+  ],
+  "problemes_solutions": {
+    "backhand_chopping_in_an_emergency": [
+      {
+        "probleme": "Stuck out of position away from the table on forehand side, quick-hit to wide backhand",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "opponent's quick hit"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "probleme": "Let ball drop to table level or below",
+              "solution": "Contact ball more toward back with racket facing forward, graze ball with mostly downward stroke"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Chop drill",
+            "description": "Let the ball drop to table level or below; contact more toward back with racket facing forward, graze ball with mostly downward stroke",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "racket"
+          }
+        ],
+        "metriques_progression": [
+          "Let the ball float long after chopping"
+        ],
+        "erreurs_a_eviter": [
+          "Chopping too much under the ball, popping it up"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3219"
+      }
+    ]
+  }
+}

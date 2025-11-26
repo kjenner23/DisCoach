@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "article_title": "February 14, 2011 - What To Do With Problem Serves",
+    "article_slug": "what_to_do_with_problem_serves",
+    "source_url": "http://www.tabletenniscoaching.com/node/261",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "what_to_do_with_problem_serves": [
+      {
+        "probleme": "Problem Serves",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Deep serve",
+          "Short serve",
+          "No-spin serve",
+          "Angled serve"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Place the ball at a wide angle and deep"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Scare Tactic",
+            "description": "Attack the serve relatively hard one time to scare the server",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": "Racket and ball"
+          }
+        ],
+        "metriques_progression": [
+          "Not specified by source."
+        ],
+        "erreurs_a_eviter": [
+          "Popping the ball up",
+          "Hitting it wide",
+          "Making the same mistake"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/261"
+      }
+    ]
+  }
+}

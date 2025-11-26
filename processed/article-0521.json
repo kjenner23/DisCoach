@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "article_title": "March 18, 2013 - Dummy Loops",
+    "article_slug": "dummy_loops",
+    "source_url": "http://www.tabletenniscoaching.com/node/1396",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "dummy_loops": [
+      {
+        "probleme": "Dummy Loops",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "proposition": "Execute the shot with a full swing, with full enthusiasm, as if you were really going for your spinniest loop."
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Full motion dummy loop",
+            "description": "Exaggerate the rest of the stroke, especially the follow-through, to make it look like a normal loop.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Generic racket"
+          }
+        ],
+        "metriques_progression": [
+          "Not specified by source."
+        ],
+        "erreurs_a_eviter": [
+          {
+            "erreur": "Holding back on spin by holding back on the stroke itself"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/1396"
+      }
+    ]
+  }
+}

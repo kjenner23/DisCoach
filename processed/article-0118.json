@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "article_title": "July 19, 2021 - What Do You Do That Threatens Your Opponent?",
+    "article_slug": "threaten-opponent",
+    "source_url": "http://www.tabletenniscoaching.com/node/3300",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "threaten-opponent": [
+      {
+        "probleme": "Lack of threatening aspects in one's game",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "probleme": "Identify forehand as a potential threat",
+              "solution": "Spend time developing 1) forehand; 2) footwork for forehand; 3) serves that set up forehand; 4) receives that set up forehand; and 5) rally shots that set up forehand"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Forehand development",
+            "description": "Practice forehand, footwork for forehand, serves that set up forehand, receives that set up forehand, and rally shots that set up forehand",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis equipment"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "reps": "Spend a lot of time developing threatening aspects"
+          }
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/3300"
+      }
+    ]
+  }
+}

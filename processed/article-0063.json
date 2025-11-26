@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "article_title": "August 29, 2022 - Where to Serve Short?",
+    "article_slug": "where_to_serve_short",
+    "source_url": "http://www.tabletenniscoaching.com/node/3401",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "middle",
+      "definition": "the middle of the table",
+      "contexte": "referring to placement options for serving short",
+      "source_url": "http://www.tabletenniscoaching.com/node/3401"
+    }
+  ],
+  "problemes_solutions": {
+    "where_to_serve_short": [
+      {
+        "probleme": "Where to Serve Short?",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "short to the middle",
+              "description": "cuts off wide angles and forces receiver to choose between forehand and backhand receive",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "bucket of balls"
+            },
+            {
+              "nom": "short to the wide forehand",
+              "description": "forces receiver to do a tricky forehand receive and often results in a crosscourt return",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "bucket of balls"
+            },
+            {
+              "nom": "short to the middle forehand",
+              "description": "takes away some of the extreme crosscourt angle and makes it easier for receiver to get to the serve",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "bucket of balls"
+            },
+            {
+              "nom": "short to the wide backhand",
+              "description": "cuts off wide angle to forehand and sets up for attack with backhand",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "bucket of balls"
+            },
+            {
+              "nom": "short to the middle backhand",
+              "description": "similar to short to wide backhand but takes away some extreme crosscourt angle",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "bucket of balls"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "short serves to middle and wide corners",
+            "description": "practice serves to different corners to develop precision and control",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "bucket of balls"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "nom": "repetitions",
+            "description": "practice each serve option multiple times to develop muscle memory and accuracy",
+            "target": "5-10 reps per serve option"
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "nom": "leaving the ball too long in front of you",
+            "description": "make sure to stay close to the table and be prepared to attack or defend"
+          },
+          {
+            "nom": "not adjusting for different receiver styles",
+            "description": "practice against different receivers and adjust your serve accordingly"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3401"
+      }
+    ]
+  }
+}

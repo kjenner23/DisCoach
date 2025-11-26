@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "article_title": "October 15, 2018 - Style Experimentation",
+    "article_slug": "style_experimentation",
+    "source_url": "http://www.tabletenniscoaching.com/node/3005",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "style_experimentation": [
+      {
+        "probleme": "Lack of understanding other styles",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Lack of experimentation"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Experiment and learn from results",
+            "Play other styles to learn tactically"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Looper-blocker match",
+            "description": "Play as a blocker and then as a looper, experimenting with different techniques.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis equipment"
+          }
+        ],
+        "metriques_progression": [
+          "Target specific areas of improvement"
+        ],
+        "erreurs_a_eviter": [
+          "Don't get discouraged by initial failures"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3005"
+      }
+    ]
+  }
+}

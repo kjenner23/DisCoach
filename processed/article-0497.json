@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "article_title": "September 16, 2013 - Real Tactics Versus Parroting Tactics",
+    "article_slug": "real-tactics-versus-parroting-tactics",
+    "source_url": "http://www.tabletenniscoaching.com/node/1613",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "real-tactics-versus-parroting-tactics": [
+      {
+        "probleme": "Player's inability to develop higher-level tactical skills",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Using 'Parroting Tactics'"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Serve and receive every ball to the opponent's weak forehand",
+              "description": "Relentlessly go to the opponent's forehand side until they win two points in a row.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Table tennis equipment"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Mixing shots to the backhand side",
+            "description": "If the opponent camps out on the forehand side, go to their backhand side.",
+            "difficulte": "intermediate",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis equipment"
+          }
+        ],
+        "metriques_progression": [
+          "Not specified by source."
+        ],
+        "erreurs_a_eviter": [
+          {
+            "erreur": "Continuously serving to the opponent's strong forehand",
+            "description": "This allows the opponent to control the backhand diagonal."
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/1613"
+      }
+    ]
+  }
+}

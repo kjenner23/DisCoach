@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "article_title": "March 21, 2016 - Visualize Your Serves and Make Them Do Tricks",
+    "article_slug": "visualize_your_serves_and_make_them_do_tricks",
+    "source_url": "http://www.tabletenniscoaching.com/node/2364",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "visualize_your_serves_and_make_them_do_tricks": [
+      {
+        "probleme": "Mastering serve control",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Lack of visualization during serving"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "step": "Visualize the contact, direction, speed, spin, height, depth, bounces, and curve of the ball before serving",
+              "technique": "Practice serves with backspin where you graze the ball so finely that all your energy goes into backspin"
+            }
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Backspin serve to the net",
+            "description": "Serve with backspin where the ball bounces backward into the net, visualizing its actual path in advance.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis table"
+          },
+          {
+            "nom": "Sidespin serve to a target",
+            "description": "Serve with sidespin, curving the ball into a target, visualizing its entire path in advance.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis table"
+          }
+        ],
+        "metriques_progression": [
+          "Number of serves with controlled spin"
+        ],
+        "erreurs_a_eviter": [
+          "Serving too low on the net"
+        ]
+      }
+    ]
+  }
+}

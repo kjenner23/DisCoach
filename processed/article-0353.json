@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "article_title": "September 12, 2016 - The More Two Players Drill Together the Better They Drill Together",
+    "article_slug": "two_players_drill_together",
+    "source_url": "http://www.tabletenniscoaching.com/node/2489",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "multiball training",
+      "definition": "",
+      "contexte": "type of training that makes up about 1/3 of the training of world-class players",
+      "source_url": "http://www.tabletenniscoaching.com/node/2489"
+    }
+  ],
+  "problemes_solutions": {
+    "two_players_drill_together": [
+      {
+        "probleme": "",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "drilling with a good partner",
+              "description": "Take turns with the drills and develop your foundation",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "box of balls"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "multiball training",
+            "description": "Do some multiball training to develop your game",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "box of balls"
+          }
+        ],
+        "metriques_progression": [
+          "1/3 of the training of world-class players"
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/2489"
+      }
+    ]
+  }
+}

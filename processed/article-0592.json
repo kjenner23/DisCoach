@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "article_title": "October 16, 2011 - You must attack those steady deep backspin serve returns",
+    "article_slug": "attack_steady_deep_backspin_returns",
+    "source_url": "http://www.tabletenniscoaching.com/node/634",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "attack_steady_deep_backspin_returns": [
+      {
+        "probleme": "Slow, predictable backspin returns off the serve",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Opponents pushing back deep any backspin serves"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Start rallies with a serve and loop, forehand or backhand",
+            "Get good spin, loop the ball deep on the table, and vary placement to wide backhand, wide forehand, and opponent's elbow"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Serve short to the middle",
+            "description": "Cut off extreme angles; makes it difficult for receiver to attack serve",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "rep": "Serve and loop",
+            "time": "Not specified by source."
+          }
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/634"
+      }
+    ]
+  }
+}

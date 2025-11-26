@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "article_title": "July 27, 2020 - When Playing an Unfamiliar Player, Focus on Serve & Receive",
+    "article_slug": "when-playing-an-unfamiliar-player-focus-on-serve-receive",
+    "source_url": "http://www.tabletenniscoaching.com/node/3190",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "when-playing-an-unfamiliar-player-focus-on-serve-receive": [
+      {
+        "probleme": "Playing an Unfamiliar Player",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "proposition": "Use serve & receive force rallies to go the way you want them to go, and make your opponent adjust to you."
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Fast & deep serves",
+            "description": "Force many mistakes; often returned softly.",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": "Generic balls"
+          },
+          {
+            "nom": "Short & low serves",
+            "description": "Set up for a first attack, often a loop.",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": "Generic balls"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "target": "Forcing opponent to adjust"
+          }
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/3190"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "article_title": "July 20, 2020 - The Importance of Lobbing",
+    "article_slug": "lobbing_importance",
+    "source_url": "http://www.tabletenniscoaching.com/node/3188",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "lobbing_importance": [
+      {
+        "probleme": "Lobbing importance",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            "Develop mobility and footwork"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Lob drills",
+            "description": "Practice reacting to hard-hit shots and developing off-the-table play.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Table tennis balls"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          "Reps/time"
+        ],
+        "erreurs_a_eviter": [
+          "Overdoing it and making a habit of backing off the table too easily"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3188"
+      }
+    ]
+  }
+}

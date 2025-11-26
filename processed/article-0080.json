@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "article_title": "May 2, 2022 - Don't 'Go For a Shot' or 'Play Safe' - Just Do the Right Shot",
+    "article_slug": "dont-go-for-a-shot-or-play-safe-just-do-the-right-shot",
+    "source_url": "http://www.tabletenniscoaching.com/node/3374",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "dont-go-for-a-shot-or-play-safe-just-do-the-right-shot": [
+      {
+        "probleme": "Incorrect shot selection",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Nervousness",
+          "Lack of tactical thinking"
+        ],
+        "solutions_progressives": {
+          "debutant": [],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Shot selection drills",
+            "description": "Practice identifying the right shot in different situations.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis equipment"
+          }
+        ],
+        "metriques_progression": [
+          "Attack/defense ratio",
+          "Shot selection accuracy"
+        ],
+        "erreurs_a_eviter": [
+          "Getting nervous under pressure",
+          "Misjudging the situation"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3374"
+      }
+    ]
+  }
+}

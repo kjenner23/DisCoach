@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "article_title": "August 28, 2023 - Nine Battles",
+    "article_slug": "nine_battles",
+    "source_url": "http://www.tabletenniscoaching.com/node/3497",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "nine_battles": [
+      {
+        "probleme": "Nine Battles",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Preparation",
+              "description": "Get a good warm-up and be relaxed going into the match.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "None"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Good Warm-up",
+            "description": "Get a good warm-up to prepare for the match.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "None"
+          },
+          {
+            "nom": "Use Equipment that Matches the Way You Want to Play",
+            "description": "Make sure you are using proper equipment for your level and style.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Proper equipment"
+          },
+          {
+            "nom": "Three Types of Receive Skills",
+            "description": "Develop receives that control the opponent, while making few mistakes and stopping him from making strong attacks.",
+            "difficulte": "intermediate",
+            "duree": "Not specified by source.",
+            "materiel": "None"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "nom": "Serves",
+            "description": "Develop serves that dominate, either by forcing mistakes or returns you can attack effectively.",
+            "difficulte": "all levels",
+            "duree": "Not specified by source.",
+            "materiel": "None"
+          },
+          {
+            "nom": "Receives",
+            "description": "Develop receives that control the opponent, while making few mistakes and stopping him from making strong attacks.",
+            "difficulte": "all levels",
+            "duree": "Not specified by source.",
+            "materiel": "None"
+          }
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/3497"
+      }
+    ]
+  }
+}

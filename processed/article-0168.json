@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "article_title": "How to Vary Your Receive Against Short Backspin Serves",
+    "article_slug": "receive_against_short_backspin_serves",
+    "source_url": "http://www.tabletenniscoaching.com/node/3192",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "receive_against_short_backspin_serves": [
+      {
+        "probleme": "Returning short backspin serves with no variation",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Topspin flip to wide forehand"
+            },
+            {
+              "description": "Concise, with explicit cues; no links; no brand names; semicolons OK",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "bucket of balls"
+            }
+          ],
+          "intermediaire": [
+            {
+              "nom": "Flatter flip to wide forehand"
+            },
+            {
+              "description": "Concise, with explicit cues; no links; no brand names; semicolons OK",
+              "difficulte": "intermediate",
+              "duree": "Not specified by source.",
+              "materiel": "bucket of balls"
+            }
+          ],
+          "avance": [
+            {
+              "nom": "Sidespin push to wide forehand (breaking away from opponent)"
+            },
+            {
+              "description": "Concise, with explicit cues; no links; no brand names; semicolons OK",
+              "difficulte": "advanced",
+              "duree": "Not specified by source.",
+              "materiel": "bucket of balls"
+            }
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Topspin flip to wide forehand"
+          },
+          {
+            "description": "Concise, with explicit cues; no links; no brand names; semicolons OK",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "bucket of balls"
+          }
+        ],
+        "metriques_progression": [
+          "Reps/time targets"
+        ],
+        "erreurs_a_eviter": [
+          {
+            "nom": "Returning short backspin serves with no variation"
+          },
+          {
+            "description": "Concise, with explicit cues; no links; no brand names; semicolons OK",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "bucket of balls"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3192"
+      }
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "meta": {
+    "article_title": "October 1, 2012 - Short Serves to the Forehand from Backhand Side",
+    "article_slug": "short_serves_forehand_from_backhand",
+    "source_url": "http://www.tabletenniscoaching.com/node/1083",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "short_serves_forehand_from_backhand": [
+      {
+        "probleme": "Underutilized serves to forehand from backhand side",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Crosscourt serve too predictable"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Serve short to forehand, try forehand pendulum and reverse pendulum serves",
+            "Try forehand tomahawk serve"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Forehand pendulum serve",
+            "description": "Serve with racket tip down, go right to left (for a righty).",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Bucket of balls"
+            ]
+          },
+          {
+            "nom": "Reverse pendulum serve",
+            "description": "Serve with racket tip down, go left to right (for a righty).",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Bucket of balls"
+            ]
+          },
+          {
+            "nom": "Forehand tomahawk serve",
+            "description": "Serve with racket tip up, go left to right (for a righty).",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Bucket of balls"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          "Target for deep serves: receiver's backhand"
+        ],
+        "erreurs_a_eviter": [
+          "Serves too predictable, long serves to forehand"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/1083"
+      }
+    ]
+  }
+}

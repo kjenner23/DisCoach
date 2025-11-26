@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "article_title": "May 29, 2017 - Contact Point on Racket When Serving",
+    "article_slug": "contact_point_on_racket_when_serving",
+    "source_url": "http://www.tabletenniscoaching.com/node/2684",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "tip",
+      "definition": "the fastest moving part of the racket when serving",
+      "contexte": "when varying spin on serve",
+      "source_url": "http://www.tabletenniscoaching.com/node/2684"
+    }
+  ],
+  "problemes_solutions": {
+    "contact_point_on_racket_when_serving": [
+      {
+        "probleme": "Varying Spin",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Tip contact for maximum spin",
+              "description": "Contact the ball near the tip of the racket to maximize spin on serve.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "racket, balls"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Tip contact for varying spin",
+            "description": "Contact the ball near the throat or tip of the racket to vary spin on serve.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "racket, balls"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "target": "spin",
+            "reps": "multiple serves with varying spin"
+          }
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/2684"
+      }
+    ]
+  }
+}

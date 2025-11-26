@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "article_title": "January 23, 2012 - Forcing an Opponent Out of Position",
+    "article_slug": "forcing-an-opponent-out-of-position",
+    "source_url": "http://www.tabletenniscoaching.com/node/743",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "forcing-an-opponent-out-of-position": [
+      {
+        "probleme": "Forcing an opponent out of position",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "probleme": "Playing one ball wide to forehand or backhand",
+              "solution": "Move the opponent side to side"
+            },
+            {
+              "probleme": "Playing aggressively in the middle",
+              "solution": "Go to the opponent's middle (playing elbow)"
+            }
+          ],
+          "intermediaire": [
+            {
+              "probleme": "Short to forehand, deep to backhand",
+              "solution": "Serve or drop a ball short to forehand"
+            },
+            {
+              "probleme": "Short to backhand, deep to forehand",
+              "solution": "Serve or drop a ball short to backhand"
+            }
+          ],
+          "avance": [
+            {
+              "probleme": "Deep to backhand against a forehand player",
+              "solution": "Play the ball deep to backhand over and over"
+            }
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Corners",
+            "description": "Playing one ball wide to either the forehand or backhand.",
+            "difficulte": "debutant",
+            "duree": "Not specified by source.",
+            "materiel": "balls"
+          },
+          {
+            "nom": "Middle",
+            "description": "Going to the opponent's middle (playing elbow).",
+            "difficulte": "debutant",
+            "duree": "Not specified by source.",
+            "materiel": "balls"
+          },
+          {
+            "nom": "Short to forehand, deep to backhand",
+            "description": "Serving or dropping a ball short to the forehand and then playing deep to the backhand.",
+            "difficulte": "intermediaire",
+            "duree": "Not specified by source.",
+            "materiel": "balls"
+          },
+          {
+            "nom": "Short to backhand, deep to forehand",
+            "description": "Serving or dropping a ball short to the backhand and then playing deep to the forehand.",
+            "difficulte": "intermediaire",
+            "duree": "Not specified by source.",
+            "materiel": "balls"
+          },
+          {
+            "nom": "Deep to backhand against a forehand player",
+            "description": "Playing the ball deep to the backhand over and over, often by pushing, until the opponent steps around to attack with their forehand.",
+            "difficulte": "avance",
+            "duree": "Not specified by source.",
+            "materiel": "balls"
+          }
+        ],
+        "metriques_progression": [
+          "Not specified by source."
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/743"
+      }
+    ]
+  }
+}

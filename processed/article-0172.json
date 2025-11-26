@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "article_title": "July 6, 2020 - Side-to-Side Training for Improvement and Health",
+    "article_slug": "side_to_side_training",
+    "source_url": "http://www.tabletenniscoaching.com/node/3184",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "side_to_side_training": [
+      {
+        "probleme": "Side-to-side footwork drills",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Basic side-to-side movement",
+              "description": "Practice moving side to side, covering both corners, forehands and backhands alternately over each.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "None"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Three-shot 2-1 drill sequence",
+            "description": "Do a backhand from the backhand side; a forehand from the backhand side; a forehand from the forehand side, and repeat.",
+            "difficulte": "all levels",
+            "duree": "Not specified by source.",
+            "materiel": "None"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "nom": "1056 five-foot moves to a mile",
+            "description": "Count the number of side-to-side movements to measure progress."
+          }
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/3184"
+      }
+    ]
+  }
+}

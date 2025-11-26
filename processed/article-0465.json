@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "article_title": "May 5, 2014 - Returning Smashes and Loop Kills",
+    "article_slug": "returning_smashes_and_loop_kills",
+    "source_url": "http://www.tabletenniscoaching.com/node/1809",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "returning_smashes_and_loop_kills": [
+      {
+        "probleme": "Returning put-away shots",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Off-balance and rushed opponent"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "probleme": "Keep previous shot deep on the table",
+              "description": "Step off the table to give yourself time to react",
+              "difficulte": "Beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Racket"
+            }
+          ],
+          "intermediaire": [
+            {
+              "probleme": "Watch opponent's shoulders, forward swing, and position",
+              "description": "Read the direction of a put-away shot before your opponent hits the ball",
+              "difficulte": "Intermediate",
+              "duree": "Not specified by source.",
+              "materiel": "Racket"
+            }
+          ],
+          "avance": [
+            {
+              "probleme": "Step to the ball, and reach only when necessary",
+              "description": "Many players believe they just don't have time to step to the ball, but that's because they have developed the habit of reaching instead of stepping.",
+              "difficulte": "Advanced",
+              "duree": "Not specified by source.",
+              "materiel": "Racket"
+            }
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Step and reach drills",
+            "description": "Practice stepping to the ball and reaching only when necessary",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Racket"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "target": "Placement and depth of returned shots",
+            "reps": "Practice returning put-away shots with focus on placement and depth",
+            "time": "Not specified by source."
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "erreur": "Reaching for the ball instead of stepping"
+          }
+        ]
+      }
+    ]
+  }
+}

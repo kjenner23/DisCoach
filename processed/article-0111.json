@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "article_title": "September 6, 2021 - Use Your Strengths, But Test Your Opponent",
+    "article_slug": "use_your_strengths_but_test_your_opponent",
+    "source_url": "http://www.tabletenniscoaching.com/node/3315",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "use_your_strengths_but_test_your_opponent": [
+      {
+        "probleme": "Don't get too comfortable with your own strengths",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Not knowing your opponent's weaknesses"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Start by serving long and short with different speeds and spins"
+          ],
+          "intermediaire": [
+            "Test their forehand, backhand, and middle; attack at different speeds"
+          ],
+          "avance": [
+            "Try various types of pushes"
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Serve long & short with different speeds and spins",
+            "description": "Start by serving long and short with different speeds and spins to test the opponent's backhand, forehand, and middle.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Tennis balls"
+          }
+        ],
+        "metriques_progression": [
+          "Don't risk not knowing your opponent's weaknesses"
+        ],
+        "erreurs_a_eviter": [
+          "Don't get too comfortable with your own strengths"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3315"
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "article_title": "December 15, 2014 - Backhand Footwork",
+    "article_slug": "backhand_footwork",
+    "source_url": "http://www.tabletenniscoaching.com/node/2002",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "backhand_footwork": [
+      {
+        "probleme": "Players often neglect backhand footwork drills",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Coaches and players focus on forehand development",
+          "Many forehand footwork drills incorporate backhands, but only cover moving from the forehand side to the backhand side",
+          "Intermediate players are developing their forehand and backhand topspin shots separately",
+          "Players have developed a solid topspin backhand and don't see the need for backhand footwork drills"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Learn to move side to side as well as in and out",
+            "Practice backhands with your coach or partner attacking randomly to your backhand"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Random backhand footwork drills",
+            "description": "Play aggressive backhands and learn to topspin from off the table.",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis balls"
+          }
+        ],
+        "metriques_progression": [
+          "Learn to topspin both side-to-side and in-and-out backhand footwork"
+        ],
+        "erreurs_a_eviter": [
+          "Weak and erratic backhands",
+          "Wild swats"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/2002"
+      }
+    ]
+  }
+}

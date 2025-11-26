@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "article_title": "October 14, 2019 - React to Opponent's Forward Swing",
+    "article_slug": "react_to_opponents_forward_swing",
+    "source_url": "http://www.tabletenniscoaching.com/node/3111",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "react_to_opponents_forward_swing": [
+      {
+        "probleme": "Reacting too late to opponent's forward swing",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "last-second changes of direction"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Constantly watch opponents and try to react to where they are going from their forward swing"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Practice reacting to opponent's forward swing",
+            "description": "Watch opponents and try to react before they hit the ball; learn to commit to a direction",
+            "difficulte": "all levels",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "a table tennis racket"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          "Learn to figure out when opponent is committed to a direction and react reflexively"
+        ],
+        "erreurs_a_eviter": [
+          "Don't wait until the opponent hits the ball before reacting; learn to read opponents' forward swing"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3111"
+      }
+    ]
+  }
+}

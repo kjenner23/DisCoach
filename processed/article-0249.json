@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "article_title": "November 19, 2018 - Forehand Stroke Efficiency",
+    "article_slug": "forehand_stroke_efficiency",
+    "source_url": "http://www.tabletenniscoaching.com/node/3015",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "forehand_stroke_efficiency": [
+      {
+        "probleme": "Slow and inefficient forehand stroke",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Extending the arm on the backswing"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Keep the elbow relatively in on the backswing",
+            "Extend the arm only when nearly completing the backswing"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Forehand stroke practice",
+            "description": "Practice keeping the elbow relatively in on the backswing and extending it only when nearly completing the backswing. Focus on efficiency and speed.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket"
+          }
+        ],
+        "metriques_progression": [
+          "Time between shots"
+        ],
+        "erreurs_a_eviter": [
+          "Extending the arm too early on the backswing"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3015"
+      }
+    ]
+  }
+}

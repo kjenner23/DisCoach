@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "article_title": "February 6, 2012 - Sidespin Loops",
+    "article_slug": "sidespin_loops",
+    "source_url": "http://www.tabletenniscoaching.com/node/768",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "sidespin_loops": [
+      {
+        "probleme": "Sidespin Loops",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "basic hooking loop",
+              "description": "contact the ball on the far side, dropping the wrist so that the racket tip slightly down; generally easier from wide forehand",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "racket"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "basic sidespin loop",
+            "description": "drop wrist to hook the ball on far side with 15% sidespin; from wide forehand or anywhere",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "racket"
+          }
+        ],
+        "metriques_progression": [
+          "target: around 15% sidespin"
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/768"
+      }
+    ]
+  }
+}

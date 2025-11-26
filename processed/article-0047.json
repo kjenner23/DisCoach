@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "article_title": "Dec. 19, 2022 - Clear the Mind",
+    "article_slug": "clear-the-mind_",
+    "source_url": "http://www.tabletenniscoaching.com/node/3433",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "clear-the-mind_": [
+      {
+        "probleme": "Cluttered Mind",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "description": "Relax for 10-30 seconds before playing. Repeat during towel breaks or timeouts."
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Light Exercise",
+            "description": "Jump up and down lightly or shuffle side to side for a short time before playing.",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": []
+          }
+        ],
+        "metriques_progression": [
+          {
+            "description": "Take 5-10 seconds to clear your mind before each point."
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "description": "Don't get too psyched up or you'll go into the match tired."
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3433"
+      }
+    ]
+  }
+}

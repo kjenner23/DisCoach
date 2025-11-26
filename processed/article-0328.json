@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "article_title": "Warm Up the Shots You'll Be Using",
+    "article_slug": "warm-up-shots-you-ll-be-using",
+    "source_url": "http://www.tabletenniscoaching.com/node/2619",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "warm-up-shots-you-ll-be-using": [
+      {
+        "probleme": "Warming up the wrong shots",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Warming up with forehand to forehand and backhand to backhand"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Serve warm-up",
+              "description": "Warm up serves systematically.",
+              "difficulte": "Beginner",
+              "duree": "Not specified by source."
+            },
+            {
+              "nom": "Receive practice",
+              "description": "Practice receive with common serves.",
+              "difficulte": "Beginner",
+              "duree": "Not specified by source."
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Serve and loop drills",
+            "description": "Serve backspin, partner pushes, you loop. Then reverse roles.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Table tennis racket"
+            ]
+          },
+          {
+            "nom": "Block against an opening loop",
+            "description": "Warm up block against a push, then against backspin.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Table tennis racket"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          {
+            "reps": "Play out points"
+          }
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/2619"
+      }
+    ]
+  }
+}

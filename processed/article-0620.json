@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "article_title": "April 4, 2011 - What is the Goal of the Receiver?",
+    "article_slug": "what-is-the-goal-of-the-receiver",
+    "source_url": "http://www.tabletenniscoaching.com/node/272",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "what-is-the-goal-of-the-receiver": [
+      {
+        "probleme": "What is the Goal of the Receiver?",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Aggressive receive",
+              "description": "Play aggressive, take the initiative, and try to dominate the point.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "generic"
+            },
+            {
+              "nom": "Controlled receive",
+              "description": "Force the opponent into a mistake or a weak attack, or catch them so off guard they can't attack at all.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "generic"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Short serve with topspin",
+            "description": "Play aggressively and take the initiative. Examples include a short serve that pops up slightly, a serve that goes long that the receiver is ready for (and should usually loop), and serves where the receiver reads the serve well early on and is comfortable attacking.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "generic"
+          },
+          {
+            "nom": "Long serve with backspin",
+            "description": "Loop most short serves that don't have backspin. Constantly vary your receive so your opponent never knows what you're going to do next.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "generic"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "rep": "Master the controlled receive",
+            "target": "Take the initiative and put pressure on the server"
+          }
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/272"
+      }
+    ]
+  }
+}

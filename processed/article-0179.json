@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "article_title": "May 18, 2020 - Mind Games: The Good, The Bad, and The Ugly",
+    "article_slug": "mind-games-the-good-the-bad-and-the-ugly",
+    "source_url": "http://www.tabletenniscoaching.com/node/3169",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "mind-games-the-good-the-bad-and-the-ugly": [
+      {
+        "probleme": "Bad or ugly mind games",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Showing up late on purpose",
+          "Talking to your opponent",
+          "Stalling"
+        ],
+        "solutions_progressives": {
+          "debutant": [],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Attack an opponent's serve",
+            "description": "Attack the serve to make the opponent hesitant to use it again.",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Table tennis racket"
+            ]
+          },
+          {
+            "nom": "Intentionally struggle with a chopper",
+            "description": "Intentionally struggle to lift the chops and act frustrated, keeping it close until the end of each game.",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Table tennis racket"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          []
+        ],
+        "erreurs_a_eviter": [
+          {
+            "nom": "Showing up late on purpose",
+            "description": "Don't let an opponent's tardiness bother you."
+          },
+          {
+            "nom": "Intentionally calling the score out wrong",
+            "description": "Correct your opponent if they call the score incorrectly."
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3169"
+      }
+    ]
+  }
+}

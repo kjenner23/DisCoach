@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "article_title": "December 23, 2016 - Racket Rotation Serve",
+    "article_slug": "racket-rotation-serve",
+    "source_url": "http://www.tabletenniscoaching.com/node/2552",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "racket_rotation_serve": [
+      {
+        "probleme": "Unpredictable spin in serves",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "description": "Use a semi-circular rotation of the racket to create different spins. Start with the standard forehand pendulum serve and adjust the motion as needed."
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Semi-circular serving motion",
+            "description": "Snap the wrist so that the tip is going down, but pull up slightly with the elbow to get spin from both elbow and wrist. Contact near the tip for backspin or near the handle for sidespin/topspin.",
+            "difficulte": "all levels",
+            "duree": "Not specified by source.",
+            "materiel": "Racket, balls"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "reps": 10,
+            "time": 30
+          }
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/2552"
+      }
+    ]
+  }
+}

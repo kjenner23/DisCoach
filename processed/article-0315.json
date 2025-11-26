@@ -1,0 +1,71 @@
+{
+  "meta": {
+    "article_title": "June 12 - Great Serves are the Best Way to Avoid Upsets and Compete with Strong Players",
+    "article_slug": "great-serves-are-the-best-way-to-avoid-upsets-and-compete-with-strong-players",
+    "source_url": "http://www.tabletenniscoaching.com/node/2695",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "great-serves-are-the-best-way-to-avoid-upsets-and-compete-with-strong-players": [
+      {
+        "probleme": "Developing great serves",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Third-ball serves with low backspin, sidespin, and no-spin",
+              "description": "Serve short to the middle with very low spin",
+              "difficulte": "All levels",
+              "duree": "Not specified by source.",
+              "materiel": "Table tennis racket"
+            }
+          ],
+          "intermediaire": [
+            {
+              "nom": "Reverse pendulum serves short to the forehand",
+              "description": "Serve with sidespin, breaking away from the opponent",
+              "difficulte": "Intermediate",
+              "duree": "Not specified by source.",
+              "materiel": "Table tennis racket"
+            },
+            {
+              "nom": "Side-top serves that look like backspin",
+              "description": "Serve with spin, but contact near the handle",
+              "difficulte": "Intermediate",
+              "duree": "Not specified by source.",
+              "materiel": "Table tennis racket"
+            }
+          ],
+          "avance": [
+            {
+              "nom": "Trick serves (fast no-spin at the elbow, big breaking sidespin serves to the wide backhand)",
+              "description": "Serve with different types of spin and speed",
+              "difficulte": "Advanced",
+              "duree": "Not specified by source.",
+              "materiel": "Table tennis racket"
+            }
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Serving practice game",
+            "description": "Serve and put away the ball without missing or popping it up",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "rep": 41,
+            "type": "years of experience"
+          }
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/2695"
+      }
+    ]
+  }
+}

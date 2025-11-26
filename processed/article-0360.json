@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "article_title": "June 20, 2016 - Always Have at Least Two Options",
+    "article_slug": "always-have-at-least-two-options",
+    "source_url": "http://www.tabletenniscoaching.com/node/2436",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "crosscourtitis": [
+      {
+        "probleme": "Limited options",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "predictability"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Learn to use down the line options"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Down the line drill",
+            "description": "Practice using forehand or backhand down the line",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Balls"
+          }
+        ],
+        "metriques_progression": [
+          "Targets: develop multiple options"
+        ],
+        "erreurs_a_eviter": [
+          "Picking the same option repeatedly"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/2436"
+      }
+    ]
+  }
+}

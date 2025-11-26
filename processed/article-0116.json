@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "article_title": "August 2, 2021 - Practice Service Spin � on a Rug!",
+    "article_slug": "practice_service_spin_on_a_rug",
+    "source_url": "http://www.tabletenniscoaching.com/node/3303",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "practice_service_spin_on_a_rug": [
+      {
+        "probleme": "Judging spin amount",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "proposition": "Practice serves on a rug, controlling the ball's movement with backspin and sidespin"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Spin control drill",
+            "description": "Skim the ball while accelerating the racket arm and wrist to generate huge amounts of spin, controlling the ball's movement on a rug; then try it on a table.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "racket, balls"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "cible": "Get huge amounts of spin and control on a rug; then try it on a table"
+          }
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/3303"
+      }
+    ]
+  }
+}

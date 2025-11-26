@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "article_title": "November 14, 2016 - How to Develop a Quicker Forehand",
+    "article_slug": "quicker_forehand",
+    "source_url": "http://www.tabletenniscoaching.com/node/2536",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "forehand_quicker": [
+      {
+        "probleme": "Sluggish forehands",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Partner blocks or strokes side to side",
+              "description": "Practice moving side to side smoothly, playing the forehand a little quicker than usual.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "partner"
+            }
+          ],
+          "intermediaire": [
+            {
+              "nom": "React with forehand or backhand",
+              "description": "Don't anticipate, just react to partner's racket and jump on each ball as you see where it's going to go.",
+              "difficulte": "intermediate",
+              "duree": "Not specified by source.",
+              "materiel": "partner"
+            }
+          ],
+          "avance": [
+            {
+              "nom": "Aggressive backhand to backhand",
+              "description": "Practice aggressive backhands with partner, then suddenly go to forehand and play out the point.",
+              "difficulte": "advanced",
+              "duree": "Not specified by source.",
+              "materiel": "partner"
+            }
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Forehand loops",
+            "description": "Loop quick off the bounce with forehand, focusing on smooth footwork and racket angle.",
+            "difficulte": "intermediate",
+            "duree": "Not specified by source.",
+            "materiel": "table tennis balls"
+          }
+        ],
+        "metriques_progression": [
+          "Reps/time",
+          "Not specified by source."
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/2536"
+      }
+    ]
+  }
+}

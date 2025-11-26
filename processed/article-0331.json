@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "article_title": "February 20, 2017 - Hitting Accurate Shots",
+    "article_slug": "hitting-accurate-shots",
+    "source_url": "http://www.tabletenniscoaching.com/node/2602",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "wide forehand",
+      "definition": "",
+      "contexte": "three places you want to place your shots - wide forehand, wide backhand, and the opponent's middle",
+      "source_url": "http://www.tabletenniscoaching.com/node/2602"
+    },
+    {
+      "terme": "wide backhand",
+      "definition": "",
+      "contexte": "three places you want to place your shots - wide forehand, wide backhand, and the opponent's middle",
+      "source_url": "http://www.tabletenniscoaching.com/node/2602"
+    },
+    {
+      "terme": "opponent's middle",
+      "definition": "",
+      "contexte": "the opponent's middle is a moving target; it becomes natural to find this moving target the more you play an opponent's middle",
+      "source_url": "http://www.tabletenniscoaching.com/node/2602"
+    }
+  ],
+  "problemes_solutions": {
+    "hitting-accurate-shots": [
+      {
+        "probleme": "Hitting Accurate Shots",
+        "diagnostic": "Players are often amazed at how accurate a top player can place his shots.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "practice relentlessly, aiming for the three spots",
+              "description": "",
+              "difficulte": "beginner",
+              "duree": "",
+              "materiel": []
+            }
+          ],
+          "intermediaire": [
+            {
+              "nom": "memorize the feel of holding the racket in each position",
+              "description": "",
+              "difficulte": "intermediate",
+              "duree": "",
+              "materiel": []
+            },
+            {
+              "nom": "learn to time the backswing so that the racket aims where you want it to go far enough before contact",
+              "description": "",
+              "difficulte": "intermediate",
+              "duree": "",
+              "materiel": []
+            }
+          ],
+          "avance": [
+            {
+              "nom": "develop a feel for changing the direction of the racket at the last second to throw opponents off",
+              "description": "",
+              "difficulte": "advanced",
+              "duree": "",
+              "materiel": []
+            }
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "backhand block drill",
+            "description": "aim the racket crosscourt, wide to the opponent's backhand, and keep holding it out there until you have memorized the feel of holding the racket in this position",
+            "difficulte": "beginner",
+            "duree": "",
+            "materiel": [
+              "racket"
+            ]
+          },
+          {
+            "nom": "forehand drill",
+            "description": "aim the racket down the line, and memorize the feel of holding the racket in this position",
+            "difficulte": "beginner",
+            "duree": "",
+            "materiel": [
+              "racket"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          {
+            "nom": "repetitive practice",
+            "description": "practice relentlessly, aiming for the three spots",
+            "difficulte": "beginner",
+            "duree": "",
+            "materiel": []
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "nom": "drifting shots",
+            "description": "give your opponent a much easier shot, where he doesn't even have to move much"
+          }
+        ]
+      }
+    ]
+  }
+}

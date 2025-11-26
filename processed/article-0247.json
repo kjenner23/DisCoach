@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "article_title": "December 3, 2018 - Style Disadvantage or Tactical Problem?",
+    "article_slug": "style_disadvantage_or_tactical_problem",
+    "source_url": "http://www.tabletenniscoaching.com/node/3019",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "style disadvantage",
+      "definition": "",
+      "contexte": "A situation where a player's style of play is not well-suited to the current game.",
+      "source_url": "http://www.tabletenniscoaching.com/node/3019"
+    }
+  ],
+  "problemes_solutions": {
+    "style_disadvantage_or_tactical_problem": [
+      {
+        "probleme": "Style Disadvantage or Tactical Problem?",
+        "diagnostic": "Not getting to play a specific style often enough, or not developing simple techniques that beat a specific style.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            "Realize the problem exists",
+            "Deal with the problem"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "heavy no-spin serve",
+            "description": "Serving a low, short no-spin serve to counter an opponent's heavy push receive.",
+            "difficulte": "All levels",
+            "duree": "",
+            "materiel": "Table tennis racket"
+          }
+        ],
+        "metriques_progression": [
+          [
+            "Deal with the problem"
+          ]
+        ],
+        "erreurs_a_eviter": [
+          "Feeding an opponent by pushing long over and over",
+          "Using the same backspin serves over and over"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3019"
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "article_title": "April 8, 2013 - Covering and Recovering From the Middle",
+    "article_slug": "covering-and-recovering-from-the-middle",
+    "source_url": "http://www.tabletenniscoaching.com/node/1441",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "covering-and-recovering-from-the-middle": [
+      {
+        "probleme": "Covering middle shots and recovering for the next shot",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "rushed",
+          "close to the table"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "favor backhand if rushed or close to the table",
+            "favor forehand if off the table"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Middle shot drill",
+            "description": "Play a middle shot and rapidly get back into position to cover for the next shot.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "table tennis racket",
+              "balls"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          "Not specified by source."
+        ],
+        "erreurs_a_eviter": [
+          "leaving the wide forehand open after a backhand from the middle"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/1441"
+      }
+    ]
+  }
+}

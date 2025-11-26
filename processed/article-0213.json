@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "article_title": "September 2, 2019 - Relaxing the Arm",
+    "article_slug": "relaxing-the-arm_",
+    "source_url": "http://www.tabletenniscoaching.com/node/3096",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "rubber band",
+      "definition": "",
+      "contexte": "comparing arm relaxation to a rubber band",
+      "source_url": "http://www.tabletenniscoaching.com/node/3096"
+    }
+  ],
+  "problemes_solutions": {
+    "relaxing-the-arm_": [
+      {
+        "probleme": "Relaxation of the Arm",
+        "diagnostic": "Tight muscles in the playing arm cost power and control.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "step": "Take a long warm-up or shadow-stroke."
+            },
+            {
+              "step": "Relax both arms at the start of a point."
+            }
+          ],
+          "intermediaire": [
+            {
+              "step": "Tense the arm muscles tightly for about five seconds, then relax."
+            }
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Shadow-stroke",
+            "description": "Stroke without a ball to warm up and relax arms.",
+            "difficulte": "All levels",
+            "duree": "",
+            "materiel": "None"
+          }
+        ],
+        "metriques_progression": [
+          [
+            "Not specified by source."
+          ]
+        ],
+        "erreurs_a_eviter": [
+          {
+            "pitfall": "Resisting someone pulling your arm up or down while stroking, indicating tight muscles."
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3096"
+      }
+    ]
+  }
+}

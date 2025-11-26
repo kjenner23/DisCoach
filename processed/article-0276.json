@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "article_title": "April 9, 2018 - How to Return Nets and Edges",
+    "article_slug": "how_to_return_nets_and_edges",
+    "source_url": "http://www.tabletenniscoaching.com/node/2918",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "return_nets_and_edges": [
+      {
+        "probleme": "Returning nets and edges",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Stay ready to react",
+              "description": "Be in a ready position, always prepared to react to unexpected shots.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "generic"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Light on your feet training",
+            "description": "Train to be light on your feet, ready to react and move in any direction.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "generic"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "cible": "Control the ball deep on the table with topspin or backspin."
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "erreur": "Don't panic!"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/2918"
+      }
+    ]
+  }
+}

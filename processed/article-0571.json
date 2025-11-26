@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "article_title": "March 12, 2012 - Developing a Smash",
+    "article_slug": "developing-a-smash",
+    "source_url": "http://www.tabletenniscoaching.com/node/811",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "smashing": [
+      {
+        "probleme": "Developing a Good Smash",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Hard-Soft Drill",
+              "description": "Alternate hitting medium drive and then smash. Focus on technique with two drives.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "none"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Loop and Smash Drill",
+            "description": "Serve backspin, push to middle, loop to backhand, block to forehand, smash, then play out the point.",
+            "difficulte": "intermediate",
+            "duree": "Not specified by source.",
+            "materiel": "none"
+          }
+        ],
+        "metriques_progression": [
+          "Not specified by source."
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/811"
+      }
+    ]
+  }
+}

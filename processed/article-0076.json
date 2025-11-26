@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "article_title": "May 30, 2022 - Practice Matches vs. Tournaments",
+    "article_slug": "practice_matches_vs_tournaments",
+    "source_url": "http://www.tabletenniscoaching.com/node/3381",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "practice_matches_vs_tournaments": [
+      {
+        "probleme": "Improving counterlooping skills",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "avoiding counterlooping in practice matches"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "play practice matches with a focus on developing counterlooping skills"
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Counterlooping drills",
+            "description": "Practice counterlooping techniques in a match-like scenario.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis equipment"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "target": "Improved counterlooping skills"
+          }
+        ],
+        "erreurs_a_eviter": [
+          "Failing to prioritize counterlooping practice in matches"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3381"
+      }
+    ]
+  }
+}

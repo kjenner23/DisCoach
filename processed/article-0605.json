@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "article_title": "July 18, 2011 - The Mental State of a Looper Against a Push",
+    "article_slug": "mental-state-looper-push",
+    "source_url": "http://www.tabletenniscoaching.com/node/458",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "mental-state-looper-push": [
+      {
+        "probleme": "Mental state for looping against a push",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Loop forehand or backhand depending on the push",
+              "description": "Use the mid-point between forehand and backhand as a reference for where to loop. Favor forehand if it's a strong push, but be ready to backhand loop if necessary.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "table tennis racket"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Drill for favoring forehand",
+            "description": "Set up to loop forehand, then quickly switch to backhand if the push goes there. Repeat this process.",
+            "difficulte": "intermediate",
+            "duree": "Not specified by source.",
+            "materiel": "table tennis racket"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "reps": "10-15 reps per side with a focus on quick reaction time and good footwork",
+            "time": "30 seconds to 1 minute rest between reps"
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "erreur": "Not anticipating the push and being caught off guard"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/458"
+      }
+    ]
+  }
+}

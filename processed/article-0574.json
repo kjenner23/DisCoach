@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "article_title": "February 20, 2012 - Moving opponents in and out",
+    "article_slug": "moving-opponents-in-and-out",
+    "source_url": "http://www.tabletenniscoaching.com/node/784",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "moving_opponents_in_and_out": [
+      {
+        "probleme": "Opponent moving side to side",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Player not using diagonals"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Serving short or pushing short, then attacking deep"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Short serve and attack",
+            "description": "Drop short and attack middle; use diagonals when possible",
+            "difficulte": "Intermediate",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Bucket of balls"
+            ]
+          },
+          {
+            "nom": "Forcing opponent off table with drop shot or dead block",
+            "description": "Drop short and attack middle; use diagonals when possible",
+            "difficulte": "Intermediate",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Bucket of balls"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          {
+            "target": "Forcing opponent to cover for both short and long"
+          },
+          {
+            "target": "Mixing up attack and dead block"
+          }
+        ],
+        "erreurs_a_eviter": [
+          "Keeping blasting ball once opponent is off table"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/784"
+      }
+    ]
+  }
+}

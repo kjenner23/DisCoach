@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "article_title": "October 10, 2011 - Trick Serves and Third-Ball Serves",
+    "article_slug": "trick_serves_third_ball_serves",
+    "source_url": "http://www.tabletenniscoaching.com/node/624",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "trick_serves_third_ball_serves": [
+      {
+        "probleme": "Reliance on trick serves",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "too much reliance on trick serves"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "develop a good third-ball serve",
+            "use the tricky serve as a variation"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Short and low backspin or side-backspin serve",
+            "description": "Pushed back, setting you up to loop (or in some cases, a regular drive).",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "bucket of balls"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          "Opponents' return patterns"
+        ],
+        "erreurs_a_eviter": [
+          "Expecting backspin, then faking spin and giving side-top or no-spin"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/624"
+      }
+    ]
+  }
+}

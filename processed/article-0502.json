@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "article_title": "August 5, 2013 - Blocking Tips",
+    "article_slug": "blocking-tips",
+    "source_url": "http://www.tabletenniscoaching.com/node/1582",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "blocking-tips": [
+      {
+        "probleme": "Improving blocking skills",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Lack of footwork"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Be quick and decisive when blocking",
+            "Block aggressively against loops that land short and against slow loops",
+            "Keep your blocks deep unless you are dead blocking",
+            "Block to all three spots - wide corners and opponent's middle, where they have to decide whether to use forehand or backhand"
+          ],
+          "intermediaire": [
+            "Change directions at the last second",
+            "Against faster loops use the opponent's own speed to redirect the ball back aggressively",
+            "Master the forehand down-the-line block"
+          ],
+          "avance": [
+            "Learn to change the pace with dead blocks, and perhaps chop and sidespin blocks",
+            "Consider learning to topspin your blocks, essentially mini-loops"
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Forehand down-the-line block drill",
+            "description": "Practice blocking forehands with a focus on pace and direction.",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": "Paddle, ball"
+          }
+        ],
+        "metriques_progression": [
+          "Reaction time"
+        ],
+        "erreurs_a_eviter": [
+          "Reaching for blocks instead of moving feet",
+          "Blocking too passively"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/1582"
+      }
+    ]
+  }
+}

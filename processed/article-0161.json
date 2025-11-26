@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "article_title": "September 21, 2020 - Against a Fast Attacker, Make At Least Two Strong Shots",
+    "article_slug": "against_a_fast_attacker_make_at_least_two_strong_shots",
+    "source_url": "http://www.tabletenniscoaching.com/node/3207",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "against_a_fast_attacker_make_at_least_two_strong_shots": [
+      {
+        "probleme": "Playing someone with a fast attack or quick blocks",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Quick blocking, losing position"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Make two strong shots; slow down first shot to prepare for second"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Slow, spinny loop",
+            "description": "Deep on the table; sets up second shot; throws off timing or jams backhand",
+            "difficulte": "Intermediate",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Bucket of balls"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          "Placement and depth"
+        ],
+        "erreurs_a_eviter": [
+          "Aggressive blocking; losing timing or jamming backhand"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3207"
+      }
+    ]
+  }
+}

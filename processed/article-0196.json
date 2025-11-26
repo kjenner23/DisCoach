@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "article_title": "January 20, 2020 - Whenever You Miss, Shadow Stroke",
+    "article_slug": "whenever-you-miss-shadow-stroke",
+    "source_url": "http://www.tabletenniscoaching.com/node/3133",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "whenever-you-miss-shadow-stroke": [
+      {
+        "probleme": "Missed shots",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "step": "Shadow-practice the shot as you should have done it"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Looping practice",
+            "description": "Concentrate on the correct looping technique to improve.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket and balls"
+          }
+        ],
+        "metriques_progression": [
+          "Improve at a faster rate"
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/3133"
+      }
+    ]
+  }
+}

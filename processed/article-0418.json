@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "article_title": "April 20, 2015 Visualize Serves for Feedback",
+    "article_slug": "visualize-serves-for-feedback",
+    "source_url": "http://www.tabletenniscoaching.com/node/2102",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "spin",
+      "definition": "",
+      "contexte": "the spin of the serve",
+      "source_url": "http://www.tabletenniscoaching.com/node/2102"
+    }
+  ],
+  "problemes_solutions": {
+    "visualize-serves-for-feedback": [
+      {
+        "probleme": "Controlling Serve",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          ""
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Visualize the entire path of the serve before serving.",
+            ""
+          ],
+          "intermediaire": [
+            "",
+            "Visualize the contact off your racket."
+          ],
+          "avance": [
+            "",
+            ""
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Visualization Drill",
+            "description": "Play a game with yourself where you visualize different serves, and see if you can match what's in your head. Practice until you can do this with all of your serves.",
+            "difficulte": "all levels",
+            "duree": "Not specified by source.",
+            "materiel": ""
+          }
+        ],
+        "metriques_progression": [
+          "Not specified by source."
+        ],
+        "erreurs_a_eviter": [
+          ""
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/2102"
+      }
+    ]
+  }
+}

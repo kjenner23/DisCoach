@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "article_title": "February 9, 2015 - Pulling Off Big Upsets",
+    "article_slug": "pulling-off-big-upsets",
+    "source_url": "http://www.tabletenniscoaching.com/node/2036",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "pulling_off_big_upsets": [
+      {
+        "probleme": "Pulling off a great upset against a stronger player",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Play well, focusing on your strengths and using tactics to maximize your chances of winning",
+              "description": "Concentrate on playing smartly, using the right shots and placements to outmaneuver your opponent.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": [
+                "table tennis racket",
+                "balls"
+              ]
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Variation serves",
+            "description": "Mix up your serves to keep the stronger player off balance and prevent him from getting into a rhythm.",
+            "difficulte": "intermediate",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "table tennis racket",
+              "balls"
+            ]
+          },
+          {
+            "nom": "Tactical adjustments",
+            "description": "Adjust your game to counter the stronger player's tactics and maintain an advantage.",
+            "difficulte": "advanced",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "table tennis racket",
+              "balls"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          "Winning percentage"
+        ],
+        "erreurs_a_eviter": [
+          {
+            "nom": "Overthinking and losing focus",
+            "description": "Don't overcomplicate your game; stick to simple tactics and keep a clear head."
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/2036"
+      }
+    ]
+  }
+}

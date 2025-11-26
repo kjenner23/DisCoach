@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "article_title": "When Should You Go for a Winner?",
+    "article_slug": "when-should-you-go-for-a-winner",
+    "source_url": "http://www.tabletenniscoaching.com/node/2054",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "when-should-you-go-for-a-winner": [
+      {
+        "probleme": "When to use put-away shots",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Work on high balls",
+              "description": "Patience is key; don't get impatient and go for a crazy shot.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Generic"
+            }
+          ],
+          "intermediaire": [
+            {
+              "nom": "Attack middle-depth balls",
+              "description": "Most soft topspin and backspin shots should be attacked pretty hard; at advanced intermediate level, they should be consistently put away.",
+              "difficulte": "intermediate",
+              "duree": "Not specified by source.",
+              "materiel": "Generic"
+            }
+          ],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Flashbulb shot",
+            "description": "Take the shot if you have read the ball perfectly and are in perfect position; don't take it if uncertain.",
+            "difficulte": "advanced",
+            "duree": "Not specified by source.",
+            "materiel": "Generic"
+          }
+        ],
+        "metriques_progression": [
+          [
+            "51% Ogimura Doctrine: use put-away shots with 51% chance of success"
+          ]
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/2054"
+      }
+    ]
+  }
+}

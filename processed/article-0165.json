@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "article_title": "August 24, 2020 - On Short Serves to the Forehand, Challenge the Forehand, Often Go to the Backhand",
+    "article_slug": "on_short_serves_to_the_forehand_challenge_the_forehand_often_go_to_the_backhand",
+    "source_url": "http://www.tabletenniscoaching.com/node/3198",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "attack",
+      "definition": "to flip the serve",
+      "contexte": "when receiving a short serve to the forehand",
+      "source_url": "http://www.tabletenniscoaching.com/node/3198"
+    }
+  ],
+  "problemes_solutions": {
+    "on_short_serves_to_the_forehand_challenge_the_forehand_often_go_to_the_backhand": [
+      {
+        "probleme": "receiving a short serve to the forehand",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "step": "attack the serve (by flipping) and often go crosscourt, as wide as possible"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "short serve to forehand drill",
+            "description": "flip the serve and push down the line or go crosscourt",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "table tennis balls"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "target": "10.3 feet"
+          }
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/3198"
+      }
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "article_title": "February 19, 2018 - Forehands and Backhands: 1-2-3, not 1-2",
+    "article_slug": "forehands-and-backhands-1-2-3-not-1-2",
+    "source_url": "http://www.tabletenniscoaching.com/node/2877",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "forehands-and-backhands-1-2-3-not-1-2": [
+      {
+        "probleme": "Faulty forehand and backhand practice",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Return to ready position after stroke"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Neutral-to-backswing drill",
+            "description": "Start in neutral position, then backswing and return to ready position; repeat.",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Table tennis racket",
+              "Balls"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          {
+            "rep": 3,
+            "target": "Smooth transition to ready position"
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "erreur": "Directly backswing from forward-swing position"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/2877"
+      }
+    ]
+  }
+}

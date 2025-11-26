@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "article_title": "January 1, 2018 - Elbow Drill",
+    "article_slug": "elbow_drill",
+    "source_url": "http://www.tabletenniscoaching.com/node/2838",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "elbow_drill": [
+      {
+        "probleme": "Middle Attack Drill",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Players struggle with attacking the middle"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "step": "Player A serves topspin to Player B's backhand"
+            },
+            {
+              "step": "Player B rallies and attacks the middle with an emphasis"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Middle Attack Drill",
+            "description": "Player A serves to Player B's backhand, and returns every ball there; minor adjustments when going after the middle",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis equipment"
+          }
+        ],
+        "metriques_progression": [
+          "Return every ball to Player B's backhand"
+        ],
+        "erreurs_a_eviter": [
+          "Covering the middle with their backhands"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/2838"
+      }
+    ]
+  }
+}

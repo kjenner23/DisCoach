@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "article_title": "February 15, 2021 - Pushing Short: When to Learn?",
+    "article_slug": "pushing_short_when_to_learn",
+    "source_url": "http://www.tabletenniscoaching.com/node/3250",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "pushing_short": [
+      {
+        "probleme": "Pushing short: When to Learn?",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Low-percentage shot"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Take the ball quick off the bounce",
+            "Use light touch and grazing motion to create backspin"
+          ],
+          "intermediaire": [
+            "Open the racket more against heavy backspin",
+            "Close it and chop down more against light backspin or no-spin"
+          ],
+          "avance": [
+            "Push it as low as possible over the net"
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Quick ball return",
+            "description": "Concise, with explicit cues; no links; no brand names; semicolons OK",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Generic ball and racket"
+          }
+        ],
+        "metriques_progression": [
+          "Years behind in developing the shot"
+        ],
+        "erreurs_a_eviter": [
+          "Pop the ball up or go into the net"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3250"
+      }
+    ]
+  }
+}

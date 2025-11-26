@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "article_title": "Are You Really Serving Low?",
+    "article_slug": "are-you-really-serving-low",
+    "source_url": "http://www.tabletenniscoaching.com/node/3398",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "serve_low": [
+      {
+        "probleme": "Serving too high to the net",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Higher serves are easier to attack"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Serve relatively low to the net"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Serving drills",
+            "description": "Practice serving with backspin or no-spin, focusing on serving low to the net.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Table tennis equipment"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          [
+            "Target a consistent serve depth of 10-12 cm from the net"
+          ]
+        ],
+        "erreurs_a_eviter": [
+          [
+            "Serving too high, making it easy to attack"
+          ]
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3398"
+      }
+    ]
+  }
+}

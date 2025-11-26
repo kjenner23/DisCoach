@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "article_title": "August 20, 2012: Covering the Middle",
+    "article_slug": "covering-the-middle_",
+    "source_url": "http://www.tabletenniscoaching.com/node/993",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "covering_the_middle_": [
+      {
+        "probleme": "Middle Balls",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          ""
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Quick Attack",
+              "description": "Attack the opponent's middle with a quick shot to both wide angles and their forehand.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": ""
+            }
+          ],
+          "intermediaire": [
+            {
+              "nom": "Forehand Dominance",
+              "description": "Use your forehand to dominate the table, leaving you in perfect position for the next shot.",
+              "difficulte": "intermediate",
+              "duree": "Not specified by source.",
+              "materiel": ""
+            }
+          ],
+          "avance": [
+            {
+              "nom": "Middle Rule Variations",
+              "description": "Vary the 'Middle Rule' based on your individual skills and playing style.",
+              "difficulte": "advanced",
+              "duree": "Not specified by source.",
+              "materiel": ""
+            }
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Random Drills",
+            "description": "Practice making strong returns against random shots to all parts of the table.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": ""
+          }
+        ],
+        "metriques_progression": [
+          [
+            "Not specified by source."
+          ]
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/993"
+      }
+    ]
+  }
+}

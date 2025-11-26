@@ -1,0 +1,73 @@
+{
+  "meta": {
+    "article_title": "May 14, 2012 - Returning the Tomahawk Serve and Lefty Pendulum Serve",
+    "article_slug": "returning-tomahawk-serve-lefty-pendulum-serve",
+    "source_url": "http://www.tabletenniscoaching.com/node/877",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "corkscrewspin",
+      "definition": "",
+      "contexte": "",
+      "source_url": ""
+    }
+  ],
+  "problemes_solutions": {
+    "returning-tomahawk-serve-lefty-pendulum-serve": [
+      {
+        "probleme": "Returning the Tomahawk Serve",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Down-the-line return",
+              "description": "Contact the back of the ball, perhaps slightly on the left side, so that the ball goes to the right, down the line.",
+              "difficulte": "Beginner",
+              "duree": "",
+              "materiel": ""
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Ambush the ball",
+            "description": "Anticipate the ball jumping away from you and be waiting for it, like a hunter ambushing his prey.",
+            "difficulte": "Beginner",
+            "duree": "",
+            "materiel": ""
+          },
+          {
+            "nom": "Loop down-the-line",
+            "description": "Contact the ball more on the back, and so you are going against the spin, and so it's like looping a topspin.",
+            "difficulte": "Intermediate",
+            "duree": "",
+            "materiel": ""
+          },
+          {
+            "nom": "Placement and deception",
+            "description": "Aim one way, and at the last second return the serve softly (and perhaps quicker off the bounce) the other way.",
+            "difficulte": "Beginner",
+            "duree": "",
+            "materiel": ""
+          }
+        ],
+        "metriques_progression": [
+          [
+            "Not specified by source."
+          ]
+        ],
+        "erreurs_a_eviter": [
+          {
+            "nom": "Chasing after the ball",
+            "description": "Don't lower the racket as you chase after it, or you'll end up lifting the ball high or off the end."
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/877"
+      }
+    ]
+  }
+}

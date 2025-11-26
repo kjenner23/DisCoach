@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "article_title": "March 23, 2015 - Macho or Tricky?",
+    "article_slug": "macho-or-tricky",
+    "source_url": "http://www.tabletenniscoaching.com/node/2076",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "macho-or-tricky": [
+      {
+        "probleme": "Serve decision under pressure",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "serve": "Macho third-ball serve",
+              "description": "Serve to set up a third-ball attack, knowing you will have to follow it up with a strong attack.",
+              "difficulte": "Beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Table tennis racket"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Macho third-ball serve",
+            "description": "Serve to set up a third-ball attack, knowing you will have to follow it up with a strong attack.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis racket"
+          }
+        ],
+        "metriques_progression": [
+          "Not specified by source."
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/2076"
+      }
+    ]
+  }
+}

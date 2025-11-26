@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "article_title": "August 1, 2011 - Jerky Strokes and Jerkyitis: World's Most Rampant Table Tennis Disease",
+    "article_slug": "jerky-strokes-and-jerkyitis",
+    "source_url": "http://www.tabletenniscoaching.com/node/480",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "jerky_strokes_and_jerkyitis": [
+      {
+        "probleme": "Jerky Strokes and Jerkyitis",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Using one muscle for the stroke"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Random drills",
+              "description": "Do random drills to practice smoothness. React to each shot, using principles outlined above.",
+              "difficulte": "Beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Multiball"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Relaxing the arm",
+            "description": "Relax your arm at your side, then gently and smoothly raise it into your ready position.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": ""
+          }
+        ],
+        "metriques_progression": [
+          "Not specified by source."
+        ],
+        "erreurs_a_eviter": [
+          "Rushing shots"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/480"
+      }
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "article_title": "December 29, 2014 - Brick-Wall Blocking Defense",
+    "article_slug": "brick_wall_blocking_defense",
+    "source_url": "http://www.tabletenniscoaching.com/node/2004",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "brick_wall_blocking_defense": [
+      {
+        "probleme": "Seemingly block everything back",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Get racket behind the ball",
+              "description": "Proper ready stance, clear mind, and moving your feet.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": [
+                "table tennis racket"
+              ]
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Proper ready stance",
+            "description": "Racket tip pointing directly at opponent's contact point.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "table tennis racket"
+            ]
+          },
+          {
+            "nom": "Good contact",
+            "description": "Blocking firmly against heavy topspin.",
+            "difficulte": "intermediate",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "table tennis racket"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          "Lots and lots of practice"
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/2004"
+      }
+    ]
+  }
+}

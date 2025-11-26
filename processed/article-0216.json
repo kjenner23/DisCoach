@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "article_title": "August 12, 2019 - Serving Short",
+    "article_slug": "serving_short",
+    "source_url": "http://www.tabletenniscoaching.com/node/3090",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "short serve",
+      "definition": "A serve that, if allowed, would bounce twice on the far side of the table.",
+      "contexte": "",
+      "source_url": "http://www.tabletenniscoaching.com/node/3090"
+    }
+  ],
+  "problemes_solutions": {
+    "serving_short": [
+      {
+        "probleme": "Serving Short",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Backspin serve",
+              "description": "Serve with open racket, brushing the BOTTOM of the ball. Try to make the ball barely clear the net.",
+              "difficulte": "Beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Generic"
+            }
+          ],
+          "intermediaire": [
+            {
+              "nom": "Sidespin backspin serve",
+              "description": "Put sidespin on the backspin serve by brushing the ball from side to side. Experiment until it feels right.",
+              "difficulte": "Intermediate",
+              "duree": "Not specified by source.",
+              "materiel": "Generic"
+            },
+            {
+              "nom": "Short topspin serve",
+              "description": "Contact the ball with your racket going diagonally sideways and up. This action will make the ball pop up and go deep at first.",
+              "difficulte": "Intermediate",
+              "duree": "Not specified by source.",
+              "materiel": "Generic"
+            }
+          ],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Short backspin serve drill",
+            "description": "Practice serving short backspin serves with an open racket, brushing the BOTTOM of the ball. Try to make the ball barely clear the net.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Generic"
+          }
+        ],
+        "metriques_progression": [
+          [
+            "Short serves, varying spin"
+          ],
+          [
+            "Practice with maximum spin on all types of serves"
+          ]
+        ],
+        "erreurs_a_eviter": [
+          {
+            "erreur": "Serving too deep",
+            "conseil": "Practice serving short to improve touch"
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3090"
+      }
+    ]
+  }
+}

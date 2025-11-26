@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "article_title": "September 19, 2011 - Balance Leads to Feet-first Footwork",
+    "article_slug": "balance-leads-to-feet-first-footwork",
+    "source_url": "http://www.tabletenniscoaching.com/node/590",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "balance-leads-to-feet-first-footwork": [
+      {
+        "probleme": "Footwork timing",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            "Move feet first, keeping balance"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Feet-first footwork drill",
+            "description": "Start with balance, step first with right to move right or left to move left.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Generic balls"
+          }
+        ],
+        "metriques_progression": [
+          "Focus on staying balanced"
+        ],
+        "erreurs_a_eviter": [
+          "Moving arm or hand first, reaching for the ball"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/590"
+      }
+    ]
+  }
+}

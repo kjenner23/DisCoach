@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "article_title": "June 15, 2020 - Practice Partner Collaboration - the PPC of TT",
+    "article_slug": "practice_partner_collaboration_ppc_tt",
+    "source_url": "http://www.tabletenniscoaching.com/node/3178",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "practice_partner_collaboration_ppc_tt": [
+      {
+        "probleme": "Lack of collaborative improvement",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Limited discussion and critique"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Discuss each other's games after matches",
+            "Focus on improving specific skills"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Drilling together",
+            "description": "Play matches and drills to improve skills, with partners taking turns doing drills that the other needs.",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Table tennis equipment"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          "Regularly analyzing each other's games improves tactical skills"
+        ],
+        "erreurs_a_eviter": [
+          "Not making helpful suggestions to improve your playing partner's game"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3178"
+      }
+    ]
+  }
+}

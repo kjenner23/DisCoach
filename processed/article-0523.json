@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "article_title": "Should You Use a Neutral Grip?",
+    "article_slug": "should-you-use-a-neutral-grip_",
+    "source_url": "http://www.tabletenniscoaching.com/node/1373",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "neutral grip",
+      "definition": "the thinnest part of your wrist lines up with the blade",
+      "contexte": "developing shots",
+      "source_url": "http://www.tabletenniscoaching.com/node/1373"
+    }
+  ],
+  "problemes_solutions": {
+    "should-you-use-a-neutral-grip_": [
+      {
+        "probleme": "Should You Use a Neutral Grip?",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "neutral grip",
+              "description": "the thinnest part of your wrist lines up with the blade; makes proper strokes more natural",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "generic racket"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "neutral grip drill",
+            "description": "practice developing shots with a neutral grip; emphasizes proper stroke mechanics",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "generic racket"
+          }
+        ],
+        "metriques_progression": [
+          "target: develop strokes properly with neutral grip"
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/1373"
+      }
+    ]
+  }
+}

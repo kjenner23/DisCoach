@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "article_title": "June 27, 2011 - Complex Versus Simple Tactics",
+    "article_slug": "simple-tactics",
+    "source_url": "http://www.tabletenniscoaching.com/node/421",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "simple_tactics": [
+      {
+        "probleme": "Choosing the right tactics in a match",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Serving backspin to set up your own strengths",
+              "description": "Serve backspin so you get a lot of push returns. If the receiver pushes at wide angles, serve backspin low to the middle.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "table tennis equipment"
+            },
+            {
+              "nom": "Serving varying sidespin and topspin serves",
+              "description": "Serve varying sidespin and topspin serves, with varying speeds and depths. If you are quicker than an opponent, serve topspin so you can get right into a topspin rally.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "table tennis equipment"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Push returns drill",
+            "description": "Practice pushing returns after serving backspin. Vary the angle and speed of your pushes.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "table tennis equipment"
+          },
+          {
+            "nom": "Varying serve drill",
+            "description": "Practice serving varying sidespin and topspin serves, with varying speeds and depths. Focus on getting into a topspin rally if you are quicker than an opponent.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "table tennis equipment"
+          }
+        ],
+        "metriques_progression": [
+          "Play your strengths against an opponent's weaknesses. Learn to play your medium shots to the opponent's weaknesses, or your strengths to the opponent's medium shots."
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/421"
+      }
+    ]
+  }
+}

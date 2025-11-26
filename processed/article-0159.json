@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "article_title": "October 5, 2020- Exaggerate Serving Follow-Through in \"Wrong\" Direction",
+    "article_slug": "exaggerate-serving-follow-through-wrong-direction",
+    "source_url": "http://www.tabletenniscoaching.com/node/3211",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "exaggerate-serving-follow-through-wrong-direction": [
+      {
+        "probleme": "Serve with spin, but disguise it",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Unclear spin direction"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Exaggerate follow-through in the opposite direction of the serve"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Downward motion",
+            "description": "Contact the ball near the handle, exaggerate downward motion to make it look like backspin.",
+            "difficulte": "Beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Generic racket"
+          }
+        ],
+        "metriques_progression": [
+          "Target a specific spin direction"
+        ],
+        "erreurs_a_eviter": [
+          "Returning the ball too high, giving an easy put-away"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3211"
+      }
+    ]
+  }
+}

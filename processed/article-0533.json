@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "article_title": "December 17, 2012 - Distance from Table",
+    "article_slug": "distance_from_table",
+    "source_url": "http://www.tabletenniscoaching.com/node/1282",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "distance_from_table": [
+      {
+        "probleme": "Standing too close or too far from the table",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Jamming, rushed strokes, loss of power and control"
+        ],
+        "solutions_progressives": {
+          "debutant": [
+            "Start rallies about arm's length from the table"
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Relaxed footwork and body positioning",
+            "description": "Keep a consistent distance from the table, adapting to different shot types.",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "Generic balls",
+              "Racket"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          "Start at arm's length and adjust as needed"
+        ],
+        "erreurs_a_eviter": [
+          "Backing up too easily, giving the opponent time to react",
+          "Not using the full forehand hitting zone"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/1282"
+      }
+    ]
+  }
+}

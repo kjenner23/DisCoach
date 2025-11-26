@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "article_title": "August 17, 2020 - Should You Develop Your Forehand Push?",
+    "article_slug": "forehand_push",
+    "source_url": "http://www.tabletenniscoaching.com/node/3196",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "forehand_push": [
+      {
+        "probleme": "Should I develop my forehand push?",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "push short"
+            },
+            {
+              "description": "Push against short backspin to the forehand, using various variations (angles, heavy spin, etc.)"
+            },
+            {
+              "difficulte": "all levels"
+            },
+            {
+              "duree": "Not specified by source."
+            },
+            {
+              "materiel": "bucket of balls"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "push forehand to forehand",
+            "description": "Start with a partner serving short to your forehand; push quick off the bounce, then continue the drill/rally with other shots",
+            "difficulte": "all levels",
+            "duree": "Not specified by source.",
+            "materiel": "racket and balls"
+          },
+          {
+            "nom": "push and loop forehand to backhand",
+            "description": "Push short to your partner's backhand; he loops off the push, then you loop off his shot",
+            "difficulte": "all levels",
+            "duree": "Not specified by source.",
+            "materiel": "racket and balls"
+          }
+        ],
+        "metriques_progression": [
+          "Not specified by source."
+        ],
+        "erreurs_a_eviter": [
+          "pushing against long backspin"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3196"
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "article_title": "December 2, 2019 - What to Watch During a Point",
+    "article_slug": "what_to_watch_during_a_point",
+    "source_url": "http://www.tabletenniscoaching.com/node/3125",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [
+    {
+      "terme": "spin",
+      "definition": "type of ball movement",
+      "contexte": "when reading the spin on a serve or shot",
+      "source_url": "http://www.tabletenniscoaching.com/node/3125"
+    }
+  ],
+  "problemes_solutions": {
+    "what_to_watch_during_a_point": [
+      {
+        "probleme": "What to focus on during a point",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Opponent's racket right before contact",
+              "description": "Watch the opponent's racket as they make contact with the ball to read the spin.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "racket"
+            }
+          ],
+          "intermediaire": [
+            {
+              "nom": "Ball approach and contact",
+              "description": "Watch the ball closely from the time the opponent contacts the ball, including on the serve.",
+              "difficulte": "intermediate",
+              "duree": "Not specified by source.",
+              "materiel": "ball"
+            }
+          ],
+          "avance": [
+            {
+              "nom": "Opponent's forward swing and shoulder rotation",
+              "description": "Watch the opponent's forward swing and shoulder rotation to anticipate their shot.",
+              "difficulte": "advanced",
+              "duree": "Not specified by source.",
+              "materiel": "racket"
+            }
+          ]
+        },
+        "exercices_complementaires": [],
+        "metriques_progression": [
+          "Not specified by source."
+        ],
+        "erreurs_a_eviter": [
+          "Not specified by source."
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3125"
+      }
+    ]
+  }
+}

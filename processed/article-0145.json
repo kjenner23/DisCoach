@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "article_title": "January 11, 2021 - Should You Experiment If You Have a Big Lead?",
+    "article_slug": "should_you_experiment_if_you_have_a_big_lead",
+    "source_url": "http://www.tabletenniscoaching.com/node/3240",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "should_you_experiment_if_you_have_a_big_lead": [
+      {
+        "probleme": "Maintaining a big lead",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [
+          "Careless shots"
+        ],
+        "solutions_progressives": {
+          "debutant": [],
+          "intermediaire": [
+            "Try out a new serve or receive",
+            "Use some judgment to win the current game"
+          ],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Testing different serves",
+            "description": "Try out a new serve and see what happens.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": [
+              "A racket"
+            ]
+          }
+        ],
+        "metriques_progression": [
+          "Use some judgment to win the current game"
+        ],
+        "erreurs_a_eviter": [
+          "Don't do anything that's low percentage"
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3240"
+      }
+    ]
+  }
+}

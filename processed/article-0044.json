@@ -1,0 +1,76 @@
+{
+  "meta": {
+    "article_title": "January 9, 2023 - Developing Fast Reflexes",
+    "article_slug": "developing-fast-reflexes",
+    "source_url": "http://www.tabletenniscoaching.com/node/3437",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "developing-fast-reflexes": [
+      {
+        "probleme": "Slow reflexes",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Play more",
+              "description": "Develop fast reflexes through training, as advanced players react subconsciously to each shot.",
+              "difficulte": "All levels",
+              "duree": "Not specified by source.",
+              "materiel": "Table tennis equipment"
+            }
+          ],
+          "intermediaire": [
+            {
+              "nom": "Study opponents",
+              "description": "Learn to react sooner by studying opponents' strokes and anticipating their shots.",
+              "difficulte": "Intermediate",
+              "duree": "Not specified by source.",
+              "materiel": "Table tennis equipment"
+            }
+          ],
+          "avance": [
+            {
+              "nom": "Adjust reactions",
+              "description": "Make adjustments to react earlier and more quickly, such as watching opponents' shoulders for direction cues.",
+              "difficulte": "Advanced",
+              "duree": "Not specified by source.",
+              "materiel": "Table tennis equipment"
+            }
+          ]
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Deep ball placement",
+            "description": "Place the ball deep on the table to have more time to react to opponents' shots.",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis equipment"
+          },
+          {
+            "nom": "Opponent observation",
+            "description": "Look up and watch your opponent immediately after hitting a shot to anticipate their next move.",
+            "difficulte": "All levels",
+            "duree": "Not specified by source.",
+            "materiel": "Table tennis equipment"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "nom": "Reaction time",
+            "description": "Measure the reaction time to opponents' shots and work on decreasing it through training."
+          }
+        ],
+        "erreurs_a_eviter": [
+          {
+            "nom": "Conscious reaction",
+            "description": "Avoid reacting consciously, as advanced players react subconsciously to each shot."
+          }
+        ],
+        "source_url": "http://www.tabletenniscoaching.com/node/3437"
+      }
+    ]
+  }
+}

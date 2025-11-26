@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "article_title": "February 4, 2013 - Super Spinny Slow Loops",
+    "article_slug": "slow-loops",
+    "source_url": "http://www.tabletenniscoaching.com/node/1333",
+    "date_accessed": "2025-10-15"
+  },
+  "terminologie_extrait": [],
+  "problemes_solutions": {
+    "slow-loops": [
+      {
+        "probleme": "Slow Loop Shot",
+        "diagnostic": "Not specified by source.",
+        "causes_communes": [],
+        "solutions_progressives": {
+          "debutant": [
+            {
+              "nom": "Slow Forehand Loop",
+              "description": "Whip the racket upward and forward, with a big wrist snap just before contact. Barely skim the ball to create topspin.",
+              "difficulte": "beginner",
+              "duree": "Not specified by source.",
+              "materiel": "Grippy inverted sponge"
+            }
+          ],
+          "intermediaire": [],
+          "avance": []
+        },
+        "exercices_complementaires": [
+          {
+            "nom": "Forehand Loop",
+            "description": "Bend knees, drop playing shoulder and racket low. Whip racket upward and forward with wrist snap.",
+            "difficulte": "beginner",
+            "duree": "Not specified by source.",
+            "materiel": "Grippy inverted sponge"
+          }
+        ],
+        "metriques_progression": [
+          {
+            "target": "Deep on the table"
+          }
+        ],
+        "erreurs_a_eviter": [],
+        "source_url": "http://www.tabletenniscoaching.com/node/1333"
+      }
+    ]
+  }
+}
