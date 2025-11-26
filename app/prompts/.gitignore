@@ -1,0 +1,12 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+
+# MacOS system files
+.DS_Store
+
+# Logs
+*.log
