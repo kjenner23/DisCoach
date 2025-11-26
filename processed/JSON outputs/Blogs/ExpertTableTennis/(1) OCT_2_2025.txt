@@ -1,0 +1,234 @@
+{
+"meta": {
+"article_title": "How to Play a Backhand Push in Table Tennis",
+"article_slug": "how_to_play_a_backhand_push_in_table_tennis",
+"source_url": "https://www.experttabletennis.com/how-to-play-a-backhand-push-in-table-tennis/
+",
+"date_accessed": "unknown"
+},
+"terminologie_extrait": [],
+"problemes_solutions": {
+"how_to_play_a_backhand_push_in_table_tennis": [
+{
+"probleme": "Learning correct backhand push technique",
+"diagnostic": "Not specified by source.",
+"causes_communes": [
+"Overextending the arm and finishing with a straight elbow",
+"Swiping across the body instead of moving forwards",
+"Using too much wrist when first learning",
+"Poking/prodding with short, sharp strokes",
+"Taking the ball too early by reaching forward",
+"Scooping the ball in a U-shape so the bat finishes high"
+],
+"solutions_progressives": {
+"debutant": [
+"Stance: feet slightly wider than shoulder width; square to line of play or table; knees slightly bent; lean forward; both arms in front; 90–110° elbow bend; stand an arm’s length from the table; weight on balls of feet.",
+"Backswing: bring bat back toward chest; create a slightly open bat angle; keep wrist straight; elbow angle quite closed.",
+"Strike: play directly in front of body; move arm forwards from the elbow; keep bat angle open; contact at peak of bounce (or slightly earlier) and in front; adjust contact point down the back for less spin or further underneath for more spin.",
+"Finish: follow through forwards toward the net; bat points to target; avoid arm swinging across body; bat finishes closer to table due to slight downward path; return to ready position."
+],
+"intermediaire": [
+"Add a gentle wrist action to generate extra spin once arm mechanics are consistent.",
+"Vary brushing contact to control spin level while maintaining forward trajectory."
+],
+"avance": [
+"Develop strong, spinny backhand push as a base for touch, dig, and chop; refine brushing for maximum backspin while keeping ball low and short when required."
+]
+},
+"exercices_complementaires": [],
+"metriques_progression": [
+"Complete 100 backhand pushes without a mistake.",
+"Complete 100 forehand pushes without a mistake.",
+"Complete 100 forehand drives without a mistake.",
+"Complete 100 backhand drives without a mistake."
+],
+"erreurs_a_eviter": [
+"Overextending and locking the elbow straight at finish.",
+"Swiping across the body (finishing on right or left side rather than forward).",
+"Relying on wrist too early.",
+"Poking or prodding with short, sharp movements.",
+"Reaching forward to take the ball too early.",
+"Scooping down-and-up (U-shape) instead of one straight brushing path."
+],
+"source_url": "https://www.experttabletennis.com/how-to-play-a-backhand-push-in-table-tennis/
+"
+}
+]
+}
+}
+{
+"meta": {
+"article_title": "How to Play a Forehand Push in Table Tennis",
+"article_slug": "how_to_play_a_forehand_push_in_table_tennis",
+"source_url": "https://www.experttabletennis.com/forehand-push-table-tennis/
+",
+"date_accessed": "unknown"
+},
+"terminologie_extrait": [],
+"problemes_solutions": {
+"how_to_play_a_forehand_push_in_table_tennis": [
+{
+"probleme": "Learning correct forehand push technique",
+"diagnostic": "Not specified by source.",
+"causes_communes": [
+"Playing the stroke directly in front of the body instead of to the side",
+"Overextending the arm and finishing with a straight elbow",
+"Swiping across the body or lunging forwards",
+"Not using natural rotation of hips/torso/shoulders",
+"Using too much wrist when first learning",
+"Taking the ball too late (after peak or not in front)",
+"Scooping in a U-shape so the bat finishes high"
+],
+"solutions_progressives": {
+"debutant": [
+"Stance: feet slightly wider than shoulder width; square or right foot slightly back; knees bent; lean forward; arms in front; 90–110° elbow bend; stand an arm’s length from table; weight on balls of feet.",
+"Backswing: bring bat back and out to side; slightly open bat angle; wrist straight; small gap between elbow and hip; keep playing arm slightly in front (small backswing).",
+"Strike: contact slightly to the side of body; move arm forwards mainly from elbow/forearm; keep bat angle open; take ball at peak (or slightly earlier) and in front; maintain small elbow–body gap; brush more underneath for extra spin or more down the back for less.",
+"Finish: follow through forwards toward net; bat points to target; do not swing across to the left; bat finishes closer to table; recover to ready position."
+],
+"intermediaire": [
+"Coordinate small body rotation with arm movement to add stability and control.",
+"Add controlled wrist action to increase spin once fundamentals are solid."
+],
+"avance": [
+"Refine touch to keep pushes low and short when needed while disguising spin level through subtle brushing variations."
+]
+},
+"exercices_complementaires": [],
+"metriques_progression": [
+"Not specified by source."
+],
+"erreurs_a_eviter": [
+"Setting up directly in front for the forehand push instead of to the side.",
+"Lunging forward with a straightening elbow.",
+"Swiping across the body.",
+"Stiff, robot-like stroke without natural rotation.",
+"Overusing wrist at the learning stage.",
+"Contacting after peak or not in front of body.",
+"Scooping with a U-shaped path."
+],
+"source_url": "https://www.experttabletennis.com/forehand-push-table-tennis/
+"
+}
+]
+}
+}
+{
+"meta": {
+"article_title": "Developing a Super Heavy Backspin Serve",
+"article_slug": "developing_a_super_heavy_backspin_serve",
+"source_url": "https://www.experttabletennis.com/heavy-backspin-serve/
+",
+"date_accessed": "unknown"
+},
+"terminologie_extrait": [],
+"problemes_solutions": {
+"developing_a_super_heavy_backspin_serve": [
+{
+"probleme": "Creating a super heavy backspin serve",
+"diagnostic": "Beginners often produce fast flat or light-spin serves that are easy to attack.",
+"causes_communes": [
+"Trying to serve short before mastering heavy backspin, resulting in short float serves",
+"Bat face not open enough to slice under the ball",
+"Slow service action that fails to create fine brushing contact",
+"Minimal toss height, limiting spin potential"
+],
+"solutions_progressives": {
+"debutant": [
+"Open the bat face completely; start and finish with the bat roughly horizontal to the table to enable slicing contact under the ball.",
+"Accelerate the bat rapidly into contact; begin with elbow-driven acceleration and lock the wrist if needed.",
+"Focus on long heavy backspin first; ignore keeping the serve short until heavy spin is mastered.",
+"Increase toss height (e.g., up to head height) to allow greater acceleration and spin.",
+"Practice fine brushing so the ball ‘chisels’ underneath rather than being hit flat."
+],
+"intermediaire": [
+"Add coordinated elbow and wrist acceleration to increase racket speed and spin.",
+"Serve to different placements (including opponent’s forehand if their forehand push is weaker) while maintaining heavy spin."
+],
+"avance": [
+"Refine contact to keep the heavy backspin serve short (double-bounce); use finer brushing and place the first bounce nearer the net to mirror a short second bounce."
+]
+},
+"exercices_complementaires": [
+{
+"nom": "High-toss heavy backspin reps",
+"description": "Toss to head height; open bat fully; accelerate from elbow (then add wrist) to brush the bottom of the ball; aim for maximum spin regardless of length.",
+"difficulte": "beginner",
+"duree": "Not specified by source.",
+"materiel": "bucket of balls"
+},
+{
+"nom": "Carpet ghost-serve practice",
+"description": "Serve on carpet without a table; adjust brushing so the ball bites and comes back towards you on the floor.",
+"difficulte": "beginner",
+"duree": "Not specified by source.",
+"materiel": "bat and ball"
+}
+],
+"metriques_progression": [
+"Not specified by source."
+],
+"erreurs_a_eviter": [
+"Prioritizing short length over heavy spin too early, leading to float serves.",
+"Hitting the back of the ball instead of slicing underneath.",
+"Using a slow arm that cannot generate fine contact.",
+"Keeping the toss very low, limiting acceleration and spin."
+],
+"source_url": "https://www.experttabletennis.com/heavy-backspin-serve/
+"
+}
+]
+}
+}
+{
+"meta": {
+"article_title": "How to Serve Faster in Table Tennis",
+"article_slug": "how_to_serve_faster_in_table_tennis",
+"source_url": "https://www.experttabletennis.com/how-to-serve-faster-in-table-tennis/
+",
+"date_accessed": "unknown"
+},
+"terminologie_extrait": [],
+"problemes_solutions": {
+"how_to_serve_faster_in_table_tennis": [
+{
+"probleme": "Increasing serve speed while keeping the ball on the table",
+"diagnostic": "Contacting the ball too high and/or allowing the first bounce to land too far from own endline causes high or netted fast serves.",
+"causes_communes": [
+"Rushing contact high above table height",
+"Letting the first bounce land nearer the net instead of close to own endline/corner"
+],
+"solutions_progressives": {
+"debutant": [
+"Wait longer so contact occurs much lower, near table height, enabling a more forward hit.",
+"Aim the ball into your own endline—ideally the near corner when serving diagonally—so the ball clears the net low and travels fast.",
+"Practice diagonally first (longest distance), then center or down-the-line once consistent."
+],
+"intermediaire": [
+"Maintain variety by alternating super fast serves with heavy backspin serves to prevent anticipation.",
+"After fast serves, be ready for quick topspin or block; after heavy backspin, be ready to push if needed."
+],
+"avance": []
+},
+"exercices_complementaires": [
+{
+"nom": "Endline target fast-serve drill",
+"description": "Place a mental or taped target at your near corner; let the ball drop low before contact; drive serves into that spot to produce a fast, low trajectory.",
+"difficulte": "all levels",
+"duree": "Not specified by source.",
+"materiel": "bucket of balls"
+}
+],
+"metriques_progression": [
+"Not specified by source."
+],
+"erreurs_a_eviter": [
+"Contacting too high and driving the ball steeply down so it bounces up and long.",
+"Aiming first bounce too close to the net, resulting in serves that die into the net."
+],
+"source_url": "https://www.experttabletennis.com/how-to-serve-faster-in-table-tennis/
+"
+}
+]
+}
+}

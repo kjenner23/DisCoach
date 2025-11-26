@@ -1,0 +1,351 @@
+{
+"meta": {
+"article_title": "How to Get “In The Zone” and Win – Like Tin-Tin Ho",
+"article_slug": "how_to_get_in_the_zone_and_win_like_tin_tin_ho",
+"source_url": "[https://www.experttabletennis.com/how-to-get-in-the-zone/](https://www.experttabletennis.com/how-to-get-in-the-zone/)",
+"date_accessed": "unknown"
+},
+"terminologie_extrait": [
+{
+"terme": "The Zone / Flow",
+"definition": "Peak state of focused performance where actions feel effortless and time seems to slow down.",
+"contexte": "Triggered when challenge ≈ skill; amplified by positive framing and opponent-focused attention."
+}
+],
+"problemes_solutions": {
+"how_to_get_in_the_zone_and_win_like_tin_tin_ho": [
+{
+"probleme": "Inconsistent ability to reach a peak performance state under pressure",
+"diagnostic": "Players fixate on themselves, nerves, or conditions instead of on the opponent and point construction. Pressure is framed as a threat rather than fuel.",
+"causes_communes": [
+"Negative pre-match mindset (fear of failure/embarrassment)",
+"Internal focus (self-criticism) during points",
+"Attention drift to venue/floor/lighting",
+"No clear in-match plan for ‘causing problems’ for the opponent"
+],
+"solutions_progressives": {
+"debutant": [
+"Pre-match reframe: treat pressure as useful energy; write 1–2 reasons today is a chance to play your best.",
+"During points, focus externally: ‘What shot makes this opponent uncomfortable next?’",
+"After errors, skip self-blame; reset with a neutral cue (exhale + single word like “next”)."
+],
+"intermediaire": [
+"Build a simple opponent plan: two serves + two receive patterns designed to ‘cause problems’.",
+"Use eyes as a trigger: lock gaze on opponent at serve/receive, then on ball through contact.",
+"Between points: brief routine—breath, cue word, choose next play."
+],
+"avance": [
+"Pressure blocks: scrimmage from 8–8 starts; practice momentum shifts without emotional leakage.",
+"Post-match debrief: note which cues best sustained flow and which opponent patterns pulled you out of it."
+]
+},
+"exercices_complementaires": [
+{
+"nom": "Opponent-focus ladder",
+"description": "Play races to 5 where each point starts with you stating out loud the ‘problem’ you’ll create (placement/spin/speed), then execute.",
+"difficulte": "intermediate",
+"duree": "15–20 min",
+"materiel": "table, partner"
+},
+{
+"nom": "Pressure scrimmage 8–8",
+"description": "Start every game at 8–8; use breath + cue word before each return/serve; track unforced errors.",
+"difficulte": "advanced",
+"duree": "20 min",
+"materiel": "table, scoreboard"
+}
+],
+"metriques_progression": [
+"Subjective flow rating (1–5) each set",
+"Unforced-error rate from 8–8 onward",
+"Percentage of points executed with a pre-chosen ‘problem’ play"
+],
+"erreurs_a_eviter": [
+"Trying to ‘force’ the zone",
+"Self-talk that attacks you after misses",
+"Letting attention drift to conditions instead of opponent and ball"
+],
+"source_url": "[https://www.experttabletennis.com/how-to-get-in-the-zone/](https://www.experttabletennis.com/how-to-get-in-the-zone/)"
+}
+]
+}
+}
+{
+"meta": {
+"article_title": "2 Backhands, 2 Forehands",
+"article_slug": "two_backhands_two_forehands",
+"source_url": "[https://www.experttabletennis.com/2-backhands-2-forehands/](https://www.experttabletennis.com/2-backhands-2-forehands/)",
+"date_accessed": "unknown"
+},
+"terminologie_extrait": [],
+"problemes_solutions": {
+"two_backhands_two_forehands": [
+{
+"probleme": "Linking side-to-side movement with correct BH↔FH switching",
+"diagnostic": "Players reach with the arm, move while striking, or lose spin/quality when footwork begins.",
+"causes_communes": [
+"Starting in the middle and reaching instead of side-stepping",
+"Moving during contact (no stop-then-hit rhythm)",
+"Over-hitting instead of prioritizing accuracy/consistency"
+],
+"solutions_progressives": {
+"debutant": [
+"Pattern: BH-BH, FH-FH repeated; controller feeds diagonals first.",
+"Move → stop → strike rhythm; keep a small topspin/backspin on every ball.",
+"Target 50-ball rally before increasing speed."
+],
+"intermediaire": [
+"Controller alternates BH control and FH control to change your down-the-line stroke.",
+"Swap drives for pushes to rehearse short game movement."
+],
+"avance": [
+"Tighten placement windows (corner cones); add tempo waves (5 slow, 5 faster) while keeping 0 reach hits."
+]
+},
+"exercices_complementaires": [
+{
+"nom": "Stop-hit metronome",
+"description": "Clap or metronome at ‘move’ beat, strike on next beat; ensures no sliding through contact.",
+"difficulte": "beginner",
+"duree": "10 min",
+"materiel": "metronome (app)"
+}
+],
+"metriques_progression": [
+"50 consecutive shots to correct zones",
+"Zero ‘reach’ contacts per rally (self-reported)"
+],
+"erreurs_a_eviter": [
+"Standing centered and poking to both sides",
+"Letting spin vanish while focusing on feet",
+"Counting games instead of reps at this stage"
+],
+"source_url": "[https://www.experttabletennis.com/2-backhands-2-forehands/](https://www.experttabletennis.com/2-backhands-2-forehands/)"
+}
+]
+}
+}
+{
+"meta": {
+"article_title": "Backhand, Middle, Backhand, Wide",
+"article_slug": "backhand_middle_backhand_wide",
+"source_url": "[https://www.experttabletennis.com/backhand-middle-backhand-wide/](https://www.experttabletennis.com/backhand-middle-backhand-wide/)",
+"date_accessed": "unknown"
+},
+"terminologie_extrait": [],
+"problemes_solutions": {
+"backhand_middle_backhand_wide": [
+{
+"probleme": "Covering the whole table while alternating BH↔FH with precise footwork",
+"diagnostic": "Players drift back from the table, fail to get side-on for FH from middle/wide, or miss down-the-line targets.",
+"causes_communes": [
+"Buying time by dropping back (weaker strokes)",
+"Square feet when playing FH from middle → cramped swing",
+"Late contact past endline on FHs"
+],
+"solutions_progressives": {
+"debutant": [
+"Sequence: BH cross → FH from middle to BH → BH cross → FH wide down the line.",
+"Stay up to the table; take FHs slightly over the table.",
+"Get side-on for each FH to create natural DL path."
+],
+"intermediaire": [
+"Add cones on center-line and wide FH corner for accuracy.",
+"Controller varies from BH-only to FH-only to change your lines."
+],
+"avance": [
+"Speed ladder: keep accuracy while increasing tempo; integrate occasional BH open-up instead of drive."
+]
+},
+"exercices_complementaires": [
+{
+"nom": "Side-on cue drill",
+"description": "Partner shouts ‘side’ before your FH contacts; reinforces foot turn and hip load.",
+"difficulte": "intermediate",
+"duree": "8–10 min",
+"materiel": "partner"
+}
+],
+"metriques_progression": [
+"50-ball rallies to targets",
+"≥80% success hitting center-line then FH corner on FH balls"
+],
+"erreurs_a_eviter": [
+"Flat-footed FH from middle",
+"Forehand taken late behind endline",
+"Controller switching off—placement must be exact"
+],
+"source_url": "[https://www.experttabletennis.com/backhand-middle-backhand-wide/](https://www.experttabletennis.com/backhand-middle-backhand-wide/)"
+}
+]
+}
+}
+{
+"meta": {
+"article_title": "A Parent’s Guide to Table Tennis",
+"article_slug": "parents_guide_table_tennis_hub",
+"source_url": "[https://www.experttabletennis.com/parents-guide-table-tennis/](https://www.experttabletennis.com/parents-guide-table-tennis/)",
+"date_accessed": "unknown"
+},
+"terminologie_extrait": [],
+"problemes_solutions": {
+"parents_guide_table_tennis_hub": [
+{
+"probleme": "Navigating parent decisions for a junior player",
+"diagnostic": "Hub page pointing to training and competitions guidance.",
+"causes_communes": [],
+"solutions_progressives": {
+"debutant": [
+"Read Part 1 (Training) to set environment/volume/quality choices."
+],
+"intermediaire": [
+"Read Part 2 (Competitions) to plan event exposure and support."
+],
+"avance": [
+"Revisit both parts each season and update plan with coaches."
+]
+},
+"exercices_complementaires": [],
+"metriques_progression": [],
+"erreurs_a_eviter": [],
+"source_url": "[https://www.experttabletennis.com/parents-guide-table-tennis/](https://www.experttabletennis.com/parents-guide-table-tennis/)"
+}
+]
+}
+}
+{
+"meta": {
+"article_title": "Table Tennis Training – Tips for Parents",
+"article_slug": "table_tennis_training_tips_for_parents",
+"source_url": "[https://www.experttabletennis.com/table-tennis-training-tips-for-parents/](https://www.experttabletennis.com/table-tennis-training-tips-for-parents/)",
+"date_accessed": "unknown"
+},
+"terminologie_extrait": [
+{
+"terme": "Quality vs Quantity",
+"definition": "Prioritize strokes-per-hour and focused reps over raw time present at the hall.",
+"contexte": "Advanced sessions can exceed 1,000 strokes/hour per player; beginners far less without structure."
+}
+],
+"problemes_solutions": {
+"table_tennis_training_tips_for_parents": [
+{
+"probleme": "Choosing the best training environment (home vs club)",
+"diagnostic": "Home tables save travel but can limit space/partners; clubs offer better equipment and peers.",
+"causes_communes": [
+"Insufficient room (needs ~7m×4m minimum; tourney ~10m×5m)",
+"Poor lighting/heating in garages; unsuitable table materials",
+"Lack of suitable training partners/coaches at home"
+],
+"solutions_progressives": {
+"debutant": [
+"If buying a table, consider outdoor model for garages; ensure lighting and room; accept short-term use early on.",
+"Parallel search for a club with junior sessions and qualified coaching."
+],
+"intermediaire": [
+"Migrate to a club as soon as space/partner limits appear; network with parents to find right groups and commit by term.",
+"Assess sessions over 4–5 visits before judging."
+],
+"avance": [
+"Be ready to travel more as level rises; periodically re-evaluate clubs/coaches as situations change."
+]
+},
+"exercices_complementaires": [
+{
+"nom": "Room & table audit",
+"description": "Measure play space, check temperature/humidity, and choose table type accordingly.",
+"difficulte": "beginner",
+"duree": "30 min",
+"materiel": "tape measure"
+}
+],
+"metriques_progression": [
+"Room size ≥ 7m×4m if training at home",
+"Stable lighting/temperature for garage setups"
+],
+"erreurs_a_eviter": [
+"Expecting long-term progress in cramped, poorly lit spaces",
+"Assuming dedicated venue always beats a well-run shared facility"
+],
+"source_url": "[https://www.experttabletennis.com/table-tennis-training-tips-for-parents/](https://www.experttabletennis.com/table-tennis-training-tips-for-parents/)"
+},
+{
+"probleme": "How much should a junior train? (quality & quantity)",
+"diagnostic": "Hours alone mislead; key is meaningful reps and appropriate peer/coach level.",
+"causes_communes": [
+"Sessions full of waiting/chatting/blocking without purpose",
+"Too few balls available → time lost chasing",
+"Mismatch between player level and session structure"
+],
+"solutions_progressives": {
+"debutant": [
+"Begin with 1–2 hrs/week; prioritize fun and continuity; add holiday blocks.",
+"Track strokes per hour; aim to increase via baskets/multiball."
+],
+"intermediaire": [
+"Target regular weekly rhythm (e.g., 3–5 sessions); choose groups that maximize ball contacts.",
+"Use blocks with clear goals (serve, receive, movement)."
+],
+"avance": [
+"Expect ~1,000+ hrs to truly consolidate basics; schedule intensives and 1-to-1 as accelerators."
+]
+},
+"exercices_complementaires": [
+{
+"nom": "Strokes-per-hour tracker",
+"description": "Count reps in 5-min samples to estimate total strokes per session; optimize for more quality contacts.",
+"difficulte": "all levels",
+"duree": "entire session",
+"materiel": "clicker or app"
+}
+],
+"metriques_progression": [
+"Strokes/hour trending upward",
+"Reduction in idle time per session"
+],
+"erreurs_a_eviter": [
+"Chasing ‘hours’ without measuring rep quality",
+"Judging a session by match wins rather than development goals"
+],
+"source_url": "[https://www.experttabletennis.com/table-tennis-training-tips-for-parents/](https://www.experttabletennis.com/table-tennis-training-tips-for-parents/)"
+},
+{
+"probleme": "When to go ‘all-in’ vs multi-sport balance",
+"diagnostic": "Time/energy clashes arise; external pressures build; selection conflicts in team sports.",
+"causes_communes": [
+"Over-committed calendar across sports + academics",
+"Unclear long-term goals and candid feedback channels"
+],
+"solutions_progressives": {
+"debutant": [
+"Maintain multi-sport for general athleticism while interest forms."
+],
+"intermediaire": [
+"At tipping point, gather candid input from coaches/parents; evaluate opportunities and player’s love for the sport."
+],
+"avance": [
+"If choosing table tennis, accept travel increases and individual-sport accountability; set staged goals with review dates."
+]
+},
+"exercices_complementaires": [
+{
+"nom": "Season planning workshop",
+"description": "Sit with player/coach to map training blocks, travel, school load; mark decision checkpoints.",
+"difficulte": "all levels",
+"duree": "60–90 min",
+"materiel": "calendar"
+}
+],
+"metriques_progression": [
+"Adherence to planned blocks",
+"Player motivation/energy scores across term"
+],
+"erreurs_a_eviter": [
+"Letting external pressures force premature specialization",
+"Ignoring the player’s enjoyment and desire to compete"
+],
+"source_url": "[https://www.experttabletennis.com/table-tennis-training-tips-for-parents/](https://www.experttabletennis.com/table-tennis-training-tips-for-parents/)"
+}
+]
+}
+}

@@ -1,0 +1,511 @@
+{
+"meta": {
+"article_title": "Table Tennis Coaching – Tips for Parents",
+"article_slug": "table_tennis_coaching_tips_for_parents",
+"source_url": "[https://www.experttabletennis.com/table-tennis-coaching-tips-for-parents/](https://www.experttabletennis.com/table-tennis-coaching-tips-for-parents/)",
+"date_accessed": "unknown"
+},
+"meta_extra": {
+"article_title": "Is Intra-Team Competition Beneficial in Table Tennis?",
+"article_slug": "intra_team_competition_table_tennis",
+"source_url": "[https://www.experttabletennis.com/intra-team-competition-table-tennis/](https://www.experttabletennis.com/intra-team-competition-table-tennis/)",
+"date_accessed": "unknown"
+},
+"terminologie_extrait": [
+{
+"terme": "Licence/qualification coach (UKCC, niveaux 1–4)",
+"definition": "Système de certification des entraîneurs (ex. Table Tennis England) incluant vérifs de sécurité & assurance.",
+"contexte": "Utile pour trouver/valider un coach près de chez vous."
+},
+{
+"terme": "Multi-balles (multiball)",
+"definition": "Méthode d’entraînement où le coach alimente rapidement une série de balles.",
+"contexte": "Très efficace en leçon individuelle pour accélérer les répétitions."
+},
+{
+"terme": "One-to-one (leçon individuelle)",
+"definition": "Séance personnalisée entre un entraîneur et un seul joueur.",
+"contexte": "Coût plus élevé mais feedback ciblé; souvent 1h/sem. recommandée pour progresser."
+},
+{
+"terme": "Corner coaching",
+"definition": "Coaching en match (fin de set/temps mort; désormais plus ouvert selon les règles locales).",
+"contexte": "À bas niveau, le soutien émotionnel prime; à haut niveau, ajustements tactiques."
+},
+{
+"terme": "Joueur « coachable »",
+"definition": "Athlète à l’écoute, appliqué, qui répond aux consignes et aime apprendre.",
+"contexte": "Très recherché par les coachs; facilite les progrès."
+},
+{
+"terme": "e-coaching / vidéo",
+"definition": "Analyse et conseils à distance via enregistrements des matches/séances.",
+"contexte": "Particulièrement utile si le coach n’est pas local."
+},
+{
+"terme": "Stages / training camps",
+"definition": "Blocs intensifs (week-end/vacances) avec volume d’entraînement élevé.",
+"contexte": "Permettent un ‘boost’ de niveau et de nouveaux partenaires/coachings."
+},
+{
+"terme": "Compétition intra-équipe",
+"definition": "Concurrence pour les places au sein d’un même club/équipe.",
+"contexte": "Peut motiver mais nécessite règles claires pour rester saine."
+}
+],
+"problemes_solutions": {
+"table_tennis_coaching_tips_for_parents": [
+{
+"probleme": "Trouver un coach fiable et adapté (où, qui, combien).",
+"diagnostic": "Offre hétérogène selon la localisation et le budget; difficile de s’y retrouver dans les qualifications.",
+"causes_communes": [
+"Peu de coachs proches ou rotation fréquente",
+"Confusion entre niveau de jeu et compétence pédagogique",
+"Vérifications (licence, assurance, sécurité) non faites"
+],
+"solutions_progressives": {
+"debutant": [
+"Commencer par l’école/le club local; vérifier licence/qualifs via la fédé.",
+"Tester 2–3 séances pour ‘fit’ pédagogique et ambiance."
+],
+"intermediaire": [
+"Élargir le rayon (trajets partagés) pour accéder à de meilleurs groupes.",
+"Mixer un club principal + séances ponctuelles chez un spécialiste."
+],
+"avance": [
+"Constituer un ‘staff’ hybride (coach club + spécialiste service + préparateur mental).",
+"Contrat clair (objectifs, dispo tournois, tarifs, annulations)."
+]
+},
+"exercices_complementaires": [
+{
+"nom": "Check-list recrutement coach",
+"description": "Modèle de 10 questions : licence valide, expérience jeunes, approche technique/tactique, dispo en tournoi, références.",
+"difficulte": "tous niveaux",
+"duree": "20 min",
+"materiel": "fiche imprimée"
+}
+],
+"metriques_progression": [
+"Assiduité et plaisir de l’enfant (auto-note 1–10)",
+"Stabilité du coach (≥ 3 mois sans rupture)",
+"Progrès visibles sur 1–2 objectifs techniques"
+],
+"erreurs_a_eviter": [
+"Choisir un ‘grand joueur’ qui n’enseigne pas bien",
+"Ignorer les aspects sécurité/assurance"
+],
+"source_url": "[https://www.experttabletennis.com/table-tennis-coaching-tips-for-parents/](https://www.experttabletennis.com/table-tennis-coaching-tips-for-parents/)"
+},
+{
+"probleme": "Ne pas ‘juger le livre à sa couverture’.",
+"diagnostic": "Les niveaux de jeu/qualifs ne prédisent pas à eux seuls l’efficacité d’un coach.",
+"causes_communes": [
+"Biais d’aura (ex-international perçu comme meilleur enseignant)",
+"Peu d’observations sur la gestion d’un groupe d’enfants"
+],
+"solutions_progressives": {
+"debutant": [
+"Observer une séance : rythme, consignes simples, sécurité, engagement des enfants.",
+"Demander un essai court avant engagement."
+],
+"intermediaire": [
+"Recueillir retours d’autres parents/joueurs sur 3 points : clarté, feedback, progression.",
+"Regarder comment le coach corrige (méthodique vs. ‘juste jouer’)."
+],
+"avance": [
+"Évaluer la planification du coach (cycles, objectifs, suivi vidéo).",
+"Aligner philosophies (technique, tactique, mental)."
+]
+},
+"exercices_complementaires": [
+{
+"nom": "Grille d’observation coach (15’)",
+"description": "Coter 1–5 : structure de séance, sécurité, individualisation, feedback, motivation.",
+"difficulte": "tous niveaux",
+"duree": "15 min",
+"materiel": "grille"
+}
+],
+"metriques_progression": [
+"Score moyen de la grille ≥ 18/25",
+"Nombre de corrections techniques pertinentes par séance"
+],
+"erreurs_a_eviter": [
+"Signer long terme sans essai",
+"Confondre démonstration brillante et pédagogie"
+],
+"source_url": "[https://www.experttabletennis.com/table-tennis-coaching-tips-for-parents/](https://www.experttabletennis.com/table-tennis-coaching-tips-for-parents/)"
+},
+{
+"probleme": "Communication triangle parent-joueur-coach.",
+"diagnostic": "Attentes non alignées → tensions (ex. demande de passer de groupe).",
+"causes_communes": [
+"Briefing rare, feedback flou",
+"Objectifs non écrits",
+"Parent trop interventionniste pendant la séance"
+],
+"solutions_progressives": {
+"debutant": [
+"Point 10 min / mois avec le coach (sans interrompre la séance).",
+"Objectifs SMART trimestriels (technique, habiletés, attitude)."
+],
+"intermediaire": [
+"Journal d’entraînement partagé (2 forces, 1 axe/sem.).",
+"Règles de bord terrain : parent observe, coach entraîne."
+],
+"avance": [
+"Débrief post-tournoi structuré (ce qui marche/à corriger/suivi).",
+"Inclure le joueur dans les décisions pour l’autonomie."
+]
+},
+"exercices_complementaires": [
+{
+"nom": "Réunion 3-côtés 30’",
+"description": "Fixer 3 objectifs/12 semaines + critères de réussite + rôles de chacun.",
+"difficulte": "tous niveaux",
+"duree": "30 min",
+"materiel": "fiche objectifs"
+}
+],
+"metriques_progression": [
+"Atteinte des objectifs (≥ 2/3/trimestre)",
+"Satisfaction des 3 parties (auto-note 1–10)"
+],
+"erreurs_a_eviter": [
+"Coacher par-dessus le coach",
+"Changer souvent d’entraîneur au 1er désaccord"
+],
+"source_url": "[https://www.experttabletennis.com/table-tennis-coaching-tips-for-parents/](https://www.experttabletennis.com/table-tennis-coaching-tips-for-parents/)"
+},
+{
+"probleme": "Rendre l’enfant plus « coachable ».",
+"diagnostic": "Même top coach ≠ progrès si le joueur n’écoute pas ou ne s’entraîne pas.",
+"causes_communes": [
+"Motivation extrinsèque uniquement",
+"Manque d’écoute/prise de notes",
+"Habitudes d’entraînement irrégulières"
+],
+"solutions_progressives": {
+"debutant": [
+"Instaurer la règle ‘écoute-répète-montre’ pour chaque consigne.",
+"Tenir un mini carnet (1 astuce/ séance)."
+],
+"intermediaire": [
+"Auto-évaluation post-séance (⭐️⭐️⭐️ + 1 point à bosser).",
+"Rituels d’échauffement et de récupération constants."
+],
+"avance": [
+"Fixer une ‘quête’ personnelle (ex. 1 000 topspins/semaine).",
+"Rechercher activement feedbacks et demander des tâches."
+]
+},
+"exercices_complementaires": [
+{
+"nom": "Boucle ‘feedback → action’",
+"description": "Coach donne 1 correction; le joueur décrit la consigne en ses mots et exécute 10 répétitions filmées.",
+"difficulte": "tous niveaux",
+"duree": "10 min",
+"materiel": "smartphone"
+}
+],
+"metriques_progression": [
+"Taux d’application des consignes (> 80% en séance)",
+"Régularité (séances/semaine)"
+],
+"erreurs_a_eviter": [
+"Offrir des solutions au lieu de laisser l’enfant formuler",
+"Sanctionner l’erreur expérimentale"
+],
+"source_url": "[https://www.experttabletennis.com/table-tennis-coaching-tips-for-parents/](https://www.experttabletennis.com/table-tennis-coaching-tips-for-parents/)"
+},
+{
+"probleme": "Leçons individuelles : quand, combien, comment maximiser le ROI.",
+"diagnostic": "Coût 5–20× supérieur au groupe; charge physique/mentale pour jeunes joueurs.",
+"causes_communes": [
+"Séances trop longues sans pauses",
+"Arriver ‘à froid’ → temps perdu",
+"Pas d’intégration au travail de groupe"
+],
+"solutions_progressives": {
+"debutant": [
+"Format court & fréquent (30–45’), échauffé AVANT l’heure.",
+"Objectif unique par séance (ex. poussette BH)."
+],
+"intermediaire": [
+"Co-leçon à 2 (tourner multi-balles/ramassage).",
+"Relier la leçon à 2–3 tâches à refaire en club la semaine."
+],
+"avance": [
+"Bloc intensif pré-compétition (2–3 leçons/10 jours).",
+"Suivi vidéo + plan d’exercices de transfert."
+]
+},
+"exercices_complementaires": [
+{
+"nom": "Starter 10’ hors chrono",
+"description": "Arriver 15’ avant : 5’ mobilité + 5’ drives progressifs pour démarrer pile à l’heure.",
+"difficulte": "tous niveaux",
+"duree": "10–15 min",
+"materiel": "élastiques/balles"
+}
+],
+"metriques_progression": [
+"Temps effectif de frappe/60’ (≥ 45’)",
+"Transfert : réussite de l’objectif en jeu réel la semaine suivante"
+],
+"erreurs_a_eviter": [
+"Enchainer >60’ intensifs avec un enfant sans rotation",
+"Multiplier les thèmes dans une même leçon"
+],
+"source_url": "[https://www.experttabletennis.com/table-tennis-coaching-tips-for-parents/](https://www.experttabletennis.com/table-tennis-coaching-tips-for-parents/)"
+},
+{
+"probleme": "Coaching en tournoi (corner & time-outs).",
+"diagnostic": "Le coaching en match est désormais courant et peut influencer l’issue.",
+"causes_communes": [
+"Temps mort pris trop tard",
+"Messages trop longs/techniques",
+"Oubli hydratation/énergie"
+],
+"solutions_progressives": {
+"debutant": [
+"Script 30 s : respirer → 1 consigne simple → mot-clé (‘calme’/‘agis’).",
+"Prendre TM tôt sur série négative ou pour fermer un set."
+],
+"intermediaire": [
+"2 ‘plays’ prêts (service+3e, retour+4e).",
+"Checklist ravito : boisson + snack entre matchs."
+],
+"avance": [
+"Adapter au profil (joueur ‘à exciter’ vs ‘à apaiser’).",
+"Débrief 3 points forts / 1 axe après chaque match."
+]
+},
+"exercices_complementaires": [
+{
+"nom": "Simu temps-mort 6–8",
+"description": "À l’entraînement, pause 45 s avec script; reprendre sur le ‘play’ défini.",
+"difficulte": "intermédiaire",
+"duree": "15–20 min",
+"materiel": "chrono"
+}
+],
+"metriques_progression": [
+"Points gagnés juste après TM",
+"Clarté du message (1 idée clé / pause)"
+],
+"erreurs_a_eviter": [
+"Coacher technique fine à 10–10",
+"Transmettre stress/colère"
+],
+"source_url": "[https://www.experttabletennis.com/table-tennis-coaching-tips-for-parents/](https://www.experttabletennis.com/table-tennis-coaching-tips-for-parents/)"
+},
+{
+"probleme": "Exploiter e-coaching et vidéo.",
+"diagnostic": "Coach non disponible sur place; besoin de feedbacks entre tournois.",
+"causes_communes": [
+"Vidéos inutilisables (angle, instable)",
+"Partage difficile"
+],
+"solutions_progressives": {
+"debutant": [
+"Filmer en fond de table, angle haut si possible; 1 match sur 2.",
+"Partager via cloud (lien + minuteurs des points clés)."
+],
+"intermediaire": [
+"Demander 3 actions concrètes du coach à travailler.",
+"Comparer avant/après sur 4 semaines."
+],
+"avance": [
+"Bibliothèque ‘styles d’adversaires’ (serveur latéral, bloqueur, topeur).",
+"Annotations vidéo (chapitres: service/retour/rallye)."
+]
+},
+"exercices_complementaires": [
+{
+"nom": "Auto-analyse 10’",
+"description": "Noter 3 points positifs, 1 chose à améliorer + 1 clip illustratif.",
+"difficulte": "tous niveaux",
+"duree": "10 min",
+"materiel": "cloud/app notes"
+}
+],
+"metriques_progression": [
+"Nombre de clips exploitables/mois",
+"Taux de mise en œuvre des 3 actions"
+],
+"erreurs_a_eviter": [
+"Filmer sans autorisation",
+"Noyer le coach sous des heures de vidéo non triées"
+],
+"source_url": "[https://www.experttabletennis.com/table-tennis-coaching-tips-for-parents/](https://www.experttabletennis.com/table-tennis-coaching-tips-for-parents/)"
+},
+{
+"probleme": "Planifier la saison et intégrer des stages.",
+"diagnostic": "Sans plan, dépenses et fatigue s’emballent; stages mal placés = peu d’impact.",
+"causes_communes": [
+"Décisions au coup par coup",
+"Pas de périodisation (entraînement/compétition/repos)"
+],
+"solutions_progressives": {
+"debutant": [
+"Tracer un trimestre : 2–3 compets + 1 stage vacances.",
+"Fixer 3 priorités budgétaires (club, 1-to-1, stage)."
+],
+"intermediaire": [
+"Périodiser (charge ↑ avant stage; taper fort pendant; assimilation après).",
+"Choisir stages avec multi-balles, partenaires variés, coachs reconnus."
+],
+"avance": [
+"Plan annuel pointant 2 pics (qualifs/nationaux); mini-camps 10–14 j avant.",
+"Debrief chiffré post-stage (volumes, thèmes acquis)."
+]
+},
+"exercices_complementaires": [
+{
+"nom": "Calendrier Gantt simple",
+"description": "Colorer semaines en entraînement/compétition/repos/stage; ajuster 6–8 semaines d’avance.",
+"difficulte": "intermédiaire",
+"duree": "45 min",
+"materiel": "tableur ou agenda"
+}
+],
+"metriques_progression": [
+"Heures frappes/mois",
+"Objectifs stage atteints (≥ 2/3)",
+"Énergie perçue (éviter surmenage)"
+],
+"erreurs_a_eviter": [
+"Enchainer stage + gros tournoi sans récupération",
+"Choisir un stage ‘prestige’ sans correspondance d’âge/niveau"
+],
+"source_url": "[https://www.experttabletennis.com/table-tennis-coaching-tips-for-parents/](https://www.experttabletennis.com/table-tennis-coaching-tips-for-parents/)"
+}
+],
+"intra_team_competition_table_tennis": [
+{
+"probleme": "Mettre en place une compétition interne saine (motivation sans dégâts).",
+"diagnostic": "La lutte pour les places peut doper l’effort mais aussi nuire à la cohésion.",
+"causes_communes": [
+"Objectifs inatteignables → découragement",
+"Ambiguïtés de sélection → sentiment d’injustice",
+"Culture d’équipe faible"
+],
+"solutions_progressives": {
+"debutant": [
+"Clarifier la règle de sélection (forme actuelle + effort à l’entraînement).",
+"Objectifs personnels progressifs (ex. gagner la place en D2 avant D1)."
+],
+"intermediaire": [
+"Bâtir une identité club (tenues, présence les jours de match, support).",
+"Fixer des buts d’équipe co-construits (montée, fair-play, entraide)."
+],
+"avance": [
+"Tableau transparent d’indicateurs (assiduité, résultats, implication).",
+"Revue mensuelle + médiation rapide aux 1ers signes de tension."
+]
+},
+"exercices_complementaires": [
+{
+"nom": "Charte d’équipe",
+"description": "Rédiger 10 lignes : critères de sélection, comportements attendus, gestion des conflits.",
+"difficulte": "tous niveaux",
+"duree": "45 min",
+"materiel": "document partagé"
+}
+],
+"metriques_progression": [
+"Perception d’équité (sondage 1–10)",
+"Assiduité & intensité à l’entraînement",
+"Incidents comportementaux (tendance ↓)"
+],
+"erreurs_a_eviter": [
+"Sélection à la réputation ‘historique’",
+"Laisser pourrir les conflits latents"
+],
+"source_url": "[https://www.experttabletennis.com/intra-team-competition-table-tennis/](https://www.experttabletennis.com/intra-team-competition-table-tennis/)"
+},
+{
+"probleme": "Éviter l’égoïsme et la détérioration des relations.",
+"diagnostic": "Compétition interne mal gérée → joueurs se desservent, ambiance se dégrade.",
+"causes_communes": [
+"Enjeux personnels > objectifs collectifs",
+"Peu d’activités ‘liant’ le groupe"
+],
+"solutions_progressives": {
+"debutant": [
+"Rappeler la règle d’or : aider un partenaire ≠ s’affaiblir; on progresse ensemble.",
+"Doubles obligatoires avec partenaires tournants."
+],
+"intermediaire": [
+"Sessions ‘entraîne ton rival’ : chacun prépare 1 exercice pour l’autre.",
+"Événements sociaux réguliers (repas, défis fun)."
+],
+"avance": [
+"Pairs ‘buddies’ (responsables l’un de l’autre pour échauffement/retour au calme).",
+"Sanctions douces si sabotage/irrespect (siège, match suspendu)."
+]
+},
+"exercices_complementaires": [
+{
+"nom": "Défi coopératif 50",
+"description": "Atteindre 50 échanges en CD/BH en duo; si échec, recommencer; chronométrer les progrès.",
+"difficulte": "débutant/intermédiaire",
+"duree": "15–20 min",
+"materiel": "table/balles"
+}
+],
+"metriques_progression": [
+"Nombre d’exos coopératifs réussis/séance",
+"Qualité perçue de l’ambiance (1–10)"
+],
+"erreurs_a_eviter": [
+"Humilier publiquement pour ‘motiver’",
+"Tolérer les piques/sabotages en silence"
+],
+"source_url": "[https://www.experttabletennis.com/intra-team-competition-table-tennis/](https://www.experttabletennis.com/intra-team-competition-table-tennis/)"
+},
+{
+"probleme": "Quand la compétition interne n’est pas souhaitable.",
+"diagnostic": "Certaines équipes/âges réagissent mal; charge mentale élevée.",
+"causes_communes": [
+"Contexte éducatif/loisir prioritaire",
+"Styles de personnalité incompatibles"
+],
+"solutions_progressives": {
+"debutant": [
+"Rotation fixe équitable des compositions d’équipe.",
+"Mettre l’accent sur objectifs techniques plutôt que hiérarchie."
+],
+"intermediaire": [
+"Évaluer périodiquement la tolérance à la compétition (sondages anonymes).",
+"Introduire de micro-défis sans enjeu de place (challenges techniques)."
+],
+"avance": [
+"Si besoin, cloisonner groupes ‘performance’ et ‘loisir’ avec passerelles claires.",
+"Solliciter un psychologue du sport pour cadrer une mise en concurrence future."
+]
+},
+"exercices_complementaires": [
+{
+"nom": "Sondage pouls d’équipe",
+"description": "3 questions anonymes mensuelles sur pression ressentie, justice, plaisir.",
+"difficulte": "tous niveaux",
+"duree": "5 min",
+"materiel": "formulaire"
+}
+],
+"metriques_progression": [
+"Plaisir moyen ≥ 7/10",
+"Taux de rétention des joueurs"
+],
+"erreurs_a_eviter": [
+"Imposer un ‘classement interne’ permanent à tout prix",
+"Changer les règles de sélection sans préavis"
+],
+"source_url": "[https://www.experttabletennis.com/intra-team-competition-table-tennis/](https://www.experttabletennis.com/intra-team-competition-table-tennis/)"
+}
+]
+}
+}

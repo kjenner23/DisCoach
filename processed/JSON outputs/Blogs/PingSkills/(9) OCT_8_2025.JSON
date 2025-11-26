@@ -1,0 +1,165 @@
+```json
+{
+  "table_tennis_coaching_context": {
+    "source": "PingSkills blog (compiled)",
+    "last_updated": "2025-10-02",
+    "categories": [
+      {
+        "name": "Strength & Conditioning",
+        "entries": [
+          {
+            "title": "Strength Conditioning for Table Tennis",
+            "source_url": "https://www.pingskills.com/blog/strength-conditioning-for-table-tennis",
+            "date_accessed": "2025-10-02",
+            "summary": "Why S&C matters in TT despite light bat/ball: you need a strong base to generate racket speed, move/stop quickly, and protect joints during braking after strokes.",
+            "key_points": [
+              "“You can’t shoot a cannon out of a canoe”: structural strength underpins power and speed.",
+              "TT endurance is stop–start (not marathon); power is speed-strength (not max powerlifting).",
+              "Joint braking strength (knees/ankles/hips/shoulders/trunk) is injury-preventive after fast actions.",
+              "Contextual ball-speed comparisons show reaction-time demands despite slower measured terminal speed."
+            ],
+            "practice_guidelines": [
+              "Prioritise lower-body/hip-trunk strength, deceleration control, and repeated high-intensity efforts.",
+              "Blend muscular + cardiovascular endurance specific to rallies (interval style).",
+              "Plan S&C to complement, not replace, technical work."
+            ]
+          },
+          {
+            "title": "Strength Conditioning for Table Tennis Part 2",
+            "source_url": "https://www.pingskills.com/blog/strength-conditioning-for-table-tennis-part-2",
+            "date_accessed": "2025-10-02",
+            "summary": "Deep dive on specificity (SAID). TT needs mixed qualities—strength, power, flexibility, agility, intermittent endurance—so training must target what the sport actually demands.",
+            "specificity_principles": [
+              "Muscle groups: prioritise legs/hips/core for court movement; arms are ‘appendages’.",
+              "Direction of force: train movement vectors you use (e.g., deltoid forward action for FH topspin).",
+              "Range of motion: develop through at least sport ROM; include some full-ROM work to maintain mobility and cover rare extremes.",
+              "Duration/profile: build intermittent endurance matching rally/point structure rather than continuous long-distance work."
+            ],
+            "applied_drills": [
+              "Shadow-play endurance using a 3×3 court grid (1–9) with coach calls (e.g., ‘drop’, ‘FH 3’, ‘FH 9’).",
+              "Set ‘let’ calls after the average rally length for the player group; repeat 20 points (11–9) × 7 with ~1-minute breaks to simulate match volume.",
+              "Use heavier/lower-rep lunges for braking/strength, lighter/lunging circuits for endurance.",
+              "Focus on power and joint strength—not bodybuilder hypertrophy."
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Global Rankings & Landscape",
+        "entries": [
+          {
+            "title": "Where We Stand",
+            "source_url": "https://www.pingskills.com/blog/where-we-stand",
+            "date_accessed": "2025-10-02",
+            "summary": "Country-level strength snapshot (via tabletennis.guide ratings): China leads by a large margin; big depth gaps separate top nations from mid-tier countries.",
+            "men_highlights": [
+              "China Top-3 avg ≈ 3231; Germany ≈ 2665; Japan ≈ 2660.",
+              "Australia Top-3 ≈ 1396 (46th); all-ranked average ≈ 932 (≈70th)."
+            ],
+            "women_highlights": [
+              "China Top-3 ≈ 3288; Japan ≈ 3003; Singapore ≈ 2906.",
+              "Australia Top-3 ≈ 1738 (40th); all-ranked ≈ 999 (≈69th)."
+            ],
+            "coaching_takeaways": [
+              "Depth building (beyond top 3) is the major differentiator.",
+              "Benchmarking helps set realistic program goals and funding priorities."
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Player Traits & Handedness",
+        "entries": [
+          {
+            "title": "Left handers",
+            "source_url": "https://www.pingskills.com/blog/left-handers",
+            "date_accessed": "2025-10-02",
+            "summary": "Humorous ode to lefties + a real doubles insight: elite MD pairs overwhelmingly mix left- and right-handers.",
+            "key_point": "Complementary angles/serve–receive patterns make L/R pairings highly effective in doubles.",
+            "note": "Fun, motivational tone; includes pop-culture and historical lefties."
+          }
+        ]
+      },
+      {
+        "name": "Community, Content & Services",
+        "entries": [
+          {
+            "title": "PingSkills T-Shirts",
+            "source_url": "https://www.pingskills.com/blog/pingskills-tshirts",
+            "date_accessed": "2025-10-02",
+            "summary": "Merch notice—shirts in navy/black/white."
+          },
+          {
+            "title": "Sergio finds a young Jeff",
+            "source_url": "https://www.pingskills.com/blog/sergio-finds-a-young-jeff",
+            "date_accessed": "2025-10-02",
+            "summary": "Community story: Sergio’s TT journey in Canberra + old photo of Jeff—club culture and nostalgia."
+          },
+          {
+            "title": "Premium Members: Send Us Your Video",
+            "source_url": "https://www.pingskills.com/blog/premium-members-send-us-your-video",
+            "date_accessed": "2025-10-02",
+            "summary": "Premium perk: upload a short match/practice clip for personalised analysis from Alois; linked example provided.",
+            "use_case": "Great for remote feedback loops on technique/tactics."
+          },
+          {
+            "title": "Are You This Roommate?",
+            "source_url": "https://www.pingskills.com/blog/are-you-this-roommate",
+            "date_accessed": "2025-10-02",
+            "summary": "Light entertainment: Pongfinity video share; engagement prompt about favorite ‘roommate’."
+          }
+        ]
+      },
+      {
+        "name": "Coaching Frameworks & Shows",
+        "entries": [
+          {
+            "title": "The 7 Building Blocks of Table Tennis",
+            "source_url": "https://www.pingskills.com/blog/the-7-building-blocks-of-table-tennis",
+            "date_accessed": "2025-10-02",
+            "summary": "PingSkills Show episode outlining seven core pillars; emphasis on cyclically revisiting each block. Tip/drill: backhand sidespin flick. ‘Remember when’ segment from 1991.",
+            "coaching_takeaway": "Use a pillar-based curriculum and keep rotating through blocks to prevent regression."
+          }
+        ]
+      },
+      {
+        "name": "Self-Training with Robots",
+        "entries": [
+          {
+            "title": "Learning Table Tennis with a Robot",
+            "source_url": "https://www.pingskills.com/blog/learning-table-tennis-with-a-robot",
+            "date_accessed": "2025-10-02",
+            "summary": "Gary Buck’s comprehensive solo-training blueprint using a Butterfly Amicus. Covers session structure, deliberate practice quality, robot limitations, and a staged progression from basic strokes to randomized play.",
+            "session_template": [
+              "Mobility + warm-up (basic drives, then light footwork).",
+              "Dedicated serve practice (bucket).",
+              "Core drill block (by stage)."
+            ],
+            "practice_quality": [
+              "Deliberate practice: motivated focus, doable challenge, immediate feedback, high-rep repetition.",
+              "‘Practice makes permanent’—avoid sloppy reps."
+            ],
+            "robot_caveats": [
+              "Robots lack human cues (stance, bat action); balls may vary slightly; often less reaction time when robot sits on table.",
+              "Mitigate by slowing feeds and moving robot back when training random reads."
+            ],
+            "stages": [
+              "Stage 1 – Stroke Basics: repeat single-ball feeds; add variations (spin/speed/placement) as consistency grows.",
+              "Stage 2 – Move to Strokes: two-point footwork (shuffle), in–out footwork for short balls; start placement targets.",
+              "Stage 3 – Combine Strokes & Complex Moves: 3- and 4-ball patterns (incl. Falkenberg), crossover steps, short–long sequences; mix spin types.",
+              "Stage 4 – Mix It Up: vary your returns within fixed patterns; vary received spins/speeds; add match-scenario drills (serve/receive chains).",
+              "Stage 5 – Randomization: random placement, spin, and middle (elbow) decisions; slow balls or move robot back to emphasize reading/decision speed.",
+              "Stage 6 – Practice Games & Strategy: apply skills with humans; use robot later to patch identified weaknesses."
+            ],
+            "coach_notes": [
+              "Always recover to neutral; emphasise balance over ball-chasing.",
+              "Integrate serve patterns that set up your strongest third ball.",
+              "Alternate ‘comfort’ reps with ‘edge’ reps to push adaptation."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
+```

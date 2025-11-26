@@ -1,0 +1,322 @@
+{
+"meta": {
+"article_title": "Table Tennis Competitions – Tips for Parents",
+"article_slug": "table_tennis_competitions_tips_for_parents",
+"source_url": "[https://www.experttabletennis.com/table-tennis-competitions-tips-for-parents](https://www.experttabletennis.com/table-tennis-competitions-tips-for-parents)",
+"date_accessed": "unknown"
+},
+"terminologie_extrait": [
+{
+"terme": "1* / 2* / 4*",
+"definition": "Niveaux d’épreuves individuelles nationales (4* = plus relevé, officiels, parfois dotation).",
+"contexte": "Choisir 1* au début, monter ensuite selon niveau et objectifs de classement."
+},
+{
+"terme": "Cadet / Junior League",
+"definition": "Ligues par équipes (U15/U18) jouées sur plusieurs journées avec beaucoup de matches.",
+"contexte": "Excellent tremplin après l’échelon club/école."
+},
+{
+"terme": "Points de classement",
+"definition": "Points gagnés/perdus selon résultats et pondérations de tournois.",
+"contexte": "Utile pour têtes de série/invitations nationales, mais ne doit pas dicter toutes les décisions."
+},
+{
+"terme": "Corner coaching",
+"definition": "Conseils autorisés à la fin des sets et pendant un temps mort (règles actuelles).",
+"contexte": "Un parent peut aider surtout sur le plan émotionnel et stratégique simple."
+}
+],
+"problemes_solutions": {
+"table_tennis_competitions_tips_for_parents": [
+{
+"probleme": "Par où commencer et comment progresser dans les compétitions ?",
+"diagnostic": "Chemin flou entre petites rencontres locales, ligues, opens 1*/2*/4*, sélections régionales/nationales et circuit ITTF.",
+"causes_communes": [
+"Trop de formats (poules/KO/ligues) et sigles à décoder",
+"Envie de ‘griller les étapes’ vers des tournois trop relevés",
+"Sur-focus sur le classement dès les débuts"
+],
+"solutions_progressives": {
+"debutant": [
+"Démarrer par compétitions école/club en poules (beaucoup de matches).",
+"Passer aux ligues cadets/juniors locales (format par équipes, journées multiples).",
+"Premiers opens 1* proches géographiquement."
+],
+"intermediaire": [
+"Ajouter 2* ; viser sorties de poule régulières avant de viser quarts/demi.",
+"Participer à journées de sélection département/région pour élargir l’expérience."
+],
+"avance": [
+"Cibler 4* choisis et éventuelles invitations nationales selon classement.",
+"Échanges internationaux ‘open/festivals’ pendant vacances pour variété d’adversaires."
+]
+},
+"exercices_complementaires": [
+{
+"nom": "Plan de saison ‘échelle’",
+"description": "Lister 2–3 événements par palier (club → ligue → 1*/2* → 4*), avec critères de passage.",
+"difficulte": "tous niveaux",
+"duree": "45–60 min",
+"materiel": "calendrier, fiches d’épreuves"
+}
+],
+"metriques_progression": [
+"Nombre moyen de matches par sortie",
+"Taux de sorties de poule",
+"Progression du niveau d’épreuves (1* → 2* → 4*) sans hausse excessive de défaites sèches"
+],
+"erreurs_a_eviter": [
+"S’inscrire d’emblée à des 4* lointains",
+"Laisser les points de classement dicter tout le calendrier"
+],
+"source_url": "[https://www.experttabletennis.com/table-tennis-competitions-tips-for-parents](https://www.experttabletennis.com/table-tennis-competitions-tips-for-parents)"
+},
+{
+"probleme": "Gérer les journées de tournoi (logistique & émotions).",
+"diagnostic": "Journées longues (matin → soir), environnement bruyant, premières expériences intimidantes.",
+"causes_communes": [
+"Sous-estimation de la durée/charge énergétique",
+"Réseau social faible (peu de repères/contacts)",
+"Implication parentale trop proche des décisions de table"
+],
+"solutions_progressives": {
+"debutant": [
+"Commencer par un seul tableau local pour ‘tester’ la journée.",
+"Check-list : hydratation, snacks, échauffement, horaires et numéros de tables.",
+"Laisser joueurs & marqueurs gérer le score ; aider l’organisation sans arbitrer le match de votre enfant."
+],
+"intermediaire": [
+"Construire un réseau de parents (co-voiturage, prêt d’hébergement).",
+"Routines entre points/sets (respiration, mot-cible) pour le joueur ; parent = calme & constant."
+],
+"avance": [
+"Simulation ‘journée complète’ à l’entraînement (9h–17h, pauses gérées).",
+"Plan d’acclimatation (voyage la veille si nécessaire)."
+]
+},
+"exercices_complementaires": [
+{
+"nom": "Pré-vol tournois",
+"description": "Revue 10 min avant le départ : inscriptions, tables, repas, temps morts, objectifs du jour.",
+"difficulte": "débutant",
+"duree": "10 min",
+"materiel": "check-list imprimée"
+}
+],
+"metriques_progression": [
+"Qualité de jeu notée tôt vs tard (auto-note 1–5)",
+"Aucun incident de table (scores, retards)",
+"Énergie perçue stable sur la journée"
+],
+"erreurs_a_eviter": [
+"Surcharger de tableaux dès la première sortie",
+"S’immiscer dans les litiges de table (laisser l’officiel/organisateur trancher)"
+],
+"source_url": "[https://www.experttabletennis.com/table-tennis-competitions-tips-for-parents](https://www.experttabletennis.com/table-tennis-competitions-tips-for-parents)"
+},
+{
+"probleme": "Budget : contenir les coûts & maximiser les ‘matches par £/€’.",
+"diagnostic": "Frais d’inscription, trajets, hébergements ; ratio coût/match peut exploser sur événements trop forts.",
+"causes_communes": [
+"Beaucoup d’épreuves lointaines au mauvais niveau",
+"Nuits d’hôtel fréquentes",
+"Sous-utilisation des ligues locales riches en matches"
+],
+"solutions_progressives": {
+"debutant": [
+"Prioriser ligues locales et 1* proches ; calculer ‘coût par match attendu’.",
+"Éviter 4* tant que sorties de poule en 2* non régulières."
+],
+"intermediaire": [
+"Mutualiser (co-voiturage, hébergement chez parents du réseau).",
+"Optimiser : si déplacement long, ajouter 1–2 tableaux pertinents (pas ‘trop haut’)."
+],
+"avance": [
+"Limiter le nombre d’opens ‘prestige’ ; cibler ceux stratégiques au classement.",
+"Suivre dépenses/sorties pour ajuster le mix compétitions."
+]
+},
+"exercices_complementaires": [
+{
+"nom": "Calculateur coût/match",
+"description": "Estimer matches probables par événement et diviser le coût total ; comparer options.",
+"difficulte": "tous niveaux",
+"duree": "15 min",
+"materiel": "tableur"
+}
+],
+"metriques_progression": [
+"Coût moyen par match",
+"Proportion d’événements à ≤ X €/match (seuil familial)"
+],
+"erreurs_a_eviter": [
+"Payer cher des épreuves où l’on sort rarement de poule",
+"Empiler nuits d’hôtel sans gains d’expérience proportionnels"
+],
+"source_url": "[https://www.experttabletennis.com/table-tennis-competitions-tips-for-parents](https://www.experttabletennis.com/table-tennis-competitions-tips-for-parents)"
+},
+{
+"probleme": "Fréquence de compétition : trop/pas assez.",
+"diagnostic": "Certain·e·s joueurs préfèrent matcher souvent ; d’autres se fatiguent/stressent vite.",
+"causes_communes": [
+"Calendrier figé trop loin à l’avance",
+"Aucun équilibre avec périodes d’entraînement et repos"
+],
+"solutions_progressives": {
+"debutant": [
+"Plan glissant 8–12 semaines avec 1 compétition/3–4 semaines.",
+"Rester flexible jusqu’aux dates limites d’inscription."
+],
+"intermediaire": [
+"Alterner blocs : entraînement intensif (2–3 sem.) → 1 week-end compet.",
+"Inclure semaines off pour récupération scolaire/familiale."
+],
+"avance": [
+"Périodiser en vue d’objectifs majeurs (qualifs/nationaux) ; mini-pics de forme.",
+"Revue mensuelle avec coach pour ajuster charge."
+]
+},
+"exercices_complementaires": [
+{
+"nom": "Calendrier périodisé",
+"description": "Colorer semaines en ‘entraînement’, ‘compétition’, ‘repos’; vérifier équilibrage.",
+"difficulte": "intermédiaire",
+"duree": "30–45 min",
+"materiel": "calendrier"
+}
+],
+"metriques_progression": [
+"Nombre de semaines consécutives sans repos (limiter)",
+"Score de motivation/énergie du joueur par semaine"
+],
+"erreurs_a_eviter": [
+"Enchaîner week-ends de tournois sans plages d’entraînement",
+"Imposer un rythme qui ne correspond pas au tempérament du joueur"
+],
+"source_url": "[https://www.experttabletennis.com/table-tennis-competitions-tips-for-parents](https://www.experttabletennis.com/table-tennis-competitions-tips-for-parents)"
+},
+{
+"probleme": "Évaluer la performance sans se limiter aux trophées.",
+"diagnostic": "Gains/pert es ne racontent pas tout ; besoin d’indicateurs simples et utiles au coach.",
+"causes_communes": [
+"Objectifs basés uniquement sur résultats/points de classement",
+"Peu de données (scores, vidéos) pour l’après-coup"
+],
+"solutions_progressives": {
+"debutant": [
+"Objectifs échelonnés : gagner 1 set → 1 match → 2 matches/jour.",
+"Suivre ratio points gagnés/perdus par match."
+],
+"intermediaire": [
+"Filmer matches clés (avec autorisation) ; revoir défaites récurrentes.",
+"Repérer domaines levier (ex. service/retour) à relayer au coach."
+],
+"avance": [
+"Tenir journal de tournoi avec tendances (débuts de set, 8–8, temps morts).",
+"Construire plans spécifiques vs styles/protagonistes récurrents."
+]
+},
+"exercices_complementaires": [
+{
+"nom": "Feuille de match ‘ratio points’",
+"description": "Noter score total et calculer % points gagnés ; suivre sur la saison.",
+"difficulte": "débutant",
+"duree": "5 min après match",
+"materiel": "fiche ou app"
+}
+],
+"metriques_progression": [
+"Ratio points gagnés (%) par niveau d’épreuve",
+"Objectif atteint (set/match/quart, etc.) par sortie"
+],
+"erreurs_a_eviter": [
+"Se focaliser sur le podium plutôt que sur les progrès mesurables",
+"Filmer sans autorisation / diffuser sans accord"
+],
+"source_url": "[https://www.experttabletennis.com/table-tennis-competitions-tips-for-parents](https://www.experttabletennis.com/table-tennis-competitions-tips-for-parents)"
+},
+{
+"probleme": "Corner coaching par le parent : quoi dire/faire ?",
+"diagnostic": "Les conseils techniques profonds ne s’apprennent pas entre deux sets ; l’impact émotionnel/stratégique prime.",
+"causes_communes": [
+"Temps mort pris trop tard",
+"Messages longs/complexes, ou ton émotionnel instable",
+"Hydratation/énergie négligées"
+],
+"solutions_progressives": {
+"debutant": [
+"Script 20–30 s : respirer, mot-cible (‘calme’/‘agis’), 1 consigne simple (ex. servir court RV).",
+"Prendre temps mort tôt sur série négative OU pour conclure sur balle de set avec ‘play’ défini."
+],
+"intermediaire": [
+"Banque de ‘plays’ simples (service + 3e balle ; retour + 4e) selon adversaire.",
+"Check ravitaillement : boisson + snack entre tours."
+],
+"avance": [
+"Cue émotionnel personnalisé (joueur plutôt ‘excité’ vs ‘posé’).",
+"Debrief froid post-match (3 choses à garder, 1 à corriger)."
+]
+},
+"exercices_complementaires": [
+{
+"nom": "Temps-mort simulé",
+"description": "À l’entraînement, arrêter à 6–8 et appliquer script court + play défini.",
+"difficulte": "intermédiaire",
+"duree": "15–20 min",
+"materiel": "partenaire, chrono"
+}
+],
+"metriques_progression": [
+"Efficacité temps mort (points suivants gagnés)",
+"Clarté des consignes (1 message clé par pause)"
+],
+"erreurs_a_eviter": [
+"Faire un cours technique complet à 10–10",
+"Montrer frustration/joie excessive qui déstabilise"
+],
+"source_url": "[https://www.experttabletennis.com/table-tennis-competitions-tips-for-parents](https://www.experttabletennis.com/table-tennis-competitions-tips-for-parents)"
+},
+{
+"probleme": "Préserver le plaisir & l’adhésion long terme.",
+"diagnostic": "Sans plaisir global (amis, voyages, progrès), la charge émotionnelle use parents et joueur.",
+"causes_communes": [
+"Calendrier dicté par ambitions parentales",
+"Peu d’écoute des préférences du joueur"
+],
+"solutions_progressives": {
+"debutant": [
+"Choisir des événements ‘positifs’ (format ligue, ambiance connue).",
+"Encourager les liens sociaux (réseau de parents/joueurs)."
+],
+"intermediaire": [
+"Mixer objectifs ‘performance’ et ‘plaisir’ (ex. festival international en vacances).",
+"Points de sortie si surcharge (possibilité d’annuler sans culpabiliser)."
+],
+"avance": [
+"Revue trimestrielle : ce qui est fun / ce qui ne l’est pas ; ajuster.",
+"Laisser l’athlète conduire les choix majeurs quand prêt."
+]
+},
+"exercices_complementaires": [
+{
+"nom": "Thermomètre de plaisir",
+"description": "Après chaque compétition, noter 1–10 ‘plaisir global’ et raison ; agir si tendance ↓.",
+"difficulte": "tous niveaux",
+"duree": "2 min",
+"materiel": "journal"
+}
+],
+"metriques_progression": [
+"Score de plaisir moyen par trimestre",
+"Taux de participation volontaire (le joueur veut y aller)"
+],
+"erreurs_a_eviter": [
+"Imposer ambitions non partagées",
+"Rendre chaque sortie ‘critique’ pour le classement"
+],
+"source_url": "[https://www.experttabletennis.com/table-tennis-competitions-tips-for-parents](https://www.experttabletennis.com/table-tennis-competitions-tips-for-parents)"
+}
+]
+}
+}

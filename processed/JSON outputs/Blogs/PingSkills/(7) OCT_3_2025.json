@@ -1,0 +1,391 @@
+{
+    "table_tennis_coaching_context": {
+        "source": "PingSkills blog (compiled)",
+        "last_updated": "2025-10-02",
+        "categories": [
+            {
+                "name": "Technique: Grips",
+                "entries": [
+                    {
+                        "title": "Mastering Table Tennis Grips: Shakehand vs. Penhold – Which Is Right for You?",
+                        "source_url": "https://www.pingskills.com/blog/mastering-table-tennis-grips-shakehand-vs-penhold-which-is-right-for-you",
+                        "date_accessed": "2025-10-02",
+                        "summary": "Compares the two primary grips, explains how to hold each correctly, pros/cons, common errors, and simple grip-control drills.",
+                        "grips": {
+                            "shakehand": {
+                                "how_to": [
+                                    "Hold the handle like a handshake; handle sits in palm.",
+                                    "Index finger rests slightly along the backhand rubber edge (not too far).",
+                                    "Thumb rests lightly on the opposite side of the handle.",
+                                    "Keep the grip relaxed for flexibility and control."
+                                ],
+                                "advantages": [
+                                    "Balanced forehand/backhand with smooth transitions.",
+                                    "Excellent reach and range of motion.",
+                                    "Well-suited to topspin-oriented offense."
+                                ],
+                                "common_mistakes": [
+                                    "Squeezing too tightly → reduced wrist mobility.",
+                                    "Index finger extended too far onto rubber → limits backhand control.",
+                                    "Locked wrist → less variation and feel."
+                                ]
+                            },
+                            "penhold": {
+                                "how_to": [
+                                    "Pinch the handle with thumb and index finger like a pen.",
+                                    "Rest remaining fingers on the back of the blade.",
+                                    "Keep wrist loose to maximize spin and dexterity."
+                                ],
+                                "advantages": [
+                                    "Enhanced wrist mobility for quick spin/flicks.",
+                                    "Powerful forehand with unique angles.",
+                                    "Strong for close-to-table, fast exchanges."
+                                ],
+                                "common_mistakes": [
+                                    "Overly rigid fingers → limits wrist.",
+                                    "Overreliance on forehand; neglecting backhand development.",
+                                    "Holding too low on the handle → less control."
+                                ]
+                            }
+                        },
+                        "which_grip_guidance": "Choose Shakehand for a balanced two-wing game; choose Penhold for wrist-driven, close-to-table attacking. Trial both in practice.",
+                        "drills": [
+                            "Shadow strokes in front of a mirror to check hand position.",
+                            "Ball control: bounce a ball on the racket for 30 seconds with each grip, varying spin and height."
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Rules",
+                "entries": [
+                    {
+                        "title": "The Rules of Table Tennis (Quick Reference)",
+                        "source_url": "https://www.pingskills.com/blog/the-rules-of-table-tennis",
+                        "date_accessed": "2025-10-02",
+                        "summary": "Plain-English overview of scoring, match format, equipment specs, service/return, doubles, and common FAQs.",
+                        "scoring": {
+                            "game": "First to 11, must win by 2 if 10–10.",
+                            "match": "Best of an odd number of games (e.g., 1, 3, 5, or 7).",
+                            "service_rotation": "Serve changes every 2 points; at 10–10 it alternates every point.",
+                            "intervals": "Max 1 minute between games."
+                        },
+                        "equipment": {
+                            "table": "2.74 m x 1.525 m; height 76 cm; sides are NOT part of the playing surface.",
+                            "net": "15.25 cm high along entire length.",
+                            "ball": "40 mm plastic/celluloid; white or orange.",
+                            "racket": "Any size/shape; one side bright red, other a contrasting color."
+                        },
+                        "service": {
+                            "good_service_requirements": [
+                                "Ball rests freely on open, stationary palm behind end line and above the playing surface.",
+                                "Toss near-vertically at least 16 cm with no spin.",
+                                "Ball must first bounce on server’s court, then over/around net to receiver’s court.",
+                                "Ball must be visible to receiver throughout."
+                            ],
+                            "good_return": "Ball passes over/around net and lands on opponent’s court (directly or via net)."
+                        },
+                        "doubles": {
+                            "serve_path": "From server’s right half-court to receiver’s right half-court.",
+                            "order": "All players alternate hits; order changes at each service change and when ends change at 5 in the decider."
+                        },
+                        "points_awarded_if": [
+                            "Opponent fails to make a good service or good return.",
+                            "Ball touches anything other than the net before opponent hits it.",
+                            "Opponent obstructs the ball.",
+                            "Opponent moves the table or their free hand touches the playing surface.",
+                            "In doubles, opponent plays out of sequence."
+                        ],
+                        "common_questions": [
+                            { "q": "Is an edge/side hit in?", "a": "The white top line is IN; the side of the tabletop is OUT." },
+                            { "q": "Do you win at 7–0?", "a": "No. Games go to 11 (win by 2)." },
+                            { "q": "How many lets can you serve?", "a": "Unlimited; lets never lose a point." },
+                            { "q": "Can you lean or touch the table?", "a": "Your bat and body can touch; your NON-playing hand cannot touch the surface." },
+                            { "q": "Can you volley the ball?", "a": "Over the table = you lose the point; after the ball passes the end line = you win the point." }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Mindset & Long-Term Development",
+                "entries": [
+                    {
+                        "title": "Progress Isn’t Linear",
+                        "source_url": "https://www.pingskills.com/blog/progress-isnt-linear",
+                        "date_accessed": "2025-10-02",
+                        "summary": "Improvement comes with ups, downs, plateaus, and occasional regressions—similar to a plant growing unseen roots before new growth.",
+                        "key_points": [
+                            "Skill upgrades often feel worse before they feel better.",
+                            "Plateaus indicate consolidation, not failure.",
+                            "Reframe setbacks as data for the next leap.",
+                            "Patience and persistence unlock breakthroughs."
+                        ],
+                        "reflection_prompts": [
+                            "What can I learn from today’s struggles?",
+                            "Is there a technical flaw to address?",
+                            "Do I need a mental shift (focus, confidence, routines)?"
+                        ]
+                    },
+                    {
+                        "title": "Why Young Athletes Should Play Many Sports: Specialisation vs Generalisation",
+                        "source_url": "https://www.pingskills.com/blog/why-young-athletes-should-play-many-sports-specialisation-vs-generalisation",
+                        "date_accessed": "2025-10-02",
+                        "summary": "Generalising in youth builds broader physical literacy, reduces injury risk, maintains motivation, and supports long-term success.",
+                        "case_for_generalisation": [
+                            "Develops coordination, balance, strength, adaptability, decision-making.",
+                            "Reduces overuse injuries via varied movement patterns.",
+                            "Keeps sport fun; lowers burnout risk."
+                        ],
+                        "risks_of_early_specialisation": [
+                            "Higher overuse injury risk in developing bodies.",
+                            "Increased burnout and psychological fatigue.",
+                            "Anecdotal ‘early-specialist’ success is the exception."
+                        ],
+                        "guidance_for_parents_coaches": [
+                            "Encourage exploration of multiple sports in childhood.",
+                            "Aim for long-term love of activity over early wins.",
+                            "Let the athlete gravitate naturally when ready."
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Movement & Footwork",
+                "entries": [
+                    {
+                        "title": "The Secret to Consistency and Power: Table Tennis Footwork Explained",
+                        "source_url": "https://www.pingskills.com/blog/the-secret-to-consistency-and-power-table-tennis-footwork-explained",
+                        "date_accessed": "2025-10-02",
+                        "summary": "Footwork underpins balance, positioning, consistency, and power; elite players cover meters per rally by staying poised and efficient.",
+                        "why_footwork_matters": [
+                            "Right position = cleaner timing, higher consistency.",
+                            "Balanced base enables power (especially forehand loop).",
+                            "Efficient recovery separates advanced players."
+                        ],
+                        "common_challenges_and_fixes": [
+                            {
+                                "issue": "Standing flat-footed",
+                                "fix": "Shadow drills with slight forward lean; stay on balls of the feet."
+                            },
+                            {
+                                "issue": "Reaching with arm instead of moving",
+                                "fix": "Lead with feet; side-to-side shadow with integrated swings."
+                            },
+                            {
+                                "issue": "Poor weight distribution",
+                                "fix": "Random placement drills emphasizing recover-to-balance after each shot."
+                            }
+                        ],
+                        "drills": [
+                            "Side-to-side shadow movement (3×1-min sets; add racket swings).",
+                            "Two-point forehand (BH corner → FH corner loops; 10–15 reps per set).",
+                            "Random placement (coach/robot unpredictable feeds; recover to neutral each shot)."
+                        ],
+                        "habits": [
+                            "Warm up 5–10 minutes with footwork before strokes.",
+                            "During matches, consciously reset to a balanced stance after each shot.",
+                            "Track weekly success in random drills to measure progress."
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Skill Progression Roadmap",
+                "entries": [
+                    {
+                        "title": "From Beginner to Advanced: The Roadmap to Table Tennis Mastery",
+                        "source_url": "https://www.pingskills.com/blog/from-beginner-to-advanced-the-roadmap-to-table-tennis-mastery",
+                        "date_accessed": "2025-10-02",
+                        "summary": "Seven-stage progression: strokes → linking → randomisation → serve/return → match drills → match play → psychology.",
+                        "stages": [
+                            {
+                                "stage": 1,
+                                "name": "Basic Strokes",
+                                "focus": ["Forehand/backhand drives", "Grip, stance", "Intro footwork"],
+                                "key_drill": "Hit 100 FH and 100 BH drives consecutively."
+                            },
+                            {
+                                "stage": 2,
+                                "name": "Linking Strokes",
+                                "focus": ["Smooth transitions FH↔BH in rallies"],
+                                "key_drill": "Alternate FH/BH continuously to build rhythm."
+                            },
+                            {
+                                "stage": 3,
+                                "name": "Randomisation",
+                                "focus": ["Reacting to unpredictable placement", "Functional footwork"],
+                                "key_drill": "Add 1 random ball per pattern, increase randomness over time."
+                            },
+                            {
+                                "stage": 4,
+                                "name": "Serve & Return",
+                                "focus": ["Spin, length, placement variety", "Reading serves"],
+                                "key_drill": "Short/long serve variations followed by specific receive patterns."
+                            },
+                            {
+                                "stage": 5,
+                                "name": "Match Drills",
+                                "focus": ["Combination play", "Attack/defense transitions"],
+                                "key_drill": "Set-patterns: serve → third ball → rally → finish."
+                            },
+                            {
+                                "stage": 6,
+                                "name": "Match Play",
+                                "focus": ["Tactics vs styles", "In-game adaptation"],
+                                "key_drill": "Regular matches with targeted strategic objectives."
+                            },
+                            {
+                                "stage": 7,
+                                "name": "Psychology",
+                                "focus": ["Focus, confidence, pressure handling"],
+                                "key_exercise": "Pre-match visualisation and between-point routines."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Spin & Stroke Mechanics",
+                "entries": [
+                    {
+                        "title": "Topspin Explained: The Science Behind the Spin",
+                        "source_url": "https://www.pingskills.com/blog/topspin-explained-the-science-behind-the-spin",
+                        "date_accessed": "2025-10-02",
+                        "summary": "Defines topspin, why it matters, how to generate it, Magnus effect, key strokes, and practice guidance.",
+                        "why_topspin": [
+                            "Lets you hit harder with control (dip/clear net/land safely).",
+                            "Increases margin for error.",
+                            "Produces balls that are harder to counter cleanly."
+                        ],
+                        "mechanics": [
+                            "Upward brushing contact with a slightly closed racket.",
+                            "Prioritise spin creation first, then add power.",
+                            "Contact in an upward arc to roll the ball over the rubber."
+                        ],
+                        "magnus_effect": "Forward rotation lowers pressure beneath the ball, creating a downward ‘dip’ that pulls the ball onto the table.",
+                        "key_strokes": [
+                            "Forehand topspin to initiate or finish.",
+                            "Backhand topspin for rally consistency.",
+                            "Topspin vs heavy backspin (lift to convert defense to offense)."
+                        ],
+                        "practice": [
+                            "Slow brush-focused rallies; increase speed gradually.",
+                            "Multiball sequences for rhythm and repetition.",
+                            "Looping specifically vs backspin (serves/pushes)."
+                        ],
+                        "common_mistakes": [
+                            "Hitting flat (insufficient brushing).",
+                            "Over-rotating the wrist (loss of control).",
+                            "Open racket angle causing balls to fly long."
+                        ],
+                        "advanced_tips": [
+                            "Fine-tune racket angle for spin vs speed trade-offs.",
+                            "Use topspin for both attack and resilient defense.",
+                            "Adapt spin amount/trajectory to opponent’s style and spin input."
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Performance Slumps",
+                "entries": [
+                    {
+                        "title": "Breaking Through a Slump: A Guide for Table Tennis Players",
+                        "source_url": "https://www.pingskills.com/blog/breaking-through-a-slump-a-guide-for-table-tennis-players",
+                        "date_accessed": "2025-10-02",
+                        "summary": "Slumps are normal; analyse, reset fundamentals, vary training, set short-term goals, rest, and strengthen the mental game.",
+                        "action_plan": [
+                            {
+                                "step": "Analyse your game",
+                                "methods": ["Review video for recurring errors", "Identify stroke, footwork, timing, or mental blockers"]
+                            },
+                            {
+                                "step": "Revisit fundamentals",
+                                "methods": ["Grip, stance, swing path", "Slow, precise drills to restore clean mechanics"]
+                            },
+                            {
+                                "step": "Change routine",
+                                "methods": ["New drills, new opponents", "Introduce randomness for reactivity"]
+                            },
+                            {
+                                "step": "Set short-term goals",
+                                "methods": ["Concrete targets (e.g., 20 consecutive loops)", "Track and celebrate small wins"]
+                            },
+                            {
+                                "step": "Rest & reset",
+                                "methods": ["Short break to reduce mental/physical fatigue", "Light cross-training or hobbies"]
+                            },
+                            {
+                                "step": "Mental skills",
+                                "methods": ["Mindfulness/breathing", "Positive self-talk", "One-point-at-a-time focus", "Performance visualisation"]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Serving",
+                "entries": [
+                    {
+                        "title": "Developing a Killer Serve in Table Tennis",
+                        "source_url": "https://www.pingskills.com/blog/developing-a-killer-serve-in-table-tennis",
+                        "date_accessed": "2025-10-02",
+                        "summary": "Build a high-pressure serve system with spin mastery, deception, varied placement/speed, pressure practice, and in-match adaptation.",
+                        "pillars": [
+                            {
+                                "name": "Master the basics",
+                                "points": [
+                                    "Accurate placement to all zones (short/long, body, wide).",
+                                    "Reliable spin creation (top, back, side) via brush contact."
+                                ]
+                            },
+                            {
+                                "name": "Spin variety",
+                                "points": [
+                                    "Heavy backspin to force pushes (see: ‘Ma Lin Ghost Serve’ concept).",
+                                    "Topspin to provoke higher, quicker returns for 3rd-ball attack.",
+                                    "Sidespin for curve and misreads; blend spins for subtlety."
+                                ]
+                            },
+                            {
+                                "name": "Deception",
+                                "points": [
+                                    "Use similar arm/bat motion across different spins.",
+                                    "Include no-spin (float) options to bait over-reads.",
+                                    "Hide spin change in contact, not in the wind-up."
+                                ]
+                            },
+                            {
+                                "name": "Placement & speed",
+                                "points": [
+                                    "Mix short-double-bounce (~80%) with surprise long-fast (~20%) serves.",
+                                    "Target wide FH/BH and into the body to jam timing."
+                                ]
+                            },
+                            {
+                                "name": "Practice under pressure",
+                                "points": [
+                                    "Start games at 9–9 to rehearse clutch execution.",
+                                    "Track direct-point/weak-return rates and iterate."
+                                ]
+                            },
+                            {
+                                "name": "Adapt during matches",
+                                "points": [
+                                    "Repeat what hurts the opponent until they adjust.",
+                                    "When read, switch length/spin/placement to reset uncertainty."
+                                ]
+                            }
+                        ],
+                        "match_checklist": [
+                            "Do my short serves bounce twice if untouched?",
+                            "Am I using the same motion for different spins?",
+                            "Have I served to all three lanes (wide FH, body, wide BH)?",
+                            "What’s my most effective serve today—am I using it enough?"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

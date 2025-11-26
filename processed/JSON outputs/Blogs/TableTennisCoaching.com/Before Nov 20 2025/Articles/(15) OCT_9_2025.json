@@ -1,0 +1,439 @@
+{
+"meta": {
+"article_title": "Learning to Win",
+"article_slug": "learning_to_win",
+"source_url": "[http://www.tabletenniscoaching.com/node/21](http://www.tabletenniscoaching.com/node/21)",
+"date_accessed": "2025-10-09"
+},
+"terminologie_extrait": [],
+"problemes_solutions": {
+"learning_to_win": [
+{
+"probleme": "Players have shots but don’t know how to combine them to win",
+"diagnostic": "Players with solid strokes fail to link serves, receives, and follow-ups into point-winning combinations.",
+"causes_communes": [
+"Serving patterns that don’t set up best attacks (e.g., serving topspin while relying on looping backspin)",
+"Overhitting early in rallies instead of constructing the point",
+"Avoiding weaker opponents and thus not forcing one’s own patterns",
+"Only reacting against stronger opponents and never practicing own combinations"
+],
+"solutions_progressives": {
+"debutant": [
+"Identify which rallies you are best at and choose serves/receives that lead into those rallies.",
+"Play both weaker and stronger players; against weaker players, practice imposing simple combinations."
+],
+"intermediaire": [
+"Strengthen strengths: develop shots that get you into your preferred rally type and shots that make you even stronger in it.",
+"Strengthen weaknesses: add shots that help you survive weak rally types and shots that keep you out of them."
+],
+"avance": [
+"Pair serves with the returns you want (e.g., short backspin to invite a push and open a loop vs. backspin).",
+"Practice match play that prioritizes using planned combinations over ad-hoc winners; learn to pick shots.",
+"Regularly schedule sets vs. slightly weaker players (~100 rating points lower) to rehearse patterns under control."
+]
+},
+"exercices_complementaires": [
+{
+"nom": "Serve-to-desired-return pairing",
+"description": "Choose a serve (e.g., short backspin) that tends to elicit a predictable return (long push); execute the planned third-ball attack that fits your strengths; repeat.",
+"difficulte": "intermediate",
+"duree": "Not specified by source.",
+"materiel": "table; balls; two players"
+}
+],
+"metriques_progression": [
+"Not specified by source."
+],
+"erreurs_a_eviter": [
+"Serving patterns that contradict your best follow-up",
+"Going for winners on the first ball instead of building the point",
+"Playing only stronger opponents and never rehearsing your own combinations"
+],
+"source_url": "[http://www.tabletenniscoaching.com/node/21](http://www.tabletenniscoaching.com/node/21)"
+]
+]
+}
+}
+{
+"meta": {
+"article_title": "Six-Step Training Progression",
+"article_slug": "six_step_training_progression",
+"source_url": "[http://www.tabletenniscoaching.com/node/25](http://www.tabletenniscoaching.com/node/25)",
+"date_accessed": "2025-10-09"
+},
+"terminologie_extrait": [
+{
+"terme": "Two-One Drill (Falkenberg Drill)",
+"definition": "Sequence where partner hits two balls to your backhand and one to your forehand; you play BH, then step-around FH from BH corner, then FH from wide FH, and repeat.",
+"contexte": "Step Three: Different Strokes.",
+"source_url": "[http://www.tabletenniscoaching.com/node/25](http://www.tabletenniscoaching.com/node/25)"
+},
+{
+"terme": "Cross-Court/Down-the-Line (Figure Eight)",
+"definition": "One player always hits down the line while the other always hits crosscourt, producing a figure-eight ball path; then switch roles.",
+"contexte": "Step Three: Different Strokes.",
+"source_url": "[http://www.tabletenniscoaching.com/node/25](http://www.tabletenniscoaching.com/node/25)"
+}
+],
+"problemes_solutions": {
+"six_step_training_progression": [
+{
+"probleme": "Players stall on basic strokes and fail to progress to complex, game-like training",
+"diagnostic": "Overemphasis on simple rallying prevents integration of footwork, decision-making, and whole-table patterns.",
+"causes_communes": [
+"Waiting to ‘perfect’ basics before learning advanced drills",
+"Skipping serve/receive starts that simulate real points",
+"Neglecting randomness and choice in drills"
+],
+"solutions_progressives": {
+"debutant": [
+"Step One – Stroke & Stroke: FH–FH crosscourt, BH–BH crosscourt, FH to BH down-the-line; once you can hit ~20 in a row, progress.",
+"Limit pure stroke warm-up to short blocks (2–10 minutes total per session) as shots become automatic."
+],
+"intermediaire": [
+"Step Two – Move & Stroke: one-one FH footwork from FH and from BH corner; one-one BH footwork.",
+"Step Three – Different Strokes: alternate BH↔FH; Two-One (Falkenberg); Cross-Court/Down-the-Line.",
+"Step Four – Choose & Stroke: random side-to-side with a binary choice between FH or BH to meet the ball; prioritize correct first move."
+],
+"avance": [
+"Step Five – Choose & Move: random FH-only, random BH-only, BH then random FH pattern; random deep-serve attack (choose wing by style); Alternate Two-One where third ball may go BH or wide FH.",
+"Step Six – Whole Table: full-table random placement; serve backspin, receive push anywhere, attack (mostly loop) from appropriate wing.",
+"Start many drills with serve/receive sequences (e.g., deep backspin serve → loop; short serve → flip) to mirror matches."
+]
+},
+"exercices_complementaires": [
+{
+"nom": "Serve-started drill wrapper",
+"description": "Prepend drills with realistic starts: partner serves short or deep; you respond (flip, push, loop) and then continue the planned pattern.",
+"difficulte": "all levels",
+"duree": "Not specified by source.",
+"materiel": "table; balls; two players"
+}
+],
+"metriques_progression": [
+"Reach ~20 consecutive hits per basic stroke before advancing.",
+"Reduce basic warm-up to 2–5 minutes per stroke once consistent.",
+"Not specified by source."
+],
+"erreurs_a_eviter": [
+"Spending entire sessions for years on FH–FH and BH–BH only",
+"Starting drills without realistic serve/receive when ready",
+"Over-anticipating in random drills and moving the wrong first step"
+],
+"source_url": "[http://www.tabletenniscoaching.com/node/25](http://www.tabletenniscoaching.com/node/25)"
+]
+]
+}
+}
+{
+"meta": {
+"article_title": "Play Both Weaker and Stronger Players",
+"article_slug": "play_both_weaker_and_stronger_players",
+"source_url": "[http://www.tabletenniscoaching.com/node/56](http://www.tabletenniscoaching.com/node/56)",
+"date_accessed": "2025-10-09"
+},
+"terminologie_extrait": [],
+"problemes_solutions": {
+"play_both_weaker_and_stronger_players": [
+{
+"probleme": "Overplaying stronger opponents and underusing weaker ones in practice",
+"diagnostic": "Against only stronger players, you mostly react and cannot test new shots or combinations; development stalls.",
+"causes_communes": [
+"Belief that only stronger opposition leads to improvement",
+"Stopping experiments early because points are lost versus stronger players"
+],
+"solutions_progressives": {
+"debutant": [
+"Use weaker players to rehearse new techniques under control; treat results as practice, not outcome-focused."
+],
+"intermediaire": [
+"Once a technique works vs. weaker players, deploy it against peers; then bring it to matches vs. stronger players.",
+"Example sequence: serve backspin to invite push, then loop vs. backspin; start with weaker opponents to build this pattern."
+],
+"avance": [
+"Cycle opponents intentionally: weaker for development, peers for integration, stronger for stress-testing strengths."
+]
+},
+"exercices_complementaires": [
+{
+"nom": "Backspin-serve loop development",
+"description": "Serve backspin; expect long push; execute opening loop; continue point focusing on follow-up selection; begin versus weaker players.",
+"difficulte": "beginner",
+"duree": "Not specified by source.",
+"materiel": "table; balls; two players"
+}
+],
+"metriques_progression": [
+"Not specified by source."
+],
+"erreurs_a_eviter": [
+"Judging a new technique’s viability solely on results vs. stronger players",
+"Abandoning development due to short-term losses in practice"
+],
+"source_url": "[http://www.tabletenniscoaching.com/node/56](http://www.tabletenniscoaching.com/node/56)"
+]
+]
+}
+}
+{
+"meta": {
+"article_title": "The 7 Habits of Highly Effective Table Tennis Players",
+"article_slug": "the_7_habits_of_highly_effective_table_tennis",
+"source_url": "[http://www.tabletenniscoaching.com/node/142](http://www.tabletenniscoaching.com/node/142)",
+"date_accessed": "2025-10-09"
+},
+"terminologie_extrait": [],
+"problemes_solutions": {
+"the_7_habits_of_highly_effective_table_tennis": [
+{
+"probleme": "Lack of productive training habits",
+"diagnostic": "Players don’t consistently apply behaviors that drive improvement and competitive readiness.",
+"causes_communes": [
+"Low practice enthusiasm",
+"Passive approach to improvement",
+"Absence of specific short-, intermediate-, and long-term goals"
+],
+"solutions_progressives": {
+"debutant": [
+"Cultivate enjoyment of practice and competition; never give up in sessions or matches."
+],
+"intermediaire": [
+"Be proactive about finding ways to improve; think analytically about your game and tactics; pursue high standards.",
+"Set concrete goals across time horizons."
+],
+"avance": [
+"Synergize habits: rigorous standards plus tactical reflection, sustained competitiveness, and goal-tracking to optimize gains."
+]
+},
+"exercices_complementaires": [],
+"metriques_progression": [
+"Not specified by source."
+],
+"erreurs_a_eviter": [
+"Underestimating opponents rather than respecting while seeking to dominate"
+],
+"source_url": "[http://www.tabletenniscoaching.com/node/142](http://www.tabletenniscoaching.com/node/142)"
+}
+]
+}
+}
+{
+"meta": {
+"article_title": "Changing Bad Technique",
+"article_slug": "changing_bad_technique",
+"source_url": "[http://www.tabletenniscoaching.com/node/331](http://www.tabletenniscoaching.com/node/331)",
+"date_accessed": "2025-10-09"
+},
+"terminologie_extrait": [
+{
+"terme": "Saturation training",
+"definition": "A period focused only on correcting technique by drilling with a coach or practice partner while avoiding matches that reinforce old habits.",
+"contexte": "Recommendation to drop tournaments/matches and isolate the new technique.",
+"source_url": "[http://www.tabletenniscoaching.com/node/331](http://www.tabletenniscoaching.com/node/331)"
+},
+{
+"terme": "Shadow practice",
+"definition": "Practicing the proper technique without the ball to ingrain the motion.",
+"contexte": "Advice to rehearse the new technique repeatedly until it is automatic.",
+"source_url": "[http://www.tabletenniscoaching.com/node/331](http://www.tabletenniscoaching.com/node/331)"
+}
+],
+"problemes_solutions": {
+"changing_bad_technique": [
+{
+"probleme": "Difficulty eliminating ingrained poor technique",
+"diagnostic": "Players use halfway measures, revert during competition, or fail to address root causes like grip and stance.",
+"causes_communes": [
+"Returning to matches before the new technique is ingrained",
+"Minor tweaks when major changes are needed",
+"Incorrect grip or stance causing recurring faults",
+"Lack of clear understanding of what to change"
+],
+"solutions_progressives": {
+"debutant": [
+"Temporarily stop tournaments and match play; drill only with a coach or practice partner to isolate changes.",
+"Exaggerate the correct movement to overcome old patterns; rehearse via shadow practice repeatedly."
+],
+"intermediaire": [
+"Study top players performing the stroke; visualize yourself doing it, then shadow it while visualizing.",
+"Audit and correct grip and stance before addressing downstream symptoms."
+],
+"avance": [
+"Plan a competition return timeline (e.g., months ahead) and train specifically toward it; consider a 2-month match-free block for major changes.",
+"Work closely with a coach to diagnose and supervise changes."
+]
+},
+"exercices_complementaires": [
+{
+"nom": "Video self-review loop",
+"description": "Record target stroke; compare to model execution; note deficits (e.g., shoulder rotation, weight shift); repeat after exaggerated-cue practice.",
+"difficulte": "all levels",
+"duree": "Not specified by source.",
+"materiel": "camera or phone; table or open space"
+},
+{
+"nom": "Exaggeration reps + shadow",
+"description": "Perform slow exaggerated versions of the corrected motion, then high-rep shadow sets until movement feels natural.",
+"difficulte": "all levels",
+"duree": "Not specified by source.",
+"materiel": "open space"
+}
+],
+"metriques_progression": [
+"Set a competition re-entry target date after an extended correction block.",
+"Not specified by source."
+],
+"erreurs_a_eviter": [
+"Re-ingraining bad habits by competing too soon",
+"Ignoring grip/stance root causes",
+"Switching from one flawed technique to another without expert guidance"
+],
+"source_url": "[http://www.tabletenniscoaching.com/node/331](http://www.tabletenniscoaching.com/node/331)"
+]
+]
+}
+}
+{
+"meta": {
+"article_title": "March 21, 2011 - Shadow Practice Your Shots",
+"article_slug": "march_21_2011_shadow_practice_your_shots",
+"source_url": "[http://www.tabletenniscoaching.com/node/256](http://www.tabletenniscoaching.com/node/256)",
+"date_accessed": "2025-10-09"
+},
+"terminologie_extrait": [
+{
+"terme": "Shadow practice",
+"definition": "Practicing strokes and footwork without a ball, tailored to your style, as part of a daily fitness routine.",
+"contexte": "Daily recommendation to perform set counts of shadow strokes and movements.",
+"source_url": "[http://www.tabletenniscoaching.com/node/256](http://www.tabletenniscoaching.com/node/256)"
+}
+],
+"problemes_solutions": {
+"march_21_2011_shadow_practice_your_shots": [
+{
+"probleme": "Players neglect off-table shadow practice that builds mechanics and fitness",
+"diagnostic": "Not specified by source.",
+"causes_communes": [
+"Underestimating benefits of daily no-ball repetitions",
+"Shadow routines not tailored to playing style"
+],
+"solutions_progressives": {
+"debutant": [
+"Spend 5–10 minutes daily on shadow strokes and footwork; include 50–100 forehands, backhands, forehand loops, backhand loops, and side-to-side patterns."
+],
+"intermediaire": [
+"Adjust counts to your style (e.g., extra FH loops for loopers; chopping for choppers); add sequences like stepping in to flip short, then loop vs. backspin and follow with topspin.",
+"Occasionally play out imaginary points while shadowing to add realism."
+],
+"avance": [
+"Chain movements into style-specific combinations (e.g., loop vs. backspin → smash/loop vs. topspin) within the shadow set."
+]
+},
+"exercices_complementaires": [],
+"metriques_progression": [
+"Daily 5–10 minutes of shadow practice.",
+"50–100 reps per listed stroke per day."
+],
+"erreurs_a_eviter": [
+"Skipping daily practice because no table is available",
+"Ignoring receive/transition moves in the routine"
+],
+"source_url": "[http://www.tabletenniscoaching.com/node/256](http://www.tabletenniscoaching.com/node/256)"
+]
+]
+}
+}
+{
+"meta": {
+"article_title": "Shadow Practice For Strokes and Footwork",
+"article_slug": "shadow_practice_for_strokes_and_footwork",
+"source_url": "[http://www.tabletenniscoaching.com/node/54](http://www.tabletenniscoaching.com/node/54)",
+"date_accessed": "2025-10-09"
+},
+"terminologie_extrait": [
+{
+"terme": "Shadow practice",
+"definition": "Practicing shots without the ball to improve sharpness and steadiness.",
+"contexte": "Applied to drives, loops, and side-to-side footwork across levels.",
+"source_url": "[http://www.tabletenniscoaching.com/node/54](http://www.tabletenniscoaching.com/node/54)"
+}
+],
+"problemes_solutions": {
+"shadow_practice_for_strokes_and_footwork": [
+{
+"probleme": "How to structure effective shadow practice by level",
+"diagnostic": "Not specified by source.",
+"causes_communes": [
+"Practicing back-and-forth without returning to ready position",
+"Repeating non-game movements rather than match-realistic patterns"
+],
+"solutions_progressives": {
+"debutant": [
+"Work with a coach to confirm correct form; perform 100 FH and 100 BH drives, 100 FH and 100 BH loops, and 100 side-to-side steps while stroking.",
+"Execute all three stroke phases: backswing, forward swing, then return to ready position (triangular motion)."
+],
+"intermediaire": [
+"Increase speed, crispness, and power; mimic common match movements (e.g., alternating powerful FH loops from wide BH and wide FH)."
+],
+"avance": [
+"Add randomness: imagine a specific opponent and play out rallies at the level you aim to reach; include receive patterns (step in to drop short, step out and attack the next ball)."
+]
+},
+"exercices_complementaires": [],
+"metriques_progression": [
+"100 repetitions per listed beginner shadow element.",
+"Not specified by source."
+],
+"erreurs_a_eviter": [
+"Going directly from forward swing to backswing without resetting",
+"Failing to visualize realistic sequences during advanced shadowing"
+],
+"source_url": "[http://www.tabletenniscoaching.com/node/54](http://www.tabletenniscoaching.com/node/54)"
+}
+]
+}
+}
+{
+"meta": {
+"article_title": "June 6, 2011 - Practice Matches",
+"article_slug": "june_6_2011_practice_matches",
+"source_url": "[http://www.tabletenniscoaching.com/node/376](http://www.tabletenniscoaching.com/node/376)",
+"date_accessed": "2025-10-09"
+},
+"terminologie_extrait": [],
+"problemes_solutions": {
+"june_6_2011_practice_matches": [
+{
+"probleme": "Players treat practice matches like tournaments and miss development opportunities",
+"diagnostic": "In practice, winning becomes the only priority; players avoid using developing shots, skip situational goals, and fail to train end-game tactics.",
+"causes_communes": [
+"No clear intent for practice matches",
+"Same approach to weaker, peer, and stronger opponents"
+],
+"solutions_progressives": {
+"debutant": [
+"Treat practice matches as chances to use the shots you want in the future; give 100% effort while prioritizing development."
+],
+"intermediaire": [
+"Versus weaker players: target weaknesses or pit your weaknesses against their strengths to learn.",
+"Versus peers: balance improvement and winning based on upcoming events; practice your normal game with selected additions."
+],
+"avance": [
+"Versus stronger players: stress-test your strengths at higher pace.",
+"In close ends of games during practice, play to win using best tactics to train decision-making under pressure."
+]
+},
+"exercices_complementaires": [],
+"metriques_progression": [
+"Not specified by source."
+],
+"erreurs_a_eviter": [
+"Coasting or withholding effort in practice matches",
+"Refusing to use developing skills due to short-term score pressure",
+"Applying identical goals regardless of opponent strength"
+],
+"source_url": "[http://www.tabletenniscoaching.com/node/376](http://www.tabletenniscoaching.com/node/376)"
+}
+]
+}
+}

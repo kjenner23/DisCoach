@@ -1,0 +1,463 @@
+{
+"meta": {
+"article_title": "Technical Training for Table Tennis",
+"article_slug": "technical_training_for_table_tennis",
+"source_url": "[https://www.experttabletennis.com/technical/](https://www.experttabletennis.com/technical/)",
+"date_accessed": "unknown"
+},
+"terminologie_extrait": [],
+"problemes_solutions": {
+"technical_training_for_table_tennis": [
+{
+"probleme": "Building correct technique foundations",
+"diagnostic": "Inefficient strokes and higher injury risk from sub-optimal technique; many players learned informally and need to relearn fundamentals.",
+"causes_communes": [
+"Grip held mainly in the palm instead of pinched between thumb and index finger",
+"Rushing to hit balls before mastering stance and footwork",
+"Tense upper body and shoulders during strokes",
+"Standing upright with narrow stance that hinders lateral movement"
+],
+"solutions_progressives": {
+"debutant": [
+"Master stance first: wide base (at least shoulder width), knees bent, lean forward, arms in front; practice weight transfer and relaxation while holding the stance.",
+"Adopt a mostly neutral shake-hands grip; pinch the handle between thumb and index finger, then wrap the rest of the hand; slight FH/BH bias is acceptable if both wings work.",
+"Learn off-table footwork patterns before strokes: side-steps (1-right/1-left, 2-right/2-left), one-step lunge, continuous 'bunny hop'; stay low, on the balls of the feet, head level.",
+"Only then learn strokes (forehand/backhand drives, pushes) using the above foundations."
+],
+"intermediaire": [
+"Relearn fundamentals if needed; use mirrors or video to diagnose stance/footwork errors.",
+"Emphasize relaxation in upper body to reduce injury risk at higher intensities."
+],
+"avance": [
+"Refine efficiency for power, spin, control, and quicker recovery while keeping relaxed posture to prevent injuries during explosive play."
+]
+},
+"exercices_complementaires": [
+{
+"nom": "Stance-only session",
+"description": "Spend a full session rehearsing stance, weight shifts, and relaxed posture; explore narrow vs wide and upright vs forward-leaning to feel optimal.",
+"difficulte": "beginner",
+"duree": "Not specified by source.",
+"materiel": "table area or open floor"
+},
+{
+"nom": "Mirror footwork rehearsal",
+"description": "Practice side-steps, one-step lunge, and continuous hopping while keeping head level and arms forward; use mirror for feedback.",
+"difficulte": "beginner",
+"duree": "Not specified by source.",
+"materiel": "mirror wall or camera"
+}
+],
+"metriques_progression": [
+"Not specified by source."
+],
+"erreurs_a_eviter": [
+"Learning strokes before stance and footwork are understood.",
+"Gripping mainly with the palm; neglecting thumb–index pinch.",
+"Remaining tense in shoulders and upper body.",
+"Standing upright and losing lateral quickness."
+],
+"source_url": "[https://www.experttabletennis.com/technical/](https://www.experttabletennis.com/technical/)"
+}
+]
+}
+}
+{
+"meta": {
+"article_title": "How to Play a Backhand Loop in Table Tennis",
+"article_slug": "how_to_play_a_backhand_loop_in_table_tennis",
+"source_url": "[https://www.experttabletennis.com/backhand-loop/](https://www.experttabletennis.com/backhand-loop/)",
+"date_accessed": "unknown"
+},
+"terminologie_extrait": [],
+"problemes_solutions": {
+"how_to_play_a_backhand_loop_in_table_tennis": [
+{
+"probleme": "Learning the backhand loop (topspin) technique",
+"diagnostic": "Players transition from backhand drive to a wrist-led topspin stroke; improper stance/positioning and timing reduce power and consistency.",
+"causes_communes": [
+"Standing too far from the ball and taking it late",
+"Upper body tension limiting wrist action",
+"Linear swing with stop–start flow instead of a narrow continuous circle",
+"Neglecting recovery after contact"
+],
+"solutions_progressives": {
+"debutant": [
+"Stance like backhand drive: feet 1.5–2 shoulder widths apart, square to line of play, knees bent, weight forward; get left hip (for right-handers) behind the ball and close to contact.",
+"Use a frisbee-like motion: wrist flick + small elbow extension + slight shoulder rotation; keep upper body relaxed.",
+"Adopt a narrow circular swing path (backswing on right hip, forward on left side) to maintain smooth continuous motion and easier FH–BH transitions.",
+"Recover immediately after contact to ready position."
+],
+"intermediaire": [
+"Start with multiball/robot to groove motion; then rally vs block aiming for twenty consecutive backhand loops.",
+"Integrate into patterns: alternate BH loop with FH loop; practice looping long serves to BH; vary placement."
+],
+"avance": [
+"Add power by rotating the waist into contact; some players place right foot slightly forward to create space and leverage."
+]
+},
+"exercices_complementaires": [
+{
+"nom": "Multiball backhand loop groove",
+"description": "Continuous BH loops against a feed; focus on relaxed wrist flick and a small circular swing; emphasize timing and recovery.",
+"difficulte": "beginner",
+"duree": "Not specified by source.",
+"materiel": "multiball basket or robot"
+},
+{
+"nom": "BH loop vs block consistency",
+"description": "Loop repeatedly to a blocker; progress to 20 in a row without error; then vary placement.",
+"difficulte": "intermediate",
+"duree": "Not specified by source.",
+"materiel": "training partner"
+},
+{
+"nom": "BH–FH alternation",
+"description": "One backhand loop, one forehand loop; develop transition and footwork while keeping circular BH motion.",
+"difficulte": "intermediate",
+"duree": "Not specified by source.",
+"materiel": "training partner"
+}
+],
+"metriques_progression": [
+"Achieve about 20 consecutive backhand loops without a mistake."
+],
+"erreurs_a_eviter": [
+"Taking the ball too late by standing too far back.",
+"Over-tension that kills wrist speed.",
+"Massive circular follow-through crossing the body excessively.",
+"Ignoring recovery after the shot."
+],
+"source_url": "[https://www.experttabletennis.com/backhand-loop/](https://www.experttabletennis.com/backhand-loop/)"
+}
+]
+}
+}
+{
+"meta": {
+"article_title": "Improve Your Forehand Loop by Relaxing the Wrist",
+"article_slug": "improve_your_forehand_loop_by_relaxing_the_wrist",
+"source_url": "[https://www.experttabletennis.com/improve-forehand-loop-wrist/](https://www.experttabletennis.com/improve-forehand-loop-wrist/)",
+"date_accessed": "unknown"
+},
+"terminologie_extrait": [
+{
+"terme": "Ulnar and radial deviation",
+"definition": "Side-to-side wrist movement toward little finger (ulnar) or thumb (radial).",
+"contexte": "On the forehand loop, a relaxed arm allows natural ulnar→radial deviation, increasing whip and spin.",
+"source_url": "[https://www.experttabletennis.com/improve-forehand-loop-wrist/](https://www.experttabletennis.com/improve-forehand-loop-wrist/)"
+}
+],
+"problemes_solutions": {
+"improve_your_forehand_loop_by_relaxing_the_wrist": [
+{
+"probleme": "Forehand loop lacks spin/power due to rigid wrist",
+"diagnostic": "Players lock the wrist and forearm, preventing natural ulnar–radial deviation that adds whip; trying to force flexion/extension like backhand is ineffective.",
+"causes_communes": [
+"Excess shoulder and arm tension holding the wrist fixed",
+"Forcing the wrist through a range of motion instead of letting it happen",
+"Using flexion/extension pattern suited to backhand rather than FH"
+],
+"solutions_progressives": {
+"debutant": [
+"Relax shoulder and arm to free the wrist; time the backswing correctly and let ulnar→radial deviation occur naturally during the swing.",
+"Avoid forcing wrist movement; focus on relaxed acceleration for finer contact."
+],
+"intermediaire": [
+"Use multiball to feel increased racket acceleration and spin with a loose wrist.",
+"Experiment with fade/hook by setting wrist angle (extension/flexion) for placement variety while still keeping relaxed deviation for whip."
+],
+"avance": [
+"Refine timing so wrist whip peaks at contact; maintain relaxed recovery to repeat high-spin loops."
+]
+},
+"exercices_complementaires": [
+{
+"nom": "Relaxed-wrist multiball",
+"description": "Feed continuous FH loops; cue is 'loose arm, free wrist'; observe natural side-to-side wrist swing and increased spin.",
+"difficulte": "intermediate",
+"duree": "Not specified by source.",
+"materiel": "multiball basket"
+}
+],
+"metriques_progression": [
+"Not specified by source."
+],
+"erreurs_a_eviter": [
+"Tensing the arm to hold the wrist rigid.",
+"Forcing flexion/extension like a backhand frisbee motion.",
+"Overthinking wrist angles instead of timing relaxed whip."
+],
+"source_url": "[https://www.experttabletennis.com/improve-forehand-loop-wrist/](https://www.experttabletennis.com/improve-forehand-loop-wrist/)"
+}
+]
+}
+}
+{
+"meta": {
+"article_title": "Using Your Waist on the Backhand Loop",
+"article_slug": "using_your_waist_on_the_backhand_loop",
+"source_url": "[https://www.experttabletennis.com/using-your-waist-on-the-backhand-loop/](https://www.experttabletennis.com/using-your-waist-on-the-backhand-loop/)",
+"date_accessed": "unknown"
+},
+"terminologie_extrait": [],
+"problemes_solutions": {
+"using_your_waist_on_the_backhand_loop": [
+{
+"probleme": "Weak backhand loop due to arm-dominant technique",
+"diagnostic": "Traditional backhand loop often lacks weight transfer and waist rotation, limiting power compared to forehand.",
+"causes_communes": [
+"Translating backhand drive mechanics (no rotation) into backhand loop",
+"Body rising instead of rotating forward",
+"Treating BH open-up vs backspin as a pure wrist/arm brush"
+],
+"solutions_progressives": {
+"debutant": [
+"View modern BH loop as a side-of-body power stroke, not directly in front; begin learning with some rotation and weight transfer."
+],
+"intermediaire": [
+"Incorporate hip/waist rotation and weight transfer similar to forehand loop to add power, especially on open-up against backspin.",
+"Use multiball/robot to groove rotation while maintaining balance."
+],
+"avance": [
+"Blend strong waist rotation with quick recovery to make BH a true weapon equivalent to FH power."
+]
+},
+"exercices_complementaires": [
+{
+"nom": "BH open-up with rotation (multiball)",
+"description": "Feed backspin; exaggerate hip/waist rotation forward (not upward) to drive through the ball; focus on balance and forward momentum.",
+"difficulte": "intermediate",
+"duree": "Not specified by source.",
+"materiel": "multiball or robot"
+}
+],
+"metriques_progression": [
+"Not specified by source."
+],
+"erreurs_a_eviter": [
+"Playing BH loop almost entirely from the arm.",
+"Letting the body rise instead of rotate forward.",
+"Relying only on a steep brush without transfer on open-ups."
+],
+"source_url": "[https://www.experttabletennis.com/using-your-waist-on-the-backhand-loop/](https://www.experttabletennis.com/using-your-waist-on-the-backhand-loop/)"
+}
+]
+}
+}
+{
+"meta": {
+"article_title": "How to Serve Like Kenta Matsudaira",
+"article_slug": "how_to_serve_like_kenta_matsudaira",
+"source_url": "[https://www.experttabletennis.com/how-to-serve-like-kenta-matsudaira/](https://www.experttabletennis.com/how-to-serve-like-kenta-matsudaira/)",
+"date_accessed": "unknown"
+},
+"terminologie_extrait": [],
+"problemes_solutions": {
+"how_to_serve_like_kenta_matsudaira": [
+{
+"probleme": "Reproducing an effective tomahawk/reverse tomahawk serve",
+"diagnostic": "Players lack unfamiliar looks, variation, deception, and heavy spin that make the serve difficult to read and return.",
+"causes_communes": [
+"Serving only from BH corner with forehand action",
+"Overusing arm instead of wrist snap",
+"Long follow-through that reduces deception",
+"Insufficient practice of the motion before contacting balls"
+],
+"solutions_progressives": {
+"debutant": [
+"Adopt setup: stand near table center, square stance, get head near table height so contact near ear stays low.",
+"Bend wrist back pre-contact and snap forward at contact to generate heavy side/top or side/backspin.",
+"Stop the bat quickly after contact (short follow-through) to aid disguise.",
+"Practice the bat motion many times without the ball; then add balls focusing only on reproducing the same swing."
+],
+"intermediaire": [
+"Add variation: forehand or backhand version; long/short; side/top vs side/chop; mix placements.",
+"Emphasize identical pre-contact cues for deception between variants."
+],
+"avance": [
+"Blend serve options seamlessly within a match, using unfamiliar angles and sudden spin/length changes."
+]
+},
+"exercices_complementaires": [
+{
+"nom": "Shadow tomahawk reps",
+"description": "Repeat full serve motion without ball to ingrain wrist bend–snap and short stop; then transition to ball contact keeping the same swing.",
+"difficulte": "beginner",
+"duree": "Not specified by source.",
+"materiel": "bat, open space"
+}
+],
+"metriques_progression": [
+"Not specified by source."
+],
+"erreurs_a_eviter": [
+"Serving only from the backhand corner with predictable spin/length.",
+"Using too much arm and too little wrist.",
+"Letting the follow-through travel far forward, reducing disguise."
+],
+"source_url": "[https://www.experttabletennis.com/how-to-serve-like-kenta-matsudaira/](https://www.experttabletennis.com/how-to-serve-like-kenta-matsudaira/)"
+}
+]
+}
+}
+{
+"meta": {
+"article_title": "Tactical Training for Table Tennis",
+"article_slug": "tactical_training_for_table_tennis",
+"source_url": "[https://www.experttabletennis.com/tactical/](https://www.experttabletennis.com/tactical/)",
+"date_accessed": "unknown"
+},
+"terminologie_extrait": [],
+"problemes_solutions": {
+"tactical_training_for_table_tennis": [
+{
+"probleme": "Strong in practice but underperforming in matches",
+"diagnostic": "Practice is dominated by regular technical drills; players become predictable and fail to apply tactics that exploit opponents.",
+"causes_communes": [
+"Serving and returning like a drill (same spin, placement)",
+"Always hitting cross-court and avoiding the crossover point",
+"Dropping away from table habitually",
+"Lack of planned 'plays' and match analysis"
+],
+"solutions_progressives": {
+"debutant": [
+"Learn general tactics that work broadly: attack first when possible, vary serves, use wide angles, target crossover point, keep short vs attackers, add occasional float balls."
+],
+"intermediaire": [
+"Turn general tactics into drills: aim every ball at partner’s crossover in a drill; place a barrier 2m behind to enforce staying close; during serve drills, insert fast long serves 10–20% of the time; vary push depth/width/spin on returns.",
+"Practice favorite 'plays' (e.g., short to FH then deep to BH) until automatic."
+],
+"avance": [
+"Do specific tactical prep: film matches, analyze opponents/styles, and build opponent-specific plans; use video review with coach to refine point construction."
+]
+},
+"exercices_complementaires": [
+{
+"nom": "Crossover targeting drill",
+"description": "Run any rally drill but route all attacks into partner’s crossover to learn finding it under pressure.",
+"difficulte": "intermediate",
+"duree": "Not specified by source.",
+"materiel": "table, partner"
+},
+{
+"nom": "Barrier stay-close constraint",
+"description": "Place a barrier ~2 m behind; play drills or matches without stepping past it to prevent dropping back.",
+"difficulte": "all levels",
+"duree": "Not specified by source.",
+"materiel": "table tennis barrier"
+},
+{
+"nom": "Serve variety habit",
+"description": "During serve practice, mix a long fast serve 10–20% of reps to build deception and read typical returns.",
+"difficulte": "intermediate",
+"duree": "Not specified by source.",
+"materiel": "bucket of balls"
+}
+],
+"metriques_progression": [
+"Not specified by source."
+],
+"erreurs_a_eviter": [
+"Mindless regular drills that ignore point construction.",
+"Predictable serving and diagonal-only play.",
+"Skipping video review and opponent analysis."
+],
+"source_url": "[https://www.experttabletennis.com/tactical/](https://www.experttabletennis.com/tactical/)"
+}
+]
+}
+}
+{
+"meta": {
+"article_title": "Mental Training for Table Tennis",
+"article_slug": "mental_training_for_table_tennis",
+"source_url": "[https://www.experttabletennis.com/mental/](https://www.experttabletennis.com/mental/)",
+"date_accessed": "unknown"
+},
+"terminologie_extrait": [
+{
+"terme": "Arousal regulation",
+"definition": "Managing how ‘pumped up’ you are to optimize performance (raise or lower activation).",
+"contexte": "Includes techniques like breathing and progressive muscle relaxation to handle nerves or increase readiness.",
+"source_url": "[https://www.experttabletennis.com/mental/](https://www.experttabletennis.com/mental/)"
+},
+{
+"terme": "Imagery",
+"definition": "Creating or recreating performance experiences in the mind to rehearse and build confidence.",
+"contexte": "Used especially before events to visualize successful play.",
+"source_url": "[https://www.experttabletennis.com/mental/](https://www.experttabletennis.com/mental/)"
+},
+{
+"terme": "Pre-performance routine",
+"definition": "A consistent set of actions (e.g., music, video, rituals) used before play to trigger readiness.",
+"contexte": "Example: watch a personal highlight video with a motivational song before sessions.",
+"source_url": "[https://www.experttabletennis.com/mental/](https://www.experttabletennis.com/mental/)"
+},
+{
+"terme": "Self-talk",
+"definition": "Intentional use of words/phrases to direct attention and motivation.",
+"contexte": "Choose a cue like “fight” and repeat it to reinforce persistence.",
+"source_url": "[https://www.experttabletennis.com/mental/](https://www.experttabletennis.com/mental/)"
+}
+],
+"problemes_solutions": {
+"mental_training_for_table_tennis": [
+{
+"probleme": "Inconsistent performance under pressure",
+"diagnostic": "Mental skills (arousal control, focus, routines) are underdeveloped compared with technical/physical training.",
+"causes_communes": [
+"Over-arousal (nerves) or under-arousal before matches",
+"Undefined goals and lack of structured progression",
+"No mental rehearsal or routines",
+"Negative or unfocused self-talk"
+],
+"solutions_progressives": {
+"debutant": [
+"Set SMART/SMARTER goals across short-, medium-, and long-term; include process, performance, and outcome goals.",
+"Practice breathing or progressive muscle relaxation to reduce anxiety before/during matches; use energizing cues if under-activated."
+],
+"intermediaire": [
+"Adopt imagery sessions to visualize confident, lifelike match play the day before and pre-match.",
+"Build a pre-performance routine (e.g., watch a personal ‘best-play’ video with a favorite song) to trigger readiness."
+],
+"avance": [
+"Refine self-talk with concise, repeatable cues (e.g., a single word) to direct effort and mindset in high-pressure points."
+]
+},
+"exercices_complementaires": [
+{
+"nom": "Breathing + muscle relaxation set",
+"description": "Cycle slow breaths with progressive tensing/relaxing of major muscle groups to lower arousal before play.",
+"difficulte": "all levels",
+"duree": "Not specified by source.",
+"materiel": "quiet space"
+},
+{
+"nom": "Imagery rehearsal",
+"description": "Spend a session visualizing a match with vivid sensory detail and successful execution.",
+"difficulte": "all levels",
+"duree": "Not specified by source.",
+"materiel": "none"
+},
+{
+"nom": "Cue-word self-talk",
+"description": "Pick a short phrase (e.g., “fight”) and repeat it at key moments to reinforce intent.",
+"difficulte": "all levels",
+"duree": "Not specified by source.",
+"materiel": "none"
+}
+],
+"metriques_progression": [
+"Not specified by source."
+],
+"erreurs_a_eviter": [
+"Relying solely on technical training while neglecting mental skills.",
+"Using only outcome goals without process/performance goals.",
+"Letting pre-match nerves go unmanaged."
+],
+"source_url": "[https://www.experttabletennis.com/mental/](https://www.experttabletennis.com/mental/)"
+}
+]
+}
+}

@@ -1,0 +1,201 @@
+```json
+{
+  "table_tennis_coaching_context": {
+    "source": "PingSkills blog (compiled)",
+    "last_updated": "2025-10-02",
+    "categories": [
+      {
+        "name": "Training Design & Practice",
+        "entries": [
+          {
+            "title": "Challenging Your Training: Why 80% Success is Unrealistic",
+            "source_url": "https://www.pingskills.com/blog/challenging-your-training-why-80-success-is-unrealistic",
+            "date_accessed": "2025-10-02",
+            "summary": "Comfort-heavy sessions (predictable, high-success drills) create a false sense of progress. Real matches are messy; you only need ~51% of points to win, so practice should include failure, randomness, and pressure.",
+            "key_points": [
+              "Aim for challenge, not comfort; simulate unpredictability and faster balls.",
+              "Use random placement, movement to unexpected zones, and reduced time.",
+              "Train clutch moments (e.g., 9–9, 10–10) to build belief under pressure.",
+              "Reframe errors as information; failure in practice = growth."
+            ],
+            "practice_ideas": [
+              "Randomised feed (coach/robot) with mandatory recover-to-neutral.",
+              "Score-based pressure sets that start at 9–9.",
+              "Error tagging: note the miss type and immediate micro-adjust."
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Mindset & Confidence",
+        "entries": [
+          {
+            "title": "The Hidden Force Behind Every Victory",
+            "source_url": "https://www.pingskills.com/blog/the-hidden-force-behind-every-victory",
+            "date_accessed": "2025-10-02",
+            "summary": "Personal story contrasting self-doubt vs. belief. Confidence is trust in preparation, not ego; it fuels risk-taking and poise at key points.",
+            "mindset_tools": [
+              "Between-point breath + reset cue (“Next point”).",
+              "Positive self-talk to counter intrusive doubt.",
+              "Session goals that target a weakness under pressure (e.g., BH topspin)."
+            ],
+            "training_link": "Match demands ≠ 80–90% rally success. Build belief by setting realistic, measurable session targets and embracing tough drills."
+          },
+          {
+            "title": "Let's Talk Mindset: Your Friendly Guide to Winning the Mental Match",
+            "source_url": "https://www.pingskills.com/blog/lets-talk-mindset-your-friendly-guide-to-winning-the-mental-match-in-table-tennis",
+            "date_accessed": "2025-10-02",
+            "summary": "Practical, upbeat mental-skills primer: present-moment focus, pre-game routines, re-framing pressure, learning from losses, and celebrating small wins.",
+            "checklist": [
+              "One breath + reset between points.",
+              "Tiny ritual to start each game.",
+              "Self-talk script for tight scores.",
+              "Post-match debrief: 2 lessons, 1 strength.",
+              "Micro-celebrate incremental wins."
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Origin Stories & Motivation",
+        "entries": [
+          {
+            "title": "4 Points to Victory - The Match That Changed Everything",
+            "source_url": "https://www.pingskills.com/blog/4-points-to-victory-the-match-that-changed-everything",
+            "date_accessed": "2025-10-02",
+            "summary": "A handicap-match loss exposes gaps (serve receive, spin, true tactics) and triggers lifelong learning. Being outmatched can catalyse growth.",
+            "takeaways": [
+              "Losses reveal the sport’s deeper layers (spin, placement, structure).",
+              "Curiosity + deliberate practice convert frustration into progress.",
+              "Seek stronger opponents periodically to expose blind spots."
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Media, Community & Communication",
+        "entries": [
+          {
+            "title": "The Importance of Audience Testing",
+            "source_url": "https://www.pingskills.com/blog/the-importance-of-audience-testing",
+            "date_accessed": "2025-10-02",
+            "summary": "A naming mishap (“PingCast”) shows why audience-testing messaging matters; quick rebrand to “PingPod.”",
+            "lessons": [
+              "Say names aloud; check for ambiguity/awkward phonetics.",
+              "Test with real users before committing.",
+              "Be willing to pivot fast when feedback reveals issues."
+            ]
+          },
+          {
+            "title": "Jeff Plumb's Top 10 Table Tennis Points (1989 - 2000)",
+            "source_url": "https://www.pingskills.com/blog/jeff-plumbs-top-10-table-tennis-points-1989-2000",
+            "date_accessed": "2025-10-02",
+            "summary": "Highlights from Jeff’s junior finals, National League play, and the historic first Australian men’s doubles win at the 2000 Olympics.",
+            "uses_in_coaching": [
+              "Model clips for point construction and bravery under pressure.",
+              "Contextualise goals with real career milestones."
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Tactics, Equipment & Special Rubbers",
+        "entries": [
+          {
+            "title": "Antispin Revolution: John Hilton's European Triumph",
+            "source_url": "https://www.pingskills.com/blog/antispin-revolution-john-hiltons-european-triumph",
+            "date_accessed": "2025-10-02",
+            "summary": "John Hilton’s 1980 Euro title showcased antispin effectiveness (same-colour era). Episode includes ‘how to play vs antispin’ and a twiddling drill.",
+            "coaching_notes": [
+              "Vs antispin: prioritise placement/variation over brute spin.",
+              "Change pace and depth; avoid feeding predictable spin.",
+              "Drill: twiddling under time pressure to change spin/angle mid-rally."
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Physical Preparation",
+        "entries": [
+          {
+            "title": "The Crucial Warm-Up: Elevating Your Table Tennis Performance",
+            "source_url": "https://www.pingskills.com/blog/the-crucial-warmup-elevating-your-table-tennis-performance",
+            "date_accessed": "2025-10-02",
+            "summary": "Warm-ups raise temperature, sharpen focus, reduce injury risk, and prime neuromuscular patterns.",
+            "template_10_min": [
+              "2–3 min light cardio (skip/jog).",
+              "Dynamic mobility: shoulders/hips/ankles (arm circles, leg swings, trunk rotations).",
+              "Footwork patterns: side-steps, diagonals, quick resets.",
+              "Shadow strokes with recover-to-neutral.",
+              "Serve + short game feel (touch, height, double-bounce)."
+            ]
+          },
+          {
+            "title": "Is Fitness Important in Table Tennis",
+            "source_url": "https://www.pingskills.com/blog/is-fitness-important-in-table-tennis",
+            "date_accessed": "2025-10-02",
+            "summary": "Yes—endurance, agility, strength/power, and flexibility directly impact consistency, speed to the ball, and shot quality.",
+            "focus_areas": [
+              "Endurance for sustained decision quality.",
+              "Agility for rapid direction changes.",
+              "Strength/power for heavy spin/speed.",
+              "Flexibility for reach and injury resilience."
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Pathways, Community & Environment",
+        "entries": [
+          {
+            "title": "Join a Table Tennis Club To Improve",
+            "source_url": "https://www.pingskills.com/blog/join-a-table-tennis-club-to-improve",
+            "date_accessed": "2025-10-02",
+            "summary": "Clubs provide coaching, stronger practice partners, structured sessions, competitions, community, and facility access.",
+            "how_to_choose": [
+              "Match the club’s culture (recreational vs competitive) to your goals.",
+              "Ask about coaching quality, training frequency, and league options.",
+              "Check equipment, table time, and practice partners availability."
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Motivation & Habits",
+        "entries": [
+          {
+            "title": "Improving Motivation for Training",
+            "source_url": "https://www.pingskills.com/blog/improving-motivation-training",
+            "date_accessed": "2025-10-02",
+            "summary": "Sustain motivation with clear goals, progress tracking, positive environments, variety, process focus, and self-compassion.",
+            "practical_steps": [
+              "Set tiered goals (skill, event, season).",
+              "Log sessions; celebrate small gains.",
+              "Train with a supportive group/coach.",
+              "Rotate drills/styles; keep novelty alive.",
+              "Control the controllables; accept dips."
+            ]
+          }
+        ]
+      },
+      {
+        "name": "History & Evolution",
+        "entries": [
+          {
+            "title": "The History and Evolution of Table Tennis",
+            "source_url": "https://www.pingskills.com/blog/the-history-and-evolution-of-table-tennis",
+            "date_accessed": "2025-10-02",
+            "summary": "From late-19th-century parlour ‘wiff-waff’ to a global, athletic sport governed by the ITTF since 1926.",
+            "milestones": [
+              "Early equipment improvisation → standardisation (first club 1901).",
+              "ITTF & first World Championships (1926).",
+              "Equipment shifts: cork → celluloid → plastic balls; blade/rubber tech advances.",
+              "Rule/scoring changes (to 11 points) modernised pace and TV-friendliness."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
+```

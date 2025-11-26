@@ -1,0 +1,404 @@
+{
+"meta": {
+"article_title": "Transferring Technique from Practice to Competition",
+"article_slug": "transferring_technique_from_practice_to_competition",
+"source_url": "[https://www.experttabletennis.com/transferring-technique-from-practice-to-competition/](https://www.experttabletennis.com/transferring-technique-from-practice-to-competition/)",
+"date_accessed": "unknown"
+},
+"terminologie_extrait": [],
+"problemes_solutions": {
+"transferring_technique_from_practice_to_competition": [
+{
+"probleme": "Difficulty applying training techniques in competition",
+"diagnostic": "Young players may play well in practice but fail to apply technique consistently under competitive pressure.",
+"causes_communes": [
+"Entering competitions too early before technique is consolidated",
+"Focus on winning rather than continual development",
+"Pressure from competition environment leading to poor decision-making"
+],
+"solutions_progressives": {
+"debutant": [
+"Reduce emphasis on early competition; spend first years consolidating technique.",
+"Encourage fun and continual skill development instead of focusing on winning.",
+"Reward progress in listening, practicing, experimenting, and concentration."
+],
+"intermediaire": [
+"When competing, shift focus toward decision-making and playing positively rather than results.",
+"Help players evaluate their performance by how they played, not win/loss outcomes."
+],
+"avance": []
+},
+"exercices_complementaires": [],
+"metriques_progression": [
+"Not specified by source."
+],
+"erreurs_a_eviter": [
+"Pressuring children with results instead of supporting enjoyment and growth.",
+"Entering too many tournaments before technique is stable.",
+"Overemphasizing short-term winning at expense of long-term development."
+],
+"source_url": "[https://www.experttabletennis.com/transferring-technique-from-practice-to-competition/](https://www.experttabletennis.com/transferring-technique-from-practice-to-competition/)"
+}
+]
+}
+}
+{
+"meta": {
+"article_title": "Rhythm and Timing – Underrated Table Tennis Skills",
+"article_slug": "rhythm_and_timing_underrated_table_tennis_skills",
+"source_url": "[https://www.experttabletennis.com/rhythm-and-timing-underrated-table-tennis-skills/](https://www.experttabletennis.com/rhythm-and-timing-underrated-table-tennis-skills/)",
+"date_accessed": "unknown"
+},
+"terminologie_extrait": [
+{
+"terme": "Rhythm",
+"definition": "The beat or pattern created by the ball bouncing and hitting bats in table tennis.",
+"contexte": "Players must synchronize body and mind with the rhythm to play better.",
+"source_url": "[https://www.experttabletennis.com/rhythm-and-timing-underrated-table-tennis-skills/](https://www.experttabletennis.com/rhythm-and-timing-underrated-table-tennis-skills/)"
+},
+{
+"terme": "Metronome Shadow Play",
+"definition": "Performing shadow play drills in time with a metronome beat.",
+"contexte": "Used to improve timing, rhythm, and maintain consistent effort levels during practice.",
+"source_url": "[https://www.experttabletennis.com/rhythm-and-timing-underrated-table-tennis-skills/](https://www.experttabletennis.com/rhythm-and-timing-underrated-table-tennis-skills/)"
+}
+],
+"problemes_solutions": {
+"rhythm_and_timing_underrated_table_tennis_skills": [
+{
+"probleme": "Poor rhythm and timing in strokes",
+"diagnostic": "Players struggle to keep strokes in sync with the natural beat of play, leading to mistimed shots.",
+"causes_communes": [
+"Lack of natural rhythm or difficulty following beat",
+"Falling ahead or behind timing during shadow play",
+"Inconsistent stroke timing under pressure"
+],
+"solutions_progressives": {
+"debutant": [
+"Recognize rhythm as an important table tennis skill alongside technique.",
+"Practice clapping or moving to beats to build general rhythm awareness."
+],
+"intermediaire": [
+"Use shadow play drills in time with a metronome to synchronize strokes with rhythm.",
+"Experiment with different tempos (60–72 bpm) to find a realistic training pace."
+],
+"avance": [
+"Refine ability to maintain correct timing during irregular rallies and advanced drills.",
+"Use rhythm-based drills to stabilize performance and effort under competitive conditions."
+]
+},
+"exercices_complementaires": [
+{
+"nom": "Metronome shadow play",
+"description": "Perform standard strokes in sync with a metronome beat; keep movements aligned with rhythm throughout drill.",
+"difficulte": "all levels",
+"duree": "Not specified by source.",
+"materiel": "metronome (online or device)"
+}
+],
+"metriques_progression": [
+"Ability to perform drills in time with metronome beat without speeding up or slowing down."
+],
+"erreurs_a_eviter": [
+"Playing strokes faster or slower than the set rhythm.",
+"Allowing timing errors to alter stroke technique.",
+"Training too slowly (below 60 bpm), making drills unrealistic."
+],
+"source_url": "[https://www.experttabletennis.com/rhythm-and-timing-underrated-table-tennis-skills/](https://www.experttabletennis.com/rhythm-and-timing-underrated-table-tennis-skills/)"
+}
+]
+}
+}
+{
+"meta": {
+"article_title": "Are Table Tennis Drills a Waste of Time?",
+"article_slug": "are_table_tennis_drills_a_waste_of_time",
+"source_url": "[https://www.experttabletennis.com/are-table-tennis-drills-a-waste-of-time/](https://www.experttabletennis.com/are-table-tennis-drills-a-waste-of-time/)",
+"date_accessed": "unknown"
+},
+"terminologie_extrait": [],
+"problemes_solutions": {
+"are_table_tennis_drills_a_waste_of_time": [
+{
+"probleme": "Overreliance on table tennis drills",
+"diagnostic": "Drills often used as default practice without clear purpose, benefitting coaches’ structure more than players’ development.",
+"causes_communes": [
+"Drills perceived as safe and easy for group management",
+"Players stuck in pursuit of perfect technique instead of match readiness",
+"Advanced players overusing regular drills beyond their developmental stage"
+],
+"solutions_progressives": {
+"debutant": [
+"Use regular movement drills (e.g., 'backhand, middle, backhand, wide') to consolidate basic strokes like forehand/backhand drives.",
+"Apply regular drills immediately after learning a stroke in isolation to reinforce technique."
+],
+"intermediaire": [
+"Introduce irregular drills to test whether technique holds under pressure and variability.",
+"Avoid early use of irregular drills before basics are solid, to prevent loss of confidence or technical breakdown."
+],
+"avance": [
+"Limit regular drills to short warm-ups or confidence-building; avoid using them as main training.",
+"Employ irregular drills to refine anticipation, balance, speed, and tactical adaptability.",
+"Use service/receive drills to plan tactical plays and integrate point construction."
+]
+},
+"exercices_complementaires": [
+{
+"nom": "Regular movement drill",
+"description": "Backhand–middle–backhand–wide sequence to reinforce technical accuracy with controlled movement.",
+"difficulte": "beginner",
+"duree": "Not specified by source.",
+"materiel": "bucket of balls"
+},
+{
+"nom": "Irregular drill for backhand down-the-line",
+"description": "Rally forehand counters with partner; at random, partner switches ball down the line; player responds with backhand topspin down the line.",
+"difficulte": "advanced",
+"duree": "Not specified by source.",
+"materiel": "table, partner"
+}
+],
+"metriques_progression": [
+"Consistency in strokes across 100-ball sequences",
+"Ability to maintain correct technique during irregular drill without deterioration"
+],
+"erreurs_a_eviter": [
+"Relying excessively on regular drills as a crutch for advanced players.",
+"Practicing only for perfect technique without applying to match play.",
+"Introducing irregular drills prematurely for beginners."
+],
+"source_url": "[https://www.experttabletennis.com/are-table-tennis-drills-a-waste-of-time/](https://www.experttabletennis.com/are-table-tennis-drills-a-waste-of-time/)"
+}
+]
+}
+}
+{
+"meta": {
+"article_title": "Upgrade Your Table Tennis Practice",
+"article_slug": "upgrade_your_table_tennis_practice",
+"source_url": "[https://www.experttabletennis.com/upgrade-your-table-tennis-practice/](https://www.experttabletennis.com/upgrade-your-table-tennis-practice/)",
+"date_accessed": "unknown"
+},
+"terminologie_extrait": [
+{
+"terme": "Deliberate play",
+"definition": "Creative and unstructured practice where players experiment with shots, spins, or invented games.",
+"contexte": "Used as part of training to encourage creativity, confidence, and ball feeling.",
+"source_url": "[https://www.experttabletennis.com/upgrade-your-table-tennis-practice/](https://www.experttabletennis.com/upgrade-your-table-tennis-practice/)"
+}
+],
+"problemes_solutions": {
+"upgrade_your_table_tennis_practice": [
+{
+"probleme": "Inefficient use of practice time and overreliance on standard drills",
+"diagnostic": "Players often waste time with long sessions, breaks, or unfocused routines; many only do drills and matches without feedback.",
+"causes_communes": [
+"Unplanned sessions leading to wasted time",
+"Practicing long sessions at low intensity",
+"Mindless match play without analysis",
+"Ignoring creativity and experimental play"
+],
+"solutions_progressives": {
+"debutant": [
+"Increase practice frequency with shorter, high-intensity sessions (e.g., six 1-hour sessions instead of two 3-hour sessions).",
+"Plan each session beforehand to avoid wasted time.",
+"Remove unnecessary breaks; bring drinks to table."
+],
+"intermediaire": [
+"Incorporate video analysis of practice matches; review with coach to identify weaknesses.",
+"Treat matches as learning tools, focusing on feedback and improvement rather than only results."
+],
+"avance": [
+"Use deliberate play blocks (e.g., 15 minutes) for creativity, trick shots, and experimenting with spins.",
+"Encourage players to invent new games or challenges to build confidence and ball feel."
+]
+},
+"exercices_complementaires": [
+{
+"nom": "Video-analyzed match play",
+"description": "Play practice matches while recording; later analyze footage with a coach to identify errors and tactical improvements.",
+"difficulte": "intermediate",
+"duree": "Match length + analysis",
+"materiel": "camera, table, coach"
+},
+{
+"nom": "Deliberate play block",
+"description": "Spend 15 minutes experimenting with new spins, trick shots, or self-invented games to enhance creativity and confidence.",
+"difficulte": "all levels",
+"duree": "15 minutes",
+"materiel": "table, balls, partner"
+}
+],
+"metriques_progression": [
+"Improved awareness of mistakes via video feedback.",
+"Increased creativity and confidence during deliberate play sessions."
+],
+"erreurs_a_eviter": [
+"Mindless match play without feedback or review.",
+"Practicing long, unfocused sessions with wasted breaks.",
+"Neglecting creativity by relying solely on traditional drills."
+],
+"source_url": "[https://www.experttabletennis.com/upgrade-your-table-tennis-practice/](https://www.experttabletennis.com/upgrade-your-table-tennis-practice/)"
+}
+]
+}
+}
+{
+"meta": {
+"article_title": "What Do You Work On When Everything Needs Work?",
+"article_slug": "what_do_you_work_on_when_everything_needs_work",
+"source_url": "[https://www.experttabletennis.com/when-everything-needs-work/](https://www.experttabletennis.com/when-everything-needs-work/)",
+"date_accessed": "unknown"
+},
+"terminologie_extrait": [],
+"problemes_solutions": {
+"what_do_you_work_on_when_everything_needs_work": [
+{
+"probleme": "Overwhelmed by too many technical flaws to fix",
+"diagnostic": "Player notices endless list of errors as skill level rises, leading to frustration and uncertainty about priorities.",
+"causes_communes": [
+"Continuous discovery of new flaws with progress",
+"Reverting to bad habits in pressure situations",
+"Insufficient time to engrain all corrections into muscle memory"
+],
+"solutions_progressives": {
+"debutant": [
+"Accept that improvement always reveals new flaws; it is part of the learning process."
+],
+"intermediaire": [
+"Prioritize top two or three flaws to work on at a time, rather than attempting to fix everything."
+],
+"avance": [
+"Reassess and reprioritize flaws periodically; once main flaws improve, shift focus to new highest-impact issues."
+]
+},
+"exercices_complementaires": [],
+"metriques_progression": [
+"Progress tracked by focusing on top 2–3 prioritized flaws until consistent improvement is observed."
+],
+"erreurs_a_eviter": [
+"Trying to fix too many issues simultaneously.",
+"Expecting immediate automation of corrected technique."
+],
+"source_url": "[https://www.experttabletennis.com/when-everything-needs-work/](https://www.experttabletennis.com/when-everything-needs-work/)"
+}
+]
+}
+}
+{
+"meta": {
+"article_title": "High Intensity Table Tennis and 60 Minute Practice",
+"article_slug": "high_intensity_table_tennis_and_60_minute_practice",
+"source_url": "[https://www.experttabletennis.com/high-intensity-table-tennis-and-60-minute-practice/](https://www.experttabletennis.com/high-intensity-table-tennis-and-60-minute-practice/)",
+"date_accessed": "unknown"
+},
+"terminologie_extrait": [
+{
+"terme": "60 Minute Table Tennis",
+"definition": "A high-intensity training model focusing on short, planned, 60-minute daily sessions instead of long, low-intensity practices.",
+"contexte": "Proposed as a time-efficient alternative for players with limited hours outside work or study.",
+"source_url": "[https://www.experttabletennis.com/high-intensity-table-tennis-and-60-minute-practice/](https://www.experttabletennis.com/high-intensity-table-tennis-and-60-minute-practice/)"
+}
+],
+"problemes_solutions": {
+"high_intensity_table_tennis_and_60_minute_practice": [
+{
+"probleme": "Limited practice time compared to professionals",
+"diagnostic": "Non-professional players cannot commit 25–45 hours weekly like elite athletes.",
+"causes_communes": [
+"Constraints from work, school, or other commitments",
+"Traditional reliance on high-volume training models"
+],
+"solutions_progressives": {
+"debutant": [
+"Adopt shorter, high-intensity sessions (e.g., 60 minutes daily) with focused, planned content."
+],
+"intermediaire": [
+"Reduce or eliminate breaks within sessions; keep intensity high.",
+"Plan sessions carefully to target key skills."
+],
+"avance": [
+"Experiment with intensity-focused models to complement volume training where possible; test efficiency gains for skill retention."
+]
+},
+"exercices_complementaires": [],
+"metriques_progression": [
+"Not specified by source."
+],
+"erreurs_a_eviter": [
+"Using long, unfocused, low-intensity sessions that waste limited time."
+],
+"source_url": "[https://www.experttabletennis.com/high-intensity-table-tennis-and-60-minute-practice/](https://www.experttabletennis.com/high-intensity-table-tennis-and-60-minute-practice/)"
+}
+]
+}
+}
+{
+"meta": {
+"article_title": "Physical Training for Table Tennis",
+"article_slug": "physical_training_for_table_tennis",
+"source_url": "[https://www.experttabletennis.com/physical/](https://www.experttabletennis.com/physical/)",
+"date_accessed": "unknown"
+},
+"terminologie_extrait": [],
+"problemes_solutions": {
+"physical_training_for_table_tennis": [
+{
+"probleme": "Balancing physical training with table practice",
+"diagnostic": "Beginners may spend time on physical training at expense of technical practice, reducing progress.",
+"causes_communes": [
+"Limited training hours forcing trade-off between gym work and table time",
+"Beginners copying elite training programs unsuited to their level"
+],
+"solutions_progressives": {
+"debutant": [
+"Prioritize on-table practice over gym training for skill development.",
+"Use physically demanding table drills (e.g., overspeed multiball) instead of separate gym work."
+],
+"intermediaire": [
+"Introduce limited physical training if conditioning clearly hinders match performance.",
+"Balance gym work with sufficient table time."
+],
+"avance": [
+"Elite players should incorporate structured physical training to maximize speed, power, stamina, and injury prevention.",
+"Include components such as short sprints, lateral training, plyometrics, arm speed work, and quick, explosive movements."
+]
+},
+"exercices_complementaires": [],
+"metriques_progression": [
+"Not specified by source."
+],
+"erreurs_a_eviter": [
+"Overcommitting beginners to physical training at the expense of technical and tactical practice.",
+"Copying elite players’ volume and intensity without progression."
+],
+"source_url": "[https://www.experttabletennis.com/physical/](https://www.experttabletennis.com/physical/)"
+}
+]
+}
+}
+{
+"meta": {
+"article_title": "5 Tips to Improve Your Table Tennis Fitness & Train Like an Athlete!",
+"article_slug": "5_tips_to_improve_your_table_tennis_fitness_train_like_an_athlete",
+"source_url": "[https://www.experttabletennis.com/5-tips-table-tennis-fitness/](https://www.experttabletennis.com/5-tips-table-tennis-fitness/)",
+"date_accessed": "unknown"
+},
+"terminologie_extrait": [],
+"problemes_solutions": {
+"5_tips_to_improve_your_table_tennis_fitness_train_like_an_athlete": [
+{
+"probleme": "Inadequate sport-specific fitness training for table tennis",
+"diagnostic": "Players often rely on general fitness like long-distance running, which doesn’t match table tennis demands.",
+"causes_communes": [
+"Misunderstanding of which muscles and movements are used in table tennis",
+"Use of slow-twitch aerobic training instead of explosive anaerobic work"
+],
+"solutions_progressives": {
+"debutant": [
+"Integrate short sprints (10–40m) with full recovery to build speed and endurance.",
+"Practice lateral movements such as side-to-side jumps to mimic table tennis footwork."
+],
+"intermediaire": [
+"Add jumping and bounding drills (e.g., tuck jumps, plyometrics) to develop explosive power and agility.",
+"

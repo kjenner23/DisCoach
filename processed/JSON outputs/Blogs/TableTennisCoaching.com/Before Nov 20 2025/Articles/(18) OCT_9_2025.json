@@ -1,0 +1,283 @@
+[
+  {
+    "meta": {
+      "article_title": "Practicing Serves the Productive Way",
+      "article_slug": "practicing_serves_productive_way",
+      "source_url": "http://www.tabletenniscoaching.com/node/584",
+      "date_accessed": "2025-10-09"
+    },
+    "terminologie_extrait": [
+      {
+        "terme": "Visualization",
+        "definition": "The mental process of seeing the serve's contact, spin, trajectory, and bounce before performing it.",
+        "contexte": "Used to build consistency and precision in serve practice."
+      }
+    ],
+    "problemes_solutions": {
+      "practice_serve_technique": [
+        {
+          "probleme": "Players practice serves mechanically without focus or visualization",
+          "diagnostic": "Rapid repetition without mental engagement prevents improvement.",
+          "causes_communes": [
+            "Lack of clear model for proper serve mechanics",
+            "No visualization before execution",
+            "Overemphasis on volume over quality"
+          ],
+          "solutions_progressives": {
+            "debutant": [
+              "Watch skilled servers or coaches to model correct mechanics.",
+              "Hold the ball and practice light contact to feel spin before full serves."
+            ],
+            "intermediaire": [
+              "Visualize the complete serve path — contact, spin, bounces, height — before each attempt.",
+              "Serve alone for focus, alternating visualization and execution."
+            ],
+            "avance": [
+              "Use mental correction loops: visualize, execute, evaluate, then re-visualize incorporating feedback.",
+              "Train at full intensity to build whip speed and consistency."
+            ]
+          },
+          "exercices_complementaires": [
+            {
+              "nom": "Serve Visualization Drill",
+              "description": "Before each serve, visualize contact, height, and bounce; record deviations after execution.",
+              "difficulte": "intermediate",
+              "duree": "15 minutes",
+              "materiel": "box of balls; notebook"
+            }
+          ],
+          "metriques_progression": [
+            "Reduction in serve height error margin",
+            "Spin and placement consistency per 10 serves"
+          ],
+          "erreurs_a_eviter": [
+            "Mindless repetition without visualization",
+            "Rushing through balls like a factory process"
+          ],
+          "source_url": "http://www.tabletenniscoaching.com/node/584"
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "article_title": "Short Serves to the Middle",
+      "article_slug": "short_serves_to_middle",
+      "source_url": "http://www.tabletenniscoaching.com/node/556",
+      "date_accessed": "2025-10-09"
+    },
+    "problemes_solutions": {
+      "short_serve_placement": [
+        {
+          "probleme": "Players serve short to corners and expose angles",
+          "diagnostic": "Serving short to forehand or backhand opens the table and forces awkward follow-ups.",
+          "causes_communes": [
+            "Lack of awareness of opponent’s angle advantage",
+            "Serving habitually to same location"
+          ],
+          "solutions_progressives": {
+            "debutant": [
+              "Serve short to the middle to limit opponent’s angles."
+            ],
+            "intermediaire": [
+              "Combine short-middle serves with occasional deep variations to exploit hesitation between forehand and backhand."
+            ],
+            "avance": [
+              "Integrate short-middle serves into serve-and-attack strategy, using forehand follow-up positioning."
+            ]
+          },
+          "exercices_complementaires": [
+            {
+              "nom": "Middle Short Serve Drill",
+              "description": "Serve 10 short-middle balls focusing on depth and angle neutrality; note follow-up position.",
+              "difficulte": "intermediate",
+              "duree": "10 minutes",
+              "materiel": "table; target marker"
+            }
+          ],
+          "metriques_progression": [
+            "Percentage of serves keeping opponent from using wide angles",
+            "Success of forehand follow-up after middle serve"
+          ],
+          "erreurs_a_eviter": [
+            "Leaving ball too long when targeting middle",
+            "Serving predictably to one spot"
+          ],
+          "source_url": "http://www.tabletenniscoaching.com/node/556"
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "article_title": "Reading Service Spin",
+      "article_slug": "reading_service_spin",
+      "source_url": "http://www.tabletenniscoaching.com/node/79",
+      "date_accessed": "2025-10-09"
+    },
+    "terminologie_extrait": [
+      {
+        "terme": "Reading Spin",
+        "definition": "Interpreting the racket’s motion and contact to determine the spin type and intensity.",
+        "contexte": "Essential for returning serves effectively."
+      }
+    ],
+    "problemes_solutions": {
+      "reading_spin": [
+        {
+          "probleme": "Players misread spin on serves and make unforced errors",
+          "diagnostic": "Difficulty tracking contact point, racket direction, or differentiating spin types.",
+          "causes_communes": [
+            "Failure to focus on racket at moment of contact",
+            "Lack of practice against varied spins",
+            "Overreliance on reading from ball flight alone"
+          ],
+          "solutions_progressives": {
+            "debutant": [
+              "Focus on the racket’s direction at contact rather than entire motion.",
+              "Practice identifying spin with slow, clear serves."
+            ],
+            "intermediaire": [
+              "Estimate spin using formula: racket speed minus ball speed ≈ spin level.",
+              "Take a mental snapshot at contact (‘flash video’) to memorize spin cues."
+            ],
+            "avance": [
+              "Train with multi-spin servers; vary observation delay to build adaptability.",
+              "Use peripheral vision to combine cues from racket and early flight arc."
+            ]
+          },
+          "exercices_complementaires": [
+            {
+              "nom": "Spin Reading Drill",
+              "description": "Partner serves with varied spins; receiver states spin type before returning.",
+              "difficulte": "intermediate",
+              "duree": "20 minutes",
+              "materiel": "partner; notebook"
+            }
+          ],
+          "metriques_progression": [
+            "Accuracy rate in identifying spin type",
+            "Reduction of serve return errors"
+          ],
+          "erreurs_a_eviter": [
+            "Looking at ball too late after toss",
+            "Relying solely on trajectory instead of contact reading"
+          ],
+          "source_url": "http://www.tabletenniscoaching.com/node/79"
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "article_title": "How To Return Different Serves",
+      "article_slug": "return_different_serves",
+      "source_url": "http://www.tabletenniscoaching.com/node/80",
+      "date_accessed": "2025-10-09"
+    },
+    "terminologie_extrait": [
+      {
+        "terme": "Flip",
+        "definition": "A short, quick topspin attack against a short serve.",
+        "contexte": "Used to take initiative over the table."
+      },
+      {
+        "terme": "Chop-Block",
+        "definition": "A hybrid stroke combining push and block motions to produce controlled backspin.",
+        "contexte": "Used to return short topspin or sidespin serves."
+      }
+    ],
+    "problemes_solutions": {
+      "returning_varied_serves": [
+        {
+          "probleme": "Players struggle to return different serve types effectively",
+          "diagnostic": "Overuse of passive pushes and lack of tactical variation.",
+          "causes_communes": [
+            "Not distinguishing between short and long serves",
+            "Improper stroke choice against spin type"
+          ],
+          "solutions_progressives": {
+            "debutant": [
+              "Attack all long serves with loop or drive instead of pushing.",
+              "Learn to differentiate short and long serves visually."
+            ],
+            "intermediaire": [
+              "Use forehand flip or backhand drive on short sidespin/topspin serves.",
+              "Practice chop-blocks and placement variation."
+            ],
+            "avance": [
+              "Integrate deceptive flips and quick short pushes to control rally start.",
+              "Vary depth and direction to disrupt third-ball attacks."
+            ]
+          },
+          "exercices_complementaires": [
+            {
+              "nom": "Serve Return Mix Drill",
+              "description": "Partner alternates serve types; receiver practices correct stroke selection for each.",
+              "difficulte": "advanced",
+              "duree": "25 minutes",
+              "materiel": "table; partner"
+            }
+          ],
+          "metriques_progression": [
+            "Percentage of successful first attacks on long serves",
+            "Error reduction rate on short serve flips"
+          ],
+          "erreurs_a_eviter": [
+            "Pushing all serves by habit",
+            "Flipping too hard instead of prioritizing placement"
+          ],
+          "source_url": "http://www.tabletenniscoaching.com/node/80"
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "article_title": "When Receiving, Emphasize Placement & Consistency",
+      "article_slug": "receiving_placement_consistency",
+      "source_url": "http://www.tabletenniscoaching.com/node/81",
+      "date_accessed": "2025-10-09"
+    },
+    "problemes_solutions": {
+      "serve_receive_control": [
+        {
+          "probleme": "Players return serves too aggressively or too passively",
+          "diagnostic": "Neglect of controlled placement and variation makes returns predictable or error-prone.",
+          "causes_communes": [
+            "Trying to win points directly on receive",
+            "Lack of focus on opponent’s positional weaknesses"
+          ],
+          "solutions_progressives": {
+            "debutant": [
+              "Aim for consistent placement over power; keep returns low and safe."
+            ],
+            "intermediaire": [
+              "Vary depth, spin, and pace while prioritizing placement to opponent’s weaker zones."
+            ],
+            "avance": [
+              "Use subtle speed, spin, and angle changes to disrupt rhythm without unforced errors."
+            ]
+          },
+          "exercices_complementaires": [
+            {
+              "nom": "Placement Variation Drill",
+              "description": "Receive alternating serves and aim at three distinct table zones in sequence.",
+              "difficulte": "intermediate",
+              "duree": "15 minutes"
+            }
+          ],
+          "metriques_progression": [
+            "Return success rate by placement zone",
+            "Opponent forced errors per set"
+          ],
+          "erreurs_a_eviter": [
+            "Overhitting off serves",
+            "Returning predictably to same location"
+          ],
+          "source_url": "http://www.tabletenniscoaching.com/node/81"
+        }
+      ]
+    }
+  }
+]

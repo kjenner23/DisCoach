@@ -1,0 +1,671 @@
+```json
+[
+  {
+    "meta": {
+      "article_title": "Practicing Serves the Productive Way",
+      "article_slug": "practicing_serves_productive_way",
+      "source_url": "http://www.tabletenniscoaching.com/node/584",
+      "date_accessed": "2025-10-09"
+    },
+    "terminologie_extrait": [
+      {
+        "terme": "Visualization",
+        "definition": "The mental process of seeing the serve's contact, spin, trajectory, and bounce before performing it.",
+        "contexte": "Used to build consistency and precision in serve practice."
+      }
+    ],
+    "problemes_solutions": {
+      "practice_serve_technique": [
+        {
+          "probleme": "Players practice serves mechanically without focus or visualization",
+          "diagnostic": "Rapid repetition without mental engagement prevents improvement.",
+          "causes_communes": [
+            "Lack of clear model for proper serve mechanics",
+            "No visualization before execution",
+            "Overemphasis on volume over quality"
+          ],
+          "solutions_progressives": {
+            "debutant": [
+              "Watch skilled servers or coaches to model correct mechanics.",
+              "Hold the ball and practice light contact to feel spin before full serves."
+            ],
+            "intermediaire": [
+              "Visualize the complete serve path—contact, spin, bounces, height—before each attempt.",
+              "Serve alone for focus, alternating visualization and execution."
+            ],
+            "avance": [
+              "Use mental correction loops: visualize, execute, evaluate, then re-visualize incorporating feedback.",
+              "Train at full intensity to build whip speed and consistency."
+            ]
+          },
+          "exercices_complementaires": [
+            {
+              "nom": "Serve Visualization Drill",
+              "description": "Before each serve, visualize contact, height, and bounce; record deviations after execution.",
+              "difficulte": "intermediate",
+              "duree": "15 minutes",
+              "materiel": "box of balls; notebook"
+            }
+          ],
+          "metriques_progression": [
+            "Reduction in serve height error margin",
+            "Spin and placement consistency per 10 serves"
+          ],
+          "erreurs_a_eviter": [
+            "Mindless repetition without visualization",
+            "Rushing through balls like a factory process"
+          ],
+          "source_url": "http://www.tabletenniscoaching.com/node/584"
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "article_title": "Short serves to the middle",
+      "article_slug": "short_serves_to_middle",
+      "source_url": "http://www.tabletenniscoaching.com/node/556",
+      "date_accessed": "2025-10-09"
+    },
+    "problemes_solutions": {
+      "short_serve_placement": [
+        {
+          "probleme": "Players serve short to corners and expose angles",
+          "diagnostic": "Serving short to forehand or backhand opens the table and forces awkward follow-ups.",
+          "causes_communes": [
+            "Lack of awareness of opponent’s angle advantage",
+            "Habitual corner serving"
+          ],
+          "solutions_progressives": {
+            "debutant": [
+              "Serve short to the middle to limit opponent angles."
+            ],
+            "intermediaire": [
+              "Blend short-middle with occasional sudden deep serves to create indecision."
+            ],
+            "avance": [
+              "Build a serve-and-forehand-follow pattern from short-middle as the default."
+            ]
+          },
+          "exercices_complementaires": [
+            {
+              "nom": "Middle Short Serve Drill",
+              "description": "Serve 10 short-middle balls focusing on low height and second bounce near endline.",
+              "difficulte": "intermediate",
+              "duree": "10 minutes",
+              "materiel": "table; targets"
+            }
+          ],
+          "metriques_progression": [
+            "Percentage of serves preventing wide-angle receives",
+            "Successful FH third-ball rate"
+          ],
+          "erreurs_a_eviter": [
+            "Leaving the serve half-long",
+            "Telegraphing middle placement"
+          ],
+          "source_url": "http://www.tabletenniscoaching.com/node/556"
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "article_title": "Reading Service Spin",
+      "article_slug": "reading_service_spin",
+      "source_url": "http://www.tabletenniscoaching.com/node/79",
+      "date_accessed": "2025-10-09"
+    },
+    "terminologie_extrait": [
+      {
+        "terme": "Flash video",
+        "definition": "A mental snapshot at the exact moment of contact to capture racket direction and speed.",
+        "contexte": "Helps identify spin type and amount."
+      }
+    ],
+    "problemes_solutions": {
+      "reading_spin": [
+        {
+          "probleme": "Misreading spin on serves leads to pop-ups and errors",
+          "diagnostic": "Receiver watches ball flight instead of racket at contact.",
+          "causes_communes": [
+            "Semi-circular deceptive motions",
+            "Spin/no-spin disguises",
+            "Overwhelming spin levels"
+          ],
+          "solutions_progressives": {
+            "debutant": [
+              "Lock eyes on racket at contact; name the spin aloud during drills."
+            ],
+            "intermediaire": [
+              "Estimate spin via: racket speed − ball speed ≈ spin amount.",
+              "Delay impact slightly to confirm bounce behavior when uncertain."
+            ],
+            "avance": [
+              "Train vs. high-toss and hidden-like contacts to read from flight and bounce cues.",
+              "Catalog opponents’ tells and common pairings."
+            ]
+          },
+          "exercices_complementaires": [
+            {
+              "nom": "Call-and-Return",
+              "description": "Partner serves randomized spins; receiver calls spin before touching ball, then returns.",
+              "difficulte": "intermediate",
+              "duree": "20 minutes"
+            }
+          ],
+          "metriques_progression": [
+            "Spin ID accuracy %",
+            "Serve-receive error rate"
+          ],
+          "erreurs_a_eviter": [
+            "Ball-watching the toss instead of the blade at contact",
+            "Guessing without feedback loops"
+          ],
+          "source_url": "http://www.tabletenniscoaching.com/node/79"
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "article_title": "How To Return Different Serves",
+      "article_slug": "return_different_serves",
+      "source_url": "http://www.tabletenniscoaching.com/node/80",
+      "date_accessed": "2025-10-09"
+    },
+    "terminologie_extrait": [
+      {
+        "terme": "Flip",
+        "definition": "Quick over-the-table topspin used vs. short serves.",
+        "contexte": "Primary tool to seize initiative vs. short topspin/sidespin."
+      },
+      {
+        "terme": "Chop-block",
+        "definition": "Downward, closed-face block that adds backspin.",
+        "contexte": "Control option vs. short topspin/sidespin."
+      }
+    ],
+    "problemes_solutions": {
+      "returning_varied_serves": [
+        {
+          "probleme": "Over-pushing long or short serves",
+          "diagnostic": "Failure to attack long serves; predictable receives.",
+          "causes_communes": [
+            "Unclear short/long read",
+            "Limited receive toolbox"
+          ],
+          "solutions_progressives": {
+            "debutant": [
+              "Attack all long serves (loop/drive).",
+              "Distinguish short (2-bounce) vs. long (1-bounce) on the rise."
+            ],
+            "intermediaire": [
+              "Add FH flip BH drive vs. short topspin/sidespin.",
+              "Develop short push with early contact and low trajectory."
+            ],
+            "avance": [
+              "Deceptive flip placements (wide/middle) and chop-blocks as changeups."
+            ]
+          },
+          "exercices_complementaires": [
+            {
+              "nom": "Serve-Type Circuit",
+              "description": "Server cycles long backspin, long topspin, short backspin, short sidespin; receiver must choose correct response each time.",
+              "difficulte": "advanced",
+              "duree": "25 minutes"
+            }
+          ],
+          "metriques_progression": [
+            "1st-attack rate vs. long serves",
+            "Short-receive depth control (2nd bounce near endline) %"
+          ],
+          "erreurs_a_eviter": [
+            "Flipping too hard without placement",
+            "Medium-deep pushes"
+          ],
+          "source_url": "http://www.tabletenniscoaching.com/node/80"
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "article_title": "When Receiving, Emphasize Placement & Consistency",
+      "article_slug": "receiving_placement_consistency",
+      "source_url": "http://www.tabletenniscoaching.com/node/81",
+      "date_accessed": "2025-10-09"
+    },
+    "problemes_solutions": {
+      "serve_receive_control": [
+        {
+          "probleme": "Either over-attacking or being too passive on receive",
+          "diagnostic": "Returns feed server’s strengths or miss too often.",
+          "causes_communes": [
+            "Chasing winners on receive",
+            "Ignoring opponent-specific weak zones"
+          ],
+          "solutions_progressives": {
+            "debutant": [
+              "Aim safe and low; prioritize depth to corners or elbow."
+            ],
+            "intermediaire": [
+              "Mix pushes, flips, rolls with varied depth/spin while targeting weak zones."
+            ],
+            "avance": [
+              "Layer tempo and spin changes to force indecision without raising error rate."
+            ]
+          },
+          "exercices_complementaires": [
+            {
+              "nom": "Three-Zone Targeting",
+              "description": "Return successive serves to backhand corner, elbow, wide forehand in sequence.",
+              "difficulte": "intermediate",
+              "duree": "15 minutes"
+            }
+          ],
+          "metriques_progression": [
+            "Hold-serve differential after neutral receives",
+            "Forced-error count created by placement"
+          ],
+          "erreurs_a_eviter": [
+            "Predictable same-spot returns",
+            "Overhitting flips"
+          ],
+          "source_url": "http://www.tabletenniscoaching.com/node/81"
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "article_title": "Ten-Point Plan to Rallying Success",
+      "article_slug": "ten_point_plan_rallying_success",
+      "source_url": "http://www.tabletenniscoaching.com/node/22",
+      "date_accessed": "2025-10-09"
+    },
+    "problemes_solutions": {
+      "progression_rallies": [
+        {
+          "probleme": "Beginners can drive in drills but fail to rally in matches",
+          "diagnostic": "Lack of movement, random-ball adaptation, and transition from serve/receive to rally.",
+          "solutions_progressives": {
+            "debutant": [
+              "Step 1–3: Stabilize FH/BH technique; add basic side-to-side movement; avoid reaching."
+            ],
+            "intermediaire": [
+              "Step 4–6: Random ball on half then whole table; decision making between FH/BH.",
+              "Step 7–9: Enter rallies from serve and receive patterns."
+            ],
+            "avance": [
+              "Step 10: Integrate into full matches with emphasis on early initiative."
+            ]
+          },
+          "exercices_complementaires": [
+            {
+              "nom": "Random Half-Table",
+              "description": "Feeder sends random balls to one wing; player moves and keeps same stroke quality.",
+              "difficulte": "intermediate",
+              "duree": "12 minutes"
+            }
+          ],
+          "metriques_progression": [
+            "Consecutive balls vs. random feed",
+            "Successful transition from push to opening topspin"
+          ],
+          "source_url": "http://www.tabletenniscoaching.com/node/22"
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "article_title": "Super Spinny Slow Loops",
+      "article_slug": "super_spinny_slow_loops",
+      "source_url": "http://www.tabletenniscoaching.com/node/70",
+      "date_accessed": "2025-10-09"
+    },
+    "terminologie_extrait": [
+      {
+        "terme": "Slow heavy loop",
+        "definition": "A deep, high-arc topspin with maximal spin and low speed.",
+        "contexte": "Used to disrupt blocks/counterloops and buy time for recovery."
+      }
+    ],
+    "problemes_solutions": {
+      "slow_loop_usage": [
+        {
+          "probleme": "Opponents exploit pace; player can’t recover position after opening",
+          "diagnostic": "All openings are fast; blocks come back too quick.",
+          "solutions_progressives": {
+            "debutant": [
+              "Use a grippy inverted surface and focus on deep placement."
+            ],
+            "intermediaire": [
+              "Drop contact to knee height; bend legs; brush up to load spin; keep the ball DEEP."
+            ],
+            "avance": [
+              "Alternate slow-heavy and faster loops to break timing; target deep to body."
+            ]
+          },
+          "exercices_complementaires": [
+            {
+              "nom": "Deep Spinny Loop vs. Push",
+              "description": "Serve backspin, receive push, execute slow heavy loop landing within 6–12 inches of endline.",
+              "difficulte": "intermediate",
+              "duree": "15 minutes"
+            }
+          ],
+          "metriques_progression": [
+            "Opponent block error rate vs. slow loop",
+            "Recovery time to neutral stance"
+          ],
+          "source_url": "http://www.tabletenniscoaching.com/node/70"
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "article_title": "Hooking Sidespin Loops",
+      "article_slug": "hooking_sidespin_loops",
+      "source_url": "http://www.tabletenniscoaching.com/node/69",
+      "date_accessed": "2025-10-09"
+    },
+    "problemes_solutions": {
+      "hook_loop": [
+        {
+          "probleme": "Opponents read straight topspin; player can’t force FH replies",
+          "diagnostic": "Loops have little sidespin; poor use of wide FH geometry.",
+          "solutions_progressives": {
+            "debutant": [
+              "Contact outside of ball with tip down; start from wide FH."
+            ],
+            "intermediaire": [
+              "Use hook to the opponent’s FH to open next FH chance; vary arc height."
+            ],
+            "avance": [
+              "Around-the-net attempts only when ball is very wide and low; prioritize deep landing."
+            ]
+          },
+          "exercices_complementaires": [
+            {
+              "nom": "Outside-Contact Drill",
+              "description": "Feeder blocks to wide FH; looper hooks cross-court then down-the-line alternation.",
+              "difficulte": "advanced",
+              "duree": "12 minutes"
+            }
+          ],
+          "metriques_progression": [
+            "Forced FH replies created",
+            "Hook consistency to deep corners"
+          ],
+          "source_url": "http://www.tabletenniscoaching.com/node/69"
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "article_title": "Counterlooping",
+      "article_slug": "counterlooping",
+      "source_url": "http://www.tabletenniscoaching.com/node/36",
+      "date_accessed": "2025-10-09"
+    },
+    "terminologie_extrait": [
+      {
+        "terme": "Stroke forward, not up",
+        "definition": "Primary cue for counterlooping to replace incoming topspin with your own.",
+        "contexte": "Prevents ballooning errors."
+      }
+    ],
+    "problemes_solutions": {
+      "counterloop_types": [
+        {
+          "probleme": "Failure to counterloop varied topspin balls",
+          "diagnostic": "Upward strokes learned vs. backspin carry over to topspin.",
+          "solutions_progressives": {
+            "debutant": [
+              "Train ‘consistent’ counterloop after peak; focus forward drive with slight up."
+            ],
+            "intermediaire": [
+              "Add defensive (late), aggressive (at peak), and off-the-bounce versions."
+            ],
+            "avance": [
+              "Contact slightly on outside of ball to add sidespin and avoid meeting spin head-on."
+            ]
+          },
+          "exercices_complementaires": [
+            {
+              "nom": "Four-Counterloop Ladder",
+              "description": "Rotate defensive → consistent → aggressive → off-the-bounce every 4 balls.",
+              "difficulte": "advanced",
+              "duree": "20 minutes"
+            }
+          ],
+          "metriques_progression": [
+            "First-counter success rate",
+            "Rally length after initiating counterloop"
+          ],
+          "erreurs_a_eviter": [
+            "Lifting like vs. backspin",
+            "Guiding the ball instead of overpowering spin"
+          ],
+          "source_url": "http://www.tabletenniscoaching.com/node/36"
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "article_title": "Dummy Loops",
+      "article_slug": "dummy_loops",
+      "source_url": "http://www.tabletenniscoaching.com/node/66",
+      "date_accessed": "2025-10-09"
+    },
+    "problemes_solutions": {
+      "deception_loops": [
+        {
+          "probleme": "Opponents groove on heavy-spin rhythm",
+          "diagnostic": "Every loop is high-spin; blocks become automatic.",
+          "solutions_progressives": {
+            "debutant": [
+              "Perform full loop motion but snap wrist BEFORE contact; contact after snap to reduce spin."
+            ],
+            "intermediaire": [
+              "Vary contact point (near handle for deader ball) while keeping same swing."
+            ],
+            "avance": [
+              "Interleave dummy and heavy loops unpredictably to induce netted blocks."
+            ]
+          },
+          "exercices_complementaires": [
+            {
+              "nom": "Heavy–Dummy Pairing",
+              "description": "Alternate one heavy loop and one dummy loop; partner attempts standard block.",
+              "difficulte": "intermediate",
+              "duree": "10 minutes"
+            }
+          ],
+          "metriques_progression": [
+            "Opponent block error rate swing",
+            "Indistinguishability score on video (contact timing)"
+          ],
+          "source_url": "http://www.tabletenniscoaching.com/node/66"
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "article_title": "Backhand Counter",
+      "article_slug": "backhand_counter",
+      "source_url": "http://www.tabletenniscoaching.com/node/40",
+      "date_accessed": "2025-10-09"
+    },
+    "problemes_solutions": {
+      "bh_counter_tactics": [
+        {
+          "probleme": "Passive backhand that neither controls nor pressures",
+          "diagnostic": "Predictable pace/placement; shots land between corners.",
+          "solutions_progressives": {
+            "debutant": [
+              "Default to deep BH corner; avoid mid-table ‘no-man’s land’."
+            ],
+            "intermediaire": [
+              "Work four targets: wide BH, deep BH, elbow, wide FH; add off-the-bounce on short balls."
+            ],
+            "avance": [
+              "Sequence patterns: elbow → open corner, soft–hard alternation vs. deep defenders."
+            ]
+          },
+          "exercices_complementaires": [
+            {
+              "nom": "Four-Point BH Pattern",
+              "description": "Counter BH to four targets on coach’s call; add disguise on FH redirect.",
+              "difficulte": "intermediate",
+              "duree": "14 minutes"
+            }
+          ],
+          "metriques_progression": [
+            "Target hit rate",
+            "Points won initiating with BH placement"
+          ],
+          "source_url": "http://www.tabletenniscoaching.com/node/40"
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "article_title": "A Way to Make Your Backhand Hitting More Aggressive",
+      "article_slug": "bh_more_aggressive_short_pips_drill",
+      "source_url": "http://www.tabletenniscoaching.com/node/75",
+      "date_accessed": "2025-10-09"
+    },
+    "problemes_solutions": {
+      "bh_power_development": [
+        {
+          "probleme": "Steady but weak backhand lacks penetration",
+          "diagnostic": "Short stroke; reliance on rubber rebound.",
+          "solutions_progressives": {
+            "debutant": [
+              "Temporary training with short pips to force fuller stroke and self-generated pace."
+            ],
+            "intermediaire": [
+              "Return to inverted while preserving extended stroke and body use."
+            ],
+            "avance": [
+              "Blend counter-drive and punch-block variants for point pressure."
+            ]
+          },
+          "exercices_complementaires": [
+            {
+              "nom": "Pips-to-Inverted Transfer",
+              "description": "2 weeks BH drills with short pips, then repeat same drills with inverted focusing on stroke length retention.",
+              "difficulte": "intermediate",
+              "duree": "2×45 minutes/session"
+            }
+          ],
+          "metriques_progression": [
+            "Average BH ball speed",
+            "Winning shots produced per set with BH"
+          ],
+          "source_url": "http://www.tabletenniscoaching.com/node/75"
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "article_title": "Lobbing",
+      "article_slug": "lobbing",
+      "source_url": "http://www.tabletenniscoaching.com/node/37",
+      "date_accessed": "2025-10-09"
+    },
+    "terminologie_extrait": [
+      {
+        "terme": "Defensive lob",
+        "definition": "Very high, deep, spinny ball intended to force errors and buy time.",
+        "contexte": "Used sparingly unless opponent is poor vs. lob."
+      }
+    ],
+    "problemes_solutions": {
+      "lob_usage": [
+        {
+          "probleme": "Overuse of lob in rallies",
+          "diagnostic": "Invites opponent to smash and concedes initiative.",
+          "solutions_progressives": {
+            "debutant": [
+              "Lob only when necessary; prioritize depth within 1 ft of endline."
+            ],
+            "intermediaire": [
+              "Add topspin/sidespin on lob; recover to counter-attack weak smashes."
+            ],
+            "avance": [
+              "Exploit fitness: occasional prolonged lobs to tire opponents or as tactical reset."
+            ]
+          },
+          "exercices_complementaires": [
+            {
+              "nom": "Deep Spinny Lob Drill",
+              "description": "Alternate FH/BH lobs aiming deep with varied spin; counter-drive any weak smash.",
+              "difficulte": "intermediate",
+              "duree": "12 minutes"
+            }
+          ],
+          "metriques_progression": [
+            "Depth consistency",
+            "Successful transition from lob to counter"
+          ],
+          "source_url": "http://www.tabletenniscoaching.com/node/37"
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "article_title": "Smashing Lobs",
+      "article_slug": "smashing_lobs",
+      "source_url": "http://www.tabletenniscoaching.com/node/38",
+      "date_accessed": "2025-10-09"
+    },
+    "problemes_solutions": {
+      "vs_lob_offense": [
+        {
+          "probleme": "Missing ‘easy’ smashes vs. lobs or failing to finish points",
+          "diagnostic": "Poor read of spin/depth; going for winners off quality lobs; bad contact height.",
+          "solutions_progressives": {
+            "debutant": [
+              "Read spin first (top/sidespin); hit slightly above eye level; move for depth."
+            ],
+            "intermediaire": [
+              "Build point: hard placement (often BH or middle) until a short/weak lob appears, then finish."
+            ],
+            "avance": [
+              "Use shoulder raise/weight transfer or jump–scissors for higher contact; practice off-the-bounce smashes."
+            ]
+          },
+          "exercices_complementaires": [
+            {
+              "nom": "Three-Ball Smash Pattern",
+              "description": "Coach feeds quality deep lob → player smashes to BH/middle; repeat until weak lob appears, then finish to open corner.",
+              "difficulte": "advanced",
+              "duree": "18 minutes"
+            }
+          ],
+          "metriques_progression": [
+            "Put-away rate on weak lobs",
+            "Error rate on quality deep lobs"
+          ],
+          "erreurs_a_eviter": [
+            "Chop-kills on deep balls",
+            "Excessive drop shots that reset rally"
+          ],
+          "source_url": "http://www.tabletenniscoaching.com/node/38"
+        }
+      ]
+    }
+  }
+]
+```
